@@ -6,8 +6,8 @@ body {
   font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
   font-size: 0.95em;
 }
-a, a:visited { text-decoration: none; color: #c5050c; }
-a:hover { text-decoration: underline; color: #9b0000; }
+a, a:visited { text-decoration: none; color: #87BDB3; }
+a:hover { text-decoration: underline; color: #9DCBC2; }
 h1, h2, h3, h4, h5 {
   color: #9b0000;
   background-color: inherit;
