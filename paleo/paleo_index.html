@@ -79,7 +79,9 @@
   popupAnchor: [0,-10]
   });
 
-		var popup = L.popup();
+		var popup = L.popup({
+			maxWidth : 800
+		});
 
 
 		var grid = new L.GeoJSON.AJAX("data/grid.geojson", {
@@ -116,9 +118,13 @@
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng,5);
-				})
+				}),layer.bindPopup('<h2> Site: '+feature.properties.Location+'</h2><p>Proxy: '
+					+feature.properties.Proxy+'</p><p> ID in Shakun Dataset: '
+					+feature.properties.Shakun_id+'</p><p> ID in Marcott Dataset: '
+					+feature.properties.Marcott_id+'</p><p> Temp. Calibration/Ref.: '
+						+feature.properties.Cali_ref+'</p>');
 			}
-		}).addTo(map);;
+		}).addTo(map);
 
 		map.fitBounds(climate.getBounds(), {
 			padding: [20,20]
