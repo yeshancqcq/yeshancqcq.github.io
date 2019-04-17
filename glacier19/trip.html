@@ -141,6 +141,17 @@
     };
 }
 
+function till_style(feature) {
+return {
+		fillColor: '#000',
+		weight: 1,
+		opacity: 1,
+		color: '#cc9966',
+		dashArray: '',
+		fillOpacity: 0.3
+};
+}
+
 
 		var popup1 = L.popup({
 			maxWidth : 1800
@@ -175,7 +186,8 @@
         });
         layer.on('mouseout', function () {
             wi_counties.resetStyle(this);
-        },layer.bindPopup('<p> '+feature.properties.county_nam+' County</p>')
+        },
+				layer.bindPopup('<p> '+feature.properties.county_nam+' County</p>')
 				);
     }
 	}).addTo(counties_layer);
@@ -191,15 +203,26 @@
     }).addTo(other_features);
 
 		var wisc_glacier = new L.GeoJSON.AJAX("data/wisc_glacier.geojson", {
-			style : function(feature) {
-				return {
-					color: '#000',
-					weight: 0.35
-				}
-			}
-		}).addTo(till_units);
+			style: till_style,
+			onEachFeature: function (feature, layer) {
+				layer.on('mouseover', function () {
+						this.setStyle({
+							weight: 1,
+							color: '#dfbf9f',
+							dashArray: '',
+							fillOpacity: 0.5
+						});
+				});
+				layer.on('mouseout', function () {
+						wisc_glacier.resetStyle(this);
+				},
+				layer.bindPopup('<p>'+feature.properties.Formation+'</p>')
+				);
+		}
+	}).addTo(till_units);
 
 
+    //var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
 
 		var stops = new L.GeoJSON.AJAX("data/stops.geojson",{
 			style : function(feature) {
@@ -254,6 +277,8 @@
 		});
 		//.setView([43.8,-88],10);
 
+		//var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
+
 		var baseLayers = {
 	"Topographic":topographic,
 	"Streets": streets
@@ -268,8 +293,11 @@ var overlays = {
 	"Darker": other_features
 };
 
+
 	L.control.layers(baseLayers, overlays).addTo(map);
+
 	});
+
 </script>
 </div></div>
  <div id="paneltext" align="left"></div>
