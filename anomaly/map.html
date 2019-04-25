@@ -1,0 +1,291 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Quick Start - Leaflet</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+		<link rel="stylesheet" href="css/style.css">
+    <script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA==" crossorigin=""></script>
+		<script src="js/leaflet.ajax.min.js"></script>
+
+
+
+		<style>
+		#mapid {
+			width: 100%;
+		}
+		.leaflet-popup-content-wrapper {
+			border-radius: 0;
+	    background: black;
+	    color: white;
+	    font-size: 20px;
+		}
+		.leaflet-popup-content {
+			margin: 5px;
+		}
+		.leaflet-popup-tip {
+			background: black;
+		}
+		.leaflet-popup-close-button {
+			display: none;
+		}
+
+		/*another-popop style*/
+.another-popup .leaflet-popup-content-wrapper {
+  background: #e6f2ff;
+  color: #0066cc;
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 0;
+}
+.another-popup.leaflet-popup-content {
+	margin: 5px;
+}
+.another-popup .leaflet-popup-tip-container {
+  width: 50px;
+  height: 15px;
+}
+.another-popup .leaflet-popup-tip {
+  background: #e6f2ff;
+  border: none;
+  box-shadow: none;
+}
+		</style>
+
+
+</head>
+<body>
+
+<div id ="heading1"><center><p1>Metadata And Spatial Grids</p1></center></div>
+<div id ="heading2"><center><p2>From Shakun and Marcott papers</p2></center></div>
+<div id ="heading2"><center><p2>With data points and spatial grids (select from the dropdown menu at the upper right cornor of the map).</p2></center></div>
+<div id ="intro"><center><p2>Use a laptop or PC to view this site. Cell phone is not currently supported.</p2></center></div>
+	<div id ="intro"><center><p2>Temporary working map by <a href="http://yeshancqcq.github.io">Shan Ye</a></p2>
+<!--
+	<form id="inputTime">
+        <table border="0">
+            <tr>
+                <td>
+                    Type in years BP (whole hundred) to be mapped：
+                </td>
+                <td>
+									<input name="a" id="a" type="number">
+                </td>
+            </tr>
+        </table>
+   </form>
+	 <a id="record_button" onclick="recordToFilename();" href="javascript:void(0);" title="Record">Record</a>
+	 -->
+	 <br>
+
+	 <p2>Enter Years (whole hundreds) BP here: </p2>
+	 <input name="filename" id="filename" type="text">
+
+	 <input type="button" value="Map it" onclick="recordToFilename(); temporalGrid_style(feature);">
+
+</center></div>
+	<div id="wrapper">
+	<div id="map">
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+<script id="mapHere">
+
+	$(document).ready(function() {
+
+
+		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+			maxZoom: 30,
+      minZoom: 2,
+			attribution: 'Tiles &copy; Esri &mdash; Source: Esri'
+		}),
+		satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+			maxZoom: 30,
+      minZoom: 2,
+			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+		});
+
+		var sites = L.layerGroup();
+		var grid = L.layerGroup();
+    var temporal = L.layerGroup();
+
+
+  var blackIcon = L.icon({
+  iconUrl: 'img/map-marker.svg',
+  iconSize: [11,44],
+  iconAnchor: [11,44],
+  popupAnchor: [0,-10]
+  });
+
+  var redIcon = L.icon({
+  iconUrl: 'img/map-marker-red.svg',
+	iconSize: [23,74],
+  iconAnchor: [23,74],
+  popupAnchor: [0,-10]
+  });
+
+	//var Sites = L.layerGroup([stops]);
+
+
+		function grid_style(feature) {
+    return {
+        fillColor: '#BDBDBD',
+        weight: 1,
+        opacity: 1,
+        color: '#FFF',
+        dashArray: '',
+        fillOpacity: 0.3
+    };
+}
+
+
+		var popup1 = L.popup({
+			maxWidth : 1800
+		});
+		var popup2 =
+    {
+      'maxWidth': '500',
+      'className' : 'another-popup' // classname for another popup
+    }
+
+
+	var grid_layer= new L.GeoJSON.AJAX("data/ref_grid.geojson", {
+			style: grid_style,
+			onEachFeature: function (feature, layer) {
+        layer.on('mouseover', function () {
+            this.setStyle({
+							weight: 1,
+			        color: '#666',
+			        dashArray: '',
+			        fillOpacity: 0.8
+            });
+        });
+        layer.on('mouseout', function () {
+            grid_layer.resetStyle(this);
+        },
+				layer.bindPopup('<p>'+feature.properties.PageName+'</p>')
+				);
+    }
+	}).addTo(grid);
+
+
+
+    //var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
+
+		var sites = new L.GeoJSON.AJAX("data/anomaly.geojson",{
+			style : function(feature) {
+				return {
+					color: '#000',
+					weight: 0.5
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+				return L.marker(latlng,{
+				icon: blackIcon
+			})
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng,3);
+					$("#paneltext").html('<h2> '+feature.properties.Location_o+'</h2><p> Metadata source: '
+										+feature.properties.Author+'</p><p> Proxy: '
+										+feature.properties.Proxy+'</p><p> Temperature reference: '
+										+feature.properties.Temperatur+'</p>');
+				}),
+				layer.bindPopup('<h2>'+feature.properties.Location_o+'</h2>', popup2)
+			}
+		}).addTo(sites);
+
+   function getAnomaly(x){
+    var header = 't' + x
+    return header
+   }
+
+  function getColor(i){
+    var colorToUse
+    var field = i
+    if (field >= 10) colorToUse = "#800026";
+    else if (field >= 8) colorToUse = "#bd0026";
+    else if (field >= 6) colorToUse = "#e31a1c";
+    else if (field >= 4) colorToUse = "#fc4e2a";
+    else if (field >= 2) colorToUse = "#fd8d3c";
+    else if (field > 0) colorToUse = "#feb24c";
+    else if (field == 0) colorToUse = "#ffffcc";
+    else if (field >= -2) colorToUse = "#e0f3f8";
+    else if (field >= -4) colorToUse = "#9ecae1";
+    else if (field >= -6) colorToUse = "#6baed6";
+    else if (field >= -8) colorToUse = "#4292c6";
+    else if (field >= -10) colorToUse = "#2171b5";
+    else colorToUse = "#08519c";
+
+    return colorToUse
+  }
+
+  //var test = ‘t3200’;
+	function recordToFilename() {
+    var input = document.getElementById('filename'),
+        fileName = input.value;
+		return fileName
+}
+
+   function temporalGrid_style(feature){
+ 			passTime2 = "3000"
+			var style = recordToFilename()
+       return {
+         //fillcolor: getColor(feature.properties.t3200),
+         fillcolor: 'red',
+         weight: 0.1,
+         opacity: 1,
+          color: getColor(feature.properties[getAnomaly(style)]),
+          fillOpacity: 0.7
+       };
+	 }
+
+  var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.geojson",{
+    style : temporalGrid_style
+	}).addTo(temporal);
+
+
+
+		var map = L.map('map', {
+			center: [0,0],
+		  zoom: 1,
+			layers: [topographic, sites, temporal]
+		});
+		//.setView([43.8,-88],10);
+
+		//var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
+
+		var baseLayers = {
+	"Topographic":topographic,
+	"Satellite": satellite
+};
+
+var overlays = {
+	"Sites": sites,
+	"Grids": grid,
+  "Temporal Grids": temporal
+};
+
+
+	L.control.layers(baseLayers, overlays).addTo(map);
+
+
+
+	});
+
+</script>
+</div></div>
+ <div id="paneltext" align="left"></div>
+
+
+</body>
+</html>
