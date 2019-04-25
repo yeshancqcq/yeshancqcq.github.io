@@ -69,7 +69,7 @@
 <div id ="heading2"><center><p2>From Shakun and Marcott papers</p2></center></div>
 <div id ="heading2"><center><p2>With data points and spatial grids (select from the dropdown menu at the upper right cornor of the map).</p2></center></div>
 <div id ="intro"><center><p2>Use a laptop or PC to view this site. Cell phone is not currently supported.</p2></center></div>
-	<div id ="intro"><center><p2>Temporary working map by <a href="http://yeshancqcq.github.io">Shan Ye</a></p2>
+	<div id ="intro"><center><p2>Temporary working map by <a href="http://yeshancqcq.github.io">Shan Ye</a></p2></center></div>
 <!--
 	<form id="inputTime">
         <table border="0">
@@ -92,18 +92,19 @@
 
 	 <input type="button" value="Map it" onclick="recordToFilename(); temporalGrid_style();">
 	  -->
-		<br>
-<p>Enter the Years BP (whole hundred) to be mapped:
-	 <input type="text" id="myText" value="Some text...">
+		<div id ="intro"><center>		<br>
+		<p>Enter the Years BP (whole hundred) to be mapped:
+			 <input type="number" id="myText" value="0">
 
-<button onclick="myFunction(); temporalGrid_style();">Map it</button></p>
-Mapping the anomaly distribution at the age (years bp) shown below:
-<p id="demo"></p>
-<p id="demo2"></p>
-<p id="demo3"></p>
-<p id="demo4"></p>
-<p id="styleCheck"></p>
-</center></div>
+		<button onclick="inputAge(); temporalGrid_style();">Map it</button></p>
+		Mapping the anomaly distribution at the age (years bp) shown below:
+		<p id="test1"></p>
+		<p id="test2"></p>
+		<p id="test3"></p>
+		<p id="test4"></p>
+		<p id="test5"></p>
+
+		</center></div>
 	<div id="wrapper">
 	<div id="map">
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -238,10 +239,8 @@ Mapping the anomaly distribution at the age (years bp) shown below:
 
     return colorToUse
   }
-
-	function myFunction() {
-  var x = document.getElementById("myText").value;
-  //document.getElementById("demo").innerHTML = x;
+	function inputAge() {
+ 	var x = document.getElementById("myText").value;
 	return x
 }
 
@@ -252,28 +251,27 @@ Mapping the anomaly distribution at the age (years bp) shown below:
         fileName = input.value;
 		return fileName
 }
-
-   function temporalGrid_style(feature){
- 			passTime2 = "3000"
-			//var style = recordToFilename()
-			var style = parseInt(myFunction(),10)
-			var anomaly = getAnomaly(style)
-			const inputAnomaly = anomaly
-			//var parseJson = JSON.parse(feature)
-			document.getElementById("demo").innerHTML = typeof inputAnomaly
-			document.getElementById("demo2").innerHTML = inputAnomaly
-			document.getElementById("demo3").innerHTML = feature.properties[anomaly.toString()]
-			document.getElementById("demo4").innerHTML = feature.properties[inputAnomaly]
-			document.getElementById("styleCheck").innerHTML = (anomaly=='t2000')
-			 return {
+function temporalGrid_style(feature){
+ 	passTime2 = 0
+	var style = parseInt(inputAge(),10)
+	const inputAnomaly = style + parseInt(passTime2,10)
+	var age = getAnomaly(inputAnomaly.toString())
+    
+	document.getElementById("test1").innerHTML = typeof inputAnomaly
+	document.getElementById("test2").innerHTML = inputAnomaly
+	document.getElementById("test3").innerHTML = age
+	document.getElementById("test4").innerHTML = feature.properties['t6000']
+	document.getElementById("test5").innerHTML = feature.properties[age]
+    
+	return {
          //fillcolor: getColor(feature.properties.t3200),
          //fillcolor: 'red',
          weight: 0.1,
          opacity: 0.3,
-          color: getColor(JSON.parse(feature).properties.inputAnomaly),
-          fillOpacity: 0.4
+         color: getColor(feature.properties[age]),
+         fillOpacity: 0.4
        };
-	 }
+}
 
   var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.geojson",{
     style : temporalGrid_style
