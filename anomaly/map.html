@@ -84,14 +84,25 @@
         </table>
    </form>
 	 <a id="record_button" onclick="recordToFilename();" href="javascript:void(0);" title="Record">Record</a>
-	 -->
+
 	 <br>
 
 	 <p2>Enter Years (whole hundreds) BP here: </p2>
-	 <input name="filename" id="filename" type="text">
+	 <input name="filename" id="filename" type="text" value = “300” placeholder="e.g. 1200">
 
-	 <input type="button" value="Map it" onclick="recordToFilename(); temporalGrid_style(feature);">
+	 <input type="button" value="Map it" onclick="recordToFilename(); temporalGrid_style();">
+	  -->
+		<br>
+<p>Enter the Years BP (whole hundred) to be mapped:
+	 <input type="text" id="myText" value="Some text...">
 
+<button onclick="myFunction(); temporalGrid_style();">Map it</button></p>
+Mapping the anomaly distribution at the age (years bp) shown below:
+<p id="demo"></p>
+<p id="demo2"></p>
+<p id="demo3"></p>
+<p id="demo4"></p>
+<p id="styleCheck"></p>
 </center></div>
 	<div id="wrapper">
 	<div id="map">
@@ -99,8 +110,7 @@
 <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
 <script id="mapHere">
 
-	$(document).ready(function() {
-
+//	$(document).ready(function()
 
 		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
 			maxZoom: 30,
@@ -205,7 +215,7 @@
 		}).addTo(sites);
 
    function getAnomaly(x){
-    var header = 't' + x
+    var header = 't' + x.toString()
     return header
    }
 
@@ -229,23 +239,39 @@
     return colorToUse
   }
 
+	function myFunction() {
+  var x = document.getElementById("myText").value;
+  //document.getElementById("demo").innerHTML = x;
+	return x
+}
+
   //var test = ‘t3200’;
 	function recordToFilename() {
-    var input = document.getElementById('filename'),
+    var input = document.getElementById('filename')
+		var input2 = $('#filename').val(),
         fileName = input.value;
 		return fileName
 }
 
    function temporalGrid_style(feature){
  			passTime2 = "3000"
-			var style = recordToFilename()
-       return {
+			//var style = recordToFilename()
+			var style = parseInt(myFunction(),10)
+			var anomaly = getAnomaly(style)
+			const inputAnomaly = anomaly
+			//var parseJson = JSON.parse(feature)
+			document.getElementById("demo").innerHTML = typeof inputAnomaly
+			document.getElementById("demo2").innerHTML = inputAnomaly
+			document.getElementById("demo3").innerHTML = feature.properties[anomaly.toString()]
+			document.getElementById("demo4").innerHTML = feature.properties[inputAnomaly]
+			document.getElementById("styleCheck").innerHTML = (anomaly=='t2000')
+			 return {
          //fillcolor: getColor(feature.properties.t3200),
-         fillcolor: 'red',
+         //fillcolor: 'red',
          weight: 0.1,
-         opacity: 1,
-          color: getColor(feature.properties[getAnomaly(style)]),
-          fillOpacity: 0.7
+         opacity: 0.3,
+          color: getColor(JSON.parse(feature).properties.inputAnomaly),
+          fillOpacity: 0.4
        };
 	 }
 
@@ -280,7 +306,7 @@ var overlays = {
 
 
 
-	});
+//	});
 
 </script>
 </div></div>
