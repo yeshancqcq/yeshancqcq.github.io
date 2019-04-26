@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<title>Quick Start - Leaflet</title>
+	<title>Test Map Site</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -93,6 +93,7 @@
 <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
 <script id="mapHere">
 
+//	$(document).ready(function()
 		// Initiating base map layers
 		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
 			maxZoom: 30,
@@ -218,7 +219,7 @@
     else if (field >= -8) colorToUse = "#4292c6";
     else if (field >= -10) colorToUse = "#2171b5";
     else colorToUse = "#08519c";
-		
+
     return colorToUse
   }
 
@@ -280,7 +281,7 @@
 L.control.layers(baseLayers, overlays).addTo(map);
 
 
-
+//	});
 
 </script>
 </div></div>
