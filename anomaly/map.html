@@ -85,7 +85,7 @@
   <option value="300">300 Years BP</option>
   <option value="400">400 Years BP</option>
 </select>
-<button onclick="temporalGrid_style();initLoad();">Try it</button>
+<button onclick="temporalGrid_style(); getAnomaly(x);">Try it</button>
 </center></div>
 	<div id="wrapper">
 	<div id="map">
@@ -231,25 +231,27 @@
 	}
 
 	// Style of gird layer 2
-	function temporalGrid_style(feature){
-			// Getting the text from the HTML (either from Select menu or from input box)
-			//var sel = $('#mySelect').val();
-
-	  //Intiating var style, get the value from inputAge, and convert to number
+	function temporalGrid_style(){
 			var style = parseInt(inputAge(),10)
 			var age = getAnomaly(style.toString())
 			initLoad(age)
 	}
 	function initLoad(age){
-
 	  var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.geojson",{
-	    style : function (feature) {
+	    style : function (feature) {  
+				  //var style = parseInt(inputAge(),10)
+					inputAge = age
+					document.getElementById("test1").innerHTML = inputAge
+					document.getElementById("test2").innerHTML = age
+					document.getElementById("test3").innerHTML = feature.properties[inputAge]
+					document.getElementById("test4").innerHTML = typeof feature.properties[inputAge]
+					document.getElementById("test5").innerHTML = typeof inputAge
 					return {
 			         //style of
 			         weight: 0.1,
 			         opacity: 0.5,
-			         color: getColor(feature.properties[age]),
-							 fillOpacity: 0.4
+			         color: getColor(feature.properties[inputAge]),
+							 fillOpacity: 0.3
 			       };
 			}
 
