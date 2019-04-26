@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,8 +13,6 @@
 		<link rel="stylesheet" href="css/style.css">
     <script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA==" crossorigin=""></script>
 		<script src="js/leaflet.ajax.min.js"></script>
-
-
 
 		<style>
 		#mapid {
@@ -65,38 +60,18 @@
 </head>
 <body>
 
-<div id ="heading1"><center><p1>Metadata And Spatial Grids</p1></center></div>
-<div id ="heading2"><center><p2>From Shakun and Marcott papers</p2></center></div>
+<div id ="heading1"><center><p1>Metadata And Spatial Grids test</p1></center></div>
+<div id ="heading2"><center><p2>Data From Shakun and Marcott papers</p2></center></div>
 <div id ="heading2"><center><p2>With data points and spatial grids (select from the dropdown menu at the upper right cornor of the map).</p2></center></div>
 <div id ="intro"><center><p2>Use a laptop or PC to view this site. Cell phone is not currently supported.</p2></center></div>
 	<div id ="intro"><center><p2>Temporary working map by <a href="http://yeshancqcq.github.io">Shan Ye</a></p2></center></div>
-<!--
-	<form id="inputTime">
-        <table border="0">
-            <tr>
-                <td>
-                    Type in years BP (whole hundred) to be mapped：
-                </td>
-                <td>
-									<input name="a" id="a" type="number">
-                </td>
-            </tr>
-        </table>
-   </form>
-	 <a id="record_button" onclick="recordToFilename();" href="javascript:void(0);" title="Record">Record</a>
 
-	 <br>
-
-	 <p2>Enter Years (whole hundreds) BP here: </p2>
-	 <input name="filename" id="filename" type="text" value = “300” placeholder="e.g. 1200">
-
-	 <input type="button" value="Map it" onclick="recordToFilename(); temporalGrid_style();">
-	  -->
 		<div id ="intro"><center>		<br>
 		<p>Enter the Years BP (whole hundred) to be mapped:
-			 <input type="number" id="myText" value="0">
+			 <input type="number" id="myText" value="1400">
 
 		<button onclick="inputAge(); temporalGrid_style();">Map it</button></p>
+
 		Mapping the anomaly distribution at the age (years bp) shown below:
 		<p id="test1"></p>
 		<p id="test2"></p>
@@ -104,15 +79,21 @@
 		<p id="test4"></p>
 		<p id="test5"></p>
 
-		</center></div>
+<select id="mySelect" size="4">
+  <option value="100">100 Years BP</option>
+  <option value="200">200 Years BP</option>
+  <option value="300">300 Years BP</option>
+  <option value="400">400 Years BP</option>
+</select>
+<button onclick="temporalGrid_style()">Try it</button>
+</center></div>
 	<div id="wrapper">
 	<div id="map">
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
 <script id="mapHere">
 
-//	$(document).ready(function()
-
+		// Initiating base map layers
 		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
 			maxZoom: 30,
       minZoom: 2,
@@ -124,11 +105,13 @@
 			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 		});
 
+		//Initiating map layer groups
+
 		var sites = L.layerGroup();
 		var grid = L.layerGroup();
     var temporal = L.layerGroup();
 
-
+  // Initiating icon as var
   var blackIcon = L.icon({
   iconUrl: 'img/map-marker.svg',
   iconSize: [11,44],
@@ -143,9 +126,7 @@
   popupAnchor: [0,-10]
   });
 
-	//var Sites = L.layerGroup([stops]);
-
-
+		//Starting style of grid layer 1
 		function grid_style(feature) {
     return {
         fillColor: '#BDBDBD',
@@ -157,7 +138,7 @@
     };
 }
 
-
+		//Initiating 2 different popups
 		var popup1 = L.popup({
 			maxWidth : 1800
 		});
@@ -167,7 +148,7 @@
       'className' : 'another-popup' // classname for another popup
     }
 
-
+	//Add the grid layer1
 	var grid_layer= new L.GeoJSON.AJAX("data/ref_grid.geojson", {
 			style: grid_style,
 			onEachFeature: function (feature, layer) {
@@ -189,8 +170,7 @@
 
 
 
-    //var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
-
+    //Add data point as a layer
 		var sites = new L.GeoJSON.AJAX("data/anomaly.geojson",{
 			style : function(feature) {
 				return {
@@ -215,11 +195,13 @@
 			}
 		}).addTo(sites);
 
+		//Combining received text with t
    function getAnomaly(x){
     var header = 't' + x.toString()
     return header
    }
 
+	 //Color ramp for grid layer 2
   function getColor(i){
     var colorToUse
     var field = i
@@ -236,75 +218,69 @@
     else if (field >= -8) colorToUse = "#4292c6";
     else if (field >= -10) colorToUse = "#2171b5";
     else colorToUse = "#08519c";
-
+		
     return colorToUse
   }
-	function inputAge() {
- 	var x = document.getElementById("myText").value;
-	return x
-}
 
-  //var test = ‘t3200’;
-	function recordToFilename() {
-    var input = document.getElementById('filename')
-		var input2 = $('#filename').val(),
-        fileName = input.value;
-		return fileName
-}
-function temporalGrid_style(feature){
- 	passTime2 = 0
-	var style = parseInt(inputAge(),10)
-	const inputAnomaly = style + parseInt(passTime2,10)
-	var age = getAnomaly(inputAnomaly.toString())
-    
-	document.getElementById("test1").innerHTML = typeof inputAnomaly
-	document.getElementById("test2").innerHTML = inputAnomaly
-	document.getElementById("test3").innerHTML = age
-	document.getElementById("test4").innerHTML = feature.properties['t6000']
-	document.getElementById("test5").innerHTML = feature.properties[age]
-    
-	return {
-         //fillcolor: getColor(feature.properties.t3200),
-         //fillcolor: 'red',
+	// Receiving the text from HTML,this is from Select menu
+	function inputAge() {
+		var x = $('#mySelect').val();
+		return x
+	}
+
+	// Style of gird layer 2
+	function temporalGrid_style(feature){
+		// Getting the text from the HTML (either from Select menu or from input box)
+		//var sel = $('#mySelect').val();
+
+  //Intiating var style, get the value from inputAge, and convert to number
+		var style = parseInt(inputAge(),10)
+		var age = getAnomaly(style.toString())
+		//test var, print in HTML
+		document.getElementById("test1").innerHTML = style
+		document.getElementById("test2").innerHTML = age
+		document.getElementById("test3").innerHTML = feature.properties[age]
+		document.getElementById("test4").innerHTML = typeof feature.properties[age]
+		document.getElementById("test5").innerHTML = typeof age
+		return {
+         //style of
          weight: 0.1,
-         opacity: 0.3,
+         opacity: 0.5,
          color: getColor(feature.properties[age]),
-         fillOpacity: 0.4
+				 fillOpacity: 0.4
        };
 }
-
+	//Add grid layer 2
   var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.geojson",{
     style : temporalGrid_style
 	}).addTo(temporal);
 
-
-
-		var map = L.map('map', {
+	//Add map
+	var map = L.map('map', {
 			center: [0,0],
 		  zoom: 1,
 			layers: [topographic, sites, temporal]
-		});
-		//.setView([43.8,-88],10);
-
-		//var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
-
-		var baseLayers = {
-	"Topographic":topographic,
-	"Satellite": satellite
-};
-
-var overlays = {
-	"Sites": sites,
-	"Grids": grid,
-  "Temporal Grids": temporal
-};
+	});
 
 
-	L.control.layers(baseLayers, overlays).addTo(map);
+		//Setting base layer and overlay layers
+
+	var baseLayers = {
+		"Topographic":topographic,
+		"Satellite": satellite
+	};
+
+	var overlays = {
+		"Sites": sites,
+		"Grids": grid,
+  	"Temporal Grids": temporal
+	};
+
+//Add layer control
+L.control.layers(baseLayers, overlays).addTo(map);
 
 
 
-//	});
 
 </script>
 </div></div>
