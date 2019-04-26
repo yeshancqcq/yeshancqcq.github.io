@@ -70,7 +70,7 @@
 		<p>Enter the Years BP (whole hundred) to be mapped:
 			 <input type="number" id="myText" value="1400">
 
-		<button onclick="inputAge(); temporalGrid_style();">Map it</button></p>
+		<button onclick="inputAge();">Map it</button></p>
 
 		Mapping the anomaly distribution at the age (years bp) shown below:
 		<p id="test1"></p>
@@ -85,7 +85,7 @@
   <option value="300">300 Years BP</option>
   <option value="400">400 Years BP</option>
 </select>
-<button onclick="temporalGrid_style()">Try it</button>
+<button onclick="temporalGrid_style();initLoad();">Try it</button>
 </center></div>
 	<div id="wrapper">
 	<div id="map">
@@ -95,6 +95,7 @@
 
 //	$(document).ready(function()
 		// Initiating base map layers
+		var temporalGridData = $.getJSON("data/ref_grid_time.geojson")
 		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
 			maxZoom: 30,
       minZoom: 2,
@@ -231,31 +232,51 @@
 
 	// Style of gird layer 2
 	function temporalGrid_style(feature){
-		// Getting the text from the HTML (either from Select menu or from input box)
-		//var sel = $('#mySelect').val();
+			// Getting the text from the HTML (either from Select menu or from input box)
+			//var sel = $('#mySelect').val();
 
-  //Intiating var style, get the value from inputAge, and convert to number
-		var style = parseInt(inputAge(),10)
-		var age = getAnomaly(style.toString())
-		//test var, print in HTML
-		document.getElementById("test1").innerHTML = style
-		document.getElementById("test2").innerHTML = age
-		document.getElementById("test3").innerHTML = feature.properties[age]
-		document.getElementById("test4").innerHTML = typeof feature.properties[age]
-		document.getElementById("test5").innerHTML = typeof age
-		return {
-         //style of
-         weight: 0.1,
-         opacity: 0.5,
-         color: getColor(feature.properties[age]),
-				 fillOpacity: 0.4
-       };
-}
+	  //Intiating var style, get the value from inputAge, and convert to number
+			var style = parseInt(inputAge(),10)
+			var age = getAnomaly(style.toString())
+			initLoad(age)
+	}
+	function initLoad(age){
+
+	  var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.geojson",{
+	    style : function (feature) {
+					return {
+			         //style of
+			         weight: 0.1,
+			         opacity: 0.5,
+			         color: getColor(feature.properties[age]),
+							 fillOpacity: 0.4
+			       };
+			}
+
+		}).addTo(temporal);
+	}
 	//Add grid layer 2
+/*
   var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.geojson",{
-    style : temporalGrid_style
+    style : function (feature) {
+				var style = parseInt(inputAge(),10)
+				var age = getAnomaly(style.toString())
+				//test var, print in HTML
+				document.getElementById("test1").innerHTML = style
+				document.getElementById("test2").innerHTML = age
+				document.getElementById("test3").innerHTML = feature.properties.age
+				document.getElementById("test4").innerHTML = typeof feature.properties.age
+				document.getElementById("test5").innerHTML = typeof age
+				return {
+		         //style of
+		         weight: 0.1,
+		         opacity: 0.5,
+		         color: getColor(feature.properties['t400']),
+						 fillOpacity: 0.4
+		       };
+		}
 	}).addTo(temporal);
-
+*/
 	//Add map
 	var map = L.map('map', {
 			center: [0,0],
