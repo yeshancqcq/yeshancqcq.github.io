@@ -22,7 +22,7 @@ a:hover { text-decoration: underline; color: #9DCBC2; }
 }
 
 #text {
-   font-family:Garamond;
+   font-family:Palatino;
    color:#CBD9DE;
     margin-top: -40px;
     margin-left: 7px;
@@ -40,13 +40,13 @@ a:hover { text-decoration: underline; color: #9DCBC2; }
 .legend-control-container
 {background-color: #737373;
 opacity:0.8;
-font-family:Georgia;
+font-family:Palatino;
 font-size:15px;
 }
 
 
 #heading1
-{font-family: Garamond;
+{font-family: Palatino;
 font-weight: 599;
 font-size: 2.3em;
 letter-spacing: 3px;
@@ -56,7 +56,7 @@ font-weight:5px
 }
 
 #heading2
-{font-family: Garamond;
+{font-family: Palatino;
 font-size: 1em;
 color: #CBD9DE;
 margin-bottom:5px;
@@ -64,7 +64,7 @@ margin-top: 1px;
 }
 
 #intro
-{font-family: Garamond;
+{font-family: Palatino;
 font-size: 0.8em;
 color: #CBD9DE;
 margin-bottom:5px;
@@ -101,7 +101,7 @@ margin-top:-10px;
     margin-bottom: 30px;
     margin-left: 30px;
     margin-top: 40px;
-    font-family: Garamond;
+    font-family: Palatino;
     color: #CBD9DE;
     display: inline-block;
     font-size: 20px;
