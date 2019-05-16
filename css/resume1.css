@@ -46,6 +46,7 @@ img {
   float: right;
   margin-right: 5px;
   margin-bottom: 5px;
+  max-width: 98%;
 }
 
 #wrapper {
