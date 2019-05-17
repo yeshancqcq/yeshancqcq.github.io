@@ -4,7 +4,7 @@
 <meta charset="utf-8"><!--Unicode Transformation Format - 8-bit-->
 <meta name="viewport" content="width=device-width">
 <title>Employment of American Geoscientists</title>
-    <link href="../img/favicon.ico" rel="icon" >
+    <link href="data/happy.png" rel="icon" >
 <!--put your external stylesheet links here-->
     <link rel="stylesheet" href="css/geojob.css">
 </head>
@@ -27,16 +27,16 @@
     <div id="tooltip-container"></div>
     <div id="canvas-svg"></div>
     <h2>Employment per 1000 jobs by state</h2>
-    <div id="tooltip-container"></div>
+    <div id="tooltip-container2"></div>
     <div id="canvas-svg2"></div>
     <h2>Annual Mean Wage</h2>
-    <div id="tooltip-container"></div>
+    <div id="tooltip-container3"></div>
     <div id="canvas-svg3"></div>
     <h2>Annual Median Wage</h2>
-    <div id="tooltip-container"></div>
+    <div id="tooltip-container4"></div>
     <div id="canvas-svg4"></div>
     <h2>Location Quotient</h2>
-    <div id="tooltip-container"></div>
+    <div id="tooltip-container5"></div>
     <div id="canvas-svg5"></div></center>
     <script src="js/d3.min.js"></script>
     <script src="js/topojson.js"></script>
@@ -356,28 +356,28 @@ d3.csv("data/geoscientists_wage_stat.csv", function(err, data) {
             html += "</span>";
             html += "</div>";
 
-            $("#tooltip-container").html(html);
+            $("#tooltip-container2").html(html);
             $(this).attr("fill-opacity", "0.8");
-            $("#tooltip-container").show();
+            $("#tooltip-container2").show();
 
             var coordinates = d3.mouse(this);
 
             var map_width = $('.states-choropleth')[0].getBoundingClientRect().width;
 
             if (d3.event.layerX < map_width / 2) {
-              d3.select("#tooltip-container")
+              d3.select("#tooltip-container2")
                 .style("top", (d3.event.layerY + 15) + "px")
                 .style("left", (d3.event.layerX + 15) + "px");
             } else {
-              var tooltip_width = $("#tooltip-container").width();
-              d3.select("#tooltip-container")
+              var tooltip_width = $("#tooltip-container2").width();
+              d3.select("#tooltip-container2")
                 .style("top", (d3.event.layerY + 15) + "px")
                 .style("left", (d3.event.layerX - tooltip_width - 30) + "px");
             }
         })
         .on("mouseout", function() {
                 $(this).attr("fill-opacity", "1.0");
-                $("#tooltip-container").hide();
+                $("#tooltip-container2").hide();
             });
 
     svg.append("path")
@@ -531,28 +531,28 @@ d3.csv("data/geoscientists_wage_stat.csv", function(err, data) {
             html += "</span>";
             html += "</div>";
 
-            $("#tooltip-container").html(html);
+            $("#tooltip-container3").html(html);
             $(this).attr("fill-opacity", "0.8");
-            $("#tooltip-container").show();
+            $("#tooltip-container3").show();
 
             var coordinates = d3.mouse(this);
 
             var map_width = $('.states-choropleth')[0].getBoundingClientRect().width;
 
             if (d3.event.layerX < map_width / 2) {
-              d3.select("#tooltip-container")
+              d3.select("#tooltip-container3")
                 .style("top", (d3.event.layerY + 15) + "px")
                 .style("left", (d3.event.layerX + 15) + "px");
             } else {
-              var tooltip_width = $("#tooltip-container").width();
-              d3.select("#tooltip-container")
+              var tooltip_width = $("#tooltip-container3").width();
+              d3.select("#tooltip-container3")
                 .style("top", (d3.event.layerY + 15) + "px")
                 .style("left", (d3.event.layerX - tooltip_width - 30) + "px");
             }
         })
         .on("mouseout", function() {
                 $(this).attr("fill-opacity", "1.0");
-                $("#tooltip-container").hide();
+                $("#tooltip-container3").hide();
             });
 
     svg.append("path")
@@ -707,28 +707,28 @@ d3.csv("data/geoscientists_wage_stat.csv", function(err, data) {
             html += "</span>";
             html += "</div>";
 
-            $("#tooltip-container").html(html);
+            $("#tooltip-container4").html(html);
             $(this).attr("fill-opacity", "0.8");
-            $("#tooltip-container").show();
+            $("#tooltip-container4").show();
 
             var coordinates = d3.mouse(this);
 
             var map_width = $('.states-choropleth')[0].getBoundingClientRect().width;
 
             if (d3.event.layerX < map_width / 2) {
-              d3.select("#tooltip-container")
+              d3.select("#tooltip-container4")
                 .style("top", (d3.event.layerY + 15) + "px")
                 .style("left", (d3.event.layerX + 15) + "px");
             } else {
-              var tooltip_width = $("#tooltip-container").width();
-              d3.select("#tooltip-container")
+              var tooltip_width = $("#tooltip-container4").width();
+              d3.select("#tooltip-container4")
                 .style("top", (d3.event.layerY + 15) + "px")
                 .style("left", (d3.event.layerX - tooltip_width - 30) + "px");
             }
         })
         .on("mouseout", function() {
                 $(this).attr("fill-opacity", "1.0");
-                $("#tooltip-container").hide();
+                $("#tooltip-container4").hide();
             });
 
     svg.append("path")
@@ -883,28 +883,28 @@ d3.csv("data/geoscientists_wage_stat.csv", function(err, data) {
             html += "</span>";
             html += "</div>";
 
-            $("#tooltip-container").html(html);
+            $("#tooltip-container5").html(html);
             $(this).attr("fill-opacity", "0.8");
-            $("#tooltip-container").show();
+            $("#tooltip-container5").show();
 
             var coordinates = d3.mouse(this);
 
             var map_width = $('.states-choropleth')[0].getBoundingClientRect().width;
 
             if (d3.event.layerX < map_width / 2) {
-              d3.select("#tooltip-container")
+              d3.select("#tooltip-container5")
                 .style("top", (d3.event.layerY + 15) + "px")
                 .style("left", (d3.event.layerX + 15) + "px");
             } else {
-              var tooltip_width = $("#tooltip-container").width();
-              d3.select("#tooltip-container")
+              var tooltip_width = $("#tooltip-container5").width();
+              d3.select("#tooltip-container5")
                 .style("top", (d3.event.layerY + 15) + "px")
                 .style("left", (d3.event.layerX - tooltip_width - 30) + "px");
             }
         })
         .on("mouseout", function() {
                 $(this).attr("fill-opacity", "1.0");
-                $("#tooltip-container").hide();
+                $("#tooltip-container5").hide();
             });
 
     svg.append("path")
