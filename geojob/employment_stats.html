@@ -223,7 +223,7 @@ d3.csv("data/geoscientists_wage_stat.csv", function(err, data) {
 
               var map_width = $('.states-choropleth')[0].getBoundingClientRect().width;
 
-              if (d3.event.layerX < map_width / 2) {
+              if (d3.event.layerX < map_width ) {
                 d3.select("#tooltip-container")
                   .style("top", (d3.event.layerY + 15) + "px")
                   .style("left", (d3.event.layerX + 15) + "px");
