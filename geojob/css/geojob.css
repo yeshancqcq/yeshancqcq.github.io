@@ -1,0 +1,132 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: auto;
+  height: auto;
+  position: relative;
+}
+
+/* stylesheet for your custom graph */
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.states-choropleth {
+  fill: #ccc;
+}
+
+#tooltip-container {
+  /*position: absolute;*/
+  background-color: #FFF;
+  color: #000;
+  padding: 10px;
+  border: 1px solid;
+  display: none;
+}
+
+.tooltip_key {
+  font-weight: bold;
+}
+
+.tooltip_value {
+  margin-left: 20px;
+  float: right;
+}
+
+a, a:visited { text-decoration: none; color: #87BDB3; }
+a:hover { text-decoration: underline; color: #9DCBC2; }
+h1, h2, h3, h4, h5 {
+  color: #6A9C92;
+  background-color: inherit;
+  font-weight: normal;
+  padding: 0 0 5px 0;
+  margin: 15px 0 0 0;
+  border: none;
+  clear: none;
+}
+h1 { font-size: 24pt; margin:  5px 0 10px 0; line-height: 28px; }
+h2 { font-size: 14pt; margin: 30px 1px 15px 5px; letter-spacing: 0.01em;  line-height: 20px;}
+h3 { font-size: 11pt; }
+h4 { font-size: 9pt; }
+h5 { font-size: 8pt; }
+p {
+    margin: 0 5px 0 5px;
+    text-indent:0px;
+}
+
+.title, .title h1, .title a {
+  color: #492a7c;
+  font-size: 24pt;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+table {
+    display:table;
+    width:100%;
+}
+
+img {
+  float: right;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  max-width: 98%;
+}
+#map1 {
+    height: 580px;
+    box-shadow: 0px 0px 10px #383838;
+      width: 40%;
+      float: left;
+      margin-top: 10px;
+      margin-left: 20px;
+      margin-right: 20px
+    margin-bottom: 20px;
+}
+
+#canvas-svg {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px
+	margin-bottom: 20px;
+  max-width: 98%
+}
+
+#canvas-svg2 {
+    width: 100%;
+    float: center;
+    margin-top: 10px;
+    margin-left: 20px;
+	margin-bottom: 20px;
+  margin-right: 20px
+}
+
+#canvas-svg3 {
+    width: 100%;
+    float: center;
+    margin-top: 10px;
+    margin-left: 20px;
+	margin-bottom: 20px;
+  margin-right: 20px
+}
+
+#canvas-svg4 {
+    width: 100%;
+    float: center;
+    margin-top: 10px;
+    margin-left: 20px;
+	margin-bottom: 20px;
+  margin-right: 20px
+}
+
+#canvas-svg5 {
+    width: 100%;
+    float: center;
+    margin-top: 10px;
+    margin-left: 20px;
+	margin-bottom: 20px;
+  margin-right: 20px
+}
