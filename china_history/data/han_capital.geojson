@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Name":"Chang'an","years":"Before 8 CE"},"geometry":{"type":"Point","coordinates":[109.00634765625,34.21634468843463]}},{"type":"Feature","properties":{"Name":"Luoyang","years":"After 25 CE"},"geometry":{"type":"Point","coordinates":[112.39562988281249,34.687427949314845]}}]}

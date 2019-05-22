@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Yan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.334228515625,
+          39.85072092501597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Qi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.00964355468749,
+          36.80048816579081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Lu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.99066162109375,
+          35.58250105910778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Wu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59692382812499,
+          31.325486676506983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Yue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55023193359374,
+          30.164126343161097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Song"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7080078125,
+          34.39331222316112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Zheng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.70849609375,
+          34.77771580360469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Jin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.84057617187499,
+          35.46961797120201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Zhao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.466552734375,
+          36.54494944148322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Wei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4390869140625,
+          34.784483415461345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Han"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2470703125,
+          34.56990638085636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Qin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.67675781249999,
+          34.40237742424137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Chu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21435546875,
+          30.344435586368462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Shu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.19433593749999,
+          30.732392734006083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36962890624999,
+          29.673735421779128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Zhongshan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.466552734375,
+          38.14319750166766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "States": "Wey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.30151367187501,
+          35.44724605551148
+        ]
+      }
+    }
+  ]
+}

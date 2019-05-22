@@ -1,0 +1,378 @@
+{
+ "name": "Timeline of China",
+ "children": [
+  {
+   "name": "Ancient Dynasties",
+   "children": [
+      {"name": "Xia Dynasty",
+        "children": [
+           {"name": "c. 2070 - c. 1600 BCE"},
+           {"name": "Capital: Unclear"},
+           {"name": "Founder: Yu, the Great"}
+         ]
+      },
+      {"name": "Shang Dynasty",
+        "children": [
+           {"name": "c. 1600 - 1046 BCE"},
+           {"name": "Capital: Yin (Anyang)"},
+           {"name": "Founder: Tang"}
+         ]
+      },
+      {"name": "Zhou Dynasty",
+        "children": [
+           {"name": "Western Zhou",
+             "children": [
+                {"name": "1046 - 771 BCE"},
+                {"name": "Capital: Haojing (Xi'an)"},
+                {"name": "Founder: Ji Fa (King Wu of Zhou)"}
+              ]
+           },
+           {"name": "Eastern Zhou",
+             "children": [
+                {"name": "Spring and Autumn Period",
+                  "children": [
+                     {"name": "770 - 475 BCE"},
+                     {"name": "Capital: Luoyi (Luoyang)"},
+                     {"name": "Five Hegemons"}
+                   ]
+                },
+                {"name": "Warring States Period",
+                  "children": [
+                     {"name": "475 - 221 BCE"},
+                     {"name": "Capital: Luoyi (Luoyang)"},
+                     {"name": "Seven States"}
+                   ]
+                }
+              ]
+           }
+         ]
+      }
+    ]
+  },
+    {
+       "name": "Early Imperial China",
+       "children": [
+          {"name": "Qin Dynasty",
+            "children": [
+               {"name": "221 - 206 BCE"},
+               {"name": "Capital: Xianyang (near Xi'an)"},
+               {"name": "Founder: Ying Zheng (Qin Shi Huang)"}
+             ]
+          },
+          {"name": "Han Dynasty",
+            "children": [
+               {"name": "Western Han",
+                 "children": [
+                    {"name": "202 BCE - 8 CE"},
+                    {"name": "Capital: Chang'an (Xi'an)"},
+                    {"name": "Founder: Liu Bang (Emperor Gao)"}
+                  ]
+               },
+               {"name": "Xin Dynasty",
+                 "children": [
+                    {"name": "8 - 25"},
+                    {"name": "Capital: Chang'an (Xi'an)"},
+                    {"name": "Founder: Wang Mang"}
+                  ]
+               },
+               {"name": "Eastern Han",
+                 "children": [
+                    {"name": "25 - 220"},
+                    {"name": "Capital: Luoyang"},
+                    {"name": "Founder: Liu Xiu (Emperor Guangwu)"}
+                  ]
+               }
+             ]
+          }
+        ]
+    },
+    {
+       "name": "Period of Fragmentation",
+       "children": [
+          {"name": "Three Kingdoms",
+            "children": [
+               {"name": "Cao Wei Kingdom",
+                 "children": [
+                    {"name": "220 - 265"},
+                    {"name": "Capital: Luoyang"},
+                    {"name": "Founder: Cao Pi"}
+                  ]
+               },
+               {"name": "Wu Kingdom",
+                 "children": [
+                    {"name": "229 - 280"},
+                    {"name": "Capital: Jianye (Nanjing)"},
+                    {"name": "Founder: Sun Quan"}
+                  ]
+               },
+               {"name": "Shu-Han Kingdom",
+                 "children": [
+                    {"name": "221 - 263"},
+                    {"name": "Capital: Chengdu"},
+                    {"name": "Founder: Liu Bei"}
+                  ]
+               }
+             ]
+          },
+          {"name": "Jin Dynasty",
+            "children": [
+               {"name": "Western Jin",
+                 "children": [
+                    {"name": "265 - 316"},
+                    {"name": "Capital: Luoyang"},
+                    {"name": "Founder: Sima Yan"}
+                  ]
+               },
+               {"name": "Eastern Jin",
+                 "children": [
+                    {"name": "317 - 420"},
+                    {"name": "Capital: Jiankang (Nanjing)"},
+                    {"name": "Founder: Sima Rui"}
+                  ]
+               },
+               {"name": "Sixteen Kingdoms",
+                 "children": [
+                    {"name": "304 - 439"},
+                    {"name": "Various Kingdoms"},
+                    {"name": "Ethnicity: Minorities"}
+                  ]
+               }
+             ]
+          },
+          {"name": "Southern and Northern Dynasties",
+            "children": [
+               {"name": "Southern Dynasties",
+                 "children": [
+                    {"name": "Liu Song Dynasty",
+                      "children": [
+                         {"name": "420 - 479"},
+                         {"name": "Capital: Jiankang (Nanjing)"},
+                         {"name": "Founder: Liu Yu"}
+                       ]
+                    },
+                    {"name": "Southern Qi Dynasty",
+                      "children": [
+                         {"name": "479 - 502"},
+                         {"name": "Capital: Jiankang (Nanjing)"},
+                         {"name": "Founder: Xiao Daocheng"}
+                       ]
+                    },
+                    {"name": "Liang Dynasty",
+                      "children": [
+                         {"name": "502 - 557"},
+                         {"name": "Capital: Jiankang (Nanjing)"},
+                         {"name": "Founder: Xiao Yan"}
+                       ]
+                    },
+                    {"name": "Chen Dynasty",
+                      "children": [
+                         {"name": "557 - 589"},
+                         {"name": "Capital: Jiankang (Nanjing)"},
+                         {"name": "Founder: Chen Baxian"}
+                       ]
+                    }
+                  ]
+               },
+               {"name": "Northern Dynasties",
+                 "children": [
+                    {"name": "Northern Wei Dynasty",
+                      "children": [
+                         {"name": "386 - 534"},
+                         {"name": "Capital: Ping (Datong) and Luoyang"},
+                         {"name": "Founder: Tuoba Gui"},
+                         {"name": "Ethnicity: Xianbei"}
+                       ]
+                    },
+                    {"name": "Eastern Wei",
+                      "children": [
+                         {"name": "534 - 550"},
+                         {"name": "Capital: Ye"},
+                         {"name": "Founder: Yuan Shanjian"},
+                         {"name": "Ethnicity: Xianbei"}
+                       ]
+                    },
+                    {"name": "Western Wei",
+                      "children": [
+                         {"name": "535 - 557"},
+                         {"name": "Capital: Chang'an (Xi'an)"},
+                         {"name": "Founder: Yuan Baoju"},
+                         {"name": "Ethnicity: Xianbei"}
+                       ]
+                    },
+                    {"name": "Northern Qi Dynasty",
+                      "children": [
+                         {"name": "550 - 577"},
+                         {"name": "Capital: Ye"},
+                         {"name": "Founder: Gao Yang"}
+                       ]
+                    },
+                    {"name": "Northern Zhou Dynasty",
+                      "children": [
+                         {"name": "557 - 581"},
+                         {"name": "Capital: Chang'an (Xi'an)"},
+                         {"name": "Founder: Yuwen Yu"},
+                         {"name": "Ethnicity: Xianbei"}
+                       ]
+                    }
+                  ]
+               }
+             ]
+          }
+        ]
+    },
+    {
+       "name": "Middle Imperial China",
+       "children": [
+          {"name": "Sui Dynasty",
+            "children": [
+               {"name": "581 - 618"},
+               {"name": "Capital: Daxing (Xi'an)"},
+               {"name": "Founder: Yang Jian (Emperor Wen of Sui)"}
+             ]
+          },
+          {"name": "Tang Dynasty",
+            "children": [
+               {"name": "618 - 907"},
+               {"name": "Capital: Chang'an (Xi'an)"},
+               {"name": "Founder: Li Yuan (Emperor Gaozu of Tang)"}
+             ]
+          },
+          {"name": "Five Dynasties Period",
+            "children": [
+               {"name": "Later Liang Dynasty",
+                 "children": [
+                    {"name": "907 - 923"},
+                    {"name": "Capital: Kaifeng"},
+                    {"name": "Founder: Zhu Wen"}
+                  ]
+               },
+               {"name": "Later Tang Dynasty",
+                 "children": [
+                    {"name": "923 - 936"},
+                    {"name": "Capital: Luoyang"},
+                    {"name": "Founder: Li Cunxu"},
+                    {"name": "Ethnicity: Shatuo"}
+                  ]
+               },
+               {"name": "Later Jin Dynasty",
+                 "children": [
+                    {"name": "936 - 947"},
+                    {"name": "Capital: Kaifeng"},
+                    {"name": "Founder: Shi Jingtang"},
+                    {"name": "Ethnicity: Shatuo"}
+                  ]
+               },
+               {"name": "Later Han Dynasty",
+                 "children": [
+                    {"name": "947 - 951"},
+                    {"name": "Capital: Kaifeng"},
+                    {"name": "Founder: Liu Zhiyuan"},
+                    {"name": "Ethnicity: Shatuo"}
+                  ]
+               },
+               {"name": "Later Zhou Dynasty",
+                 "children": [
+                    {"name": "951 - 960"},
+                    {"name": "Capital: Kaifeng"},
+                    {"name": "Founder: Guo Wei"}
+                  ]
+               },
+               {"name": "Ten Kingdoms",
+                 "children": [
+                    {"name": "891 - 979"},
+                    {"name": "Various Kingdoms"}
+                  ]
+               }
+             ]
+          },
+          {"name": "Song Period",
+            "children": [
+               {"name": "Liao Dynasty",
+                 "children": [
+                    {"name": "907 - 1125"},
+                    {"name": "Capital: Shangjing (Bairin Left Banner)"},
+                    {"name": "Founder: Yelyu Abaoji"},
+                    {"name": "Ethnicity: Khitan"}
+                  ]
+               },
+               {"name": "Song Dynasty",
+                 "children": [
+                    {"name": "Northern Song",
+                      "children": [
+                         {"name": "960 - 1127"},
+                         {"name": "Capital: Bian (Kaifeng)"},
+                         {"name": "Founder: Zhao Kuangyin"}
+                       ]
+                    },
+                    {"name": "Southern Song",
+                      "children": [
+                         {"name": "1127 - 1279"},
+                         {"name": "Capital: Lin'an (Hangzhou)"},
+                         {"name": "Founder: Zhao Gou"}
+                       ]
+                    }
+                  ]
+               },
+               {"name": "Jurchen Jin Dynasty",
+                 "children": [
+                    {"name": "1115 - 1234"},
+                    {"name": "Capital: Zhongdu (Beijing)"},
+                    {"name": "Founder: Wanyan Aguda"},
+                    {"name": "Ethnicity: Jurchen"}
+                  ]
+               }
+             ]
+          }
+        ]
+    },
+    {
+       "name": "Later Imperial China",
+       "children": [
+          {"name": "Yuan Dynasty",
+            "children": [
+               {"name": "1271 - 1368"},
+               {"name": "Capital: Khanbaliq (Beijing)"},
+               {"name": "Founder: Kublai (Emperor Shizu)"},
+               {"name": "Ethnicity: Mongol"}
+             ]
+          },
+          {"name": "Ming Dynasty",
+            "children": [
+               {"name": "1368 - 1644"},
+               {"name": "Capital: Nanjing and Beijing"},
+               {"name": "Founder: Zhu Yuanzhang (Hongwu Emperor)"}
+             ]
+          },
+          {"name": "Qing Dynasty",
+            "children": [
+               {"name": "1644 - 1911"},
+               {"name": "Capital: Beijing"},
+               {"name": "Founder: Nurhachi"},
+               {"name": "Ethnicity: Manchu"}
+             ]
+          }
+       ]
+    },
+    {
+       "name": "Modern China",
+       "children": [
+          {"name": "Republic of China",
+            "children": [
+               {"name": "1912 - 1949"},
+               {"name": "1949 - Present (in Taiwan)"},
+               {"name": "Capital: Beijing, Nanjing and Chongqing"},
+               {"name": "Capital (post-1949): Taipei"},
+               {"name": "Founder: Sun Yat-Sen"}
+             ]
+          },
+          {"name": "People's Republic of China",
+            "children": [
+               {"name": "1949 - Present"},
+               {"name": "Capital: Beijing"},
+               {"name": "Founder: Mao Zedong"}
+             ]
+          }
+       ]
+    }
+  ]
+}

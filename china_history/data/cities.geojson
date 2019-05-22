@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beijing",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Beijing_skyline_from_northeast_4th_ring_road.jpg",
+        "Description": "Beijing is the capital city of China, and it is also one of the biggest cities in the world. It has a population of 21.5 million in 2018. The history of this city can be traced back to Zhou dynasty during which it was the capital city of State Yan, one of the seven major warring states. Liao dynasty made it one of its secondary capital cities, and Jurchen Jin formally named Beijing as its capital city after occupying half of Song dynasty's territory. After that, it served as capital city of various major dynasties including Yuan, Ming and Qing, as well as the modern China. There are abundant historical relics in and around the city, including Forbidden City, Great Wall, Ming Tombs and the Temple of Heaven.",
+        "Capital": "Jurchen Jin, Yuan, Ming, Qing, Republic of China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4111328125,
+          39.977120098439634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tianjin",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tianjin_IMG_4563_Tianjin_WFC_Jin_Tower_-_Tianjin_Maoye_Mansion.jpg",
+        "Description": "Tianjin is a major city in northern China and is only one hour away from Beijing. It is one of the four directly-controlled municipalities of China. The history of Tianjin began in Ming dynasty when it was established as a military guard town named Tianjin-Wei. Later, it was quickly developed into a major city thanks to its approximity to the Grand Canal.",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.32299804687499,
+          39.036252959636606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shenyang",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2013%E5%B9%B42%E6%9C%88%E4%BA%94%E9%87%8C%E6%B2%B3%E5%A4%A9%E9%99%85%E7%BA%BF_-_panoramio_%282%29.jpg",
+        "Description": "Shenyang is a major city in northeastern China, a region formerly known as Manchuria. It used to be the industrial center of People's Republic of China in 20th century, but it experienced some decline in recent 30 years. It was also a temporary military and government headquarter of Manchus people during their campaign against Ming dynasty, which eventually led to the establishment of Qing dynasty.",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.55224609375,
+          41.83682786072714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shanghai",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2012_Pudong.jpg",
+        "Description": "Shanghai is the largest city in China and an emerging global city that has tremendous significances in economy, business, trading, education and research. Compared to other major cities of China, Shanghai's history is relatively short, but it played a big role in the modern history of China. During the later period of Qing dynasty, Shanghai was a gate for Chinese to the rest of the world.",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44287109374999,
+          31.156408414557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hangzhou",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/West_Lake.JPG",
+        "Description": "Hangzhou is a major city near the mouth of Qiantang River. It is a city both known for its superior natural and cultural scenes and its significance in high-tech industries. The West Lake of Hangzhou is arguably the most popular urban lake in China. There are hundreds of folklores and historical stories that are associated to this lake. Some of China's most celebrated national heroes, such as Yue Fei, Yu Qian and Zhang Cangshui, have their memorials along the lake shore.",
+        "Capital": "Southern Song"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1739501953125,
+          30.278044377800153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nanjing",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nanjing_View.png",
+        "Description": "Nanjing is one of the most important cities in Chinese history. It was the capital city for multiple dynasties and kingdoms that were based in the southern China. Therefore, it played a big role to incorporate the lower Yangtze-River region into China Proper. It was (and, de jure, still is) the official capital city of Republic of China.",
+        "Capital": "Wu Kingdom, Eastern Jin, Southern Dynasties, Ming (early stage), Republic of China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80615234374999,
+          31.91953017247695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wuhan",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Wuhan_University_Sakura_Castle.jpg",
+        "Description": "Wuhan is the largest city in central China. It has been an important river port for thousands of years. It also played a big role in overthrowing Qing dynasty, the last imperial dynasty of China.",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2962646484375,
+          30.557530797259172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Guangzhou",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Guangzhou_skyline.jpg",
+        "Description": "Guangzhou is the central city of southern China. It is located in the Pearl River Delta region and has been a window for southern China to see the outside world for hundreds of years. Currently, it is the third largest city in China, only falling behind Beijing and Shanghai.",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.203125,
+          23.241346102386135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chengdu",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%E5%9B%9B%E5%B7%9D%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%B9%BF%E5%9C%BA.jpg",
+        "Description": "Chengdu is a major city in southwestern China. It is located in the heartland of Sichuan Basin, which was nicknamed \"Heavenly Kingdom\" because of its safe location from military perspective, peaceful political environment, temperate climate and fertile soil. It is also the home of Giant Pandas.",
+        "Capital": "Shu-Han Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0625,
+          30.675715404167743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chongqing",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/A_Sunset_View_of_Chongqing_Central_Business_District.jpg",
+        "Description": "Chongqing is located on the eastern edge of Sichuan Basin and close to the Three Gorges of Yangtze River. It has been a town of great military importance since ancient time, and became an industrial center of western China in 20th century. During the World War II, Chongqing was the war-time capital city of China, and it suffered severe air raids from Japanese bomber aircrafts. ",
+        "Capital": "Republic of China (Temporary during World War II)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.578369140625,
+          29.602118211647333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kaifeng",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/%E5%BC%80%E5%B0%81%E5%AE%8B%E9%83%BD%E5%BE%A1%E8%A1%97_122.jpg",
+        "Description": "Kaifeng is an important city in Chinese history. It served as the capital city in multiple dynasties including the prosperous Northern Song. A famous painting named Riverside Scene at Qingming Festival, completed by Zhang Zeduan in Song Dynasty, captured daily life of people in Kaifeng city.",
+        "Capital": "Later Liang, Later Jin, Later Han, Later Zhou, Northern Song"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.345703125,
+          34.831841149828655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Luoyang",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lu%C3%B2y%C3%A1ng_Museum.jpg",
+        "Description": "Luoyang was the capital city of China for various times throughout the history. It is located in the center of Henan Province, which is considered as the heartland of Chinese civilization.",
+        "Capital": "Many dynasties including Eastern Zhou, Eastern Han and Western Jin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.445068359375,
+          34.6060845921693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Xi'an",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Xi%27an_erhuan_southeast.JPG",
+        "Description": "Xi'an is the largest city in northwestern China and arguably the most important city in Chinese history. It was the capital city during two golden ages of China: Han and Tang dynasties. Various historical sites are located in and near the city. They include the Terra-cotta Warriors, Daming Palace, Huaqing Hot Spring and Greater Wild Goose Pagoda. During Sui and Tang dynasties, it was one of the top three cities worldwide (along with Bagdad and Istanbul). The city during Tang Dynasty was way bigger than the modern Xi'an. Unfortunately, the Tang city was destroyed by Huang Chao's uprising. The modern city wall preserved in Xi'an was first built in Ming dynasty.",
+        "Capital": "Many dynasties including Western Han, Sui and Tang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.841552734375,
+          34.279914398549934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shenzhen",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Shenzhen_Skyline_from_Nanshan.jpg",
+        "Description": "Shenzhen is the 4th biggest metropolitan in China. Surprisingly, 40 years ago it was only a fishing village. In 1980s, it became one of the first special economic zones of mainland China and began its magically fast development.",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.10400390625,
+          22.61401087437029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dunhuang",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mondsichelsee.JPG",
+        "Description": "Dunhuang, a city near deserts, is not a major city according to size and population. However, it has remarkable cultural significance. It is where Han-Chinese, Tibetan, Uyghurs, Tangut, Tocharian and Central Asian cultures all meet at one place. Dunhuang is one of the west-most towns of Hexi Corridor. In ancient times, if you were traveling westward along the Silk Road, Dunhuang is the last location before you leave the Han-Chinese dominated region. Mogao Grottoes display art pieces from a notable range of styles. This place shows the diversity of China very well.",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.669189453125,
+          40.16208338164617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Qufu",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Confuciusmansionqufu.jpg",
+        "Description": "Qufu is a very small city, but it is well known as the birthplace of Confucius, the most famous ideologist and philosopher in ancient China. He established the Confucianism school which had been the leading school of thought in China since the reign of Emperor Wu of Han dynasty and until the collapse of Qing dynasty in 1911.",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.96044921875,
+          35.54787066533268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lhasa",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Potala_Palace%2C_August_2009.jpg",
+        "Description": "Lhasa is the biggest city in Tibet. It claims to be the major city with highest altitude in the world. The Potala Palace and Jokhang Temple are the two most popular tourist sites in this city. They are Tibetan-styled buildings with some influences of Nepalese and Han-Chinese styles.",
+        "Capital": "None for Han-Chinese dynasties"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.12060546875,
+          29.726222319395504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Urumqi",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Urumqi-d02.jpg",
+        "Description": "Urumqi is the largest city in Xinjiang, and is also considered as the biggest city in Central Asia. The word Urumqi comes from Mongolian language and it literally means \"beautiful grassland\".",
+        "Capital": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.60498046875,
+          43.8186748554532
+        ]
+      }
+    }
+  ]
+}
