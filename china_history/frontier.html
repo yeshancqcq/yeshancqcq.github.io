@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<title>Chronological Diagram of China and Its Frontier Zones</title>
+		<link rel="Shortcut Icon" type="image/ico" href="../img/favicon.ico">
+		<script type="text/javascript" src="js/d3.v2.js"></script>
+		<style type="text/css">
+		.chart {
+			shape-rendering: crispEdges;
+		}
+
+
+		a, a:visited { text-decoration: none; color: #87BDB3; }
+		a:hover { text-decoration: underline; color: #9DCBC2; }
+		h1, h2, h3 {
+		  color: #6A9C92;
+		  background-color: inherit;
+		  padding: 0 0 5px 0;
+		  margin: 15px 0 0 0;
+		  border: none;
+		  clear: none;
+			font: Georgia;
+			font-weight: bold;
+		}
+		h1 { font-size: 18pt; margin:  5px 0 10px 0; line-height: 28px; }
+		h2 { font-size: 16pt; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
+		h3 { font-size: 12pt; }
+		h4 { font-size: 15pt; color: white; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
+		p {
+		    margin: 0 0 0 0;
+		    text-indent:1px;
+				font: Georgia;
+				font-size: 12pt;
+		}
+		psmall {
+		    margin: 0 0 0 0;
+		    text-indent:1px;
+				font: Georgia;
+				font-size: 10pt;
+				font-style: italic;
+		}
+		#introduction{
+			background-color: #FFF;
+				width: 90%;
+				height: auto;
+				float: center;
+				margin-top: 15px;
+				margin-right: 50px;
+				margin-left: 50px;
+				margin-bottom: 15px;
+
+		}
+
+		.mini text {
+			font: 9px Georgia;
+
+
+		}
+
+		.main text {
+			font: 12px Georgia;
+
+		}
+
+		.miniItem0 {
+			fill: #aeb0b2;
+			stroke-width: 1;
+			stroke:gray;
+			text-align: center;
+		}
+
+		.miniItem1 {
+			fill: #87BDB3;
+			fill-opacity: 1;
+			stroke-width: 1;
+			stroke:gray;
+			text-align: center;
+		}
+
+		.miniItem2 {
+			fill: #CBD9DE;
+			fill-opacity: 1;
+			stroke-width: 1;
+			stroke:gray;
+		}
+
+		.brush .extent {
+			stroke: gray;
+			fill: lightgray;
+			fill-opacity: .365;
+		}
+		</style>
+	</head>
+	<body>
+		<div id="introduction">
+			<h1>Timeline of Frontier Zones of China</h1>
+		<script type="text/javascript">
+		//data
+		var lanes = ["Chinese Empire","Mobei (Mongolia)","West Region (Xiyu)", "Northeast", "Tibetan Plateau", "Southwest"],
+			laneLength = lanes.length,
+			items = [
+					//Chinese Dynasties
+					{"lane": 0, "id": "Qin", "start": -221, "end": -202,"type":1, "label":""},
+					{"lane": 0, "id": "Han", "start": -202, "end": 220,"type":1, "label":"Han"},
+					{"lane": 0, "id": "Period of Fragmentation", "start": 220, "end": 581,"type":1, "label":""},
+					{"lane": 0, "id": "Sui", "start": 581, "end": 618,"type":1, "label":""},
+					{"lane": 0, "id": "Tang", "start": 618, "end": 907,"type":1, "label":"Tang"},
+					{"lane": 0, "id": "Five Dynasties", "start": 907, "end": 960,"type":1, "label":""},
+					{"lane": 0, "id": "Song", "start": 960, "end": 1271,"type":1, "label":"Song"},
+					{"lane": 0, "id": "Yuan", "start": 1271, "end": 1368,"type":1, "label":"Yuan"},
+					{"lane": 0, "id": "Ming", "start": 1368, "end": 1644,"type":1, "label":"Ming"},
+					{"lane": 0, "id": "Qing", "start": 1644, "end": 1911,"type":1, "label":"Qing"},
+					//Mobei
+					{"lane": 1, "id": "Xiongnu", "start": -200, "end": 100,"type":0 , "label":"Xiongnu"},
+					{"lane": 1, "id": "Xianbei", "start": 100, "end": 330,"type":0, "label":"Xianbei"},
+					{"lane": 1, "id": "Rouran", "start": 330, "end": 555,"type":0, "label":""},
+					{"lane": 1, "id": "Tujue", "start": 555, "end": 630,"type":0, "label":"Tujue"},
+					{"lane": 1, "id": "Chanyu and Anbei Protectorates of Tang", "start": 630, "end": 682,"type":1, "label":""},
+					{"lane": 1, "id": "Later Tujue", "start": 682, "end": 744,"type":0, "label":""},
+					{"lane": 1, "id": "Uyghur", "start": 744, "end": 848,"type":0, "label":"Uyghur"},
+					{"lane": 1, "id": "Kyrgyz", "start": 848, "end": 916,"type":0, "label":""},
+					{"lane": 1, "id": "Khitan Liao", "start": 916, "end": 1125,"type":2, "label":"Liao"},
+					{"lane": 1, "id": "Mongols", "start": 1125, "end": 1206,"type":0, "label":"Mongol"},
+					{"lane": 1, "id": "Mongol Empire", "start": 1206, "end": 1271,"type":0, "label":""},
+					{"lane": 1, "id": "Lingbei Province of Yuan", "start": 1271, "end": 1368,"type":1, "label":""},
+					{"lane": 1, "id": "Mongols", "start": 1368, "end": 1771,"type":0, "label":"Mongol"},
+					{"lane": 1, "id": "Lifan Yuan of Qing", "start": 1771, "end": 1911,"type":1, "label":""},
+
+					//Xinjiang
+					{"lane": 2, "id": "Various small states including Wusun and Loulan", "start": -200, "end": -60,"type":0, "label":""},
+					{"lane": 2, "id": "West Region Protectorate of Han", "start": -60, "end": 180,"type":1, "label":""},
+					{"lane": 2, "id": "Various small states including Kucha and Shanshan", "start": 180, "end": 580,"type":0, "label":""},
+					{"lane": 2, "id": "Tujue", "start": 580, "end": 659,"type":0, "label":""},
+					{"lane": 2, "id": "Anxi and Beiting Protectorates of Tang", "start": 659, "end": 790,"type":1, "label":""},
+					{"lane": 2, "id": "Tibetan Empire", "start": 790, "end": 877, "type":0, "label":""},
+					{"lane": 2, "id": "Various states including Khotan and Gaochang", "start": 877, "end": 1124,"type":0, "label":""},
+					{"lane": 2, "id": "Western Liao (Kara-Khitai)", "start": 1124, "end": 1218,"type":2, "label":"W. Liao"},
+					{"lane": 2, "id": "Chagatai Khanate of Mongol Empire", "start": 1218, "end": 1514,"type":0, "label":""},
+					{"lane": 2, "id": "Yarkend Khanate", "start": 1514, "end": 1680,"type":0, "label":""},
+					{"lane": 2, "id": "Dzungar Khanate", "start": 1680, "end": 1757,"type":0, "label":"Dzung."},
+					{"lane": 2, "id": "Xinjiang of Qing", "start": 1757, "end": 1911,"type":1, "label":""},
+					//Dongbei
+					{"lane": 3, "id": "Sushen", "start": -221, "end": 0,"type":0, "label":"Sushen"},
+					{"lane": 3, "id": "Yilou", "start": 0, "end": 380,"type":0, "label":""},
+					{"lane": 3, "id": "Shiwei", "start": 380, "end": 680,"type":0, "label":""},
+					{"lane": 3, "id": "Songmo, Shiwei and Mohe Commandaries of Tang; Balhea Kingdom", "start": 680, "end": 916,"type":2, "label":""},
+					{"lane": 3, "id": "Dongjing and Zhongjing circuits of Liao", "start": 916, "end": 1115,"type":2, "label":"Liao"},
+					{"lane": 3, "id": "Dongjing Circuit of Jurchen Jin", "start": 1115, "end": 1210,"type":2, "label":"Jurchen"},
+					{"lane": 3, "id": "Mongols", "start": 1210, "end": 1280,"type":0, "label":""},
+					{"lane": 3, "id": "Liaoyang Province of Yuan", "start": 1280, "end": 1368,"type":1, "label":""},
+					{"lane": 3, "id": "Liaodong and Nurgan regional military commissions of Ming", "start": 1368, "end": 1616,"type":1, "label":""},
+					{"lane": 3, "id": "Qing provinces", "start": 1616, "end": 1911,"type":1, "label":""},
+
+					//Tibetan
+					{"lane": 4, "id": "Zhang Zhung and Sum Pa tribes", "start": -221, "end": 630,"type":0, "label":""},
+					{"lane": 4, "id": "Tibetan Empire", "start": 630, "end": 877,"type":0, "label":"Tibetan Empire"},
+					{"lane": 4, "id": "Regional religious regimes", "start": 877, "end": 1264,"type":0, "label":""},
+					{"lane": 4, "id": "Bureau of Buddhism and Tibetan Affairs of Mongol Empire and Yuan", "start": 1264, "end": 1368,"type":1, "label":""},
+					{"lane": 4, "id": "U-Tsang and Do-Kham regional military commissions of Ming, and local religious dynasties like Phagmodrupa", "start": 1368, "end": 1642,"type":2, "label":"Debated"},
+					{"lane": 4, "id": "Khoshut Khanage", "start": 1642, "end": 1717,"type":0, "label":""},
+					{"lane": 4, "id": "Dzungar Khanage", "start": 1717, "end": 1719,"type":0, "label":""},
+					{"lane": 4, "id": "Qing provinces", "start": 1719, "end": 1911,"type":1, "label":""},
+
+					//Yunnan
+					{"lane": 5, "id": "Dian Kingdom", "start": -221, "end": -109, "type":0, "label":"Dian"},
+					{"lane": 5, "id": "Nominal control by Chinese empires", "start": -109, "end": 320,"type":2, "label":""},
+					{"lane": 5, "id": "Cuan Kingdom", "start": 320, "end": 738,"type":0, "label":""},
+					{"lane": 5, "id": "Nanzhao Kingdom", "start": 738, "end": 902,"type":0, "label":"Nanzhao"},
+					{"lane": 5, "id": "Dachanghe, Datianxing and Dayining kingdoms", "start": 902, "end": 937,"type":0, "label":""},
+					{"lane": 5, "id": "Dali Kingdom", "start": 937, "end": 1253, "type":0, "label":"Dali"},
+					{"lane": 5, "id": "Yunnan Province of Yuan and Mongols", "start": 1253, "end": 1381,"type":1, "label":""},
+					{"lane": 5, "id": "Yunnan Province of Ming", "start": 1381, "end": 1659,"type":1, "label":""},
+					{"lane": 5, "id": "Yunnan Province of Qing", "start": 1659, "end": 1911,"type":1, "label":""}
+				]
+			timeBegin = -221,
+			timeEnd = 1911;
+		</script>
+		<script type="text/javascript">
+		var m = [20, 15, 15, 120], //top right bottom left
+			w = 960 - m[1] - m[3],
+			h = 500 - m[0] - m[2],
+			miniHeight = laneLength * 12 + 50,
+			mainHeight = h - miniHeight - 50;
+
+		//scales
+		var x = d3.scale.linear()
+				.domain([timeBegin, timeEnd])
+				.range([0, w]);
+		var x1 = d3.scale.linear()
+				.range([0, w]);
+		var y1 = d3.scale.linear()
+				.domain([0, laneLength])
+				.range([0, mainHeight]);
+		var y2 = d3.scale.linear()
+				.domain([0, laneLength])
+				.range([0, miniHeight]);
+
+		var chart = d3.select("body")
+					.append("svg")
+					.attr("width", w + m[1] + m[3])
+					.attr("height", h + m[0] + m[2])
+					.attr("class", "chart");
+
+		chart.append("defs").append("clipPath")
+			.attr("id", "clip")
+			.append("rect")
+			.attr("width", w)
+			.attr("height", mainHeight);
+
+		var main = chart.append("g")
+					.attr("transform", "translate(" + m[3] + "," + m[0] + ")")
+					.attr("width", w)
+					.attr("height", mainHeight)
+					.attr("class", "main");
+
+		var mini = chart.append("g")
+					.attr("transform", "translate(" + m[3] + "," + (mainHeight + m[0]) + ")")
+					.attr("width", w)
+					.attr("height", miniHeight)
+					.attr("class", "mini");
+
+		//main lanes and texts
+		main.append("g").selectAll(".laneLines")
+			.data(items)
+			.enter().append("line")
+			.attr("x1", m[1])
+			.attr("y1", function(d) {return y1(d.lane);})
+			.attr("x2", w)
+			.attr("y2", function(d) {return y1(d.lane);})
+			.attr("stroke", "lightgray")
+
+		main.append("g").selectAll(".laneText")
+			.data(lanes)
+			.enter().append("text")
+			.text(function(d) {return d;})
+			.attr("x", -m[1])
+			.attr("y", function(d, i) {return y1(i + .5);})
+			.attr("dy", ".5ex")
+			.attr("text-anchor", "end")
+			.attr("font-family", "Georgia")
+			.attr("class", "laneText");
+
+		//mini lanes and texts
+		mini.append("g").selectAll(".laneLines")
+			.data(items)
+			.enter().append("line")
+			.attr("x1", m[1])
+			.attr("y1", function(d) {return y2(d.lane);})
+			.attr("x2", w)
+			.attr("y2", function(d) {return y2(d.lane);})
+			.attr("stroke", "lightgrey")
+			.attr("stroke-width", "3pt");
+
+		mini.append("g").selectAll(".laneText")
+			.data(lanes)
+			.enter().append("text")
+			.text(function(d) {return d;})
+			.attr("x", -m[1])
+			.attr("y", function(d, i) {return y2(i + .5);})
+			.attr("dy", ".5ex")
+			.attr("text-anchor", "end")
+			.attr("class", "laneText");
+
+		var itemRects = main.append("g")
+							.attr("clip-path", "url(#clip)");
+
+		//mini item rects
+		mini.append("g").selectAll("miniItems")
+			.data(items)
+			.enter().append("rect")
+			.attr("class", function(d) {return "miniItem" + d.type;})
+			.attr("x", function(d) {return x(d.start);})
+			.attr("y", function(d) {return y2(d.lane + .5) - 5;})
+			.attr("width", function(d) {return x(d.end - d.start);})
+			.attr("height", 10);
+
+		//mini labels
+		mini.append("g").selectAll(".miniLabels")
+			.data(items)
+			.enter().append("text")
+			.text(function(d) {return ( d.label);})
+			.attr("x", function(d) {return x(d.start);})
+			.attr("y", function(d) {return y2(d.lane + .5);})
+			.attr("dy", ".5ex");
+
+		//brush
+		var brush = d3.svg.brush()
+							.x(x)
+							.on("brush", display);
+
+		mini.append("g")
+			.attr("class", "x brush")
+			.call(brush)
+			.selectAll("rect")
+			.attr("y", 1)
+			.attr("height", miniHeight - 1);
+
+		display();
+
+		function display() {
+			var rects, labels,
+				minExtent = brush.extent()[0],
+				maxExtent = brush.extent()[1],
+				visItems = items.filter(function(d) {return d.start < maxExtent && d.end > minExtent;});
+
+			mini.select(".brush")
+				.call(brush.extent([minExtent, maxExtent]));
+
+			x1.domain([minExtent, maxExtent]);
+
+			//update main item rects
+			rects = itemRects.selectAll("rect")
+			        .data(visItems, function(d) { return d.id; })
+				.attr("x", function(d) {return x1(d.start);})
+				.attr("width", function(d) {return x1(d.end) - x1(d.start);});
+
+			rects.enter().append("rect")
+				.attr("class", function(d) {return "miniItem" + d.type;})
+				.attr("x", function(d) {return x1(d.start);})
+				.attr("y", function(d) {return y1(d.lane) + 10;})
+				.attr("width", function(d) {return x1(d.end) - x1(d.start);})
+				.attr("height", function(d) {return .8 * y1(1);});
+
+			rects.exit().remove();
+
+			//update the item labels
+			labels = itemRects.selectAll("text")
+				.data(visItems, function (d) { return d.id; })
+				.attr("x", function(d) {return x1(Math.max(d.start, minExtent) + 2);});
+
+			labels.enter().append("text")
+				.text(function(d) {return d.id;})
+				.attr("x", function(d) {return x1(Math.max(d.start, minExtent));})
+				.attr("y", function(d) {return y1(d.lane + .5);})
+				.attr("text-anchor", "start");
+
+			labels.exit().remove();
+
+		}
+
+		</script>
+		</div>
+		<p>Back to the <a href="story_map.html" >Main Page</a>.</p>
+		<psmall>Illustration made with D3.js library, modified from this <a href="http://bl.ocks.org/bunkat/2338034" >Timeline chart</a>.</psmall>
+
+	</body>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<title>Emperors of Ancient China</title>
+<link rel="Shortcut Icon" type="image/ico" href="../img/favicon.ico">
+<head>
+	<title>Famous Emperors in Chinese History</title>
+	<style>
+		html, body {
+			padding: 0;
+			margin-left: 5%;
+			margin-right: 5%;
+			margin-top: 10pt;
+			margin-bottom: 20pt;
+			box-sizing: border-box;
+			font-family: Helvetica, Calibri, Roboto, Open Sans, sans-serif
+			-webkit-backface-visibility: hidden;
+		}
+		* {
+			box-sizing: inherit;
+		}
+		a, a:visited { text-decoration: none; color: #87BDB3; }
+		a:hover { text-decoration: underline; color: #9DCBC2; }
+		h1, h3 {
+		  color: #6A9C92;
+		  background-color: inherit;
+		  padding: 0 0 5px 0;
+		  margin: 15px 0 0 0;
+		  border: none;
+		  clear: none;
+			font: Georgia;
+			font-weight: bold;
+		}
+		h1 { font-size: 18pt; margin:  5px 0 10px 0; line-height: 28px; }
+		h2 { font-size: 16pt; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
+		h3 { font-size: 12pt; }
+		h4 { font-size: 15pt; color: white; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
+		svg {
+			margin:auto;
+			display:block;
+			margin-left: 30px;
+			margin-right: 30px;
+		}
+		psmall {
+		    margin: 0 0 0 0;
+		    text-indent:1px;
+				font: Georgia;
+				font-size: 8pt;
+				font-style: italic;;
+		}
+
+		.circle-overlay {
+			font-size: 12px;
+			font-family: Georgia;
+			border-radius: 50%;
+			position: absolute;
+			overflow: hidden;
+			/*it's buggy with the foreignObject background right now*/
+			/*background-color: rgba(255,255,255,0.5);*/
+		}
+		.circle-overlay__inner {
+			text-align: center;
+			width: 100%;
+			height: 100%;
+		}
+
+		.hidden {
+			display: none;
+		}
+		.node-icon--faded {
+			opacity: 0.5;
+		}
+		.legend-size circle {
+			fill: #adadad;
+		}
+	</style>
+</head>
+<body>
+	<h1>Famous Monarchs in Chinese History</h1>
+	<svg width="100%" height="700" font-family="sans-serif" font-size="10" text-anchor="middle"></svg>
+
+	<script src="js/d3.min.2.js"></script>
+	<script src="js/d3-legend.min.js"></script>
+	<!--<script src="js/techstack-main.js"></script>-->
+	<script src="js/emperor_data.js"></script>
+	<script src="js/emperor_vis.js"></script>
+	<p>Back to <a href="story_map.html" >Main Page</a>.</p>
+	<psmall>Illustration made with D3.js library, modified from the interactive bubble chart by <a href="https://int3ractive.com" >Thanh Tran</a></psmall>
+</body>
+</html>

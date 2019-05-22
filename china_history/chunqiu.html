@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="js/d3.v4.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+  <title>Spring and Autumn States</title>
+  <link rel="Shortcut Icon" type="image/ico" href="../img/favicon.ico">
+  <style>
+
+  a, a:visited { text-decoration: none; color: #87BDB3; }
+  a:hover { text-decoration: underline; color: #9DCBC2; }
+  h1, h2, h3 {
+    color: #6A9C92;
+    background-color: inherit;
+    padding: 0 0 5px 0;
+    margin: 15px 0 0 0;
+    border: none;
+    clear: none;
+  	font: Georgia;
+  	font-weight: bold;
+  }
+  h1 { font-size: 18pt; margin:  5px 0 10px 0; line-height: 28px; }
+  h2 { font-size: 16pt; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
+  h3 { font-size: 12pt; }
+  h4 { font-size: 15pt; color: white; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
+  p {
+      margin: 0 0 0 0;
+      text-indent:1px;
+  		font: Georgia;
+  		font-size: 12pt;
+  }
+  psmall {
+      margin: 0 0 0 0;
+      text-indent:1px;
+  		font: Georgia;
+  		font-size: 10pt;
+  		font-style: italic;
+  }
+  p2 {
+      margin: 0 0 0 0;
+      text-indent:1px;
+      font: Georgia;
+      font-size: 12pt;
+      font-style: italic;
+  }
+svg {
+    width: 1200px;
+    height: 800px;
+    position: center;
+}
+.hidden {
+      display: none;
+}
+div.tooltip {
+      color: #222;
+      background: #fff;
+      border-radius: 3px;
+      box-shadow: 0px 0px 2px 0px #a6a6a6;
+      padding: .2em;
+      text-shadow: #f5f5f5 0 1px 0;
+      opacity: 0.9;
+      position: absolute;
+}
+  </style>
+</head>
+<body>
+<h1>Major Principalities During Spring and AUtumn Period</h1>
+<svg width="1200" height="900"></svg>
+<div class="tooltip"></div>
+  <script>
+var margin = {top: 10, right: 10, bottom: 10, left: 10};
+var width = 1200 - margin.left - margin.right;
+var height = 900 - margin.top - margin.bottom;
+var myColor = [
+'#edbbbb',
+'#edd7bb',
+'#ede9bb',
+'#deedbb',
+'#c0edbb',
+'#bbedde',
+'#bbd5ed',
+'#cdbbed',
+'#edbbe3',
+'#edbbd0',
+'#b28b8b',
+'#b2aa8b',
+'#97b28b',
+'#8bb2a6',
+'#8b95b2',
+'#a48bb2',
+'#b28ba3',
+'#a5a5a5',
+'#dbdbdb'
+];
+var color = d3.scaleOrdinal(myColor);
+var projection = d3.geoMercator()
+                   .center([116, 30])
+                   .scale([1700])
+                   .translate([550,550])
+                   .precision([.1]);
+var path = d3.geoPath()
+             .projection(projection);
+var svg = d3.select("svg")
+            .append("g")
+            .attr("width", width)
+            .attr("height", height);
+var tooltip = d3.select("div.tooltip");
+d3.json("data/chunqiu.json", function(error, chunqiu) {
+  if (error) throw error;
+  svg.selectAll("path")
+			.data(chunqiu.features)
+			.enter()
+			.append("path")
+			.attr("stroke","grey")
+			.attr("stroke-width",1)
+            .attr("fill", function(d,i){
+				return color(i);
+			})
+			.attr("d", path )
+			.on("mouseover",function(d,i){
+                d3.select(this).attr("fill","#e8cf17").attr("stroke-width",2);
+                return tooltip.style("hidden", false).html(d.properties.name);
+            })
+            .on("mousemove",function(d){
+                tooltip.classed("hidden", false)
+                       .style("top", (d3.event.pageY) + "px")
+                       .style("left", (d3.event.pageX+15) + "px")
+                       .html('<h3>' +d.properties.name +'</h3><p2>Duration: '+d.properties.years +'</p2><br><p2>Original Rank: '+d.properties.rank+'</p2>');
+            })
+            .on("mouseout",function(d,i){
+                d3.select(this).attr("fill",color(i)).attr("stroke-width",1);
+                tooltip.classed("hidden", true);
+            });
+});
+  </script>
+  <p>Back to <a href="story_map.html" >Main Page</a>.</p>
+  <psmall>Illustration made with D3.js library<psmall>
+</body>

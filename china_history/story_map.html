@@ -1,0 +1,1383 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta charset="utf-8"><!--Unicode Transformation Format - 8-bit-->
+  <meta name="viewport" content="width=device-width">
+  <title>Interactive Story-Map of Chinese History</title>
+  <link rel="Shortcut Icon" type="image/ico" href="../img/favicon.ico">
+  <!--put your external stylesheet links here-->
+  <link rel="stylesheet" href="css/chinahis.css">
+  <link rel="stylesheet" href="css/leaflet_design.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA==" crossorigin=""></script>
+  <script src='js/leaflet.js'></script>
+  <script src='https://yeshancqcq.github.io/glacier19/js/leaflet.ajax.min.js'></script>
+  <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div id="introduction">
+    <center><h1>A First Glance of Chinese History</h1></center>
+    <psmall>This interactive site was a web-based story map and illustraiton series originally developed by <a href="yeshancqcq.github.io">Shan Ye</a> in 2013-14 to fulfill a course requirement of a history class at University of Michigan. It has been updated and expanded ever after, and was moved here from an old site recently. While you may use mobile devices to view this site, it is recommanded to use a browser on a computer. </psmall><br><br>
+    <p>Like other ancient civilizations, the civilization of China began in great river valleys of Yellow River and Yangtze River. The oldest archaeological evidence of ancient China is about 8500 BC, which marks the beginning of neolithic period of China.</p>
+    <p></br></p>
+    <p>At the early stage, Chinese history is semi-mythical, just like any other parts of the world. Some legendary ancient sage kings ruled China for centuries till 2100 BCE when Yu the Great established the first dynasty of China in the legends, the Xia Dynasty. Since then, China was ruled by successive dynasties, each ruled by a single family clan. In c. 1600 BCE, Shang Dynasty was established, and then, China gradually entered faithful history that has been proven by both historical accounts and archaeological evidences.</p>
+    <p></br></p>
+    <p>Below, you can find interactive illustrations regarding various aspects and periods of Chinese history. You may start with the timeline of China below. Click on different dynasties to explore more about this amazing civilization.</p>
+  </div>
+  <div id="tooltip-container"></div>
+  <div id="timeline-svg"></div>
+
+  <div id="wrapper2">
+    <div id="innerwrapper">
+        <h2>General Geography of China</h2>
+        <p>In the China Proper (the 18 provinces of Han-ethnicity dominance), North China Plain and Lower Yangtze River Plain make up a large portion of the land. In that area, there are very limited number of mountain barriers or other tough landform to divide China into smaller pieces. Most tough terrains in China, such as Tibetan Plateau, Tian-Shan Mts and Gobi Desert, are distributed in frontier zones that separate China from the rest of the world, but not interrupt the inner China. Europe, however, is different. There are several mountain ranges, such as Pyrenean, Alps, Carpathian and Balkan mountains, that divide Europe into different isolated regions. The isolation helped with the development of different cultures in Europe, while the plain helped China developed a strong and unified culture.<p>
+        <p><br><p>
+        <p>China is located in the east part of the Eurasia continent, and it is strongly influenced by monsoon. During spring and summer, wind will blow from the ocean to China and bring warm temperature and good amount of precipitation. In that case, there is a golden window for agriculture in each year. In ancient time, people need a strong leader to tell them time and instruct them to go out to the field. In their culture, Chinese people welcome a strong authority (a kong or an emperor) to run the country, because that will benefit the agriculture, which was the most important business in ancient China. That was how the " thought of unification" was developed. With this thought, Chinese people will try to unify the country at any cost, even though they were aware that wars of unification would kill thousands of lives.<p>
+        <p><br><p>
+        <p>In short, China is isolated from the rest of Eurasia by terrains, deserts and the vast steppe, and its land size is big enough so people in ancient times did not need to explore the outside world. China is regulated by seasonly monsoon and frequent floods, and ancient China depended on small-scaled agricultural economy, so in ancient time, Chinese needed to have a leader with high authority to keep the society and economy stable. You may explore the geography of China with the following map. You can add and remove different layers and click on features to see how China has been influenced by terrains and climate.<p>
+    </div>
+    <div id="wrapper">
+      <div id="map">
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+        <script id="mapHere">
+            $(document).ready(function() {
+              var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+                maxZoom: 15,
+                minZoom: 2,
+                attribution: 'Tiles &copy; Esri &mdash; Source: Esri'
+              }),
+              basic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+                maxZoom: 15,
+                minZoom: 2,
+                attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ'
+              });
+
+              var cities = L.layerGroup();
+              var provinces = L.layerGroup();
+              var rivers = L.layerGroup();
+              var mountains = L.layerGroup();
+              var deserts = L.layerGroup();
+              var silk = L.layerGroup();
+              var walls = L.layerGroup();
+              var steppes = L.layerGroup();
+
+
+            var citiesIcon = L.icon({
+            iconUrl: 'img/city.png',
+            iconSize: [10,10],
+            iconAnchor: [5,5],
+            popupAnchor: [0,-5]
+            });
+
+
+            //var Sites = L.layerGroup([stops]);
+
+
+            function provinces_style(feature) {
+              return {
+                  fillColor: '#BDBDBD',
+                  weight: 1,
+                  opacity: 1,
+                  color: '#FFF',
+                  dashArray: '',
+                  fillOpacity: 0.3
+              };
+            }
+
+            function deserts_style(feature) {
+            return {
+              fillColor: '#000',
+              weight: 1,
+              opacity: 1,
+              color: '#cc9966',
+              dashArray: '',
+              fillOpacity: 0.3
+            };
+            }
+
+            function steppes_style(feature) {
+            return {
+              fillColor: '#e5f5f9',
+              weight: 1,
+              opacity: 1,
+              color: '#99d8c9',
+              dashArray: '',
+              fillOpacity: 0.3
+            };
+            }
+
+            function mountains_style(feature) {
+            return {
+              fillColor: '#efedf5',
+              weight: 1,
+              opacity: 1,
+              color: '#bcbddc',
+              dashArray: '',
+              fillOpacity: 0.3
+            };
+            }
+
+
+              var popup1 = L.popup({
+                maxWidth : 1800
+              });
+              var popup2 =
+              {
+                'maxWidth': '500',
+                'className' : 'another-popup' // classname for another popup
+              }
+
+              var popup_mountains =
+              {
+                'maxWidth': '500',
+                'className' : 'mountains-popup' // classname for another popup
+              }
+
+              var popup_steppes =
+              {
+                'maxWidth': '500',
+                'className' : 'steppes-popup' // classname for another popup
+              }
+
+              var popup_deserts =
+              {
+                'maxWidth': '500',
+                'className' : 'deserts-popup' // classname for another popup
+              }
+
+              var popup_cities =
+              {
+                'maxWidth': '500',
+                'className' : 'cities-popup' // classname for another popup
+              }
+
+
+
+            var provinces = new L.GeoJSON.AJAX("data/china.json", {
+                style: provinces_style,
+                onEachFeature: function (feature, layer) {
+                  layer.on('mouseover', function () {
+                      this.setStyle({
+                        weight: 1,
+                        color: '#666',
+                        dashArray: '',
+                        fillOpacity: 0.8
+                      });
+                  });
+                  layer.on('mouseout', function () {
+                      provinces.resetStyle(this);
+                  },
+                  layer.bindPopup('<p> '+feature.properties.NAME+'</p>')
+                  );
+              }
+            }).addTo(provinces);
+
+              var deserts = new L.GeoJSON.AJAX("data/deserts.geojson", {
+                style: deserts_style,
+                onEachFeature: function (feature, layer) {
+                  layer.on('mouseover', function () {
+                      this.setStyle({
+                        weight: 1,
+                        color: '#dfbf9f',
+                        dashArray: '',
+                        fillOpacity: 0.5
+                      });
+                  });
+                  layer.on('mouseout', function () {
+                      deserts.resetStyle(this);
+                  },
+                  layer.bindPopup('<p>'+feature.properties.Name+'</p>', popup_deserts)
+                  );
+              }
+            }).addTo(deserts);
+
+            var steppes = new L.GeoJSON.AJAX("data/steppes.geojson", {
+              style: steppes_style,
+              onEachFeature: function (feature, layer) {
+                layer.on('mouseover', function () {
+                    this.setStyle({
+                      weight: 1,
+                      color: '#2ca25f',
+                      dashArray: '',
+                      fillOpacity: 0.5
+                    });
+                });
+                layer.on('mouseout', function () {
+                    steppes.resetStyle(this);
+                },
+                layer.bindPopup('<p>'+feature.properties.Name+'</p>', popup_steppes)
+                );
+            }
+            }).addTo(steppes);
+
+
+            var mountains = new L.GeoJSON.AJAX("data/mountains.geojson", {
+              style: mountains_style,
+              onEachFeature: function (feature, layer) {
+                layer.on('mouseover', function () {
+                    this.setStyle({
+                      weight: 1,
+                      color: '#756bb1',
+                      dashArray: '',
+                      fillOpacity: 0.5
+                    });
+                });
+                layer.on('mouseout', function () {
+                    mountains.resetStyle(this);
+                },
+                layer.bindPopup('<p>'+feature.properties.Name+'</p>', popup_mountains)
+                );
+            }
+          }).addTo(mountains);
+
+
+              //var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
+
+            var cities = new L.GeoJSON.AJAX("data/cities.geojson",{
+                style : function(feature) {
+                  return {
+                    color: '#000',
+                    weight: 0.5
+                  }
+                },
+                pointToLayer: function(geoJsonPoint, latlng) {
+                  return L.marker(latlng,{
+                  icon: citiesIcon
+                })
+                },
+                onEachFeature: function(feature, layer) {
+                  layer.on('click',function(e) {
+                    map.setView(e.latlng,4);
+                    $("#paneltext").html('<h3> '+feature.properties.Name+'</h3><p><img src=" '
+                              +feature.properties.Image+'" alt="", width=92%></p><br><p>'
+                                +feature.properties.Description+'</p><br><p>Previous time as capital city: ' +feature.properties.Capital+'</p>');
+                  }),
+                  layer.bindPopup('<h4>'+feature.properties.Name+'</h4><p>See panel below for more details</p>', popup2)
+                }
+              }).addTo(cities);
+
+              var rivers = new L.GeoJSON.AJAX("data/rivers_k8O.json", {
+                style : function(feature) {
+                  return {
+                    color: '#47a8d8',
+                    weight: 0.35
+                  }
+                }
+              }).addTo(rivers);
+
+              var walls = new L.GeoJSON.AJAX("data/greatwall_9js.json", {
+                style : function(feature) {
+                  return {
+                    color: 'red',
+                    weight: 0.35
+                  }
+                }
+              }).addTo(walls);
+
+              var silkRoad = new L.GeoJSON.AJAX("data/silk_road_8h3.json", {
+                style : function(feature) {
+                  return {
+                    color: '#8e8e5f',
+                    weight: 1
+                  }
+                }
+              }).addTo(silk);
+
+              var map = L.map('map', {
+                center: [35,106],
+                zoom: 3,
+                layers: [basic, provinces, cities, rivers]
+              });
+              //.setView([43.8,-88],10);
+
+              //var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
+
+              var baseLayers = {
+                "Basic": basic,
+                "Topographic":topographic
+              };
+
+              var overlays = {
+              "Provinces": provinces,
+              "Cities": cities,
+              "Rivers": rivers,
+              "Terrains": mountains,
+              "Deserts": deserts,
+              "Steppes": steppes,
+              "Great Walls": walls,
+              "Silk Road": silk
+              };
+
+
+          L.control.layers(baseLayers, overlays).addTo(map);
+        });
+
+      </script>
+      </div>
+      <div id="paneltext">
+      </div>
+    </div>
+  </div>
+  <!--End General Geography of China Section-->
+
+
+
+  <!--Dynasty section-->
+  <div id="wrapper-dy">
+    <div id="innerwrapper2">
+      <h2>Dynasties of China</h2>
+        <p><br></p>
+        <p>
+        Let's go over the sequence of dynasties in Chinese history.Many people wonder how many dynasties were there in total throughout the history of China. The answer to this question can be both simple and complicated, because there are different ways to define a dynasty. Scholarly, a dynasty is a period of time in China and other countries of sinosphere during which the country is ruled by successive monarchs (emperors, kings or other titles) from a single family clan. However, this definition does not help us tell how many dynasties there were in ancient China. Some people may think that Chinese dynasties are chronologically straightforward, which means they came one after each other with neither overlaps nor gaps. </p>
+        <p><br></p>
+
+        <p>This is not the case. Both gaps and overlaps did exist in the history. For example, Qin dynasty ended in 206 BCE when the capital city was captured by rebellion armies. However, it was not until 202 BCE that the next dynasty, Han, was established. There was a 4-year gap between these two major dynasties, during which there was a major civil war between different contenders of the throne. Some other minor gaps also existed (and might be simplified in the timeline).</p>
+        <p><br></p>
+
+        <p>
+        Overlaps between dynasties are more common in Chinese history. Sometimes, a dynasty was established while the forerunner was still there. An example is that when Kublai established Yuan dynasty in 1271, the remnants of Song dynasty still existed in the south. It took Yuan dynasty several years more to completely wipe out the Song forces. In some other cases, different dynasties might exist along with each other at the same time period. For example, there was a long period called Southern and Northern Dynasties, during which China was divided into two halves and each half was ruled by different dynasties.
+        </p>
+
+        <p><br></p>
+
+        <p>
+        To make things more complicated, some dynasties (Zhou, Han, Jin and Song) were interrupted halfway through and restored later. For example, in 8 CE, Han dynasty was overthrown by a powerful chancellor in its court, Wang Mang, who established a short-lived Xin dynasty. However, royal clans of Han dynasty restored their regime in 25 CE and moved the capital city from Xi'an to Luoyang. Because Luoyang is to the east of Xi'an, historians usually use Eastern Han to refer to the restored Han dynasty and Western Han to refer to the original Han dynasty. By the way, naming this type of dynasties after the relative locations of capital cities at different halves is the standard practice of historians. So in this case, should Han dynasty be counted as one dynasty or two? Should Xin dynasty be considered as a real dynasty?
+        </p>
+
+        <p><br></p>
+
+        <p>
+        To make things more complicated, whether to consider some regimes in the history as dynasties is debated because of the traditional ideology of <a herf="https://en.wikipedia.org/wiki/Mandate_of_Heaven">Mandate of Heaven</a>, which generally means that a clan needs to have some authority installed by the heaven to be allowed to rule China. In this case, when China was fragmented, people might not regard some smaller kingdoms as lawful ruling regimes of China. This is especially the case if a regime is ruled by a minority group. For example, Liao dynasty, ruled by Khitans, and Jurchen Jin dynasty, ruled by Jurchens, were considered as barbarian states by people in Song dynasty, even though they were highly sinicized. In recent years, mainstream historians and Chinese people have accepted that Liao and Jurchen Jin were Chinese dynasties, but what about the Western Xia, a notable Tangut (a branch of Qiang people) regime contemporary with Song and Liao but only ruled parts of present-day Gansu and Ningxia? Many people still do not consider it as a dynasty. Also, different people might consider different regimes as the true lawful regime to represent China even though they existed at the same time. For example, after Han dynasty, China was divided into Three Kingdoms. Some people regard Cao Wei as the lawful successor of the Han dynasty because the founding emperor of Cao Wei formally accepted the crown from the last Han emperor. However, some others regard the Shu-Han in Sichuan region as the lawful successor because it was established by Liu Bei, a relative in Han's royal family.
+        </p>
+
+        <p><br></p>
+
+        <p>Therefore, it is hard to tell how many dynasties there were in China. However, sometimes people only mention "major" dynasties of China, and from a beginner's perspective, knowing some history of major dynasties is more than enough to be introduced to Chinese civilization and cultures. In the interactive map below, you can explore different major dynasties by adding them to the map.</p>
+
+        <p><br></p>
+
+    </div>
+    <div id="wrapper">
+      <div id="map2">
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+        <script id="mapHere2">
+        $(document).ready(function() {
+          var topographic2 = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+            maxZoom: 15,
+            minZoom: 2,
+            attribution: 'Tiles &copy; Esri &mdash; Source: Esri'
+          }),
+          basic2 = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+            maxZoom: 15,
+            minZoom: 2,
+            attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ'
+          });
+
+          var shang = L.layerGroup();
+          var zhou = L.layerGroup();
+          var qin = L.layerGroup();
+          var han = L.layerGroup();
+          var threekingdoms = L.layerGroup();
+          var jin = L.layerGroup();
+          var ns = L.layerGroup();
+          var sui = L.layerGroup();
+          var tang = L.layerGroup();
+          var fivedy = L.layerGroup();
+          var nsong = L.layerGroup();
+          var ssong = L.layerGroup();
+          var yuan = L.layerGroup();
+          var ming = L.layerGroup();
+          var qing = L.layerGroup();
+
+
+        //var Sites = L.layerGroup([stops]);
+
+
+        function dynasties_style(feature) {
+          return {
+              fillColor: '#d89999',
+              weight: 1,
+              opacity: 1,
+              color: '#bc6464',
+              dashArray: '',
+              fillOpacity: 0.3
+          };
+        }
+        var popupdy =
+        {
+          'maxWidth': '500',
+          'className' : 'dy-popup' // classname for another popup
+        }
+
+          var citiesIcon2 = L.icon({
+          iconUrl: 'img/city.png',
+          iconSize: [10,10],
+          iconAnchor: [5,5],
+          popupAnchor: [0,-5]
+          });
+
+          var crownIcon = L.icon({
+          iconUrl: 'img/crown.png',
+          iconSize: [10,10],
+          iconAnchor: [5,5],
+          popupAnchor: [0,-5]
+          });
+
+        var shang = new L.GeoJSON.AJAX("data/shang.geojson", {
+            style: dynasties_style,
+            onEachFeature: function (feature, layer) {
+              layer.on('mouseover', function () {
+                  this.setStyle({
+                    weight: 1,
+                    color: '#e26868',
+                    dashArray: '',
+                    fillOpacity: 0.8
+                  });
+              });
+              layer.on('mouseout', function () {
+                  shang.resetStyle(this);
+                  $("#paneltext2").html("<h3>Shang Dynasty and Early China</h3><br>"+
+                  "<p>Shang Dynasty is the first dynasty in the faithful history of China, but it is not the real beginning of Chinese civilization. China started as paleolithic and neolithic cultural sites along the lower Yellow River in northern China. A tribal unions named Hua Xia formed when a chief called Huang Di (literally: Yellow Emperor) defeated other tribes and unified the watershed of Yellow River. Huang Di was thus considered as the common ancestor of Chinese people, especially the Han ethnic group, and he was also the first of a series of ancient sages that ruled the ancient China for a long time. During their reigns, China completed the transition from tribes and tribal unions to kingdoms. <br><br> Those ancient sages passed down their thrones by abdication and appointing successors. However, this system was changed in 21th century BC. After leading people in overcoming a massive flood, Yu the Great was selected to be the new leader. After his death, his son succeeded the throne and became a new leader of the country. At this point, Chinese history entered the long period of Jiatianxia (ruling by family clans), and the ruling reign of each clan is a dynasty. The first clan, descendants of Yu the Great, established the Xia dynasty. However, due to the lack of archaeological evidences, Xia dynasty has been considered as a semi-mythical dynasty. <br><br>According to historical accords, Xia dynasty lasted for about 400 years. In about 1600 BC, people overthrew the last tyrant of Xia dynasty and established Shang dynasty. The existence of Shang dynasty was supported by archaeological sites of its capital city, the Ruins of Yin, in Henan province. During this dynasty, early writing scripts of Chinese language, oracle bone inscriptions, was well developed. It was also known as the bronze age of China. Shang dynasty also expanded the territory of China by defeating and annexing nearby tribes.</p><br>");
+              },
+              layer.bindPopup('<p>Shang Dynasty</p>', popupdy)
+              );
+          }
+        }).addTo(shang);
+
+        var shang_capital = new L.GeoJSON.AJAX("data/shang_capital.geojson",{
+            style : function(feature) {
+              return {
+                color: '#000',
+                weight: 0.5
+              }
+            },
+            pointToLayer: function(geoJsonPoint, latlng) {
+              return L.marker(latlng,{
+              icon: citiesIcon2
+            })
+            },
+            onEachFeature: function(feature, layer) {
+              layer.bindPopup('<p>Yin</p>')
+            }
+          }).addTo(shang);
+
+          var zhou = new L.GeoJSON.AJAX("data/zhou.geojson", {
+              style: dynasties_style,
+              onEachFeature: function (feature, layer) {
+                layer.on('mouseover', function () {
+                    this.setStyle({
+                      weight: 1,
+                      color: '#e26868',
+                      dashArray: '',
+                      fillOpacity: 0.8
+                    });
+                });
+                layer.on('mouseout', function () {
+                    zhou.resetStyle(this);
+                    $("#paneltext2").html("<h3>Zhou Dynasty</h3><br><p>In 1046 BC, a clan from the west overthrew the Shang dynasty and established Zhou dynasty. Zhou dynasty is arguably the most important dynasty in Chinese history. Many core cultures of China formed during its reign. For example, the idea of Mandate of Heaven, the Zongfa system (Chinese-styled patriarchy system), the rite practices, the Fenfeng system (Chinese-styled feudatory system), Confucianism, Taoism, Legalism and Mohism were all originated during Zhou dynasty.<br><br>The first half of Zhou dynasty was relatively prosperous and stable. The capital city of Zhou dynasty during this time was in Haojing, which is close to modern-day Xi'an. In 771 BC, however, due to the fatuous reign of King You (e.g. the drama of war signal), the central court lost its credibility and authority. The successor of King You moved the capital city to Luoyang after the original capital city was attacked by barbarians. Luoyang is to the east of Xi'an, so people refer the earlier half of Zhou dynasty as Western Zhou dynasty while the later half Eastern Zhou dynasty. This is a common way to distinguish different parts of dynasties with significant divisions in the halfway.<br><br>Because the central court was weakened, principalities and feudatory vassal states started to fight against each other and build up their own authorities. There were five powerful principalities during this period, and they were called Five Hegemons. Their stories were recorded by historians in State Lu and were integrated into the book of Spring and Autumn Annals (Chunqiu) by Confucius. Therefore, this period is also called Spring and Autumn period.<br><br>Confucius died in 479 BC and thus the Annals ended there, and in 453 BC, the once-very-strong State Jin split into three new states: State Wei, State Han and State Zhao. At this point, only less than 20 (out of several hundreds) principality states left, and seven of them were very powerful: those three originated from State Jin plus State Qi, State Yan, State Chu and State Qin. These seven states totally ignored the existance of the Zhou king and launched massive wars against each other. Due to these remarkable changes, people use the term Warring States period to describe the rest of Zhou dynasty after the death of Confucius.<br></p>");
+                },
+                layer.bindPopup('<p>Zhou Dynasty</p>', popupdy)
+                );
+            }
+          }).addTo(zhou);
+
+        var zhou_states = new L.GeoJSON.AJAX("data/zhou_states.geojson",{
+            style : function(feature) {
+              return {
+                color: '#000',
+                weight: 0.5
+              }
+            },
+            pointToLayer: function(geoJsonPoint, latlng) {
+              return L.marker(latlng,{
+              icon: crownIcon
+            })
+            },
+            onEachFeature: function(feature, layer) {
+              layer.bindPopup('<p>Vassal State: '+ feature.properties.States +'</p>')
+            }
+          }).addTo(zhou);
+
+          var qin = new L.GeoJSON.AJAX("data/qin.json", {
+              style: dynasties_style,
+              onEachFeature: function (feature, layer) {
+                layer.on('mouseover', function () {
+                    this.setStyle({
+                      weight: 1,
+                      color: '#e26868',
+                      dashArray: '',
+                      fillOpacity: 0.8
+                    });
+                });
+                layer.on('mouseout', function () {
+                    qin.resetStyle(this);
+                    $("#paneltext2").html("<h3>Qin Dynasty</h3><br><p>State Qin gradually rose in power and became the strongest state of those seven after the reform led by Shang Yang. It wiped out the Zhou king in 240s BC, which marked the end of Zhou dynasty. From 230 BC to 221 BC, State Qin defeated other six states one by one and unified China. Qin dynasty was established, which became the first imperial dynasty of China. The king of State Qin, Ying Zheng, titled himself Qin Shi Huang, which literally means the first emperor. He is the first official emperor of China and set standards to measurement units, writing system, currency and several other things. The old feudatory system was aborted and the system of prefecture-county became the new administrative system of China. This means that China entered a completely new era, the Imperial China.<br><br>Some say that Qin Shi Huang was a tyrant but others do not agree. After all, Qin Shi Huang did do something harmful. He ordered to burn all books that might be obstacles for controlling people's thoughts. He also started many big construction projects, including the Epang Palace and the Great Wall. He was buried with Terra-cotta Warriors after his death. Not long after that, his empire collapsed in peasant uprisings. Among those uprisings, Liu Bang and Xiang Yu were the two strongest powers. The contention between these two guys is called Chu-Han contention, which lasted for 4 years, and Liu Bang won the war with the help from several brilliant people. Liu Bang claimed to be the Emperor Gaozu and established the Han dynasty in 202 BC<br></p>");
+                },
+                layer.bindPopup('<p>Qin Dynasty</p>', popupdy)
+                );
+            }
+          }).addTo(qin);
+
+          var qin_capital = new L.GeoJSON.AJAX("data/qin_capital.geojson",{
+              style : function(feature) {
+                return {
+                  color: '#000',
+                  weight: 0.5
+                }
+              },
+              pointToLayer: function(geoJsonPoint, latlng) {
+                return L.marker(latlng,{
+                icon: citiesIcon2
+              })
+              },
+              onEachFeature: function(feature, layer) {
+                layer.bindPopup('<p>Xianyang</p>')
+              }
+            }).addTo(qin);
+
+            var han = new L.GeoJSON.AJAX("data/han.json", {
+                style: dynasties_style,
+                onEachFeature: function (feature, layer) {
+                  layer.on('mouseover', function () {
+                      this.setStyle({
+                        weight: 1,
+                        color: '#e26868',
+                        dashArray: '',
+                        fillOpacity: 0.8
+                      });
+                  });
+                  layer.on('mouseout', function () {
+                      han.resetStyle(this);
+                      $("#paneltext2").html("<h3>Han Dynasty</h3><br><p>Han dynasty was the first golden age of Chinese civilization, and the major body of Chinese population today called themselves Han people because of this dynasty. There were several great rulers in 2nd and 1st century BC, including Emperor Wen, Emperor Jing and Emperor Wu. During their reigns, Han dynasty recovered from the harsh rule of Qin dynasty and developed in economy and military strengths. During the reign of Emperor Wu (and his successor), Han dynasty defeated Xiongnu, the nomadic empire in the north and northwest that had threatened China for a long time. The defeats of Xiongnu also marked the opening of Silk Road. Han dynasty also defeated several kingdoms in the south and Korean Peninsula that significantly expanded its territory. Emperor Wu also made the Confucianism the official school of thought in China. This was followed by later dynasties and that was why Confucius was always respected by ancient Chinese people and became a symbol of Chinese culture<br><br>Just like Zhou dynasty, Han dynasty was divided into two halves. Before 8 AD, the capital city of Han dynasty was in Chang'an (Xi'an), so it is called Western Han dynasty. After 25 AD, the capital city was in Luoyang, so the later half is called Eastern Han dynasty. Between 8 and 25, there was a short-lived Xin dynasty sandwiched by two legs of Han dynasty. The Xin dynasty was established by Wang Mang, a relative to the royal family of Han dynasty. Due to some failures in reforms, Xin dynasty was quickly turned down by uprisings, and Han dynasty was restored by Emperor Guangwu in 25 AD.<br></p>");
+                  },
+                  layer.bindPopup('<p>Han Dynasty</p>', popupdy)
+                  );
+              }
+            }).addTo(han);
+
+            var han_capital = new L.GeoJSON.AJAX("data/han_capital.geojson",{
+                style : function(feature) {
+                  return {
+                    color: '#000',
+                    weight: 0.5
+                  }
+                },
+                pointToLayer: function(geoJsonPoint, latlng) {
+                  return L.marker(latlng,{
+                  icon: citiesIcon2
+                })
+                },
+                onEachFeature: function(feature, layer) {
+                  layer.bindPopup('<p>'+feature.properties.Name+'</p><psmall> '+feature.properties.years+' </psmall>')
+                }
+              }).addTo(han);
+
+              var han_protectorate = new L.GeoJSON.AJAX("data/han_protectorate.geojson",{
+                  style : function(feature) {
+                    return {
+                      color: '#000',
+                      weight: 0.5
+                    }
+                  },
+                  pointToLayer: function(geoJsonPoint, latlng) {
+                    return L.marker(latlng,{
+                    icon: crownIcon
+                  })
+                  },
+                  onEachFeature: function(feature, layer) {
+                    layer.bindPopup('<p>'+feature.properties.Name+'</p><psmall> '+feature.properties.years+' </psmall>')
+                  }
+                }).addTo(han);
+
+                var sanguo = new L.GeoJSON.AJAX("data/sanguo.json", {
+                    style: dynasties_style,
+                    onEachFeature: function (feature, layer) {
+                      layer.on('mouseover', function () {
+                          this.setStyle({
+                            weight: 1,
+                            color: '#e26868',
+                            dashArray: '',
+                            fillOpacity: 0.8
+                          });
+                      });
+                      layer.on('mouseout', function () {
+                          sanguo.resetStyle(this);
+                          $("#paneltext2").html("<h3>Three Kingdoms</h3><br><p>Han dynasty declined in late 2nd century. After the Yellow Turbans Uprising during Emperor Ling's reign, Han dynasty was dissolved into pieces ruled by different warlords, such as Cao Cao and Yuan Shao. It was finally overthrown in 220 when Cao Pi took the crown and established Wei kingdom in the north. Soon after that, two other kingdoms were established in the south, namely Shu-Han kingdom and Wu kingdom. Together, they are called Three Kingdoms. China then entered a long period of fragmentation. Thanks to a famous classic novel written in Ming dynasty as well as numerous TV dramas and video games, Three Kingdoms is arguably the most popular section of Chinese history. Stories of great warriors from this period, like Guan Yu and Zhao Yun, and strategists, like Zhuge Liang and Lu Su, are well-known not only in China but also in other Asian countries.<br></p>");
+                      },
+                      layer.bindPopup('<p>'+feature.properties.Name+'</p>', popupdy)
+                      );
+                  }
+                }).addTo(threekingdoms);
+
+                var sanguo_capital = new L.GeoJSON.AJAX("data/sanguo_capital.geojson",{
+                    style : function(feature) {
+                      return {
+                        color: '#000',
+                        weight: 0.5
+                      }
+                    },
+                    pointToLayer: function(geoJsonPoint, latlng) {
+                      return L.marker(latlng,{
+                      icon: citiesIcon2
+                    })
+                    },
+                    onEachFeature: function(feature, layer) {
+                      layer.bindPopup('<p>'+feature.properties.Name+'</p>')
+                    }
+                  }).addTo(threekingdoms);
+
+                  var jin = new L.GeoJSON.AJAX("data/easternjin.json", {
+                      style: dynasties_style,
+                      onEachFeature: function (feature, layer) {
+                        layer.on('mouseover', function () {
+                            this.setStyle({
+                              weight: 1,
+                              color: '#e26868',
+                              dashArray: '',
+                              fillOpacity: 0.8
+                            });
+                        });
+                        layer.on('mouseout', function () {
+                            jin.resetStyle(this);
+                            $("#paneltext2").html("<h3>Jin Dynasty and Sixteen Kingdoms</h3><br><p>In 265, Sima clan established Jin dynasty and brifely unified China in 280. However, the rule of Jin dynasty was weak and unstable. The peace of Jin dynasty only lasted for about ten years and then there came the War of Eight Princes, a massive and deadly civil war among imperial family members. Not long after the end of the civil war, five groups of barbarians (known as Wu Hu: Xiongnu, Xianbei, Jie, Di and Qiang) invaded northern China during the Yongjia Disaster. Jin dynasty ceded a large amount of territory in the north to small kingdoms established by those barbarians, and relocated the capital city from Luoyang to Jiankang (today's Nanjing) in 317. Because Jiankang is in the southeast, the later half of Jin dynasty is called Eastern Jin dynasty, while the earlier half is called Western Jin dynasty.<br><br>While Jin dynasty survived in the south, many smaller barbarian kingdoms ruled the northern China. The total number of northern kingdoms was more than 25, but 16 of them had significant influence on Chinese history. Therefore, the norther China during this period is generally referred as Sixteen Kingdoms. Those sixteen kingdoms did not come out all at once. The Xiongnu kingdom of Former Zhao and Di kingdom of Cheng Han were two earliest kingdoms, followed by Former Liang in the northwest.<br><br>Then, the kingdom of Later Zhao, established by Shi clan of Jie people, became a major power in the north. Emperors of Later Zhao were tyrannical even savage, so Han people launched a revenge which not only terminated the Later Zhao kingdom, but also almost wiped out the entire population of Jie people.<br><br>Then, the Xianbei kingdom of Former Yan was established and became a major power of eastern China. This was the first major kingdom founded by Xianbei people, who would play a big role in the following period. Next, Di people in the west established Former Qin. Former Qin was extremely powerful and it conquered other small kingdoms in the north. In 383, Former Qin attempted to invade Jin dynasty to unified the entire China, but it was defeated in a key battle at Fei River. Former Qin suffered a huge loss in the battle and dissolved into several small kingdoms in the next decade.<br><br>Small states dissolved from Former Qin, such as Later Qin, Later Yan, Later Liang and Western Qin, were relatively weak. They were attacked by Jin dynasty. Then, Xianbei people rose again and established Northern Wei dynasty. Northern Wei began to attack other smaller kingdoms (such as Northern Yan, Southern Yan, Northern Liang, Southern Liang, Western Liang and Helian Xia) trying to reunify the north. At the same time, Jin dynasty launched a series of northern expeditions led by general Liu Yu, and successfully retook the territory on the southern bank of Yellow River.<br></p>");
+                        },
+                        layer.bindPopup('<p>'+feature.properties.LABEL_ENG+'</p>', popupdy)
+                        );
+                    }
+                  }).addTo(jin);
+
+                  var sixteenkingdoms = new L.GeoJSON.AJAX("data/sixteenkingdoms.geojson",{
+                      style : function(feature) {
+                        return {
+                          color: '#000',
+                          weight: 0.5
+                        }
+                      },
+                      pointToLayer: function(geoJsonPoint, latlng) {
+                        return L.marker(latlng,{
+                        icon: crownIcon
+                      })
+                      },
+                      onEachFeature: function(feature, layer) {
+                        layer.bindPopup('<p>'+feature.properties.Name+'</p><psmall> '+feature.properties.years+' </psmall>')
+                      }
+                    }).addTo(jin);
+
+                    var ns = new L.GeoJSON.AJAX("data/nanbeichao.json", {
+                        style: dynasties_style,
+                        onEachFeature: function (feature, layer) {
+                          layer.on('mouseover', function () {
+                              this.setStyle({
+                                weight: 1,
+                                color: '#e26868',
+                                dashArray: '',
+                                fillOpacity: 0.8
+                              });
+                          });
+                          layer.on('mouseout', function () {
+                              ns.resetStyle(this);
+                              $("#paneltext2").html("<h3>Southern and Northern Dynasties</h3><br><p>The next period of time is called Southern and Northern Dynasties. The chronology of this period is a bit complicated, and it is illustrated by the figure below.<br><img src='img/ns.jpg' width=92%><br>In 420, Liu Yu replaced the last emperor of Jin dynasty, and founded the Liu Song dynasty in the south. It marked the beginning of the Southern and Northern dynasties. Liu Song was the first of four successive dynasties in the south, while the Northern Wei dynasty became the first and most important dynasty in the north after it reunified the northern China. Liu Song and Northern Wei fought several battles but neither of them were strong enough to annex the other side.<br><br>Although the Northern Wei dynasty was established by Xianbei people, it was sinicized after the reform led by Emperor Xiaowen. It fully adapted to a Chinese-styled government, and shifted the capital city to Luoyang. The imperial family even changed their surname from Tuoba to Yuan. The sinicization made Northern Wei the first ever minority regime to successfully rule a considerable part of China for a long time. However, internal struggles were caused by the sinicization, too. In 534, the civil war tore the Northern Wei apart. Supporters of sinicization established the Western Wei in Chang'an, while supporters of Xianbei culture established Eastern Wei in Ye (near today's Linzhang).<br><br>The Western Wei was controlled by Yuwen Tai, a powerful chancellor who was a sinicized Xianbei people. His clan replaced the Western Wei and established Northern Zhou dynasty in 557. The Eastern Wei was also controlled by a chancellor named Gao Huan, a Xianbeilized Han people, and his son overthrew Eastern Wei in 550 and established Northern Qi dynasty. At that time, Buddhism became popular in China. Many people became monks and hundreds of temples were built all over China. The Emperor Wu of Northern Zhou was concerned about this situation, because if everyone became a monk, then no one would farm the land and fight as soldiers. Therefore, he ordered to ban the Buddhism within Northern Zhou. It was a disaster to Buddhism but a good policy to strengthen the country. Northern Zhou became powerful under this policy, and it annexed Northern Qi in 577 and reunified northern China.<br> <br> However, the successor of Emperor Wu of Northern Zhou was too young, so the court was controlled by chancellor Yang Jian. Yang Jian eventually dethroned the emperor of Northern Zhou and crowned himself as Emperor Wen of Sui in 581. Sui dynasty was thus established. At this time, the southern half of China had gone through several dynasties including Liu Song dynasty, Southern Qi dynasty and Liang dynasty, and was under the reign of Chen dynasty. The emperor of Chen dynasty was a terrible leader and the court was corrupted. Therefore, Sui dynasty took this chance and invaded Chen dynasty. In 589, Chen dynasty was conquered by Sui, and China was, again, in the unification.<br></p>");
+                          },
+                          layer.bindPopup('<p>'+feature.properties.LABEL_ENG+'</p>', popupdy)
+                          );
+                      }
+                    }).addTo(ns);
+
+                    var sui = new L.GeoJSON.AJAX("data/sui.geojson", {
+                        style: dynasties_style,
+                        onEachFeature: function (feature, layer) {
+                          layer.on('mouseover', function () {
+                              this.setStyle({
+                                weight: 1,
+                                color: '#e26868',
+                                dashArray: '',
+                                fillOpacity: 0.8
+                              });
+                          });
+                          layer.on('mouseout', function () {
+                              sui.resetStyle(this);
+                              $("#paneltext2").html("<h3>Sui Dynasty</h3><br><p>Sui dynasty had many great achievements, including the Grand Canal, the Imperial Exams and the new structure of central government called Three Departments and Six Ministries. Many historians claimed that Sui dynasty was the richest dynasty in ancient China, and it set a good root for the following dynasty to be great. The second emperor of Sui dynasty was a tyrant who caused a massive peasant uprising. He was killed by rebels in 618, and in the same year, his cousin, Li Yuan, established Tang dynasty.<br></p>");
+                          },
+                          layer.bindPopup('<p>Sui Dynasty</p>', popupdy)
+                          );
+                      }
+                    }).addTo(sui);
+
+                    var sui_capital = new L.GeoJSON.AJAX("data/sui_capital.geojson",{
+                        style : function(feature) {
+                          return {
+                            color: '#000',
+                            weight: 0.5
+                          }
+                        },
+                        pointToLayer: function(geoJsonPoint, latlng) {
+                          return L.marker(latlng,{
+                          icon: citiesIcon2
+                        })
+                        },
+                        onEachFeature: function(feature, layer) {
+                          layer.bindPopup("<p>Daxing</p>")
+                        }
+                      }).addTo(sui);
+
+                    var tang = new L.GeoJSON.AJAX("data/tang741.json", {
+                        style: dynasties_style,
+                        onEachFeature: function (feature, layer) {
+                          layer.on('mouseover', function () {
+                              this.setStyle({
+                                weight: 1,
+                                color: '#e26868',
+                                dashArray: '',
+                                fillOpacity: 0.8
+                              });
+                          });
+                          layer.on('mouseout', function () {
+                              tang.resetStyle(this);
+                              $("#paneltext2").html("<h3>Tang Dynasty</h3><br><p>Tang dynasty was the second golden age of Chinese culture, and in a sense, it was the peak of ancient China. It was rich, strong and open. It defeated many khanates and tribes in East Asia including Tujue and Tiele, and the emperor of Tang was respected by minority groups as Khan of Heaven. It attracted many foreigners to go there to do their business or even to try to become officials. This was because of the contribution of a series of great emperors in early period of Tang dynasty, including Emperor Taizong, Emperor Gaozong, Empress Wu and Emperor Xuanzong.<br><br>Empress Wu was the only (somewhat debated) female emperor of China. There were many empresses in Chinese history that acted as a de-facto emperor, but none of them became the de-jure emperor except Empress Wu, who took the throne in 690 and even changed Tang into Wu Zhou. She handed the throne back to her son in 705, so the Tang dynasty restored and went back on track.<br><br>The heyday of Tang dynasty came during the reign of Emperor Xuanzong. However, when Emperor Xuanzong grew old, he lost his brilliance. He fell in love with Lady Yang and never cared about his empire any more. As a result, An Lushan, a powerful militia from Sogdiana and based in Fanyang (today's Beijing), rebelled and established his own Yan kingdom. This rebellion lasted for several years. Not only was it a major turning point of Tang dynasty, but also it significantly changed the track of the history of China. Tang dynasty put down the rebellion with the help of Uighurs people, but after the rebellion, the central government lost control to local militias and warlords. Protectorates in the north and northwest no longer existed. China changed from radical and aggressive to conservative and defensive. The western region was never taken back until Qing dynasty.</p>");
+                          },
+                          layer.bindPopup('<p>Tang Dynasty</p>', popupdy)
+                          );
+                      }
+                    }).addTo(tang);
+
+                    var tang_capital = new L.GeoJSON.AJAX("data/tang_capital.geojson",{
+                        style : function(feature) {
+                          return {
+                            color: '#000',
+                            weight: 0.5
+                          }
+                        },
+                        pointToLayer: function(geoJsonPoint, latlng) {
+                          return L.marker(latlng,{
+                          icon: citiesIcon2
+                        })
+                        },
+                        onEachFeature: function(feature, layer) {
+                          layer.bindPopup("<p>Chang'an</p>")
+                        }
+                      }).addTo(tang);
+
+                        var tang_protectorate = new L.GeoJSON.AJAX("data/tang_protectorate.geojson",{
+                            style : function(feature) {
+                              return {
+                                color: '#000',
+                                weight: 0.5
+                              }
+                            },
+                            pointToLayer: function(geoJsonPoint, latlng) {
+                              return L.marker(latlng,{
+                              icon: crownIcon
+                            })
+                            },
+                            onEachFeature: function(feature, layer) {
+                              layer.bindPopup('<p>'+feature.properties.Name+'</p><psmall> '+feature.properties.years+' </psmall>')
+                            }
+                          }).addTo(tang);
+
+
+                          var fivedy = new L.GeoJSON.AJAX("data/fivedy.json", {
+                              style: dynasties_style,
+                              onEachFeature: function (feature, layer) {
+                                layer.on('mouseover', function () {
+                                    this.setStyle({
+                                      weight: 1,
+                                      color: '#e26868',
+                                      dashArray: '',
+                                      fillOpacity: 0.8
+                                    });
+                                });
+                                layer.on('mouseout', function () {
+                                    fivedy.resetStyle(this);
+                                    $("#paneltext2").html("<h3>Five Dynasties</h3><br><p>As Tang dynasty declined, Khitan people appeared on the horizon in the northeast. They conquered the Balhea (Pohai) kingdom, a tributary state of Tang dynasty, in 907 and established the Khitan Empire, which later became the Liao dynasty. In the same year, Tang dynasty collapsed, and China entered a chaotic transitional time called Five dynasties and Ten kingdoms. During this time, five successive short dynasties, namely Later Liang, Later Tang, Later Jin, Later Han and Later Zhou, ruled the northern China, while ten smaller kingdoms (actually far more than that) ruled the south. Traditionally, the list of Ten Kingdoms include: Wu, Wuyue, Southern Tang, Southern Han, Min, Chu, Former Shu, Later Shu, Nanping and Northern Han<br><br>The third of five dynasties, Later Jin, ceded sixteen prefectures of Youzhou and Yunzhou region (today's northern Hebei and Shanxi provinces, including Beijing) to Liao dynasty. This was a critical change of territory, because after that, regimes of the China proper lost the control to Yan Mountains, a natural barrier to defend China from northern minority empires.<br></p>");
+                                },
+                                layer.bindPopup('<p>'+feature.properties.LABEL_ENG+'</p>', popupdy)
+                                );
+                            }
+                          }).addTo(fivedy);
+
+                          var tenkingdoms = new L.GeoJSON.AJAX("data/tenkingdoms.geojson",{
+                              style : function(feature) {
+                                return {
+                                  color: '#000',
+                                  weight: 0.5
+                                }
+                              },
+                              pointToLayer: function(geoJsonPoint, latlng) {
+                                return L.marker(latlng,{
+                                icon: crownIcon
+                              })
+                              },
+                              onEachFeature: function(feature, layer) {
+                                layer.bindPopup('<p>'+feature.properties.Name+'</p><psmall> '+feature.properties.years+' </psmall>')
+                              }
+                            }).addTo(fivedy);
+
+
+                            var nsong = new L.GeoJSON.AJAX("data/nsong.json", {
+                                style: dynasties_style,
+                                onEachFeature: function (feature, layer) {
+                                  layer.on('mouseover', function () {
+                                      this.setStyle({
+                                        weight: 1,
+                                        color: '#e26868',
+                                        dashArray: '',
+                                        fillOpacity: 0.8
+                                      });
+                                  });
+                                  layer.on('mouseout', function () {
+                                      nsong.resetStyle(this);
+                                      $("#paneltext2").html("<h3>Song Dynasty</h3><br><p>In 960, Song dynasty was established by a general of Later Zhou after the Chenqiao Incident, and it finished conquering the ten kingdoms in 979. However, they failed to retake those sixteen prefectures in a battle against Liao dynasty. Therefore, although Song dynasty was a major dynasty, some people do not consider it as a dynasty that unified China. And because that Liao dynasty occupied Beijing and was sinicized, many people claim that Liao should be considered as a major dynasty of China, rather than just a nomadic empire. During the reign of Emperor Zhenzong, Song and Liao had a total war. After the war, they signed the Treaty of Chanyuan, which brought a century of peace between these two giant empires.<br><br>In 1037, Tangut people, a branch of Qiang people from the northern Tibetan plateau, established Western Xia in the northwest, and it was also sinicized. It launched several wars against Song and Liao, but it failed to conquer either of them. Some historians consider them as a Chinese dynasty, but most people only see them as a nomadic empire due to the fact that it only occupied today's Ningxia and Gansu, which were not traditional core lands of Chinese culture.<br><br>In 1125, Liao dynasty was overthrown by Jin dynasty established by Jurchens (a.k.a. Jurchen Jin dynasty), another nomadic group from the northeastern China. They were ancestors of Manchus. Song was an ally of Jin when fighting against Liao dynasty, but during the battle, Jin noticed that armies of Song dynasty were weak. After the fall of Liao, Jurchen Jin began to invade Song dynasty. In 1127, Jin captured the capital city of Song dynasty, Bian (today's Kaifeng), and occupied the Yellow River drainage basin. The remnant of Song court fled to the south and restored the Song dynasty in Lin'an (today's Hangzhou). Because Kaifeng is in northern China and Lin'an is in southern China, the earlier half of Song dynasty is also called Northern Song dynasty while the later half is also known as Southern Song dynasty.<br><br>Jurchens continued invading Song dynasty, but Song survived in the south due to the efforts of several military commanders including the popular heroic figure in Chinese culture, Yue Fei. After a seires of wars, Song and Jin reached an equilibrium, in which the Qinling Ranges and Huai River became the new border between these two sides. This situation lasted for several decades until Genghis Khan established the Mongol Empire in the far north. Mongols conquered a lot of kingdoms on the Eurasian continent, including Western Xia and Jin, and began to attack Song dynasty in 1250s.<br></p>");
+                                  },
+                                  layer.bindPopup('<p> '+feature.properties.name+'</p>', popupdy)
+                                  );
+                              }
+                            }).addTo(nsong);
+
+
+                            var nsong_capital = new L.GeoJSON.AJAX("data/nsong_capital.geojson",{
+                                style : function(feature) {
+                                  return {
+                                    color: '#000',
+                                    weight: 0.5
+                                  }
+                                },
+                                pointToLayer: function(geoJsonPoint, latlng) {
+                                  return L.marker(latlng,{
+                                  icon: citiesIcon2
+                                })
+                                },
+                                onEachFeature: function(feature, layer) {
+                                  layer.bindPopup("<p>"+feature.properties.Name+"</p>")
+                                }
+                              }).addTo(nsong);
+
+                              var ssong = new L.GeoJSON.AJAX("data/ssong.json", {
+                                  style: dynasties_style,
+                                  onEachFeature: function (feature, layer) {
+                                    layer.on('mouseover', function () {
+                                        this.setStyle({
+                                          weight: 1,
+                                          color: '#e26868',
+                                          dashArray: '',
+                                          fillOpacity: 0.8
+                                        });
+                                    });
+                                    layer.on('mouseout', function () {
+                                        ssong.resetStyle(this);
+                                        $("#paneltext2").html("<h3>Song Dynasty</h3><br><p>In 960, Song dynasty was established by a general of Later Zhou after the Chenqiao Incident, and it finished conquering the ten kingdoms in 979. However, they failed to retake those sixteen prefectures in a battle against Liao dynasty. Therefore, although Song dynasty was a major dynasty, some people do not consider it as a dynasty that unified China. And because that Liao dynasty occupied Beijing and was sinicized, many people claim that Liao should be considered as a major dynasty of China, rather than just a nomadic empire. During the reign of Emperor Zhenzong, Song and Liao had a total war. After the war, they signed the Treaty of Chanyuan, which brought a century of peace between these two giant empires.<br><br>In 1037, Tangut people, a branch of Qiang people from the northern Tibetan plateau, established Western Xia in the northwest, and it was also sinicized. It launched several wars against Song and Liao, but it failed to conquer either of them. Some historians consider them as a Chinese dynasty, but most people only see them as a nomadic empire due to the fact that it only occupied today's Ningxia and Gansu, which were not traditional core lands of Chinese culture.<br><br>In 1125, Liao dynasty was overthrown by Jin dynasty established by Jurchens (a.k.a. Jurchen Jin dynasty), another nomadic group from the northeastern China. They were ancestors of Manchus. Song was an ally of Jin when fighting against Liao dynasty, but during the battle, Jin noticed that armies of Song dynasty were weak. After the fall of Liao, Jurchen Jin began to invade Song dynasty. In 1127, Jin captured the capital city of Song dynasty, Bian                                         (today's Kaifeng), and occupied the Yellow River drainage basin. The remnant of Song court fled to the south and restored the Song dynasty in Lin'an (today's Hangzhou). Because Kaifeng is in northern China and Lin'an is in southern China, the earlier half of Song dynasty is also called Northern Song dynasty while the later half is also known as Southern Song dynasty.<br><br>Jurchens continued invading Song dynasty, but Song survived in the south due to the efforts of several military commanders including the popular heroic figure in Chinese culture, Yue Fei. After a seires of wars, Song and Jin reached an equilibrium, in which the Qinling Ranges and Huai River became the new border between these two sides. This situation lasted for several decades until Genghis Khan established the Mongol Empire in the far north. Mongols conquered a lot of kingdoms on the Eurasian continent, including Western Xia and Jin, and began to attack Song dynasty in 1250s.<br></p>");
+                                    },
+                                    layer.bindPopup('<p>'+feature.properties.LABEL_ENG+'</p>', popupdy)
+                                    );
+                                }
+                              }).addTo(ssong);
+
+                              var ssong_capital = new L.GeoJSON.AJAX("data/ssong_capital.geojson",{
+                                  style : function(feature) {
+                                    return {
+                                      color: '#000',
+                                      weight: 0.5
+                                    }
+                                  },
+                                  pointToLayer: function(geoJsonPoint, latlng) {
+                                    return L.marker(latlng,{
+                                    icon: citiesIcon2
+                                  })
+                                  },
+                                  onEachFeature: function(feature, layer) {
+                                    layer.bindPopup("<p>"+feature.properties.Name+"</p>")
+                                  }
+                                }).addTo(ssong);
+
+                                var yuan = new L.GeoJSON.AJAX("data/yuan.json", {
+                                    style: dynasties_style,
+                                    onEachFeature: function (feature, layer) {
+                                      layer.on('mouseover', function () {
+                                          this.setStyle({
+                                            weight: 1,
+                                            color: '#e26868',
+                                            dashArray: '',
+                                            fillOpacity: 0.8
+                                          });
+                                      });
+                                      layer.on('mouseout', function () {
+                                          yuan.resetStyle(this);
+                                          $("#paneltext2").html("<h3>Yuan Dynasty</h3><br><p>In 1271, the Mongol leader Kublai claimed to be the emperor of China and established the Yuan dynasty after the mighty Mongol Empire disbanded. Kublai thus was also known as Emperor Shizu of Yuan. In 1279, Yuan dynasty conquered Song dynasty after the final battle at Yashan. Thus, Yuan became the first dynasty founded by minority groups that ruled the entire China.<br><br>Kublai adapted to a Chinese-styled government, but the sinicization process of Yuan dynasty was not very successful. Yuan emperors after Kublai could hardly speak and read in Chinese. Mongols also treated Han people as the lowest-ranked citizens in the empire, and applied harsh laws to them. As a result, the rule of Yuan dynasty only lasted for less than 100 years. In 1360s, massive rebellions broke out all over China, and Yuan was driven back to the steppe in 1368 by Zhu Yuanzhang, the leader of one of rebellion forces.<br></p>");
+                                      },
+                                      layer.bindPopup('<p>Yuan Dynasty</p>', popupdy)
+                                      );
+                                  }
+                                }).addTo(yuan);
+
+                                var yuan_capital = new L.GeoJSON.AJAX("data/yuan_capital.geojson",{
+                                    style : function(feature) {
+                                      return {
+                                        color: '#000',
+                                        weight: 0.5
+                                      }
+                                    },
+                                    pointToLayer: function(geoJsonPoint, latlng) {
+                                      return L.marker(latlng,{
+                                      icon: citiesIcon2
+                                    })
+                                    },
+                                    onEachFeature: function(feature, layer) {
+                                      layer.bindPopup("<p>Dadu (Khanbaliq)</p>")
+                                    }
+                                  }).addTo(yuan);
+
+
+                                  var ming = new L.GeoJSON.AJAX("data/ming_territory.json", {
+                                      style: dynasties_style,
+                                      onEachFeature: function (feature, layer) {
+                                        layer.on('mouseover', function () {
+                                            this.setStyle({
+                                              weight: 1,
+                                              color: '#e26868',
+                                              dashArray: '',
+                                              fillOpacity: 0.8
+                                            });
+                                        });
+                                        layer.on('mouseout', function () {
+                                            ming.resetStyle(this);
+                                            $("#paneltext2").html("<h3>Ming Dynasty</h3><br><p>Zhu Yuanzhang became the Hongwu Emperor and established Ming dynasty. It was the last major dynasty ruled by Han people in Chinese history. The third emperor of Ming, the Yongle Emperor, moved the capital city to Beijing and built the new palace of Forbidden City. The Great Wall was rebuilt to prevent Mongols from coming back. Yongle Emperor also sent Zheng He's fleet to Indian Ocean to show the power of the empire. However, after Yongle Emperor, most Ming rulers were either tyrannical or mediocre. Ming lost the suzerainty to Vietnam, and then Tibet, and then some Mongol khanates, and at last, Manchuria. During the reign of Wanli Emperor, Manchus leader Nurhachi broke away from Ming dynasty and established their own regime in the northeast. To make it worse, natural disasters and disease spread out in China at that time. Many people died and survivors rebelled. Uprisings led by Li Zicheng and Zhang Xianzhong broke out in Ming dynasty during Chongzhen Emperor's reign.<br></p>");
+                                        },
+                                        layer.bindPopup('<p>Ming Dynasty</p>', popupdy)
+                                        );
+                                    }
+                                  }).addTo(ming);
+
+                                  var ming_capital = new L.GeoJSON.AJAX("data/ming_capital.geojson",{
+                                      style : function(feature) {
+                                        return {
+                                          color: '#000',
+                                          weight: 0.5
+                                        }
+                                      },
+                                      pointToLayer: function(geoJsonPoint, latlng) {
+                                        return L.marker(latlng,{
+                                        icon: citiesIcon2
+                                      })
+                                      },
+                                      onEachFeature: function(feature, layer) {
+                                        layer.bindPopup("<p>"+feature.properties.Name+"</p><psmall>"+feature.properties.year+"</psmall>")
+                                      }
+                                    }).addTo(ming);
+
+                                    var ming_rmc = new L.GeoJSON.AJAX("data/ming_protectorate.geojson",{
+                                        style : function(feature) {
+                                          return {
+                                            color: '#000',
+                                            weight: 0.5
+                                          }
+                                        },
+                                        pointToLayer: function(geoJsonPoint, latlng) {
+                                          return L.marker(latlng,{
+                                          icon: crownIcon
+                                        })
+                                        },
+                                        onEachFeature: function(feature, layer) {
+                                          layer.bindPopup("<p>"+feature.properties.Name+"</p><psmall>"+feature.properties.year+"</psmall>")
+                                        }
+                                      }).addTo(ming);
+
+                                    var qing = new L.GeoJSON.AJAX("data/qing.json", {
+                                        style: dynasties_style,
+                                        onEachFeature: function (feature, layer) {
+                                          layer.on('mouseover', function () {
+                                              this.setStyle({
+                                                weight: 1,
+                                                color: '#e26868',
+                                                dashArray: '',
+                                                fillOpacity: 0.8
+                                              });
+                                          });
+                                          layer.on('mouseout', function () {
+                                              qing.resetStyle(this);
+                                              $("#paneltext2").html("<h3>Qing Dynasty</h3><br><p>In 1644, Li Zicheng captured Beijing and Chongzhen Emperor died on the hill of Meishan. Li Zicheng claimed to be the emperor of the Regime of Shun and Ming dynasty collapsed. During this chaos, Manchus, who had already turned their kingdom into the Chinese-styled Qing dynasty, took the chance to break through the Shanhai Pass. In the following years, Qing dynasty defeated the Shun dynasty of Li Zicheng, the Zhang Xianzhong’s regime (Da Xi kingdom) and the remnants of Ming dynasty in the south, and conquered the core parts of China. Then, Qing dynasty started to expand towards the west. They conquered Tibet and Dzungar in 1750s which drafted the current boundary of China.<br><br>Emperors of Qing dynasty were generally good, especially the trio of Kangxi Emperor, Yongzheng Emperor and Qianlong Emperor. During their reigns, Qing dynasty was rich and strong, and it was considered as the last peak of imperial China. However, due to the arrogance of Qianlong Emperor and the economic structure, Qing dynasty missed the chance to take part in the industrial revolution. When 19th century came, China was no longer a leading power of the world. Instead, it was invaded by western powers such as Britain, France and Russia. The Opium War in 1840 was a major divide of Chinese history, which marked the beginning of the modern history of China. The well-known Taiping Heavenly Kingdom was established in 1860s during a massive peasant rebellion. Then, in 1911, Qing dynasty was overthrown by the Xinhai Revolution led by Sun Yat-Sen, and the Republic of China was established in the following year.<br></p>");
+                                          },
+                                          layer.bindPopup('<p>Qing Dynasty</p> ', popupdy)
+                                          );
+                                      }
+                                    }).addTo(qing);
+
+                                    var qing_capital = new L.GeoJSON.AJAX("data/yuan_capital.geojson",{
+                                        style : function(feature) {
+                                          return {
+                                            color: '#000',
+                                            weight: 0.5
+                                          }
+                                        },
+                                        pointToLayer: function(geoJsonPoint, latlng) {
+                                          return L.marker(latlng,{
+                                          icon: citiesIcon2
+                                        })
+                                        },
+                                        onEachFeature: function(feature, layer) {
+                                          layer.bindPopup("<p>Beijing</p>")
+                                        }
+                                      }).addTo(qing);
+
+          var map2 = L.map('map2', {
+            center: [35,106],
+            zoom: 3,
+            layers: [basic2]
+          });
+          //.setView([43.8,-88],10);
+
+          //var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
+
+          var baseLayers2 = {
+            "Basic": basic2
+          };
+
+          var overlays2 = {
+          "Shang": shang,
+          "Zhou": zhou,
+          "Qin": qin,
+          "Han": han,
+          "Three Kingdoms": threekingdoms,
+          "Jin": jin,
+          "S. and N.": ns,
+          "Sui": sui,
+          "Tang": tang,
+          "Five Dynasties": fivedy,
+          "Northern Song": nsong,
+          "Southern Song": ssong,
+          "Yuan": yuan,
+          "Ming": ming,
+          "Qing": qing
+          };
+
+
+        L.control.layers(baseLayers2, overlays2).addTo(map2);
+        });
+
+      </script>
+      </div>
+      <div id="paneltext2">
+      </div>
+    </div>
+  </div>
+
+
+  <!--End Dynasty Section-->
+  <div id="wrapper-emperors">
+    <h2>Famous Emperors</h2>
+    <p>How many emperors are there in Chinese history? Many people wonder, but it is not easy to answer. Before the Qin dynasty, there were no emperors but kings. However, they were the monarchs of China and regarded as sons of heaven. Would you count them? Some rebellion leaders claimed to be an emperor but not widely recognized in the traditional culture or by historians (such as Yuan Shu, Wang Shichong, Li Zicheng and Hong Xiuquan). Would you count them? In very ancient times, legendary leaders were respected as emperors by later people, such as the Yellow Emperor and Flame Emperor, but they were actually not. Would you count them? Some people in later dynasties did not have a title of emperor but they were de facto emperors, such as kings of Wuyue Kingdom between Tang and Song dynasties; Some emperors were deposed during the reign such as the Prince Hailing of Jurchen Jin. Would you count them? Some people did not claimed to be the emperor themselves but was conferred an emperor later because their descendants became the emperor, such as Cao Cao and Genghiz Khan. Would you count them? Google says the China has 557 emperors. That’s only based on google’s own standard. There is no universally accepted answer to this question.<br></p>
+    <p> <br> </p>
+    <p>Only few people can name all emperors, but most high school students in China do know some emperors who were either brilliant rulers or tyranical rulers. Who are some of important emperors in ancient China? Check them out!</p>
+    <br>
+    <center><img src="img/emperor_ani.gif" width="75%"></center>
+    <br>
+    <center><p><a href="emperors.html"> Enter to Play</a><br><p></center>
+
+    <h2>How was the Empire administrated</h2>
+    <p>Ancient Chinese empires were huge both in landmass and in population. How to administrate it was not so simple. During Zhou dynasty, Ji Dan, the Duke of Zhou, established two basic systems: Fenfeng and Zongfa. Fenfeng is a Chinese-styled feudalism or enfeoffment system. The central court could not directly control some remote areas due to the limitation of transporation back in time. Therefore, the central court ask some trusted people, usually family and clan members and sometimes other talented individuals, to help administrate those remote places. They established small feoffdoms (principalities), or so-called vassal states, with various sizes and military strengths based on their ranks. This was how China was administrated in early stages. The Zongfa system is a Chinese-styled patriarchy system, which determines who may be the legal successor when the old monarch, either in the central court or in different principalities, died. Traditionally, monarchs should have only one wife but could have multiple concubines. Only the eldest son of the wift could inherit the lineage of the clan, while younger sons of the wife and sons of concubines should not be regarded as rightful successors of the clan. The eldest son of the wife would thus inherit the nobility rank and title of his father (and thus the kingdom/principality) and majority share of the heritage. <br></p>
+    <p> <br> </p>
+    <p>Principalities have duty to serve the central court during the war if needed, and should pay annual tributary to the capital city. This system worked fine for several hundreds of years when the authority of the central court was there. However, once the central court lost its power, the Fenfeng system would break down, and this was what happend in 771 BCE when the incompetent King You of Zhou was killed by barbarians and the capital city was destroyed. After that, principalities gradually rose in power and China entered a long period of chaotic warfare, a period called Spring and Period, and followed by Warring States period. You can see major principalities during this period in the map below.</p>
+    <br>
+    <center><img src="img/chunqiu.gif" width="70%"></center>
+    <br>
+    <center><p><a href="chunqiu.html"> Enter to Play</a><br><p></center>
+    <br>
+    <p>When Qin dynasty was established in 221 BCE, the Qin Shi Huang emperor thought that it was the Fenfeng system that caused the endless chaos in the past hundreds of years. Therefore, he abolished the Fenfeng system and established a new style of the administration: the Prefecture and County system, or Jun-Xian system. In this system, the empire was divided into prefectures, each was further divided into counties. Officials, rather than family or clan members, administrated those prefectures and counties, and they were directly controlled by the central government. This system made the empire stable. Later dynasties generally followed this system with some small variations. For example, in the early stage of Han dynasty, the Emperor Gaozu of Han trusted his family members very much and questioned loyalty of normal officials, so he mixed Fenfeng and Jun-Xian systems up. Half of the empire was administrated by prefectures and counties while the other half was administrated by several principalities. This led to the Riot of Seven States during Emperor Jing's reign, and later, Emperor Wu started to break down principalities into smaller pieces by launching a regulation named Tui-En-Ling. After that, principalities lost their power and were no longer threats to the central court.</p>
+    <br>
+    <p>The hierarchy of the administrative system in ancient China changed through time. In some dynasties, there were only two levels, while in other dynasties, there might be three or even four levels. Generally, during earlier dynasties, when the central government was strong and influencial, there were fewer levels and the empire was administrated very efficiently; when the central court was weak, there might be more levels and the central court would have less influence on local governments. The change of the hierarchy through time could be found in the following illustration:</p>
+
+    <center><img src="img/adm_level.gif" width="70%"></center>
+    <br>
+    <center><p><a href="adm_level.html"> Enter to Play</a><br><p></center>
+    <br>
+    <p>There were also many special types of administrative systems throughout the history. For example, during Tang dynasty, there were officials titled Jiedushi, whose responsibilities were mainly to manage the military affairs in certain regions of the empire. After the An-Shi Rebellion, however, the central government lost control to some of powerful Jiedushi, who established the so-called Buffer Towns that were threats to the empire. There were also special divisions to administrate frontier zones. In 60 BCE, Han dynasty established the West Region Protectorate (Xiyu Duhu Fu) to administrate the Tarim Basin and Central Asia. This was the first time that Chinese empire entered the heartland of Eurasia. In Tang dynasty, six major protectorates were established after a series of military campaigns during the early stage of the dynasty. Tang border reached Outter Mongolia and contemporarily, Aral Sea of Central Asia (660 - 665). However, in 750s, Tang lost to Arabian army during a battle near Talas, and then it suffered from the An-Shi Rebellion. After that, Tang retreated from Central Asia. After 790s, Tang even gave up the Tarim Basin when it was attacked by the Tibetan Empire. Some of those protectorates were lost after that. The Tibetan Plateau officially incorporated into a Chinese empire for the first time during Yuan dynasty. The central government established the Bureau of Buddhism and Tibean Affairs to adiministrate the plateau. Ming dynasty also have some ties with Tibetan Empire. The Ming court established the U-Tsang Regional Military Commission to nominally rule the plateau. Ming also established Liaodong and Nurgan regional military commissions to rule Manchuria. See how China administrated frontier zones as well as contemporary history of surronding minority groups and kingdoms in the illustration below:</p>
+    <center><img src="img/frontier.gif" width="70%"></center>
+    <br>
+    <center><p><a href="frontier.html"> Enter to Play</a><br><p></center>
+    <br>
+    <p>The structure of the central court was also very complicated. One classic example of how the central court was administrated is the Three Departments and Six Ministries system established in Sui dynasty and completed in Tang. Below is a simple demonstration on how this system worked.</p>
+    <br>
+    <center><img src="img/three_departments.gif" width="80%"></center>
+    <br>
+    <center><p><a href="three_departments.html"> Enter to Play</a><br><p></center>
+    <br>
+    <p>However, the real situation was way more complicated than this because there are many other central departments and local departments that had certain relationships to this system. Below is an illustration of how the government worked during Tang dynasty. You can play with it to see how complicated the system was.</p>
+    <center><img src="img/gov_str.gif" width="80%"></center>
+    <br>
+    <center><p><a href="gov_structure.html"> Enter to Play</a><br><p></center>
+  </div>
+
+
+
+  <div id="keju-wrapper">
+    <div id="innerwrapper2">
+      <h2>How were offocials selected?</h2>
+
+        <p>The huge empire of ancient China requires lots of human powers to manage. Therefore, selecting officials was critical. The way China used to select officials in local and central government changed throughout the history. In the early stage, Chinese government was run by certain clans, which means government officials could be hereditary. In Han dynasty, a system named Cha-Ju was established to select officials. In this system, local governments like prefectures and countires were responsible to nominate new officials based on candidates' filial morality, honesty and talent. During Jin dynasty and Southern and Northern Dynasties, the dominante system was called the Nine-Rank system. In this system, new governors were nominated based on their social status in the hierarchy of nine ranks. These systems have significant and obvious limitations and some real talented people never got a chance to become an official. In Sui and Tang dynasties, the Imperial Examination, also known as Keju system, was established to select people with real talent and to encourage more people to be educated. In the Keju system, everyone got an equal chance to enter the administration system of the empire. There were different levels of the exam held by different levels of government. The highest level exam was called Dianshi which literally means "the test in the palace hall", and this level of exam usually was given by the emperor himself. People got the first place in Dianshi were called Zhuangyuan, which was one of the highest honors and biggest dreams that scholars of ancient China had. This examination system is considred as one of the greatest inventions that ancient China ever had. The Keju system lasted for more than 1300 years until it was abolished in 1905 by Guangxu Emperor of Qing dynasty. In the interactive map below, you can find some interesting data regarding the highest-level Keju exams during Northern Song, Ming and Qing dynasties. You can explore the distribution of successful candidates in different dynasties, as well as some basic information of those who passed the highest-level exam and became highly ranked officers in the central court.</p><br><psmall> Data are from the <a href="https://projects.iq.harvard.edu/cbdb/home">China Biographical Database</a> at Harvard University and the <a href="http://www-personal.umich.edu/~sbao/">China Data Center</a> at University of Michigan. Please not that the biographical database is big in size so it might take a while for the map to load after the layer is selected.</psmall>
+    </div>
+    <div id="wrapper-keju">
+      <div id="map3">
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+        <script id="mapHere3">
+        $(document).ready(function() {
+          var topographic3 = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+            maxZoom: 15,
+            minZoom: 2,
+            attribution: 'Tiles &copy; Esri &mdash; Source: Esri'
+          }),
+          basic3 = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+            maxZoom: 15,
+            minZoom: 2,
+            attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ'
+          });
+
+          var song_exam = L.layerGroup();
+          var ming_exam = L.layerGroup();
+          var qing_exam = L.layerGroup();
+          var song_people = L.layerGroup();
+          var ming_people = L.layerGroup();
+          var qing_people = L.layerGroup();
+
+          function getColor(i){
+            var colorToUse
+            var field = i
+
+            if (field >= 80) colorToUse = "#67000d";
+            else if (field >= 70) colorToUse = "#a50f15";
+            else if (field >= 60) colorToUse = "#cb181d";
+            else if (field >= 50) colorToUse = "#ef3b2c";
+            else if (field >= 40) colorToUse = "#fb6a4a";
+            else if (field >= 30) colorToUse = "#fc9272";
+            else if (field >= 20) colorToUse = "#fcbba1";
+            else if (field >= 10) colorToUse = "#fee0d2";
+            else if (field > 0) colorToUse = "#fff5f0";
+            else  colorToUse = "white";
+
+            return colorToUse
+          }
+        //var Sites = L.layerGroup([stops]);
+
+
+        function keju_base(feature) {
+          return {
+              fillColor: '#bdbdbd',
+              weight: 1,
+              opacity: 1,
+              color: '#fff',
+              dashArray: '',
+              fillOpacity: 0.3
+          };
+        }
+
+
+          var redIcon = L.icon({
+          iconUrl: 'img/redIcon.png',
+          iconSize: [10,10],
+          iconAnchor: [5,5],
+          popupAnchor: [0,-5]
+          });
+
+        var song_base = new L.GeoJSON.AJAX("data/nsong.json", {
+            style: keju_base,
+            onEachFeature: function (feature, layer) {
+          }
+        }).addTo(song_exam);
+
+        var song_keju_stat = new L.GeoJSON.AJAX("data/keju_stat.json",{
+          style : function (feature) {
+              //var style = parseInt(inputAge(),10)
+              return {
+                   //style of
+                   weight: 0,
+                   opacity: 0,
+                   color: getColor(feature.properties.song.toString()),
+                   fillOpacity: 0.25
+                 };
+          },
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup(feature.properties.song.toString() +" people passed the highest-level exam in this region during Northern Song dynasty.")
+          }
+        }).addTo(song_exam);
+
+        var song_people = new L.GeoJSON.AJAX("data/song_exam.json",{
+            style : function(feature) {
+              return {
+                color: '#000',
+                weight: 0.5
+              }
+            },
+            pointToLayer: function(geoJsonPoint, latlng) {
+              return L.marker(latlng,{
+              icon: redIcon
+            })
+            },
+            onEachFeature: function(feature, layer) {
+              layer.bindPopup('<p>Name: '+feature.properties.Name+' ('+feature.properties.NameChn+')<br>Exam Year: '+feature.properties.EntryYear+'<br> Hometown: '+feature.properties.AddrName+'</p>')
+            }
+          }).addTo(song_people);
+
+          var ming_base = new L.GeoJSON.AJAX("data/ming_territory.json", {
+              style: keju_base,
+              onEachFeature: function (feature, layer) {
+            }
+          }).addTo(ming_exam);
+
+          var ming_keju_stat = new L.GeoJSON.AJAX("data/keju_stat.json",{
+            style : function (feature) {
+                //var style = parseInt(inputAge(),10)
+                return {
+                     //style of
+                     weight: 0,
+                     opacity: 0,
+                     color: getColor(feature.properties.ming.toString()),
+                     fillOpacity: 0.25
+                   };
+            },
+            onEachFeature: function(feature, layer) {
+              layer.bindPopup(feature.properties.ming.toString() +" people passed the highest-level exam in this region during Ming dynasty.")
+            }
+          }).addTo(ming_exam);
+
+          var ming_people = new L.GeoJSON.AJAX("data/ming_exam.json",{
+              style : function(feature) {
+                return {
+                  color: '#000',
+                  weight: 0.5
+                }
+              },
+              pointToLayer: function(geoJsonPoint, latlng) {
+                return L.marker(latlng,{
+                icon: redIcon
+              })
+              },
+              onEachFeature: function(feature, layer) {
+                layer.bindPopup('<p>Name: '+feature.properties.Name+' ('+feature.properties.NameChn+')<br>Exam Year: '+feature.properties.EntryYear+'<br> Hometown: '+feature.properties.AddrName+'</p>')
+              }
+            }).addTo(ming_people);
+
+            var qing_base = new L.GeoJSON.AJAX("data/qing.json", {
+                style: keju_base,
+                onEachFeature: function (feature, layer) {
+              }
+            }).addTo(qing_exam);
+
+            var qing_keju_stat = new L.GeoJSON.AJAX("data/keju_stat.json",{
+              style : function (feature) {
+                  //var style = parseInt(inputAge(),10)
+                  return {
+                       //style of
+                       weight: 0,
+                       opacity: 0,
+                       color: getColor(feature.properties.qing.toString()),
+                       fillOpacity: 0.25
+                     };
+              },
+              onEachFeature: function(feature, layer) {
+                layer.bindPopup(feature.properties.qing.toString() +" people passed the highest-level exam in this region during Qing dynasty.")
+              }
+            }).addTo(qing_exam);
+
+            var qing_people = new L.GeoJSON.AJAX("data/qing_exam.json",{
+                style : function(feature) {
+                  return {
+                    color: '#000',
+                    weight: 0.5
+                  }
+                },
+                pointToLayer: function(geoJsonPoint, latlng) {
+                  return L.marker(latlng,{
+                  icon: redIcon
+                })
+                },
+                onEachFeature: function(feature, layer) {
+                  layer.bindPopup('<p>Name: '+feature.properties.Name+' ('+feature.properties.NameChn+')<br>Exam Year: '+feature.properties.EntryYear+'<br> Hometown: '+feature.properties.AddrName+'</p>')
+                }
+              }).addTo(qing_people);
+
+
+
+          var map3 = L.map('map3', {
+            center: [35,106],
+            zoom: 3,
+            layers: [basic3]
+          });
+          //.setView([43.8,-88],10);
+
+          //var till = L.Proj.geoJson(wisc_glacier).addTo(till_units);
+
+          var baseLayers3 = {
+            "Basic": basic3
+          };
+
+          var overlays3 = {
+          "Northern Song Statistics": song_exam,
+          "Northern Song Examinees Passed": song_people,
+          "Ming Statistics": ming_exam,
+          "Ming Examinees Passed": ming_people,
+          "Qing Statistcs": qing_exam,
+          "Qing Examinees Passed": qing_people
+          };
+
+
+        L.control.layers(baseLayers3, overlays3).addTo(map3);
+        });
+
+      </script>
+      </div>
+      <div id="paneltext3">
+      </div>
+    </div>
+  </div>
+
+  <div id="wrapper-emperors">
+    <h2>Ideology, Philosophy and Religions</h2>
+    <p>In Eastern Zhou, China was politically divided into small principalities, and so was the realm of ideology, which entered a prosperous period known as the Hunderd Schools of Thoughts. During this period, many schools of ideology that had remarkable influences on Chinese history and cultre were established. Among them, four schools were most noticable. They are Confucianism, Daoism, Legalism and Mohism. <br><br> Confucianism was established by Confucius and text (Four Books and Six Classics) that he compiled. Confucianists valued ethical practices and guidelines. They believed that the ruler of a state should be virtuous and kind, while normal people should be loyal. This school was further developed and popularized by Mencius who believed in good human nature and the role of destiny. Daoism was formally founded by Lao Zi and developed by Zhuang Zi. Daoists believed that humans and the society should obay natural principals. They thought that the best way to administrate a state was to adapt into the rhythm of the nature. Legalists were a group of people who believed that harsh laws and punishments were necessary to keep the society stable and to keep the state prosperous. Many legalists launched reforms in different principality states and had great achievements. Among those reforms, the one led by legalist Shang Yang in State Qin was the best-known one, and it reshaped Qin into a powerful state which eventually unified China. Mohists were some pacifists who were good at engineering. They helped various states build defensive weapons and they thought that in this way they could eventually terminate all wars.<br><br>In Han dynasty, Dong Zhongshu assisted Emperor Wu of Han in setting a revised version of Confucianism as the only official school of ideology in China. Since then, Confucianism has been the dominante school of thought for thousands of years. Daoism gradually changed from a school of thought into a religion, which is still one of the major religions in China today. Some components of Legalism were absorbed by Confucianism, and in later periods, some officials used Legalism methods to administrate the country especially during times of wars. Zhuge Liang of Shu-Han Kingdom was an example. Mohism and other smaller schools gradually disappeared. <br><br> In the later half of Han dynasty, Buddhism, a religion originated from Nepal, entered China along the Silk Road. It significantly spread out during Southern and Northern Dynasties, and became presperous during Sui and Tang dynasties. Confucianism actively absorb good components of Buddhism and Daoism, and so did the other two. As a result, Buddhism became localized in China and was well incorporated into Chinese culture. The three ideologies and religions merged and became popular at the same time in China during Tang and Song dynasties. <br><br> Confucianism went through several reforms later in the history, especially in Song and Ming dynasties by scholars including Zhu Xi and Wang Yangming. Some of those reforms were good but some others were controvercial. In Ming and Qing dynasty, the Neo-Confucianism was formally established. In the interactive map below, you can explore important ideologists and philosophers in Chinese history. </p>
+
+    <center><img src="img/ideology.gif" width="80%"></center>
+    <br>
+    <center><p><a href="ideology.html"> Enter to Play</a><br><p></center>
+
+    <h2>Travelling, Foreign Relation and Tributary System</h2>
+    <center><img src="img/silkroad.png" width="80%"></center>
+    <p>Ancient Chinese thought that they were at the center of the world, and thus named their land "Zhong-Hua", where "Zhong" means central and "Hua" means flower-like or magnificent. The land of China Proper is vast, so Chinese ancestors had limited knowledge regarding places far away from the center of the empire. Because Chinese civilization was relatively advanced compared with surronding tribes and smaller kingdoms, ancient Chinese had some stereotypes to others. This idea is illustrated by the figure below:</p>
+
+    <center><img src="img/surronding.jpg", width="45%"></center>
+
+    <p>When the empire grew big, Chinese people constructed some amazing infrastructures to link different areas together. Some notable examples include the Chidao (expressway) of Qin dynasty and the Grand Canal of Sui and Yuan dynasties. The Chidao system was both for the military purposes and for Qin Shi Huang's grand tours. The Grand Canal system constructed in Sui dynasty and re-routed in Yuan dynasty was one of the most important achievements and legacies of ancient China. It linked watersheds of five great rivers: Hai River, Yellow River, Huai River, Yangtze River and Qiantang River, which made it way much easier to travel meridionally, and it was one of key factors that kept China unified for the bulk parts of time. The north-south transportation relied on those canals for centuries until the construction of Beijing-Guangzhou Railway in 20th century.</p>
+
+    <br>
+    <p>There were also two dominante ways that ancient Chinese people took to communicate and trade with other countries. They are the Silk Road and Maritime Silk Road. Mainstream historians widely consider Zhang Qian of Han dynasty the person who set this road up. It connects China with Central Asia, and then Middle West and Europe. In Eastern Han, a missonary named Gan Ying travelled west along the Silk Road to establish trading relationships with western countries. He arrived in Parthia Empire and learned that there was another hugh empire, might as big as Han, just across the Persian Gulf to the Parthia. He wanted to enter that empire, but local Parthian people told him that it was impossible to sail across the gulf. That was an obvious lie, and it cost the best opportunity for two of the greatest empires of all time, Han Empire and Roman Empire, to have some direct contacts with each other along the Silk Road.</p>
+
+    <br><p>In short, although China's geography is relatively isolated, it still had foreign relationships with other countries, thanks to the Silk Road. Below is an illustration of countries that had trading activities or conflicts with Tang dynasty.</p>
+
+    <br><center><img src="img/network.gif" width="80%"></center>
+    <br>
+    <center><p><a href="network.html"> Enter to Play</a><br><p></center><br>
+
+
+
+    <p>The Silk Road was not always available. When China or any other region along the way were at war, the route was cut off. In Middle Ages, Arabs learned how to sail across the Indian Ocean, and thus the Maritime Silk Road was established. This benifited countries in Middle East, Easterm Afroca, Southern Asia, and Southeastern Asia, as well as the southeastern coast of China. In ancient time, southern China was regarded as a place as bad as hell. It was the destination to expel criminals. When Northern China was in chaos (like Sixteen Kingdoms, the An-Shi rebellion, and the Song-Jurchen wars), people immigrated southwards and started to develope the south. When the Maritime Silk Road was available, southern China's economy was significantly improved. Coastal cities like Quanzhou, Fuzhou, Ningbo and Guangzhou became major ports. The heyday of Maritime Silk Road was in Song and Yuan dynasties and it reached the greatest extent during the reign of Yongle Empire in early Ming dynasty. During this reign, Zheng He had his voyages to various countries around the Indian Ocean. It predated European sailings, and the size of Zheng He's fleet was several times bigger than that of Columbus's. However, Ming and Qing emperors then released policies to ban the maritime trading because of the invasion of pirates. The Tributary System was fully established in Ming and QIng dynasties. China then had some tributary states that pay annual tributaries to the empire. Some most significant tributary states included Japan, Korea, Vietnam and Liu Qiu (Ryukyu). They were not a part of Chinese sovereignty but China had some degree of suzerainty over those states. This is a unique case in the history of international relation. To Chinese emperors in Ming and Qing, trading with those states were enough for the empire, so they were able to shut down the maritime trading with the rest of the world. This marked the end of the gold era of Maritime Silk Road, and it also cost China the opportunity to get envolved in the Great Sailings.</p>
+
+    <h2>The Role of Climate</h2>
+    <p>Some scholars argue that climate change is a key driver of Chinese history. Based on reconstruction of past climate based on historical accounts on temperature, species, pollens, hydrological properties of rivers, and astrochronology, climatologists have reconstructed reliable temperature anomaly curves of China from 21th century BCE to the modern era. There are some correlations between the warm and cold periods and the relative strengths between China and northern nomadic people. The idea is that when the climate was warm, the agricultural-based Chinese civilization was strong and influencial; when the climate was cold, China would suffer from more natural disasters, and northern nomadic tribes, confederations or empires (e.g., Xiongnu, Xianbei, Khitan, Mongol, etc.) would also invade China because their homeland of the steppe was too cold. Below, you can find an illustration based on the temperature reconstruction by Zhu Kezhen. You can determine whether this argument is robust enough by yourself.</p>
+
+    <center><img src="img/climate.gif" width="80%"></center>
+    <br>
+    <center><p><a href="climate.html"> Enter to Play</a><br><p></center>
+    <br>
+    <br>
+  </div>
+
+
+
+  <script src="js/d3.v4.min.js"></script>
+  <script src="js/timeline.js"></script>
+  <script src="js/emperor.js"></script>
+</body>
+</html>
