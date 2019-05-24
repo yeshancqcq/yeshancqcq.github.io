@@ -97,7 +97,7 @@
                }
              ]
           },
-          {"name": "Cenozoic (251-65.5)",
+          {"name": "Mesozoic (251-65.5)",
             "children": [
                {"name": "Triassic (251-199)",
                  "children": [
@@ -219,8 +219,8 @@
                          {"name": "0.018: Younger Dryas Event"},
                          {"name": "0.009-0.005: Holocene Climate Optimum; Early civilizations"},
                          {"name": "0.0082: 8.2-ka Event caused by the dam break of Aggasiz Lake"},
-                         {"name": "0.0025: Khufu Pyramid built (for reference)"},
-                         {"name": "0.0002: Unification of China by Qin Dynasty (for reference)"}
+                         {"name": "0.0045: Khufu Pyramid built (for reference)"},
+                         {"name": "0.0021: Unification of China by Qin Dynasty (for reference)"}
                        ]
                     }
                   ]
