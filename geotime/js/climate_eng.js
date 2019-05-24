@@ -88,7 +88,7 @@ function draw(data, country) {
                          .attr("x", 50 - margin.left)
     .style("text-anchor", "middle")
     .attr("dy", "1em")
-    .text("距今年代");
+    .text("Ma BP");
 
 
   // Add the Y Axis
@@ -101,7 +101,7 @@ svg.append("text")
     .attr("x",0 - (height / 2))
     .attr("dy", "1em")
     .style("text-anchor", "middle")
-    .text("温度 (°C)");
+    .text("Temperature (°C)");
 
 svg.append("circle")
     .attr("cx", 199)
@@ -113,7 +113,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("古新世-始新世极热事件（PETM）")
+          div	.html("PETM")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -133,7 +133,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("尤卡坦陨石撞击，恐龙灭绝")
+          div	.html("Extinction of Dinosaurs")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -153,7 +153,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("印度和欧亚大陆发生碰撞")
+          div	.html("Collision started between India and Eurasia")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -173,7 +173,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("早始新世温暖期（EECO）")
+          div	.html("Early Eocene Climate Optimum")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -193,7 +193,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("南极洲形成冰盖")
+          div	.html("Early ice sheet in Antarctica")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -213,7 +213,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("澳洲与南极洲分离")
+          div	.html("Australia spreading away from Antarctica")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -233,7 +233,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("渐新世寒冷期")
+          div	.html("Cold house of Oligocene")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -253,7 +253,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("德雷克海峡形成")
+          div	.html("Drake Passage formed")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -273,7 +273,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("渐新世末升温（LOW）")
+          div	.html("Late Oligocene Warming")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -293,7 +293,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("安第斯和青藏高原的隆起加速，火山活动剧烈")
+          div	.html("Intensive uplifts of Andes and Tibet")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -313,7 +313,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("哥伦比亚河洪流玄武岩")
+          div	.html("Columbia River LIP")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -333,7 +333,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("中新世中期温暖期（MMCO）")
+          div	.html("Mid Miocene Climate Optimum")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -353,7 +353,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("北半球形成冰盖")
+          div	.html("Beginning of Northern Hemisphere ice sheets")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -373,7 +373,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("巴拿马地峡闭合")
+          div	.html("Closing of Panama seaway")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -393,7 +393,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("第四纪冰期")
+          div	.html("Pleistocene ice ages")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
@@ -413,7 +413,7 @@ svg.append("circle")
           div.transition()
               .duration(20)
               .style("opacity", 0.8);
-          div	.html("全新世温暖期")
+          div	.html("Holocene Climate Optimum")
               .style("left", (d3.event.pageX) + "px")
               .style("top", (d3.event.pageY - 30) + "px");
           })
