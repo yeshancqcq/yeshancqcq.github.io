@@ -64,7 +64,7 @@
           else if (field >= 20) colorToUse = "#fcbba1";
           else if (field >= 10) colorToUse = "#fee0d2";
           else if (field > 0) colorToUse = "#fff5f0";
-          else  colorToUse = "white";
+          else  colorToUse = "none";
 
           return colorToUse
         }
@@ -76,9 +76,9 @@
             fillColor: '#bdbdbd',
             weight: 1,
             opacity: 1,
-            color: '#fff',
+            color: '#a1a5ad',
             dashArray: '',
-            fillOpacity: 0.3
+            fillOpacity: 0.6
         };
       }
 
@@ -104,7 +104,7 @@
                  weight: 0,
                  opacity: 0,
                  color: getColor(feature.properties.song.toString()),
-                 fillOpacity: 0.25
+                 fillOpacity: 0.35
                };
         },
         onEachFeature: function(feature, layer) {
@@ -143,7 +143,7 @@
                    weight: 0,
                    opacity: 0,
                    color: getColor(feature.properties.ming.toString()),
-                   fillOpacity: 0.25
+                   fillOpacity: 0.35
                  };
           },
           onEachFeature: function(feature, layer) {
@@ -182,7 +182,7 @@
                      weight: 0,
                      opacity: 0,
                      color: getColor(feature.properties.qing.toString()),
-                     fillOpacity: 0.25
+                     fillOpacity: 0.35
                    };
             },
             onEachFeature: function(feature, layer) {
@@ -212,7 +212,7 @@
         var map3 = L.map('map3', {
           center: [35,116],
           zoom: 4,
-          layers: [basic3]
+          layers: [topographic3]
         });
         //.setView([43.8,-88],10);
 
