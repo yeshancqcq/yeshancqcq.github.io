@@ -72,7 +72,7 @@
 	<div id ="intro"><p2>This is a temporary working map coded by <a href="http://yeshancqcq.github.io">Shan Ye</a>. It is recommended to use a laptop or PC to view this page. Some mobile devices are not well supported. It has data points containing metadata info of each location, and spatial grids containing anomaly data. You can select what base map and layers to display from the dropdown menu at the upper right cornor of the map. You can also click on data points and grids to see their IDs and other information</p2>
 		<h3><center>About the data processing</center></h3>
 		<p2><center>Temperature data at 10,000 years b.p. are selected as the reference to generate anomaly data.</p2><br>
-		Raw data: <a href="https://github.com/yeshancqcq/GEO420_data/tree/master/marcott_data">Marcott</a> | <a href="https://github.com/yeshancqcq/GEO420_data/tree/master/shakun_data">Shakun</a><br>
+		Cleaned raw data: <a href="https://github.com/yeshancqcq/GEO420_data/tree/master/marcott_data">Marcott</a> | <a href="https://github.com/yeshancqcq/GEO420_data/tree/master/shakun_data">Shakun</a><br>
 		Separating csv files from the big excel spreadsheet of Marcott and Shakun papers: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/shakun_marcott_data/excel.vba">VBA code</a>.<br>
 		Calculating anomaly data from all cleared csv sheets in the same directory: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/anomaly_autoGen.R">R code</a>.<br>
 		Code for interpolating anomaly data: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/interpolation_anomaly.R">R code</a>.<br>
@@ -411,7 +411,7 @@
 			},
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
-					map.setView(e.latlng,3);
+					map.setView(e.latlng,2.5);
 					$("#paneltext").html('<h2> '+feature.properties.Location_o+'</h2><p> Metadata source: '
 										+feature.properties.Author+'</p><p> ID: '
 										+feature.properties.Number+'</p><p> Proxy: '
