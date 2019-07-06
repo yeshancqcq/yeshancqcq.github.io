@@ -85,6 +85,14 @@ a:hover {
   color: #6AADE7;
 }
 
+a:visited{
+	color: #8eb0e8;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
 #paneltext {
     margin-bottom: 30px;
     margin-left: 35px;
