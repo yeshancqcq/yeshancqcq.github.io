@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<title>Test Map Site</title>
+	<title>Paleo-Temperature Anomaly Spatial Grids</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,21 +23,26 @@
 	    background: black;
 	    color: white;
 	    font-size: 20px;
+			font-family: Georgia;
+			opacity: 0.7
 		}
 		.leaflet-popup-content {
 			margin: 5px;
 		}
 		.leaflet-popup-tip {
 			background: black;
+			opacity: 0.7
 		}
 		.leaflet-popup-close-button {
 			display: none;
+			opacity: 0.7
 		}
 
 		/*another-popop style*/
 .another-popup .leaflet-popup-content-wrapper {
   background: #e6f2ff;
   color: #0066cc;
+	font-family: : Georgia;
   font-size: 16px;
   line-height: 24px;
   border-radius: 0;
@@ -60,15 +65,24 @@
 </head>
 <body>
 
-<div id ="heading1"><center><p1>Metadata And Spatial Grids test</p1></center></div>
-<div id ="heading2"><center><p2>Data From Shakun and Marcott papers</p2></center></div>
-<div id ="intro"><center><p2>With data points and spatial grids (select from the dropdown menu at the upper right cornor of the map).</p2></center></div>
-	<div id ="intro"><center><p2>Temporary working map by <a href="http://yeshancqcq.github.io">Shan Ye</a></p2></center></div>
+<div id ="heading1"><center><p1>Paleo-temperature Anomaly Metadata and Spatial Grids</p1></center></div><br>
+<div id ="heading2"><center><p2>Data from <a href="https://www.nature.com/articles/nature10915">Shakun</a> and <a href="https://science.sciencemag.org/content/339/6124/1198">Marcott</a> papers</p2></center></div>
+<div id="about">
+<div id ="intro"><center><h3>Read Me</h3></center>
+	<div id ="intro"><p2>This is a temporary working map coded by <a href="http://yeshancqcq.github.io">Shan Ye</a>. It is recommended to use a laptop or PC to view this page. Some mobile devices are not well supported. It has data points containing metadata info of each location, and spatial grids containing anomaly data. You can select what base map and layers to display from the dropdown menu at the upper right cornor of the map. You can also click on data points and grids to see their IDs and other information. The default view only shows general locations of data points. To see more accurate locations of data points, you need to zoom in the map.</p2>
+		<h3><center>About the data processing</center></h3>
+		<p2><center>The average temperature at each data point between 8,000 and 12,000 years bp is selected as the reference to generate anomaly data, becuase the spatiotemporal coverage of this period is good for most data points. If a data point does not extend deep enough (>= 1ka) into the chosen period, this data point is dropped.</p2><br>
+		Cleaned raw data: <a href="https://github.com/yeshancqcq/GEO420_data/tree/master/marcott_data">Marcott</a> | <a href="https://github.com/yeshancqcq/GEO420_data/tree/master/shakun_data">Shakun</a><br>
+		Separating csv files from the big excel spreadsheet of Marcott and Shakun papers: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/shakun_marcott_data/excel.vba">VBA code</a>.<br>
+		Calculating anomaly data from all cleared csv sheets in the same directory: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/anomaly_autoGen.R">R code</a>.<br>
+		Code for interpolating anomaly data: <a href="https://github.com/yeshancqcq/GEO420_data/blob/master/interpolation_anomaly.R">R code</a>.<br>
+		Python code for spatial-zonal-statistics data processing: <a href="https://github.com/yeshancqcq/paleo_data_spatial/blob/master/arcgis.py">using arcpy</a>.</p2></center>
+	</div>
 
-		<div id ="intro"><center>		<br>
-		<p>Choose the year to be mapped below. Always Clear before choosing again.</p>
+		<div id ="intro"><center><br>
+		<p>Choose the year to be mapped below. Always CLEAR before choosing again.</p>
 
-<select id="mySelect" size="10">
+<select class = "selector" id="mySelect" size="1">
 	<option value="0">Current</option>
   <option value="100">100 Years BP</option>
   <option value="200">200 Years BP</option>
@@ -290,11 +304,11 @@
 	<option value="21800">21800 Years BP</option>
 	<option value="21900">21900 Years BP</option>
 	<option value="22000">22000 Years BP</option>
-</select>
+</select></div>
 
 <div><center>
-<button onclick="temporalGrid_style();">Map it</button>
-<button onClick="document.location.reload()">Clear</button>
+<button class="button" onclick="temporalGrid_style();">Map it</button>
+<button class="button" onClick="document.location.reload()">Clear</button>
 </center></div>
 </center></div>
 	<div id="wrapper">
@@ -305,7 +319,7 @@
 
 //	$(document).ready(function()
 		// Initiating base map layers
-		var temporalGridData = $.getJSON("data/ref_grid_time.geojson")
+		var temporalGridData = $.getJSON("data/ref_grid_time.json")
 		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
 			maxZoom: 30,
       minZoom: 2,
@@ -327,8 +341,8 @@
   var blackIcon = L.icon({
   iconUrl: 'img/map-marker.svg',
   iconSize: [11,44],
-  iconAnchor: [11,4],
-  popupAnchor: [11,2]
+  iconAnchor: [10,40],
+  popupAnchor: [-5,-20]
   });
 
   var redIcon = L.icon({
@@ -361,7 +375,7 @@
     }
 
 	//Add the grid layer1
-	var grid_layer= new L.GeoJSON.AJAX("data/ref_grid.geojson", {
+	var grid_layer= new L.GeoJSON.AJAX("data/ref_grid_time.json", {
 			style: grid_style,
 			onEachFeature: function (feature, layer) {
         layer.on('mouseover', function () {
@@ -375,7 +389,7 @@
         layer.on('mouseout', function () {
             grid_layer.resetStyle(this);
         },
-				layer.bindPopup('<p>'+feature.properties.PageName+'</p>')
+				layer.bindPopup('<p> Grid ID: '+feature.properties.PageName+'</p><p> Area of this grid: ' +feature.properties.area +' km2 </p><p> Weighting of this grid in global average anomaly calculation: '+feature.properties.a_weight+'</p>')
 				);
     }
 	}).addTo(grid);
@@ -397,16 +411,16 @@
 			},
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
-					map.setView(e.latlng,3);
-					$("#paneltext").html('<h2> '+feature.properties.Location_o+'</h2><p> Metadata source: '
+					map.setView(e.latlng,2.5);
+					$("#paneltext").html('<h2> '+feature.properties.Location+'</h2><p> Metadata source: '
 										+feature.properties.Author+'</p><p> ID: '
-										+feature.properties.Number+'</p><p> Proxy: '
+										+feature.properties.ID+'</p><p> Proxy: '
 										+feature.properties.Proxy+'</p><p> Temperature reference: '
-										+feature.properties.Temperatur+'</p><p> Elevation/Depth: '
-										+feature.properties.Elevation+' m</p><p> Resolution: '
+										+feature.properties.Temperature+'</p><p> Elevation/Depth: '
+										+feature.properties.Gao+' m</p><p> Resolution: '
 										+feature.properties.Resolution+'</p>');
 				}),
-				layer.bindPopup('<p>'+feature.properties.Location_o+'<br> See the info panel below. </p>', popup2)
+				layer.bindPopup('<p>'+feature.properties.Location+'<br> See the info panel below. </p>', popup2)
 			}
 		}).addTo(sites);
 
@@ -426,13 +440,13 @@
     else if (field >= 4) colorToUse = "#fc4e2a";
     else if (field >= 2) colorToUse = "#fd8d3c";
     else if (field > 0) colorToUse = "#feb24c";
-    else if (field == 0) colorToUse = "#ffffcc";
+    else if (field == 0) colorToUse = "none";
     else if (field >= -2) colorToUse = "#e0f3f8";
     else if (field >= -4) colorToUse = "#9ecae1";
     else if (field >= -6) colorToUse = "#6baed6";
     else if (field >= -8) colorToUse = "#4292c6";
     else if (field >= -10) colorToUse = "#2171b5";
-    else colorToUse = "#08519c";
+    else colorToUse = "none";
 
     return colorToUse
   }
@@ -451,20 +465,24 @@
 			initLoad(age)
 	}
 	function initLoad(age){
-	  var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.geojson",{
+		var datatest;
+	  var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.json",{
 	    style : function (feature) {
 				  //var style = parseInt(inputAge(),10)
 					var inputAge = age
-
 					return {
 			         //style of
-			         weight: 0.1,
+			         weight: 0.8,
 			         opacity: 0.5,
 			         color: getColor(feature.properties[inputAge]),
-							 fillOpacity: 0.3
+							 fillOpacity: 0.6
 			       };
+			},
+			onEachFeature: function(feature, layer) {
+				var inputAge = age
+				datatest=feature.properties[inputAge]
+				layer.bindPopup('<p> Temperature anomaly at this location of this time is '+datatest+'</p><p>Add the "Grids" layer from upper-left menu to see the area and weighted area of this grid.');
 			}
-
 		}).addTo(temporal);
 	}
 
