@@ -3,8 +3,8 @@ body
 	  background-color: #737373;
 }
 
-a, a:visited { text-decoration: none; color: #87BDB3; }
-a:hover { text-decoration: underline; color: #9DCBC2; }
+a, a:visited { text-decoration: none; color: #c5050c; }
+a:hover { text-decoration: underline; color: #9b0000; }
 
 #wrapper {
 	box-shadow: 0px 0px 40px #CBD9DE;
