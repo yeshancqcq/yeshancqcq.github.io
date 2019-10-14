@@ -65,7 +65,7 @@
 </head>
 <body>
 
-<div id ="heading1"><center><p1>Paleo-temperature Anomaly Metadata and Spatial Grids</p1></center></div><br>
+<div id ="heading1"><center><p1>Temporary private site</p1></center></div><br>
 <div id ="heading2"><center><p2>Data from <a href="https://www.nature.com/articles/nature10915">Shakun</a> and <a href="https://science.sciencemag.org/content/339/6124/1198">Marcott</a> papers</p2></center></div>
 <div id="about">
 <div id ="intro"><center><h3>Read Me</h3></center>
@@ -318,7 +318,7 @@
 
 //	$(document).ready(function()
 		// Initiating base map layers
-		var temporalGridData = $.getJSON("data/anomaly_diff.json")
+		var temporalGridData = $.getJSON("data/diff_anomaly.json")
 		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
 			maxZoom: 30,
       minZoom: 2,
@@ -374,7 +374,7 @@
     }
 
 	//Add the grid layer1
-	var grid_layer= new L.GeoJSON.AJAX("data/anomaly_diff.json", {
+	var grid_layer= new L.GeoJSON.AJAX("data/diff_anomaly.json", {
 			style: grid_style,
 			onEachFeature: function (feature, layer) {
         layer.on('mouseover', function () {
@@ -437,8 +437,8 @@
     else if (field >= 8) colorToUse = "#bd0026";
     else if (field >= 6) colorToUse = "#e31a1c";
     else if (field >= 4) colorToUse = "#fc4e2a";
-    else if (field >= 2) colorToUse = "#fd8d3c";
-    else if (field > 0) colorToUse = "#feb24c";
+    else if (field >= 2) colorToUse = "#febd67";
+    else if (field > 0) colorToUse = "#ffe9cc";
     else if (field == 0) colorToUse = "none";
     else if (field >= -2) colorToUse = "#e0f3f8";
     else if (field >= -4) colorToUse = "#9ecae1";
@@ -466,7 +466,7 @@
 	}
 	function initLoad(age){
 		var datatest;
-	  var temporalGrid = new L.GeoJSON.AJAX("data/anomaly_diff.json",{
+	  var temporalGrid = new L.GeoJSON.AJAX("data/diff_anomaly.json",{
 	    style : function (feature) {
 				  //var style = parseInt(inputAge(),10)
 					var inputAge = age
