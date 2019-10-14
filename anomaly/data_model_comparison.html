@@ -374,7 +374,7 @@
     }
 
 	//Add the grid layer1
-	var grid_layer= new L.GeoJSON.AJAX("data/ref_grid_time.json", {
+	var grid_layer= new L.GeoJSON.AJAX("data/anomaly_diff.json", {
 			style: grid_style,
 			onEachFeature: function (feature, layer) {
         layer.on('mouseover', function () {
@@ -466,7 +466,7 @@
 	}
 	function initLoad(age){
 		var datatest;
-	  var temporalGrid = new L.GeoJSON.AJAX("data/ref_grid_time.json",{
+	  var temporalGrid = new L.GeoJSON.AJAX("data/anomaly_diff.json",{
 	    style : function (feature) {
 				  //var style = parseInt(inputAge(),10)
 					var inputAge = age
