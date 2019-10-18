@@ -34,14 +34,16 @@ onload = function() {
 
 	</script>
 		<script>
-			//choropleth
-			var width = 800, height = 400;
+			//choropleth map
+			var margin = {top: 10, right: 10, bottom: 10, left: 10},
+            width = 720
+            height = 360;
 
 			var value;
 
 			var color = d3.scale.linear().domain([-25, 25]).range(["#04388c", "#8c0404"]);
 
-			var projection = d3.geo.mercator().center([0,0]).scale(1000).translate([400,200]);
+			var projection = d3.geo.mercator();
 
 			var path = d3.geo.path().projection(projection);
 
@@ -50,7 +52,7 @@ onload = function() {
 			d3.json("data/diff_anomaly_topojson.json", function(error, ok) {
 				var diff_anomaly = topojson.feature(ok, ok.objects.diff_anomaly);
 
-				//projection.scale(1).translate([0, 0]);
+				projection.scale(130);
 
 				//var b = path.bounds(diff_anomaly), s = .95 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height), t = [(width - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
 
