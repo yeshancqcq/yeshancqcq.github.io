@@ -13,7 +13,7 @@
     {
       "name": "Computer Skills" ,"name2":"Computer 计算机","description":"",
       "children": [
-        { "name": "Software","name2":"Software Developement 软件开发" ,"description":"Sparrow - Cosmogenic lab branch"},
+        { "name": "Software Developement","name2":"Software Developement 软件开发" ,"description":"Sparrow - Cosmogenic lab branch"},
         { "name": "Cyberinfrastructure","name2":"CI 网络基础设施" ,"description":""},
         { "name": "GeoAI" ,"name2":"GeoAI 地球科学人工智能" ,"description":"Spatiotemporal data mining for paleoclimate data <br> 古气候数据时空挖掘"},
         { "name": "Macrostrat","name2":"Macrostrat 宏观地层数据库" ,"description":"age model validation, creating new polygons <br> 验证年代模型，添加新多边形要素"},
