@@ -86,7 +86,7 @@ function update(source) {
             div.transition()
                 .duration(20)
                 .style("opacity", 0.85);
-            div	.html(d.data.chinese + "<br/>"  + d.data.description)
+            div	.html(d.data.name2 + "<br/>"  + d.data.description)
                 .style("left", (d3.event.pageX) + "px")
                 .style("top", (d3.event.pageY - 30) + "px");
             })
