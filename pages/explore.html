@@ -74,10 +74,19 @@ psmall {
 		font-size: 10pt;
 		font-style: italic;
 }
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
 #tooltip-container0 {
 	position: absolute;
 	background-color: #FFF;
 	color: #000;
+	max-width:175px;
 	padding: 10px;
 	border: 1px solid;
 	display: none;
@@ -139,12 +148,45 @@ psmall {
 		font-family: "Georgia";
 
 }
+#timeline-svg{
+	background-color: #FFF;
+		width: 100%;
+		min-width: 380px;
+		height: auto;
+		float: center;
+		margin-top: 15px;
+		margin-right: 10px;
+		margin-left: 30px;
+		margin-bottom: 15px;
+		font-family: "Georgia";
+}
+div.tooltip {
+		position: absolute;
+		text-align: left;
+		width: auto;
+		height: auto;
+		max-width:175px;
+		padding: 10px;
+		font: 12px Georgia;
+		background: #9eb8b3;
+		border: 0px;
+		border-radius: 8px;
+		pointer-events: none;
+}
 
 </style>
 
 	<body>
-		<p>Back to <a href="../index.html" >Main Page</a>.</p>
 
+		<div>
+			<h1>Shan Ye</h1>
+			<p><a href="../index.html" >Main Page</a> | <a href="../pages/resume.html" >Static Resume</a></p>
+		</div>
+
+		<div>
+			<h2>Timeline of Experiences</h2>
+			<a href="../about/timeline.html"><img src="../img/timeline.jpg" alt="timeline" class="image"></a>
+		</div>
 
 		<div id="skill">
 			<h2>Skills</h2>
@@ -154,14 +196,17 @@ psmall {
 			<script src="../js/explore.js"></script>
 		</div>
 
-		<div id="tl">
-			<h2>地球历史大事年表</h2>
-			<div id="tooltip-container"></div>
-			<div><psmall>点击可折叠</psmall></div>
-			<div id="timeline-svg"></div>
-			<script src="../js/d3.v4.min.js"></script>
-			<script src="../js/timeline.js"></script>
+		<div id="introduction">
+			<div id="overall">
+				<h3></h3>
+				<div><psmall> </psmall></div>
+				<script type="text/javascript" src="data/overall_data.js">
+				</script>
+				<script type="text/javascript" src="js/overall.js">
+				</script>
+			</div>
 		</div>
+
 
 		<div>
 			<h2>Education</h2>
@@ -171,9 +216,16 @@ psmall {
 			<script src="../js/map.js"></script>
 		</div>
 
-
-
-
+		<div id="introduction">
+			<div id="overall">
+				<h3></h3>
+				<div><psmall> </psmall></div>
+				<script type="text/javascript" src="data/overall_data.js">
+				</script>
+				<script type="text/javascript" src="js/overall.js">
+				</script>
+			</div>
+		</div>
 
 		<psmall>Illustration made with D3.js library</psmall>
 	</body>
