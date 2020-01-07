@@ -124,7 +124,7 @@ svg2.selectAll("circle")
     	div.transition()
       	   .duration(200)
            .style("opacity", .9);
-           div.html("<h3>" + d.place + "</h3><br/><b> " + d.year +" <br/> " + d.focus + " </b><br/> " + d.class)
+           div.html("<h5>" + d.place + "</h5><br/><b> " + d.year +" <br/> " + d.focus + " </b><br/> " + d.class)
            .style("left", (d3.event.pageX) + "px")
            .style("top", (d3.event.pageY - 28) + "px");
 	})
