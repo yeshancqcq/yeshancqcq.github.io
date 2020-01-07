@@ -1,23 +1,23 @@
 {
-  "name": "My Skills","name2":"My Skills 技能","description":"",
+  "name": "My Skills","name2":"My Skills","description":"",
   "children": [
     {
-      "name": "Research" ,"name2":"Research 科研","description":"",
+      "name": "Research" ,"name2":"Research","description":"",
       "children": [
-        { "name": "Geomechanics","name2":"Geomechanics 地球动力学" ,"description":"buckling folds, tectonics, induced seismology <br> 褶皱，板块构造，诱发地震"},
-        { "name": "Paleoclimate" ,"name2":"Paleoclimate 古气候" ,"description":"climate in Cretaceous, last deglaciation and Holocene <br> 白垩纪、冰退期和全新世气候"},
-        { "name": "Sedimentology" ,"name2":"Sedimentology 沉积学" ,"description":"Cretaceous stratigraphy in North America <br> 北美洲白垩纪地层"},
-        { "name": "GIS" ,"name2":"GIS 地理信息系统" ,"description":"spatial analysis and cartography <br> 空间分析、地图设计"}
+        { "name": "Geomechanics","name2":"Geomechanics" ,"description":"buckling folds, tectonics, induced seismology"},
+        { "name": "Paleoclimate" ,"name2":"Paleoclimate" ,"description":"climate in Cretaceous, last deglaciation and Holocene"},
+        { "name": "Sedimentology" ,"name2":"Sedimentology" ,"description":"Cretaceous stratigraphy in North America <br> North American dinosaurs"},
+        { "name": "GIS" ,"name2":"GIS" ,"description":"spatial analysis and cartography"}
       ]
     },
     {
-      "name": "Computer Skills" ,"name2":"Computer 计算机","description":"",
+      "name": "Computer Skills" ,"name2":"Computer skills","description":"",
       "children": [
-        { "name": "Software Developement","name2":"Software Developement 软件开发" ,"description":"Sparrow - Cosmogenic lab branch"},
-        { "name": "Cyberinfrastructure","name2":"CI 网络基础设施" ,"description":""},
-        { "name": "GeoAI" ,"name2":"GeoAI 地球科学人工智能" ,"description":"Spatiotemporal data mining for paleoclimate data <br> 古气候数据时空挖掘"},
-        { "name": "Macrostrat","name2":"Macrostrat 宏观地层数据库" ,"description":"age model validation, creating new polygons <br> 验证年代模型，添加新多边形要素"},
-        { "name": "Database" ,"name2":"Database 数据库" ,"description":"",
+        { "name": "Software Developement","name2":"Software Developement" ,"description":"Sparrow - Cosmogenic lab branch"},
+        { "name": "Cyberinfrastructure","name2":"CI" ,"description":""},
+        { "name": "GeoAI" ,"name2":"GeoAI and geoinformatics" ,"description":"Spatiotemporal data mining for paleoclimate data"},
+        { "name": "Macrostrat","name2":"Macrostrat" ,"description":"age model validation, creating new polygons"},
+        { "name": "Database" ,"name2":"Database" ,"description":"",
           "children": [
             { "name": "MySQL","name2":"MySQL" ,"description":""},
             { "name": "Access","name2":"Microsoft Access" ,"description":""},
@@ -25,7 +25,7 @@
             { "name": "PostgreSQL" ,"name2":"PostgreSQL" ,"description":""}
           ]
         },
-        { "name": "Programming" ,"name2":"Programming Languages 编程语言" ,"description":"",
+        { "name": "Programming" ,"name2":"Programming Languages" ,"description":"",
           "children": [
             { "name": "Python","name2":"Python" ,"description":"advanced"},
             { "name": "R","name2":"R" ,"description":"advanced"},
@@ -37,7 +37,7 @@
             { "name": "SQL" ,"name2":"SQL" ,"description":"working knowledge"}
           ]
         },
-        { "name": "Software" ,"name2":"Software 软件" ,"description":"",
+        { "name": "Software" ,"name2":"Software" ,"description":"",
           "children": [
             { "name": "ArcGIS","name2":"ArcGIS" ,"description":"advanced skill"},
             { "name": "QGIS","name2":"QGIS" ,"description":"working knowledge"},
@@ -54,14 +54,14 @@
       ]
     },
     {
-      "name": "Other Skills" ,"name2":"Other Skills 其他技能","description":"",
+      "name": "Other Skills" ,"name2":"Other Skills","description":"",
       "children": [
-        { "name": "Outreach writing","name2":"Outreach writing 科普写作" ,"description":"5 million views since Jan 2018 <br> 2018年1月以来累计5百万阅读量"},
-        { "name": "Translation" ,"name2":"Translation 翻译" ,"description":"Exploring Geology by Reynolds et al. English to Chinese <br> 《探索地质学》教材英译中"},
-        { "name": "Map design" ,"name2":"Map design 地图设计" ,"description":"1st place in Esri China GIS Day Map Design Contest 2019 <br> 2019年Esri中国GIS Day地图设计比赛第一名"},
-        { "name": "Web Maps","name2":"Web Maps 网页地图" ,"description":"Leaflet, Mapbox, D3.js"},
-        { "name": "Video and Audio edit" ,"name2":"Viedo and Audio edit 音频和视频处理" ,"description":"EQ, Compression, Remix, Midi"},
-        { "name": "Field work" ,"name2":"Field work 野外作业" ,"description":"Experiences in Yellowstone, Utah, Michigan, Wisconsin and Appalachia"}
+        { "name": "Outreach writing","name2":"Outreach writing" ,"description":"5.5 million views since Jan 2018 <br> 3rd place in 2018 Awesome Geology Outreach Competition (co-sponsored by China Geological Survey and China University of Geoscience)"},
+        { "name": "Translation" ,"name2":"Translation" ,"description":"Exploring Geology by Reynolds et al. English to Chinese"},
+        { "name": "Map design" ,"name2":"Map design" ,"description":"1st place in Esri China GIS Day Map Design Contest 2019"},
+        { "name": "Web Maps","name2":"Web Maps" ,"description":"Leaflet, Mapbox, D3.js"},
+        { "name": "Video and Audio edit" ,"name2":"Viedo and Audio edit" ,"description":"EQ, Compression, Remix, Midi, Adobe After Effects, Ableton"},
+        { "name": "Field work" ,"name2":"Field work" ,"description":"Experiences in Yellowstone, Utah, Michigan, Wisconsin and Appalachia"}
       ]
     }
   ]
