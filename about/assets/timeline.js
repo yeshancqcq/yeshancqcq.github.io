@@ -124,7 +124,7 @@ function drawChart() {
 
     data.map(d => {
       let details = d3.select('#timelineChart').append('div').classed('details', true).classed('details-' + d.category.toLowerCase(), true).attr('id', 'details-' + d.id);
-      details.append('i').classed('material-icons close-icon', true).text('return');
+      details.append('i').classed('material-icons close-icon', true).text('zoom out');
       details.append('div').classed('title', true).append('span').classed('date text-date date-title', true).text(d.startDate + ' to ' + d.endDate);
       details.select(' .title').append('span').classed('position-title text-position', true).text(d.name);
       details.append('div').classed('place-name text-place hovered', true).text(d.placeName);
