@@ -103,7 +103,7 @@ psmall {
 		margin-top: 20px;
 		margin-right: 10px;
 		margin-left: 30px;
-		margin-bottom: 20px;
+		margin-bottom: 2px;
 		font-family: "Georgia";
 }
 #skill{
@@ -111,42 +111,49 @@ psmall {
 		width: 100%;
 		height: auto;
 		float: center;
-		margin-top: 15px;
+		margin-top: 1px;
 		margin-right: 5px;
 		margin-left: 5px;
 		margin-bottom: 15px;
 		font-family: "Georgia";
 
 }
-#map{
-	background-color: #FFF;
-		width: 100%;
-		height: auto;
-		float: center;
-		margin-top: 15px;
-		margin-right: 5px;
-		margin-left: 5px;
-		margin-bottom: 15px;
-		font-family: "Georgia";
 
-}
 </style>
 
 	<body>
 		<p>Back to <a href="../index.html" >Main Page</a>.</p>
-		<div id="map">
-			<div id="tooltip-container"></div>
-			<div id="map-svg"></div>
-			<script src="../js/d3.v3.min.js"></script>
-			<script src="../js/map.js"></script>
-		</div>
+
+
 		<div id="skill">
-			<h1>My Skills</h1>
+			<h2>Skills</h2>
 			<div id="tooltip-container"></div>
 			<div id="skill-svg"></div>
 			<script src="../js/d3.v4.min.js"></script>
 			<script src="../js/explore.js"></script>
 		</div>
+
+		<div id="phanerozoic">
+			<h2>地球历史大事年表</h2>
+			<div id="tooltip-container"></div>
+			<div><psmall>点击可折叠</psmall></div>
+			<div id="timeline-svg"></div>
+			<script src="../china_history/js/d3.v4.min.js"></script>
+			<script src="js/timeline.js"></script>
+		</div>
+
+		<div>
+			<h2>Education</h2>
+			<div id="tooltip-container"></div>
+			<div id="map-svg"></div>
+			<script src="../js/d3.v3.min.js"></script>
+			<script src="../js/map.js"></script>
+		</div>
+
+
+
+
+
 		<psmall>Illustration made with D3.js library</psmall>
 	</body>
 </html>

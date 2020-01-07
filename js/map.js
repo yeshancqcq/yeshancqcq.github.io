@@ -12,8 +12,10 @@ http://bl.ocks.org/mbostock/3888852  */
 
 
 //Width and height of map
-var width = 960;
-var height = 500;
+
+var margin = {top: 20, right: 90, bottom: 30, left: 90},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
 
 // D3 Projection
 var projection = d3.geo.albersUsa()
@@ -136,7 +138,7 @@ svg2.selectAll("circle")
 });
 
 // Modified Legend Code from Mike Bostock: http://bl.ocks.org/mbostock/3888852
-var legend = d3.select("#map").append("svg")
+var legend = d3.select("#map-svg").append("svg")
       			.attr("class", "legend")
      			.attr("width", 140)
     			.attr("height", 200)
