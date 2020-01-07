@@ -36,7 +36,7 @@ update(root);
 
 });
 
-var div = d3.select("#skill-svg").append("div")
+var div = d3.select("skill").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
