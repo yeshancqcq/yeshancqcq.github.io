@@ -73,27 +73,80 @@ psmall {
 		font-size: 10pt;
 		font-style: italic;
 }
+#tooltip-container {
+	position: absolute;
+	background-color: #FFF;
+	color: #000;
+	padding: 10px;
+	border: 1px solid;
+	display: none;
+	font-family: "Georgia";
+}
 #skill-svg{
 	background-color: #FFF;
 		width: 100%;
 		min-width: 380px;
 		height: auto;
 		float: center;
-		margin-top: 15px;
+		margin-top: 20px;
 		margin-right: 10px;
 		margin-left: 30px;
-		margin-bottom: 15px;
+		margin-bottom: 2px;
 		font-family: "Georgia";
 }
+#map-svg{
+	background-color: #FFF;
+		width: 100%;
+		min-width: 380px;
+		height: auto;
+		float: center;
+		margin-top: 20px;
+		margin-right: 10px;
+		margin-left: 30px;
+		margin-bottom: 20px;
+		font-family: "Georgia";
+}
+#skill{
+	background-color: #FFF;
+		width: 100%;
+		height: auto;
+		float: center;
+		margin-top: 15px;
+		margin-right: 5px;
+		margin-left: 5px;
+		margin-bottom: 15px;
+		font-family: "Georgia";
 
+}
+#map{
+	background-color: #FFF;
+		width: 100%;
+		height: auto;
+		float: center;
+		margin-top: 15px;
+		margin-right: 5px;
+		margin-left: 5px;
+		margin-bottom: 15px;
+		font-family: "Georgia";
+
+}
 </style>
 
 	<body>
-		<h1>My Skills</h1>
-		<div id="skill-svg"></div>
-		<script src="../js/d3.v4.min.js"></script>
-		<script src="../js/explore.js"></script>
 		<p>Back to <a href="../index.html" >Main Page</a>.</p>
+		<div id="map">
+			<div id="tooltip-container"></div>
+			<div id="map-svg"></div>
+			<script src="../js/d3.v3.min.js"></script>
+			<script src="../js/map.js"></script>
+		</div>
+		<div id="skill">
+			<h1>My Skills</h1>
+			<div id="tooltip-container"></div>
+			<div id="skill-svg"></div>
+			<script src="../js/d3.v4.min.js"></script>
+			<script src="../js/explore.js"></script>
+		</div>
 		<psmall>Illustration made with D3.js library</psmall>
 	</body>
 </html>
