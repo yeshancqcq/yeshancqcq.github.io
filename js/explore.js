@@ -21,7 +21,7 @@ var i = 0,
 var treemap = d3.tree().size([height, width]);
 
 // load the external data
-d3.json("data/three_departments.json", function(error, treeData) {
+d3.json("../data/explore.json", function(error, treeData) {
   if (error) throw error;
 
 // Assigns parent, children, height, depth
