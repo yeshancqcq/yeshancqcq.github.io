@@ -76,25 +76,25 @@ function update(source) {
     .on('click', click);
 
   // Add Circle for the nodes
-  nodeEnter.append('circle')
-      .attr('class', 'node')
-      .attr('r', 1e-6)
-      .style("fill", function(d) {
-          return d._children ? "#87BDB3" : "#fff";
-      })
-      .on("mouseover", function(d) {
-            div.transition()
-                .duration(20)
-                .style("opacity", 0.85);
-            div	.html(d.data.name2 + "<br/>"  + d.data.description)
-                .style("left", (d3.event.pageX) + "px")
-                .style("top", (d3.event.pageY - 30) + "px");
-            })
-        .on("mouseout", function(d) {
-            div.transition()
-                .duration(500)
-                .style("opacity", 0);
-        });
+  // nodeEnter.append('circle')
+  //     .attr('class', 'node')
+  //     .attr('r', 1e-6)
+  //     .style("fill", function(d) {
+  //         return d._children ? "#87BDB3" : "#fff";
+  //     })
+  //     .on("mouseover", function(d) {
+  //           div.transition()
+  //               .duration(20)
+  //               .style("opacity", 0.85);
+  //           div	.html(d.data.name2 + "<br/>"  + d.data.description)
+  //               .style("left", (d3.event.pageX) + "px")
+  //               .style("top", (d3.event.pageY - 30) + "px");
+  //           })
+  //       .on("mouseout", function(d) {
+  //           div.transition()
+  //               .duration(500)
+  //               .style("opacity", 0);
+  //       });
 
   // Add labels for the nodes
   nodeEnter.append('text')

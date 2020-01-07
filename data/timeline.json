@@ -1,0 +1,234 @@
+{
+ "name": "Major Events of Earth History (Unit: Ma)",
+ "children": [
+  {
+   "name": "Hadean (4600-4000)",
+   "children": [
+      {"name": "4600: Birth of the Planet Earth"},
+      {"name": "4500: Collision with Theia that created the moon"},
+      {"name": "4400: Earliest water on earth"},
+      {"name": "4200: Earliest life on earth"},
+      {"name": "4000: Late Heavy Bombardment (LHB)"}
+    ]
+  },
+  {
+   "name": "Archean (4000-2500)",
+   "children": [
+      {"name": "3500: Earliest fossil records; Earliest oceans"},
+      {"name": "3400: Early lands emerged"},
+      {"name": "3200: Beginning of photosynthesis"},
+      {"name": "3000: The initiation of volcanism and plate tectonics"},
+      {"name": "2900-2780: Mid Archean Ice Age"},
+      {"name": "2600: Great Oxidation Event; Lyuliangan Tectonic Period in China"}
+    ]
+  },
+  {
+   "name": "Proterozoic (2500-540)",
+   "children": [
+      {"name": "2400-2100: The 1st Snowball Earth"},
+      {"name": "1900: Ozone layer formed in the atmosphere"},
+      {"name": "1800: Great Wall Tectonic Period in China"},
+      {"name": "1800-1500: Supercontinent Columbia"},
+      {"name": "1500: Solid inner core formed"},
+      {"name": "1400: Jixianian Tectonic Period in China"},
+      {"name": "1300: Grenvillian Orogeny initiated"},
+      {"name": "1100-750: Supercontinent Rodinia"},
+      {"name": "1000: Jinningan Tectonic Period in China"},
+      {"name": "850-630: The 2nd Snowball Earth"},
+      {"name": "800: South China Tectonic Period in China"},
+      {"name": "680: Zhendanian Tectonic Period in China"},
+      {"name": "600: Supercontinent Pannotia in South Pole"},
+      {"name": "570: Caledonian Oregeny initiated"}
+    ]
+  },
+    {   "name": "Phanerozoic (540-0)",
+       "children": [
+          {"name": "Paleozoic (540-251)",
+            "children": [
+               {"name": "Cambrian (540-510)",
+                 "children": [
+                    {"name": "540: Cambrian Explosion"},
+                    {"name": "520: GACB formed; Trilobites appeared"},
+                    {"name": "510: Earliest vertebrates; Qilianian Tectonic Period in China"}
+                  ]
+               },
+               {"name": "Ordovician (510-438)",
+                 "children": [
+                    {"name": "480: Cambrian-Ordovician Mass Extinction"},
+                    {"name": "450: Beginning of the Andean-Saharan Ice Age"}
+                  ]
+               },
+               {"name": "Silurian (438-410)",
+                 "children": [
+                    {"name": "425: Earliest sharks"},
+                    {"name": "420: Terrestrial plants appeared; End of the Andean-Saharan Ice Age; Earth climate stablized"}
+                  ]
+               },
+               {"name": "Devonian (410-355)",
+                 "children": [
+                   {"name": "400: Early terrestrial animals"},
+                   {"name": "396: Earliest insects"},
+                   {"name": "386: Tian-Shanian Tectonic Period in China"},
+                   {"name": "375: Acadian Orogeny initiated; Early amphibians"},
+                   {"name": "374: Global cooling; Extinction of marine species"},
+                   {"name": "370: Early trees"},
+                   {"name": "360: Karoo Ice Age; Meteoric impact at Western Australia"}
+                  ]
+               },
+               {"name": "Carboniferous (355-290)",
+                 "children": [
+                   {"name": "340: Hercynian Orogeny initiated"},
+                   {"name": "335: Initiation of Supercontinent Pangaea"},
+                   {"name": "320: Early raptiles; Allegeny Orogeny"},
+                   {"name": "318: Amnionic structure in eggs"},
+                   {"name": "305: Carboniferous Rainforest Collapse Event"},
+                   {"name": "300: Wide spread coal forming"}
+                  ]
+               },
+               {"name": "Permian (290-251)",
+                 "children": [
+                    {"name": "280: Cycas appeared"},
+                    {"name": "275: Pinophyta appeared; Dimetrodon and Edaphosaurus (not dinosours) appeared"},
+                    {"name": "270: Sonoma Orogeny of West America"},
+                    {"name": "260: Emeishan Tectonic Period in China"},
+                    {"name": "257: Indo-China Tectonic Event in China"},
+                    {"name": "251: Siberian Trap; The Great Dying"}
+                  ]
+               }
+             ]
+          },
+          {"name": "Mesozoic (251-65.5)",
+            "children": [
+               {"name": "Triassic (251-199)",
+                 "children": [
+                    {"name": "245: Early Ichthyosaurs"},
+                    {"name": "235: Earliest dinosaurs"},
+                    {"name": "225: Proto-mammal Adelobasileus appeard"},
+                    {"name": "216: Plateosaurus and Coelophysis appeared"},
+                    {"name": "214: Meteoric impact in Quebec"},
+                    {"name": "210: Early Pterosaurs; Yanshanian Tectonic Period in China"},
+                    {"name": "205: Morganucodon (earliest mammals)"},
+                    {"name": "203: Plesiosaurs in the ocean"},
+                    {"name": "201: Mid-Atlantic LIPs"},
+                    {"name": "199: Mass Extinction of Late Triassic"}
+                  ]
+               },
+               {"name": "Jurassic (199-140)",
+                 "children": [
+                    {"name": "183: Toarcian anoxidation events and extinction"},
+                    {"name": "180: Break-up of Pangaea into Laurentia and Gonwana"},
+                    {"name": "155: Nevada Orogeny initiated; Diplodocus, Stegosaurus and Allosaurus on land"},
+                    {"name": "150: Brachiosaurus appeared; Early birds including Archaeopteryx"}
+                  ]
+               },
+               {"name": "Cretaceous (140-65.5)",
+                 "children": [
+                    {"name": "140: Opening-up of South Atlantic; Floriferous plants appeared"},
+                    {"name": "135: Sichuanian Tectonic Period in China"},
+                    {"name": "125: India broke away from Africa"},
+                    {"name": "120: OAE1; LIPs of Ontong-Java Plateau formed"},
+                    {"name": "115: Deinonychus appeared; Kerguelen Plateau formed"},
+                    {"name": "100: South America and Africa completely broke away; Mosasaurs in the ocean; Ants appeard"},
+                    {"name": "91: OAE2"},
+                    {"name": "90: Cretaceous Thermal Maximum"},
+                    {"name": "85: Snakes appeared"},
+                    {"name": "80: Gangdise Mountains uplifting; Hadrosaurs appeared"},
+                    {"name": "70: Laramide Orogeny of Rocky Mountains initiated"},
+                    {"name": "68: T-Rex and Triceratops appeared"},
+                    {"name": "66: Deccan Traps"},
+                    {"name": "65.5: Meteoric impact in Yucatan; Mass Extinction"}
+                  ]
+               }
+             ]
+          },
+          {"name": "Cenozoic (65.5-0)",
+            "children": [
+               {"name": "Paleogene (65.5-23)",
+                 "children": [
+                    {"name": "Paleocene (65.5=55)",
+                      "children": [
+                         {"name": "63: Widespreading of flowering plants; Fast evolution of birds"},
+                         {"name": "60: Grasses appeared"},
+                         {"name": "56: Collision between India and Eurasia"}
+                       ]
+                    },
+                    {"name": "Eocene (55-34)",
+                      "children": [
+                         {"name": "55: Paleocene-Eocene Thermal Maximum"},
+                         {"name": "54: Widespreading of mammals"},
+                         {"name": "52: North China Tectonic Period in China; Cetacea appeared"},
+                         {"name": "51: Early Eocene Climate Optimum"},
+                         {"name": "44: Closure of Tethys Seaway in tropical regions"},
+                         {"name": "40: Spreading rates declined; Smilodon appeared"},
+                         {"name": "36: Early ice sheets in Antarctica; Fast uplifing of Andes"},
+                         {"name": "35.6: Meteoric impact in Chesapeake"},
+                         {"name": "34: Openning of Tasmanian and Drake passages and establishment of West Wind Drift"}
+                       ]
+                    },
+                    {"name": "Oligocene (34-23)",
+                      "children": [
+                         {"name": "30: Walla Walla Spring Supervolcano Eruption"},
+                         {"name": "27: La Garita Caldera Eruption (the largest eruption known in earth history)"},
+                         {"name": "25: Late Oligocene Warming"},
+                         {"name": "23: Openning up of Red Sea"}
+                       ]
+                    }
+                  ]
+               },
+               {"name": "Neogene (23-2)",
+                 "children": [
+                    {"name": "Miocene (23-5.3)",
+                      "children": [
+                         {"name": "22: Accelerated uplifing of Tibetan Plateau"},
+                         {"name": "20: Seals appeared"},
+                         {"name": "18: Horses spread out"},
+                         {"name": "15: Mid-Miocene Climate Optimum"},
+                         {"name": "14: Flood Basalt in Columbia River Plateau"},
+                         {"name": "9: Stablized Asian Monsoons"},
+                         {"name": "7: Northern Hemisphere ice sheets developed"},
+                         {"name": "6: Messinian salinity crisis"}
+                       ]
+                    },
+                    {"name": "Pliocene (5.3-2.5)",
+                      "children": [
+                         {"name": "5: Closure of Panama which changed the thermohalien circulation; Mammoth appeared"},
+                         {"name": "3: Permanent ice sheet in Greenland; Earliest humans"}
+                       ]
+                    }
+                  ]
+               },
+               {"name": "Quaternary (2.5-0)",
+                 "children": [
+                    {"name": "Pleistocene (2.5-0.018)",
+                      "children": [
+                         {"name": "2: Huckleberry Ridge Eruption of Yellowstone Supervolcano"},
+                         {"name": "1.7: Human migrated out of Africa"},
+                         {"name": "1.3: Mesa Falls Eruption of Yellowstone Supervolcano"},
+                         {"name": "1.25: Mid Pleistocene Transform, after which the Milankovitch cycle became less clear in the record"},
+                         {"name": "1.2: Pre-Illinoian Stage of Pleistocene Ice Age"},
+                         {"name": "0.76: Long Valley Supervolcano Eruption"},
+                         {"name": "0.6: Lava Creek Eruption of Yellowstone Supervolcano"},
+                         {"name": "0.35: Illinoian Stage of Pleistocene Ice Age"},
+                         {"name": "0.15: Wisconsinian Stage of Pleistocene Ice Age; Neanderthals"},
+                         {"name": "0.047: Toba Supervolcano Eruption in Indonesia"},
+                         {"name": "0.027: Last Glacial Maximum"}
+                       ]
+                    },
+                    {"name": "Holocene (0.018-0)",
+                      "children": [
+                         {"name": "0.018: Younger Dryas Event"},
+                         {"name": "0.009-0.005: Holocene Climate Optimum; Early civilizations"},
+                         {"name": "0.0082: 8.2-ka Event caused by the dam break of Aggasiz Lake"},
+                         {"name": "0.0045: Khufu Pyramid built (for reference)"},
+                         {"name": "0.0021: Unification of China by Qin Dynasty (for reference)"}
+                       ]
+                    }
+                  ]
+               }
+             ]
+          }
+        ]
+    }
+
+  ]
+}

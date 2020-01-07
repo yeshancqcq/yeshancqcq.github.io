@@ -60,7 +60,7 @@ h1 { font-size: 18pt; margin:  5px 0 10px 0; line-height: 28px; }
 h2 { font-size: 16pt; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
 h3 { font-size: 12pt; }
 h4 { font-size: 15pt; color: white; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
-h5 { font-size: 10pt; color: #6A9C92; font: Georgia; letter-spacing: 0.01em}
+h5 { font-size: 10pt; color: #5b8079; font: Georgia; letter-spacing: 0.01em}
 p {
     margin: 0 0 0 0;
     text-indent:1px;
@@ -126,6 +126,17 @@ psmall {
 		margin-left: 5px;
 		margin-bottom: 15px;
 		font-family: "Georgia";
+}
+#tl{
+	background-color: #FFF;
+		width:100%;
+		height: auto;
+		float: center;
+		margin-top: 15px;
+		margin-right: 5px;
+		margin-left: 5px;
+		margin-bottom: 15px;
+		font-family: "Georgia";
 
 }
 
@@ -143,13 +154,13 @@ psmall {
 			<script src="../js/explore.js"></script>
 		</div>
 
-		<div id="phanerozoic">
+		<div id="tl">
 			<h2>地球历史大事年表</h2>
 			<div id="tooltip-container"></div>
 			<div><psmall>点击可折叠</psmall></div>
 			<div id="timeline-svg"></div>
-			<script src="../china_history/js/d3.v4.min.js"></script>
-			<script src="js/timeline.js"></script>
+			<script src="../js/d3.v4.min.js"></script>
+			<script src="../js/timeline.js"></script>
 		</div>
 
 		<div>
