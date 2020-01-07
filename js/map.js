@@ -29,9 +29,9 @@ var path = d3.geo.path()               // path generator that will convert GeoJS
 
 // Define linear scale for output
 var color = d3.scale.linear()
-			  .range(["rgb(213,222,217)","rgb(69,173,168)","rgb(84,36,55)","rgb(217,91,67)"]);
+			  .range(["#ebebeb","#cce8e2", "#6A9C92", "#ebbd34"]);
 
-var legendText = ["Universities", "States Lived", "States Visited", "Nada"];
+var legendText = ["Universities", "States Lived", "States Visited", "Not Visited"];
 
 //Create SVG element and append map to the SVG
 var svg2 = d3.select("#map-svg")
@@ -115,7 +115,7 @@ svg2.selectAll("circle")
 	.attr("r", function(d) {
 		return Math.sqrt(d.years) * 4;
 	})
-		.style("fill", "rgb(217,91,67)")
+		.style("fill", "#ebbd34")
 		.style("opacity", 0.85)
 
 	// Modification of custom tooltip code provided by Malcolm Maclean, "D3 Tips and Tricks"
@@ -124,7 +124,7 @@ svg2.selectAll("circle")
     	div.transition()
       	   .duration(200)
            .style("opacity", .9);
-           div.text(d.place + d.description + d.year + d.focus + d.class)
+           div.text(d.place + "; " + d.year +"; " + d.focus + "; " + d.class)
            .style("left", (d3.event.pageX) + "px")
            .style("top", (d3.event.pageY - 28) + "px");
 	})
