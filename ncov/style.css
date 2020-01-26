@@ -21,7 +21,9 @@ body
 }
 
 #map {
-    height: 780px;
+		float: center;
+    height: 500px;
+		width: 100%;
 
 }
 
