@@ -117,6 +117,18 @@
     opacity: 0.3,
     fillOpacity: 0.3};
 
+			function getR(i){
+				var r
+				var field = parseInt(i)
+				if (field < 10) r = 5;
+				else if (field < 30) r = 6;
+				else if (field < 50) r = 7;
+				else r = 8;
+
+				return r
+			}
+
+
 
 
     //Add data point as a layer
@@ -128,7 +140,16 @@
 				}
 			},
 			pointToLayer: function(geoJsonPoint, latlng) {
-			return L.circleMarker(latlng, datacircles)
+			return L.circleMarker(latlng,
+				{
+				radius: 5,
+		    fillColor: "red",
+		    color: "#000",
+		    weight: 5,
+		    opacity: 0.3,
+		    fillOpacity: 0.3}
+
+			)
 			},
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
