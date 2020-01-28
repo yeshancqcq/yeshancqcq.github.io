@@ -74,6 +74,7 @@
 </center>
 </center></div>
 </center></div>
+<center>
 	<div id="wrapper">
 	<div id="map">
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -85,24 +86,28 @@
 		var topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
 			maxZoom: 30,
       minZoom: 2,
+			bounds: mybounds,
 			attribution: 'Tiles &copy; Esri &mdash; Source: Esri'
 		}),
 		satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
 			maxZoom: 30,
       minZoom: 2,
+			bounds: mybounds,
 			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 		}),
 		boundary = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
 			maxZoom: 30,
 			minZoom: 2,
+			bounds: mybounds,
 			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
 		});
 
 		//Initiating map layer groups
 
 		var sites = L.layerGroup();
-		var grid = L.layerGroup();
-    var temporal = L.layerGroup();
+		var southWest = L.latLng(-85, -180),
+				northEast = L.latLng(85, 180),
+				mybounds = L.latLngBounds(southWest, northEast);
 
 
 		//Initiating 2 different popups
@@ -188,6 +193,12 @@
 	var map = L.map('map', {
 			center: [30,114],
 		  zoom:3.2,
+			maxBounds: [
+        //south west
+        [-89,-180],
+        //north east
+        [89,180]
+			],
 			layers: [topographic, sites]
 	});
 
@@ -211,7 +222,9 @@ L.control.layers(baseLayers, overlays).addTo(map);
 //	});
 
 </script>
-</div></div>
+</div>
+</div>
+</center>
  <div id="paneltext" align="left"></div>
 
 </div>
