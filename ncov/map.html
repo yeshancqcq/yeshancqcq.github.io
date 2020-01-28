@@ -69,7 +69,7 @@
 <div id="about">
 <div id ="intro"><center><h3>新型冠状病毒疫情 -- 城市分布地图</h3>
 	<div id ="intro"><p2>城市疫情数据来自 <a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">丁香园</a></p2><br>
-		<p2>截止到芝加哥时间2020年1月26日零点</p2>
+		<p2>截止到芝加哥时间2020年1月27日21点</p2>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页</a></center></div>
 </center>
 </center></div>
@@ -120,13 +120,24 @@
 
 			function getR(i){
 				var r
-				var field = parseInt(i)
+				var field = i
 				if (field < 10) r = 5;
-				else if (field < 30) r = 6;
-				else if (field < 50) r = 7;
-				else r = 8;
+				else if (field < 30) r = 7;
+				else if (field < 50) r = 9;
+				else r = 11;
 
 				return r
+			}
+
+			function getColor(i){
+				var color
+				var field = i
+				if (field < 10) color = "#ef6548";
+				else if (field < 30) color="#d7301f";
+				else if (field < 50) color="#b30000";
+				else color="#7f0000";
+
+				return color
 			}
 
 
@@ -136,15 +147,15 @@
 		var sites = new L.GeoJSON.AJAX("data/data.geojson",{
 			style : function(feature) {
 				return {
-					color: '#000',
-					weight: 0.5
+					color: getColor(feature.properties.case),
+					fillColor: getColor(feature.properties.case),
+					weight: 0.5,
+					radius: getR(feature.properties.case)
 				}
 			},
 			pointToLayer: function(geoJsonPoint, latlng) {
 			return L.circleMarker(latlng,
 				{
-				radius: 7,
-		    fillColor: "red",
 		    color: "#000",
 		    weight: 5,
 		    opacity: 0.3,
