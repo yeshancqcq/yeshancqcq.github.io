@@ -3809,6 +3809,240 @@
     "death":0,
     "cure":0
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.7,7.5 ]
+    },
+    "properties": {
+    "city":"Cote d'Ivoire",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.48,46.83 ]
+    },
+    "properties": {
+    "city":"France",
+    "case":3,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2,51.3 ]
+    },
+    "properties": {
+    "city":"Germany",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.4,7.6 ]
+    },
+    "properties": {
+    "city":"Sri Lanka",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.05,15.56 ]
+    },
+    "properties": {
+    "city":"Vietnam",
+    "case":2,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.9,12.57 ]
+    },
+    "properties": {
+    "city":"Combodia",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.14,15.76 ]
+    },
+    "properties": {
+    "city":"Thailand",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.13,4.4 ]
+    },
+    "properties": {
+    "city":"Malaysia",
+    "case":4,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.85,1.18 ]
+    },
+    "properties": {
+    "city":"Singapore",
+    "case":5,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.8,36.86 ]
+    },
+    "properties": {
+    "city":"South Korea",
+    "case":4,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,36.22 ]
+    },
+    "properties": {
+    "city":"Japan",
+    "case":4,
+    "death":0,
+    "cure":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.4,-32.1 ]
+    },
+    "properties": {
+    "city":"New South Wales",
+    "case":4,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5,-37 ]
+    },
+    "properties": {
+    "city":"Victoria",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.17,47.38 ]
+    },
+    "properties": {
+    "city":"Washington",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.45,37.49 ]
+    },
+    "properties": {
+    "city":"California",
+    "case":2,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.59,34.27 ]
+    },
+    "properties": {
+    "city":"Arizona",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6489,41.748 ]
+    },
+    "properties": {
+    "city":"Chicago",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.352,44.198 ]
+    },
+    "properties": {
+    "city":"Ontario",
+    "case":1,
+    "death":0,
+    "cure":0
+    }
   }
 ]
 }
