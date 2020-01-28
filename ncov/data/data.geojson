@@ -395,7 +395,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 112.777102,34.759791 ]
+       "coordinates":  [ 113.62,34.759791 ]
     },
     "properties": {
     "city":"Zhengzhou",
@@ -447,7 +447,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 113.9,35.3 ]
+       "coordinates":  [ 113.92,35.3 ]
     },
     "properties": {
     "city":"Xinxiang",
