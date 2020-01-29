@@ -67,10 +67,11 @@
 
 
 <div id="about">
-<div id ="intro"><center><h3>新型冠状病毒疫情 -- 城市分布地图</h3>
-	<div id ="intro"><p2>城市疫情数据来自 <a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">丁香园</a></p2><br>
-		<p2>截止到芝加哥时间2020年1月27日21点</p2>
-	<div><center><a href="https://yeshancqcq.github.io/">返回主页</a></center></div>
+<div id ="intro"><center><h3>新型冠状病毒疫情 -- 城市分布地图<br>2019 nCoV map</h3>
+
+	<div id ="intro"><p2>城市疫情数据/Data From: <br> <a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">丁香园/Dingxiangyuan</a></p2><br>
+		<p2>截止到/Last Updated: <br> 2020-01-28 22:00 (CST 芝加哥时间)</p2>
+	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Back</a></center></div>
 </center>
 </center></div>
 </center></div>
@@ -131,21 +132,26 @@
 			function getR(i){
 				var r
 				var field = i
-				if (field < 10) r = 5;
-				else if (field < 30) r = 7;
-				else if (field < 50) r = 9;
-				else r = 11;
-
+				if(field < 5) r = 5;
+				if (field < 10) r = 7;
+				else if (field < 30) r = 9;
+				else if (field < 50) r = 13;
+				else if (field < 70) r = 16;
+				else if (field < 100) r = 20;
+				else if (field < 150) r = 25;
+				else r = 30;
 				return r
 			}
 
 			function getColor(i){
 				var color
 				var field = i
-				if (field < 10) color = "#ef6548";
-				else if (field < 30) color="#d7301f";
-				else if (field < 50) color="#b30000";
-				else color="#7f0000";
+				if (field == 0) color = "#3690c0";
+				else if (field < 10) color="#fb6a4a";
+				else if (field < 30) color="#ef3b2c";
+				else if (field < 50) color="#cb181d";
+				else if (field < 100) color="#a50f15";
+				else color="#67000d";
 
 				return color
 			}
@@ -168,7 +174,7 @@
 				{
 		    color: "#000",
 		    weight: 5,
-		    opacity: 0.3,
+		    opacity: 0.5,
 		    fillOpacity: 0.3}
 
 			)
@@ -176,12 +182,14 @@
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng,4.5);
-					$("#paneltext").html('<h2> '+feature.properties.city+'</h2><p>确诊: '
-										+feature.properties.case+'</p><p> 治愈: '
-										+feature.properties.cure+'</p><p> 死亡: '
+					$("#paneltext").html('<h3> '+feature.properties.city+', '
+										+feature.properties.province +'</h3> Confirmed: '
+										+feature.properties.case+'<br> Recovered: '
+										+feature.properties.cure+'<br> Death: '
 										+feature.properties.death+'</p>');
 				}),
-				layer.bindPopup('<h3> '+feature.properties.city+'</h3> 确诊: '
+				layer.bindPopup('<h3> '+feature.properties.province_cn+' '
+									+feature.properties.city_cn +'</h3> 确证: '
 									+feature.properties.case+'<br> 治愈: '
 									+feature.properties.cure+'<br> 死亡: '
 									+feature.properties.death+'</p>', popup2)
@@ -206,13 +214,13 @@
 		//Setting base layer and overlay layers
 
 	var baseLayers = {
-		"地形图":topographic,
-		"卫星图": satellite,
-		"边界":boundary
+		"地形图/Topographic":topographic,
+		"卫星图/Satellite": satellite,
+		"边界图/Boundaries":boundary
 	};
 
 	var overlays = {
-		"疫情": sites
+		"疫情/Cases": sites
 	};
 
 //Add layer control
