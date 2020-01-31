@@ -3413,7 +3413,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.117,40.123 ]
+       "coordinates":  [ 124.3545,40.008 ]
     },
     "properties": {
     "city":"Dandong",
@@ -5544,13 +5544,13 @@
        "coordinates":  [ 147.4,-32.1 ]
     },
     "properties": {
-    "city":"Australia",
+    "city":"New South Wales",
     "province_cn":"澳大利亚",
     "city_cn":"新南威尔士州",
     "case":4,
     "death":0,
     "cure":0,
-    "province":"New South Wales"
+    "province":"Australia"
     }
   },
   {
@@ -5560,13 +5560,13 @@
        "coordinates":  [ 144.5,-37 ]
     },
     "properties": {
-    "city":"Australia",
+    "city":"Victoria",
     "province_cn":"澳大利亚",
     "city_cn":"维多利亚州",
     "case":1,
     "death":0,
     "cure":0,
-    "province":"Victoria"
+    "province":"Australia"
     }
   },
   {
@@ -5576,13 +5576,13 @@
        "coordinates":  [ -120.17,47.38 ]
     },
     "properties": {
-    "city":"USA",
+    "city":"Washington",
     "province_cn":"美国",
     "city_cn":"华盛顿州",
     "case":1,
     "death":0,
     "cure":0,
-    "province":"Washington"
+    "province":"USA"
     }
   },
   {
@@ -5592,13 +5592,13 @@
        "coordinates":  [ -120.45,37.49 ]
     },
     "properties": {
-    "city":"USA",
+    "city":"California",
     "province_cn":"美国",
     "city_cn":"加利福尼亚州",
     "case":2,
     "death":0,
     "cure":0,
-    "province":"California"
+    "province":"USA"
     }
   },
   {
@@ -5608,13 +5608,13 @@
        "coordinates":  [ -111.59,34.27 ]
     },
     "properties": {
-    "city":"USA",
+    "city":"Arizona",
     "province_cn":"美国",
     "city_cn":"亚利桑那州",
     "case":1,
     "death":0,
     "cure":0,
-    "province":"Arizona"
+    "province":"USA"
     }
   },
   {
@@ -5624,13 +5624,13 @@
        "coordinates":  [ -87.6489,41.748 ]
     },
     "properties": {
-    "city":"USA",
+    "city":"Chicago",
     "province_cn":"美国",
     "city_cn":"伊利诺伊州芝加哥",
     "case":2,
     "death":0,
     "cure":0,
-    "province":"Chicago"
+    "province":"USA"
     }
   },
   {
@@ -5640,13 +5640,13 @@
        "coordinates":  [ -79.352,44.198 ]
     },
     "properties": {
-    "city":"Canada",
+    "city":"Ontario",
     "province_cn":"加拿大",
     "city_cn":"安大略省",
     "case":1,
     "death":0,
     "cure":0,
-    "province":"Ontario"
+    "province":"Canada"
     }
   },
   {
@@ -5672,13 +5672,13 @@
        "coordinates":  [ -123.66,54.35 ]
     },
     "properties": {
-    "city":"Canada",
+    "city":"British Columbia",
     "province_cn":"加拿大",
     "city_cn":"不列颠哥伦比亚省",
     "case":1,
     "death":0,
     "cure":0,
-    "province":"British Columbia"
+    "province":"Canada"
     }
   },
   {
