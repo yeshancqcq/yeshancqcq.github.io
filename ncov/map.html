@@ -70,7 +70,7 @@
 <div id ="intro"><center><h3>新型冠状病毒疫情 -- 城市分布地图<br>2019 nCoV map</h3>
 
 	<div id ="intro"><p2>城市疫情数据/Data From: <br> <a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">丁香园/Dingxiangyuan</a></p2><br>
-		<p2>截止到/Last Updated: <br> 2020-01-28 22:00 (CST 芝加哥时间)</p2>
+		<p2>截止到/Last Updated: <br> 2020-01-30 20:00 (CST 芝加哥时间)</p2>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Back</a></center></div>
 </center>
 </center></div>
@@ -132,13 +132,13 @@
 			function getR(i){
 				var r
 				var field = i
-				if(field < 5) r = 5;
-				if (field < 10) r = 7;
-				else if (field < 30) r = 9;
-				else if (field < 50) r = 13;
-				else if (field < 70) r = 16;
-				else if (field < 100) r = 20;
-				else if (field < 150) r = 25;
+				if(field < 10) r = 5;
+				if (field < 30) r = 7;
+				else if (field < 50) r = 9;
+				else if (field < 100) r = 13;
+				else if (field < 200) r = 16;
+				else if (field < 500) r = 20;
+				else if (field < 1000) r = 25;
 				else r = 30;
 				return r
 			}
@@ -148,9 +148,9 @@
 				var field = i
 				if (field == 0) color = "black";
 				else if (field < 10) color="#fb6a4a";
-				else if (field < 30) color="#ef3b2c";
-				else if (field < 50) color="#cb181d";
-				else if (field < 100) color="#a50f15";
+				else if (field < 50) color="#ef3b2c";
+				else if (field < 100) color="#cb181d";
+				else if (field < 1000) color="#a50f15";
 				else color="#67000d";
 
 				return color
