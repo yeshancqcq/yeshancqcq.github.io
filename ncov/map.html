@@ -140,7 +140,9 @@
 				else if (field < 200) r = 16;
 				else if (field < 500) r = 20;
 				else if (field < 1000) r = 25;
-				else r = 30;
+				else if (field < 5000) r = 30;
+				else if (field < 10000) r = 40;
+				else r = 50;
 				return r
 			}
 
