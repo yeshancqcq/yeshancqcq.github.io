@@ -2693,7 +2693,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 115.78,28.6 ]
+       "coordinates":  [ 117.023752,28.261751 ]
     },
     "properties": {
     "city":"Yingtan",
@@ -5733,7 +5733,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 10556,30.5 ]
+       "coordinates":  [ 105.569333,30.501934 ]
     },
     "properties": {
     "city":"Suining",
