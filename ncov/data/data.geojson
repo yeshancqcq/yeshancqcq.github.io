@@ -11,9 +11,9 @@
     "city":"Changsha",
     "province_cn":"湖南",
     "city_cn":"长沙",
-    "case":196,
+    "case":205,
     "death":0,
-    "cure":19,
+    "cure":27,
     "province":"Hunan"
     }
   },
@@ -27,9 +27,9 @@
     "city":"Yueyang",
     "province_cn":"湖南",
     "city_cn":"岳阳",
-    "case":111,
-    "death":0,
-    "cure":4,
+    "case":115,
+    "death":1,
+    "cure":10,
     "province":"Hunan"
     }
   },
@@ -43,9 +43,9 @@
     "city":"Huaihua",
     "province_cn":"湖南",
     "city_cn":"怀化",
-    "case":38,
+    "case":39,
     "death":0,
-    "cure":6,
+    "cure":15,
     "province":"Hunan"
     }
   },
@@ -59,9 +59,9 @@
     "city":"Loudi",
     "province_cn":"湖南",
     "city_cn":"娄底",
-    "case":59,
+    "case":64,
     "death":0,
-    "cure":4,
+    "cure":8,
     "province":"Hunan"
     }
   },
@@ -91,9 +91,9 @@
     "city":"Yiyang",
     "province_cn":"湖南",
     "city_cn":"益阳",
-    "case":44,
+    "case":46,
     "death":0,
-    "cure":6,
+    "cure":10,
     "province":"Hunan"
     }
   },
@@ -107,9 +107,9 @@
     "city":"Hengyang",
     "province_cn":"湖南",
     "city_cn":"衡阳",
-    "case":43,
+    "case":45,
     "death":0,
-    "cure":11,
+    "cure":14,
     "province":"Hunan"
     }
   },
@@ -125,7 +125,7 @@
     "city_cn":"常德",
     "case":66,
     "death":0,
-    "cure":14,
+    "cure":15,
     "province":"Hunan"
     }
   },
@@ -141,7 +141,7 @@
     "city_cn":"湘潭",
     "case":28,
     "death":0,
-    "cure":7,
+    "cure":10,
     "province":"Hunan"
     }
   },
@@ -155,9 +155,9 @@
     "city":"Shaoyang",
     "province_cn":"湖南",
     "city_cn":"邵阳",
-    "case":86,
+    "case":87,
     "death":0,
-    "cure":11,
+    "cure":18,
     "province":"Hunan"
     }
   },
@@ -171,9 +171,9 @@
     "city":"Zhuzhou",
     "province_cn":"湖南",
     "city_cn":"株洲",
-    "case":48,
+    "case":58,
     "death":0,
-    "cure":8,
+    "cure":9,
     "province":"Hunan"
     }
   },
@@ -187,9 +187,9 @@
     "city":"Chenzhou",
     "province_cn":"湖南",
     "city_cn":"郴州",
-    "case":31,
+    "case":32,
     "death":0,
-    "cure":6,
+    "cure":8,
     "province":"Hunan"
     }
   },
@@ -205,7 +205,7 @@
     "city_cn":"湘西州",
     "case":8,
     "death":0,
-    "cure":1,
+    "cure":3,
     "province":"Hunan"
     }
   },
@@ -235,9 +235,9 @@
     "city":"Wuhan",
     "province_cn":"湖北",
     "city_cn":"武汉",
-    "case":13603,
-    "death":545,
-    "cure":698,
+    "case":14982,
+    "death":608,
+    "cure":877,
     "province":"Hubei"
     }
   },
@@ -251,9 +251,9 @@
     "city":"Huanggang",
     "province_cn":"湖北",
     "city_cn":"黄冈",
-    "case":2041,
-    "death":36,
-    "cure":105,
+    "case":2141,
+    "death":43,
+    "cure":137,
     "province":"Hubei"
     }
   },
@@ -267,9 +267,9 @@
     "city":"Xiaogan",
     "province_cn":"湖北",
     "city_cn":"孝感",
-    "case":2313,
-    "death":26,
-    "cure":38,
+    "case":2436,
+    "death":29,
+    "cure":45,
     "province":"Hubei"
     }
   },
@@ -283,9 +283,9 @@
     "city":"Xianning",
     "province_cn":"湖北",
     "city_cn":"咸宁",
-    "case":476,
-    "death":2,
-    "cure":12,
+    "case":493,
+    "death":4,
+    "cure":23,
     "province":"Hubei"
     }
   },
@@ -299,9 +299,9 @@
     "city":"Jingmen",
     "province_cn":"湖北",
     "city_cn":"荆门",
-    "case":588,
-    "death":18,
-    "cure":36,
+    "case":663,
+    "death":19,
+    "cure":48,
     "province":"Hubei"
     }
   },
@@ -315,7 +315,7 @@
     "city":"Suizhou",
     "province_cn":"湖北",
     "city_cn":"随州",
-    "case":953,
+    "case":984,
     "death":9,
     "cure":23,
     "province":"Hubei"
@@ -331,9 +331,9 @@
     "city":"Jingzhou",
     "province_cn":"湖北",
     "city_cn":"荆州",
-    "case":941,
-    "death":11,
-    "cure":30,
+    "case":997,
+    "death":13,
+    "cure":34,
     "province":"Hubei"
     }
   },
@@ -347,9 +347,9 @@
     "city":"Huangshi",
     "province_cn":"湖北",
     "city_cn":"黄石",
-    "case":703,
+    "case":760,
     "death":2,
-    "cure":43,
+    "cure":53,
     "province":"Hubei"
     }
   },
@@ -363,9 +363,9 @@
     "city":"Yichang",
     "province_cn":"湖北",
     "city_cn":"宜昌",
-    "case":633,
+    "case":711,
     "death":8,
-    "cure":24,
+    "cure":36,
     "province":"Hubei"
     }
   },
@@ -379,9 +379,9 @@
     "city":"Shiyan",
     "province_cn":"湖北",
     "city_cn":"十堰",
-    "case":438,
+    "case":467,
     "death":0,
-    "cure":33,
+    "cure":40,
     "province":"Hubei"
     }
   },
@@ -395,9 +395,9 @@
     "city":"Enshi",
     "province_cn":"湖北",
     "city_cn":"恩施",
-    "case":160,
+    "case":171,
     "death":0,
-    "cure":13,
+    "cure":20,
     "province":"Hubei"
     }
   },
@@ -411,9 +411,9 @@
     "city":"Xiantao",
     "province_cn":"湖北",
     "city_cn":"仙桃",
-    "case":359,
+    "case":379,
     "death":5,
-    "cure":14,
+    "cure":16,
     "province":"Hubei"
     }
   },
@@ -427,7 +427,7 @@
     "city":"Tianmen",
     "province_cn":"湖北",
     "city_cn":"天门",
-    "case":179,
+    "case":197,
     "death":10,
     "cure":1,
     "province":"Hubei"
@@ -443,9 +443,9 @@
     "city":"Xiangyang",
     "province_cn":"湖北",
     "city_cn":"襄阳",
-    "case":907,
-    "death":5,
-    "cure":31,
+    "case":988,
+    "death":7,
+    "cure":40,
     "province":"Hubei"
     }
   },
@@ -459,9 +459,9 @@
     "city":"Ezhou",
     "province_cn":"湖北",
     "city_cn":"鄂州",
-    "case":569,
-    "death":20,
-    "cure":11,
+    "case":639,
+    "death":21,
+    "cure":42,
     "province":"Hubei"
     }
   },
@@ -491,9 +491,9 @@
     "city":"Qianjiang",
     "province_cn":"湖北",
     "city_cn":"潜江",
-    "case":80,
+    "case":82,
     "death":2,
-    "cure":1,
+    "cure":2,
     "province":"Hubei"
     }
   },
@@ -507,9 +507,9 @@
     "city":"Xinyang",
     "province_cn":"河南",
     "city_cn":"信阳",
-    "case":192,
+    "case":205,
     "death":0,
-    "cure":15,
+    "cure":24,
     "province":"Henan"
     }
   },
@@ -523,9 +523,9 @@
     "city":"Zhengzhou",
     "province_cn":"河南",
     "city_cn":"郑州",
-    "case":120,
+    "case":126,
     "death":0,
-    "cure":25,
+    "cure":31,
     "province":"Henan"
     }
   },
@@ -539,9 +539,9 @@
     "city":"Nanyang",
     "province_cn":"河南",
     "city_cn":"南阳",
-    "case":128,
+    "case":133,
     "death":2,
-    "cure":6,
+    "cure":16,
     "province":"Henan"
     }
   },
@@ -555,9 +555,9 @@
     "city":"Zhumadian",
     "province_cn":"河南",
     "city_cn":"驻马店",
-    "case":113,
+    "case":116,
     "death":0,
-    "cure":4,
+    "cure":5,
     "province":"Henan"
     }
   },
@@ -587,9 +587,9 @@
     "city":"Xinxiang",
     "province_cn":"河南",
     "city_cn":"新乡",
-    "case":43,
+    "case":44,
     "death":0,
-    "cure":4,
+    "cure":5,
     "province":"Henan"
     }
   },
@@ -603,9 +603,9 @@
     "city":"Anyang",
     "province_cn":"河南",
     "city_cn":"安阳",
-    "case":43,
+    "case":44,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Henan"
     }
   },
@@ -619,7 +619,7 @@
     "city":"Luohe",
     "province_cn":"河南",
     "city_cn":"漯河",
-    "case":29,
+    "case":30,
     "death":0,
     "cure":4,
     "province":"Henan"
@@ -637,7 +637,7 @@
     "city_cn":"三门峡",
     "case":7,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Henan"
     }
   },
@@ -667,9 +667,9 @@
     "city":"Pingdingshan",
     "province_cn":"河南",
     "city_cn":"平顶山",
-    "case":48,
-    "death":0,
-    "cure":1,
+    "case":50,
+    "death":1,
+    "cure":6,
     "province":"Henan"
     }
   },
@@ -699,7 +699,7 @@
     "city":"Shangqiu",
     "province_cn":"河南",
     "city_cn":"商丘",
-    "case":76,
+    "case":82,
     "death":0,
     "cure":5,
     "province":"Henan"
@@ -715,7 +715,7 @@
     "city":"Kaifeng",
     "province_cn":"河南",
     "city_cn":"开封",
-    "case":21,
+    "case":24,
     "death":0,
     "cure":1,
     "province":"Henan"
@@ -731,7 +731,7 @@
     "city":"Hebi",
     "province_cn":"河南",
     "city_cn":"鹤壁",
-    "case":13,
+    "case":17,
     "death":0,
     "cure":0,
     "province":"Henan"
@@ -747,9 +747,9 @@
     "city":"Xuchang",
     "province_cn":"河南",
     "city_cn":"许昌",
-    "case":30,
+    "case":31,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Henan"
     }
   },
@@ -763,7 +763,7 @@
     "city":"Jiaozuo",
     "province_cn":"河南",
     "city_cn":"焦作",
-    "case":20,
+    "case":24,
     "death":0,
     "cure":1,
     "province":"Henan"
@@ -875,9 +875,9 @@
     "city":"Shenzhen",
     "province_cn":"广东",
     "city_cn":"深圳",
-    "case":339,
+    "case":364,
     "death":0,
-    "cure":31,
+    "cure":39,
     "province":"Guangdong"
     }
   },
@@ -891,9 +891,9 @@
     "city":"Guangzhou",
     "province_cn":"广东",
     "city_cn":"广州",
-    "case":285,
+    "case":304,
     "death":0,
-    "cure":21,
+    "cure":27,
     "province":"Guangdong"
     }
   },
@@ -907,7 +907,7 @@
     "city":"Zhuhai",
     "province_cn":"广东",
     "city_cn":"珠海",
-    "case":76,
+    "case":83,
     "death":0,
     "cure":4,
     "province":"Guangdong"
@@ -923,7 +923,7 @@
     "city":"Foshan",
     "province_cn":"广东",
     "city_cn":"佛山",
-    "case":59,
+    "case":65,
     "death":0,
     "cure":4,
     "province":"Guangdong"
@@ -939,7 +939,7 @@
     "city":"Huizhou",
     "province_cn":"广东",
     "city_cn":"惠州",
-    "case":39,
+    "case":47,
     "death":0,
     "cure":1,
     "province":"Guangdong"
@@ -987,9 +987,9 @@
     "city":"Zhanjiang",
     "province_cn":"广东",
     "city_cn":"湛江",
-    "case":20,
+    "case":21,
     "death":0,
-    "cure":4,
+    "cure":6,
     "province":"Guangdong"
     }
   },
@@ -1003,9 +1003,9 @@
     "city":"Zhongshan",
     "province_cn":"广东",
     "city_cn":"中山",
-    "case":46,
+    "case":51,
     "death":0,
-    "cure":6,
+    "cure":11,
     "province":"Guangdong"
     }
   },
@@ -1051,7 +1051,7 @@
     "city":"Dongguan",
     "province_cn":"广东",
     "city_cn":"东莞",
-    "case":53,
+    "case":58,
     "death":0,
     "cure":1,
     "province":"Guangdong"
@@ -1067,7 +1067,7 @@
     "city":"Shantou",
     "province_cn":"广东",
     "city_cn":"汕头",
-    "case":22,
+    "case":25,
     "death":0,
     "cure":3,
     "province":"Guangdong"
@@ -1099,7 +1099,7 @@
     "city":"Meizhou",
     "province_cn":"广东",
     "city_cn":"梅州",
-    "case":12,
+    "case":13,
     "death":0,
     "cure":4,
     "province":"Guangdong"
@@ -1117,7 +1117,7 @@
     "city_cn":"揭阳",
     "case":7,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Guangdong"
     }
   },
@@ -1147,7 +1147,7 @@
     "city":"Maoming",
     "province_cn":"广东",
     "city_cn":"茂名",
-    "case":6,
+    "case":9,
     "death":0,
     "cure":1,
     "province":"Guangdong"
@@ -1163,7 +1163,7 @@
     "city":"Jiangmen",
     "province_cn":"广东",
     "city_cn":"江门",
-    "case":14,
+    "case":17,
     "death":0,
     "cure":1,
     "province":"Guangdong"
@@ -1195,9 +1195,9 @@
     "city":"Taizhou",
     "province_cn":"浙江",
     "city_cn":"台州",
-    "case":129,
+    "case":138,
     "death":0,
-    "cure":14,
+    "cure":25,
     "province":"Zhejiang"
     }
   },
@@ -1211,9 +1211,9 @@
     "city":"Hangzhou",
     "province_cn":"浙江",
     "city_cn":"杭州",
-    "case":156,
+    "case":165,
     "death":0,
-    "cure":15,
+    "cure":29,
     "province":"Zhejiang"
     }
   },
@@ -1227,9 +1227,9 @@
     "city":"Wenzhou",
     "province_cn":"浙江",
     "city_cn":"温州",
-    "case":421,
+    "case":448,
     "death":0,
-    "cure":36,
+    "cure":70,
     "province":"Zhejiang"
     }
   },
@@ -1243,9 +1243,9 @@
     "city":"Ningbo",
     "province_cn":"浙江",
     "city_cn":"宁波",
-    "case":136,
+    "case":146,
     "death":0,
-    "cure":9,
+    "cure":13,
     "province":"Zhejiang"
     }
   },
@@ -1259,7 +1259,7 @@
     "city":"Jiaxing",
     "province_cn":"浙江",
     "city_cn":"嘉兴",
-    "case":35,
+    "case":38,
     "death":0,
     "cure":1,
     "province":"Zhejiang"
@@ -1275,9 +1275,9 @@
     "city":"Shaoxing",
     "province_cn":"浙江",
     "city_cn":"绍兴",
-    "case":34,
+    "case":38,
     "death":0,
-    "cure":3,
+    "cure":8,
     "province":"Zhejiang"
     }
   },
@@ -1293,7 +1293,7 @@
     "city_cn":"舟山",
     "case":7,
     "death":0,
-    "cure":3,
+    "cure":5,
     "province":"Zhejiang"
     }
   },
@@ -1307,9 +1307,9 @@
     "city":"Jinhua",
     "province_cn":"浙江",
     "city_cn":"金华",
-    "case":48,
+    "case":53,
     "death":0,
-    "cure":9,
+    "cure":13,
     "province":"Zhejiang"
     }
   },
@@ -1325,7 +1325,7 @@
     "city_cn":"衢州",
     "case":15,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Zhejiang"
     }
   },
@@ -1339,9 +1339,9 @@
     "city":"Lishui",
     "province_cn":"浙江",
     "city_cn":"丽水",
-    "case":16,
+    "case":17,
     "death":0,
-    "cure":1,
+    "cure":5,
     "province":"Zhejiang"
     }
   },
@@ -1355,7 +1355,7 @@
     "city":"Huzhou",
     "province_cn":"浙江",
     "city_cn":"湖州",
-    "case":9,
+    "case":10,
     "death":0,
     "cure":1,
     "province":"Zhejiang"
@@ -1371,9 +1371,9 @@
     "city":"Wanzhou",
     "province_cn":"重庆",
     "city_cn":"万州",
-    "case":78,
+    "case":84,
     "death":1,
-    "cure":4,
+    "cure":5,
     "province":"Chongqing"
     }
   },
@@ -1387,7 +1387,7 @@
     "city":"Changshou",
     "province_cn":"重庆",
     "city_cn":"长寿",
-    "case":12,
+    "case":15,
     "death":0,
     "cure":2,
     "province":"Chongqing"
@@ -1419,7 +1419,7 @@
     "city":"Yongchuan",
     "province_cn":"重庆",
     "city_cn":"永川",
-    "case":3,
+    "case":5,
     "death":0,
     "cure":1,
     "province":"Chongqing"
@@ -1435,9 +1435,9 @@
     "city":"Zhongxian",
     "province_cn":"重庆",
     "city_cn":"忠县",
-    "case":15,
+    "case":16,
     "death":0,
-    "cure":1,
+    "cure":3,
     "province":"Chongqing"
     }
   },
@@ -1483,9 +1483,9 @@
     "city":"Chongqing",
     "province_cn":"重庆",
     "city_cn":"重庆市区",
-    "case":91,
+    "case":99,
     "death":1,
-    "cure":1,
+    "cure":3,
     "province":"Chongqing"
     }
   },
@@ -1501,7 +1501,7 @@
     "city_cn":"渝北",
     "case":12,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Chongqing"
     }
   },
@@ -1515,7 +1515,7 @@
     "city":"Dianjiang",
     "province_cn":"重庆",
     "city_cn":"垫江",
-    "case":18,
+    "case":19,
     "death":0,
     "cure":1,
     "province":"Chongqing"
@@ -1533,7 +1533,7 @@
     "city_cn":"云阳",
     "case":20,
     "death":0,
-    "cure":5,
+    "cure":7,
     "province":"Chongqing"
     }
   },
@@ -1547,7 +1547,7 @@
     "city":"Wuxi",
     "province_cn":"重庆",
     "city_cn":"巫溪",
-    "case":11,
+    "case":12,
     "death":0,
     "cure":1,
     "province":"Chongqing"
@@ -1563,9 +1563,9 @@
     "city":"Hechuan",
     "province_cn":"重庆",
     "city_cn":"合川",
-    "case":11,
+    "case":17,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Chongqing"
     }
   },
@@ -1611,7 +1611,7 @@
     "city":"Fengjie",
     "province_cn":"重庆",
     "city_cn":"奉节",
-    "case":13,
+    "case":14,
     "death":0,
     "cure":1,
     "province":"Chongqing"
@@ -1755,7 +1755,7 @@
     "city":"Tongliang",
     "province_cn":"重庆",
     "city_cn":"铜梁",
-    "case":7,
+    "case":8,
     "death":0,
     "cure":0,
     "province":"Chongqing"
@@ -1789,7 +1789,7 @@
     "city_cn":"江津",
     "case":4,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Chongqing"
     }
   },
@@ -1883,7 +1883,7 @@
     "city":"Beijing",
     "province_cn":"北京",
     "city_cn":"北京市区",
-    "case":200,
+    "case":211,
     "death":1,
     "cure":29,
     "province":"Beijing"
@@ -1915,7 +1915,7 @@
     "city":"Tongzhou",
     "province_cn":"北京",
     "city_cn":"通州",
-    "case":14,
+    "case":15,
     "death":0,
     "cure":0,
     "province":"Beijing"
@@ -1947,7 +1947,7 @@
     "city":"Shunyi",
     "province_cn":"北京",
     "city_cn":"顺义",
-    "case":8,
+    "case":9,
     "death":0,
     "cure":0,
     "province":"Beijing"
@@ -1979,7 +1979,7 @@
     "city":"Fangshan",
     "province_cn":"北京",
     "city_cn":"房山",
-    "case":13,
+    "case":14,
     "death":0,
     "cure":0,
     "province":"Beijing"
@@ -2027,9 +2027,9 @@
     "city":"Shanghai",
     "province_cn":"上海",
     "city_cn":"上海",
-    "case":281,
+    "case":292,
     "death":1,
-    "cure":30,
+    "cure":41,
     "province":"Shanghai"
     }
   },
@@ -2043,7 +2043,7 @@
     "city":"Linyi",
     "province_cn":"山东",
     "city_cn":"临沂",
-    "case":38,
+    "case":40,
     "death":0,
     "cure":3,
     "province":"Shandong"
@@ -2061,7 +2061,7 @@
     "city_cn":"青岛",
     "case":46,
     "death":0,
-    "cure":5,
+    "cure":7,
     "province":"Shandong"
     }
   },
@@ -2075,7 +2075,7 @@
     "city":"Weihai",
     "province_cn":"山东",
     "city_cn":"威海",
-    "case":32,
+    "case":33,
     "death":0,
     "cure":5,
     "province":"Shandong"
@@ -2091,7 +2091,7 @@
     "city":"Rizhao",
     "province_cn":"山东",
     "city_cn":"日照",
-    "case":14,
+    "case":15,
     "death":0,
     "cure":2,
     "province":"Shandong"
@@ -2139,9 +2139,9 @@
     "city":"Dezhou",
     "province_cn":"山东",
     "city_cn":"德州",
-    "case":28,
+    "case":29,
     "death":0,
-    "cure":2,
+    "cure":4,
     "province":"Shandong"
     }
   },
@@ -2155,7 +2155,7 @@
     "city":"Weifang",
     "province_cn":"山东",
     "city_cn":"潍坊",
-    "case":29,
+    "case":31,
     "death":0,
     "cure":0,
     "province":"Shandong"
@@ -2171,9 +2171,9 @@
     "city":"Yantai",
     "province_cn":"山东",
     "city_cn":"烟台",
-    "case":34,
+    "case":35,
     "death":0,
-    "cure":5,
+    "cure":2,
     "province":"Shandong"
     }
   },
@@ -2221,7 +2221,7 @@
     "city_cn":"菏泽",
     "case":14,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Shandong"
     }
   },
@@ -2237,7 +2237,7 @@
     "city_cn":"淄博",
     "case":15,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Shandong"
     }
   },
@@ -2251,7 +2251,7 @@
     "city":"Zaozhuang",
     "province_cn":"山东",
     "city_cn":"枣庄",
-    "case":19,
+    "case":20,
     "death":0,
     "cure":0,
     "province":"Shandong"
@@ -2283,9 +2283,9 @@
     "city":"Hefei",
     "province_cn":"安徽",
     "city_cn":"合肥",
-    "case":128,
+    "case":136,
     "death":0,
-    "cure":9,
+    "cure":11,
     "province":"Anhui"
     }
   },
@@ -2299,9 +2299,9 @@
     "city":"Fuyang",
     "province_cn":"安徽",
     "city_cn":"阜阳",
-    "case":113,
+    "case":118,
     "death":0,
-    "cure":9,
+    "cure":11,
     "province":"Anhui"
     }
   },
@@ -2315,7 +2315,7 @@
     "city":"Bozhou",
     "province_cn":"安徽",
     "city_cn":"亳州",
-    "case":81,
+    "case":87,
     "death":0,
     "cure":5,
     "province":"Anhui"
@@ -2331,7 +2331,7 @@
     "city":"Anqing",
     "province_cn":"安徽",
     "city_cn":"安庆",
-    "case":71,
+    "case":75,
     "death":0,
     "cure":6,
     "province":"Anhui"
@@ -2349,7 +2349,7 @@
     "city_cn":"马鞍山",
     "case":31,
     "death":0,
-    "cure":1,
+    "cure":2,
     "province":"Anhui"
     }
   },
@@ -2363,9 +2363,9 @@
     "city":"Tongling",
     "province_cn":"安徽",
     "city_cn":"铜陵",
-    "case":23,
+    "case":24,
     "death":0,
-    "cure":5,
+    "cure":7,
     "province":"Anhui"
     }
   },
@@ -2379,9 +2379,9 @@
     "city":"Lu An",
     "province_cn":"安徽",
     "city_cn":"六安",
-    "case":51,
+    "case":54,
     "death":0,
-    "cure":1,
+    "cure":2,
     "province":"Anhui"
     }
   },
@@ -2411,7 +2411,7 @@
     "city":"Chizhou",
     "province_cn":"安徽",
     "city_cn":"池州",
-    "case":11,
+    "case":12,
     "death":0,
     "cure":1,
     "province":"Anhui"
@@ -2427,9 +2427,9 @@
     "city":"Bengbu",
     "province_cn":"安徽",
     "city_cn":"蚌埠",
-    "case":88,
-    "death":0,
-    "cure":0,
+    "case":115,
+    "death":1,
+    "cure":1,
     "province":"Anhui"
     }
   },
@@ -2475,9 +2475,9 @@
     "city":"Huaibei",
     "province_cn":"安徽",
     "city_cn":"淮北",
-    "case":22,
+    "case":23,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Anhui"
     }
   },
@@ -2491,9 +2491,9 @@
     "city":"Huainan",
     "province_cn":"安徽",
     "city_cn":"淮南",
-    "case":21,
+    "case":22,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Anhui"
     }
   },
@@ -2509,7 +2509,7 @@
     "city_cn":"宿州",
     "case":28,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Anhui"
     }
   },
@@ -2555,7 +2555,7 @@
     "city":"Ganzhou",
     "province_cn":"江西",
     "city_cn":"赣州",
-    "case":64,
+    "case":69,
     "death":0,
     "cure":2,
     "province":"Jiangxi"
@@ -2571,7 +2571,7 @@
     "city":"Fuzhou",
     "province_cn":"江西",
     "city_cn":"抚州",
-    "case":59,
+    "case":63,
     "death":0,
     "cure":7,
     "province":"Jiangxi"
@@ -2587,9 +2587,9 @@
     "city":"Shangrao",
     "province_cn":"江西",
     "city_cn":"上饶",
-    "case":92,
+    "case":98,
     "death":0,
-    "cure":5,
+    "cure":7,
     "province":"Jiangxi"
     }
   },
@@ -2603,9 +2603,9 @@
     "city":"Yichun",
     "province_cn":"江西",
     "city_cn":"宜春",
-    "case":67,
+    "case":74,
     "death":0,
-    "cure":5,
+    "cure":6,
     "province":"Jiangxi"
     }
   },
@@ -2619,9 +2619,9 @@
     "city":"Nanchang",
     "province_cn":"江西",
     "city_cn":"南昌",
-    "case":168,
+    "case":179,
     "death":0,
-    "cure":20,
+    "cure":27,
     "province":"Jiangxi"
     }
   },
@@ -2651,9 +2651,9 @@
     "city":"Jiujiang",
     "province_cn":"江西",
     "city_cn":"九江",
-    "case":97,
+    "case":100,
     "death":0,
-    "cure":5,
+    "cure":6,
     "province":"Jiangxi"
     }
   },
@@ -2683,9 +2683,9 @@
     "city":"Xinyu",
     "province_cn":"江西",
     "city_cn":"新余",
-    "case":87,
+    "case":100,
     "death":0,
-    "cure":5,
+    "cure":13,
     "province":"Jiangxi"
     }
   },
@@ -2699,7 +2699,7 @@
     "city":"Jingdezhen",
     "province_cn":"江西",
     "city_cn":"景德镇",
-    "case":4,
+    "case":5,
     "death":0,
     "cure":1,
     "province":"Jiangxi"
@@ -2717,7 +2717,7 @@
     "city_cn":"鹰潭",
     "case":11,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Jiangxi"
     }
   },
@@ -2747,9 +2747,9 @@
     "city":"Beihai",
     "province_cn":"广西",
     "city_cn":"北海",
-    "case":32,
+    "case":33,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Guangxi"
     }
   },
@@ -2765,7 +2765,7 @@
     "city_cn":"柳州",
     "case":20,
     "death":0,
-    "cure":3,
+    "cure":5,
     "province":"Guangxi"
     }
   },
@@ -2779,8 +2779,8 @@
     "city":"Hechi",
     "province_cn":"广西",
     "city_cn":"河池",
-    "case":15,
-    "death":0,
+    "case":19,
+    "death":1,
     "cure":0,
     "province":"Guangxi"
     }
@@ -2797,7 +2797,7 @@
     "city_cn":"梧州",
     "case":5,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Guangxi"
     }
   },
@@ -2843,9 +2843,9 @@
     "city":"Nanning",
     "province_cn":"广西",
     "city_cn":"南宁",
-    "case":32,
+    "case":35,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Guangxi"
     }
   },
@@ -2923,7 +2923,7 @@
     "city":"Laibin",
     "province_cn":"广西",
     "city_cn":"来宾",
-    "case":3,
+    "case":7,
     "death":0,
     "cure":0,
     "province":"Guangxi"
@@ -2939,9 +2939,9 @@
     "city":"Sanya",
     "province_cn":"海南",
     "city_cn":"三亚",
-    "case":34,
+    "case":40,
     "death":1,
-    "cure":8,
+    "cure":10,
     "province":"Hainan"
     }
   },
@@ -2957,7 +2957,7 @@
     "city_cn":"万宁",
     "case":12,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Hainan"
     }
   },
@@ -2971,7 +2971,7 @@
     "city":"Haikou",
     "province_cn":"海南",
     "city_cn":"海口",
-    "case":21,
+    "case":23,
     "death":0,
     "cure":2,
     "province":"Hainan"
@@ -2989,7 +2989,7 @@
     "city_cn":"儋州",
     "case":11,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Hainan"
     }
   },
@@ -3037,7 +3037,7 @@
     "city_cn":"澄迈",
     "case":7,
     "death":1,
-    "cure":0,
+    "cure":1,
     "province":"Hainan"
     }
   },
@@ -3115,7 +3115,7 @@
     "city":"Changjiang",
     "province_cn":"海南",
     "city_cn":"昌江",
-    "case":4,
+    "case":5,
     "death":0,
     "cure":0,
     "province":"Hainan"
@@ -3131,7 +3131,7 @@
     "city":"Ledong",
     "province_cn":"海南",
     "city_cn":"乐东",
-    "case":1,
+    "case":2,
     "death":0,
     "cure":0,
     "province":"Hainan"
@@ -3147,7 +3147,7 @@
     "city":"Wenchang",
     "province_cn":"海南",
     "city_cn":"文昌",
-    "case":1,
+    "case":2,
     "death":0,
     "cure":0,
     "province":"Hainan"
@@ -3163,7 +3163,7 @@
     "city":"Baoting",
     "province_cn":"海南",
     "city_cn":"保亭",
-    "case":2,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"Hainan"
@@ -3179,9 +3179,9 @@
     "city":"Fuzhou",
     "province_cn":"福建",
     "city_cn":"福州",
-    "case":57,
+    "case":59,
     "death":0,
-    "cure":7,
+    "cure":10,
     "province":"Fujian"
     }
   },
@@ -3195,7 +3195,7 @@
     "city":"Xiamen",
     "province_cn":"福建",
     "city_cn":"厦门",
-    "case":23,
+    "case":25,
     "death":0,
     "cure":2,
     "province":"Fujian"
@@ -3243,7 +3243,7 @@
     "city":"Ningde",
     "province_cn":"福建",
     "city_cn":"宁德",
-    "case":16,
+    "case":21,
     "death":0,
     "cure":4,
     "province":"Fujian"
@@ -3261,7 +3261,7 @@
     "city_cn":"三明",
     "case":12,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Fujian"
     }
   },
@@ -3275,7 +3275,7 @@
     "city":"Putian",
     "province_cn":"福建",
     "city_cn":"莆田",
-    "case":44,
+    "case":47,
     "death":0,
     "cure":1,
     "province":"Fujian"
@@ -3291,7 +3291,7 @@
     "city":"Nanping",
     "province_cn":"福建",
     "city_cn":"南平",
-    "case":12,
+    "case":14,
     "death":0,
     "cure":1,
     "province":"Fujian"
@@ -3307,7 +3307,7 @@
     "city":"Longyan",
     "province_cn":"福建",
     "city_cn":"龙岩",
-    "case":4,
+    "case":5,
     "death":0,
     "cure":0,
     "province":"Fujian"
@@ -3325,7 +3325,7 @@
     "city_cn":"常州",
     "case":31,
     "death":0,
-    "cure":2,
+    "cure":5,
     "province":"Jiangsu"
     }
   },
@@ -3339,9 +3339,9 @@
     "city":"Nanjing",
     "province_cn":"江苏",
     "city_cn":"南京",
-    "case":65,
+    "case":71,
     "death":0,
-    "cure":15,
+    "cure":20,
     "province":"Jiangsu"
     }
   },
@@ -3355,7 +3355,7 @@
     "city":"Suzhou",
     "province_cn":"江苏",
     "city_cn":"苏州",
-    "case":72,
+    "case":75,
     "death":0,
     "cure":4,
     "province":"Jiangsu"
@@ -3371,9 +3371,9 @@
     "city":"Lianyungang",
     "province_cn":"江苏",
     "city_cn":"连云港",
-    "case":27,
+    "case":32,
     "death":0,
-    "cure":1,
+    "cure":2,
     "province":"Jiangsu"
     }
   },
@@ -3387,9 +3387,9 @@
     "city":"Wuxi",
     "province_cn":"江苏",
     "city_cn":"无锡",
-    "case":34,
+    "case":38,
     "death":0,
-    "cure":1,
+    "cure":3,
     "province":"Jiangsu"
     }
   },
@@ -3403,7 +3403,7 @@
     "city":"Nantong",
     "province_cn":"江苏",
     "city_cn":"南通",
-    "case":31,
+    "case":32,
     "death":0,
     "cure":2,
     "province":"Jiangsu"
@@ -3419,7 +3419,7 @@
     "city":"Yangzhou",
     "province_cn":"江苏",
     "city_cn":"扬州",
-    "case":17,
+    "case":18,
     "death":0,
     "cure":2,
     "province":"Jiangsu"
@@ -3453,7 +3453,7 @@
     "city_cn":"宿迁",
     "case":12,
     "death":0,
-    "cure":3,
+    "cure":0,
     "province":"Jiangsu"
     }
   },
@@ -3467,7 +3467,7 @@
     "city":"Zhenjiang",
     "province_cn":"江苏",
     "city_cn":"镇江",
-    "case":11,
+    "case":12,
     "death":0,
     "cure":1,
     "province":"Jiangsu"
@@ -3483,7 +3483,7 @@
     "city":"Huai An",
     "province_cn":"江苏",
     "city_cn":"淮安",
-    "case":40,
+    "case":44,
     "death":0,
     "cure":2,
     "province":"Jiangsu"
@@ -3501,7 +3501,7 @@
     "city_cn":"泰州",
     "case":30,
     "death":0,
-    "cure":3,
+    "cure":4,
     "province":"Jiangsu"
     }
   },
@@ -3515,7 +3515,7 @@
     "city":"Xuzhou",
     "province_cn":"江苏",
     "city_cn":"徐州",
-    "case":52,
+    "case":56,
     "death":0,
     "cure":3,
     "province":"Jiangsu"
@@ -3531,9 +3531,9 @@
     "city":"Shenyang",
     "province_cn":"辽宁",
     "city_cn":"沈阳",
-    "case":25,
+    "case":26,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Liaoning"
     }
   },
@@ -3547,7 +3547,7 @@
     "city":"Dalian",
     "province_cn":"辽宁",
     "city_cn":"大连",
-    "case":14,
+    "case":16,
     "death":0,
     "cure":3,
     "province":"Liaoning"
@@ -3661,7 +3661,7 @@
     "city_cn":"丹东",
     "case":7,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Liaoning"
     }
   },
@@ -3675,7 +3675,7 @@
     "city":"Liaoyang",
     "province_cn":"辽宁",
     "city_cn":"辽阳",
-    "case":2,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"Liaoning"
@@ -3707,7 +3707,7 @@
     "city":"Jinzhou",
     "province_cn":"辽宁",
     "city_cn":"锦州",
-    "case":8,
+    "case":10,
     "death":0,
     "cure":1,
     "province":"Liaoning"
@@ -3739,9 +3739,9 @@
     "city":"Xi An",
     "province_cn":"陕西",
     "city_cn":"西安",
-    "case":80,
+    "case":88,
     "death":0,
-    "cure":9,
+    "cure":10,
     "province":"Shaanxi"
     }
   },
@@ -3755,9 +3755,9 @@
     "city":"Xianyang",
     "province_cn":"陕西",
     "city_cn":"咸阳",
-    "case":15,
+    "case":16,
     "death":0,
-    "cure":1,
+    "cure":2,
     "province":"Shaanxi"
     }
   },
@@ -3789,7 +3789,7 @@
     "city_cn":"铜川",
     "case":8,
     "death":0,
-    "cure":0,
+    "cure":4,
     "province":"Shaanxi"
     }
   },
@@ -3803,7 +3803,7 @@
     "city":"Yan An",
     "province_cn":"陕西",
     "city_cn":"延安",
-    "case":7,
+    "case":8,
     "death":0,
     "cure":0,
     "province":"Shaanxi"
@@ -3899,7 +3899,7 @@
     "city":"Yulin",
     "province_cn":"陕西",
     "city_cn":"榆林",
-    "case":2,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"Shaanxi"
@@ -3933,7 +3933,7 @@
     "city_cn":"昆明",
     "case":41,
     "death":0,
-    "cure":2,
+    "cure":6,
     "province":"Yunnan"
     }
   },
@@ -4075,7 +4075,7 @@
     "city":"Zhaotong",
     "province_cn":"云南",
     "city_cn":"昭通",
-    "case":10,
+    "case":12,
     "death":0,
     "cure":1,
     "province":"Yunnan"
@@ -4155,9 +4155,9 @@
     "city":"Tianjin",
     "province_cn":"天津",
     "city_cn":"天津",
-    "case":81,
+    "case":88,
     "death":1,
-    "cure":2,
+    "cure":4,
     "province":"Tianjin"
     }
   },
@@ -4171,7 +4171,7 @@
     "city":"Harbin",
     "province_cn":"黑龙江",
     "city_cn":"哈尔滨",
-    "case":100,
+    "case":114,
     "death":0,
     "cure":9,
     "province":"Heilongjiang"
@@ -4187,9 +4187,9 @@
     "city":"Mudanjiang",
     "province_cn":"黑龙江",
     "city_cn":"牡丹江",
-    "case":13,
+    "case":12,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Heilongjiang"
     }
   },
@@ -4219,8 +4219,8 @@
     "city":"Suihua",
     "province_cn":"黑龙江",
     "city_cn":"绥化",
-    "case":44,
-    "death":2,
+    "case":35,
+    "death":3,
     "cure":1,
     "province":"Heilongjiang"
     }
@@ -4267,7 +4267,7 @@
     "city":"Shuangyashan",
     "province_cn":"黑龙江",
     "city_cn":"双鸭山",
-    "case":36,
+    "case":38,
     "death":2,
     "cure":1,
     "province":"Heilongjiang"
@@ -4283,7 +4283,7 @@
     "city":"Qitaihe",
     "province_cn":"黑龙江",
     "city_cn":"七台河",
-    "case":11,
+    "case":13,
     "death":0,
     "cure":0,
     "province":"Heilongjiang"
@@ -4299,7 +4299,7 @@
     "city":"Jixi",
     "province_cn":"黑龙江",
     "city_cn":"鸡西",
-    "case":31,
+    "case":34,
     "death":0,
     "cure":0,
     "province":"Heilongjiang"
@@ -4315,7 +4315,7 @@
     "city":"Hegang",
     "province_cn":"黑龙江",
     "city_cn":"鹤岗",
-    "case":3,
+    "case":4,
     "death":0,
     "cure":0,
     "province":"Heilongjiang"
@@ -4363,9 +4363,9 @@
     "city":"Jinzhong",
     "province_cn":"山西",
     "city_cn":"晋中",
-    "case":30,
+    "case":32,
     "death":0,
-    "cure":5,
+    "cure":6,
     "province":"Shanxi"
     }
   },
@@ -4379,7 +4379,7 @@
     "city":"Taiyuan",
     "province_cn":"山西",
     "city_cn":"太原",
-    "case":12,
+    "case":15,
     "death":0,
     "cure":1,
     "province":"Shanxi"
@@ -4395,9 +4395,9 @@
     "city":"Yuncheng",
     "province_cn":"山西",
     "city_cn":"运城",
-    "case":17,
+    "case":18,
     "death":0,
-    "cure":1,
+    "cure":4,
     "province":"Shanxi"
     }
   },
@@ -4427,9 +4427,9 @@
     "city":"Datong",
     "province_cn":"山西",
     "city_cn":"大同",
-    "case":10,
+    "case":11,
     "death":0,
-    "cure":0,
+    "cure":3,
     "province":"Shanxi"
     }
   },
@@ -4443,7 +4443,7 @@
     "city":"Changzhi",
     "province_cn":"山西",
     "city_cn":"长治",
-    "case":5,
+    "case":7,
     "death":0,
     "cure":0,
     "province":"Shanxi"
@@ -4475,7 +4475,7 @@
     "city":"Shuozhou",
     "province_cn":"山西",
     "city_cn":"朔州",
-    "case":4,
+    "case":6,
     "death":0,
     "cure":1,
     "province":"Shanxi"
@@ -4525,7 +4525,7 @@
     "city_cn":"晋城",
     "case":8,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Shanxi"
     }
   },
@@ -4557,7 +4557,7 @@
     "city_cn":"沧州",
     "case":28,
     "death":1,
-    "cure":4,
+    "cure":6,
     "province":"Hebei"
     }
   },
@@ -4571,7 +4571,7 @@
     "city":"Baoding",
     "province_cn":"河北",
     "city_cn":"保定",
-    "case":18,
+    "case":21,
     "death":0,
     "cure":8,
     "province":"Hebei"
@@ -4603,7 +4603,7 @@
     "city":"Langfang",
     "province_cn":"河北",
     "city_cn":"廊坊",
-    "case":20,
+    "case":22,
     "death":0,
     "cure":4,
     "province":"Hebei"
@@ -4620,8 +4620,8 @@
     "province_cn":"河北",
     "city_cn":"邢台",
     "case":21,
-    "death":0,
-    "cure":1,
+    "death":1,
+    "cure":4,
     "province":"Hebei"
     }
   },
@@ -4635,7 +4635,7 @@
     "city":"Hengshui",
     "province_cn":"河北",
     "city_cn":"衡水",
-    "case":7,
+    "case":8,
     "death":0,
     "cure":0,
     "province":"Hebei"
@@ -4651,7 +4651,7 @@
     "city":"Tangshan",
     "province_cn":"河北",
     "city_cn":"唐山",
-    "case":23,
+    "case":27,
     "death":0,
     "cure":2,
     "province":"Hebei"
@@ -4667,7 +4667,7 @@
     "city":"Handan",
     "province_cn":"河北",
     "city_cn":"邯郸",
-    "case":26,
+    "case":27,
     "death":0,
     "cure":2,
     "province":"Hebei"
@@ -4699,7 +4699,7 @@
     "city":"Qinhuangdao",
     "province_cn":"河北",
     "city_cn":"秦皇岛",
-    "case":14,
+    "case":7,
     "death":0,
     "cure":0,
     "province":"Hebei"
@@ -4749,7 +4749,7 @@
     "city_cn":"鄂尔多斯",
     "case":11,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Inner Mongolia"
     }
   },
@@ -4859,7 +4859,7 @@
     "city":"Baotou",
     "province_cn":"内蒙古",
     "city_cn":"包头",
-    "case":9,
+    "case":10,
     "death":0,
     "cure":0,
     "province":"Inner Mongolia"
@@ -4891,7 +4891,7 @@
     "city":"Tongliao",
     "province_cn":"内蒙古",
     "city_cn":"通辽",
-    "case":2,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"Inner Mongolia"
@@ -4955,7 +4955,7 @@
     "city":"Tongren",
     "province_cn":"贵州",
     "city_cn":"铜仁",
-    "case":6,
+    "case":7,
     "death":0,
     "cure":2,
     "province":"Guizhou"
@@ -4971,9 +4971,9 @@
     "city":"Guiyang",
     "province_cn":"贵州",
     "city_cn":"贵阳",
-    "case":18,
+    "case":22,
     "death":0,
-    "cure":4,
+    "cure":1,
     "province":"Guizhou"
     }
   },
@@ -5003,7 +5003,7 @@
     "city":"Qianxinan",
     "province_cn":"贵州",
     "city_cn":"黔西南州",
-    "case":3,
+    "case":4,
     "death":0,
     "cure":0,
     "province":"Guizhou"
@@ -5019,7 +5019,7 @@
     "city":"Liupanshui",
     "province_cn":"贵州",
     "city_cn":"六盘水",
-    "case":9,
+    "case":10,
     "death":1,
     "cure":0,
     "province":"Guizhou"
@@ -5035,7 +5035,7 @@
     "city":"Qiandongnan",
     "province_cn":"贵州",
     "city_cn":"黔东南州",
-    "case":5,
+    "case":6,
     "death":0,
     "cure":0,
     "province":"Guizhou"
@@ -5051,9 +5051,9 @@
     "city":"Zunyi",
     "province_cn":"贵州",
     "city_cn":"遵义",
-    "case":12,
+    "case":15,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Guizhou"
     }
   },
@@ -5067,7 +5067,7 @@
     "city":"Bijie",
     "province_cn":"贵州",
     "city_cn":"毕节",
-    "case":17,
+    "case":21,
     "death":0,
     "cure":0,
     "province":"Guizhou"
@@ -5115,7 +5115,7 @@
     "city":"Changchun",
     "province_cn":"吉林",
     "city_cn":"长春",
-    "case":32,
+    "case":37,
     "death":0,
     "cure":1,
     "province":"Jilin"
@@ -5133,7 +5133,7 @@
     "city_cn":"松原",
     "case":2,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Jilin"
     }
   },
@@ -5147,7 +5147,7 @@
     "city":"Siping",
     "province_cn":"吉林",
     "city_cn":"四平",
-    "case":10,
+    "case":12,
     "death":1,
     "cure":0,
     "province":"Jilin"
@@ -5179,7 +5179,7 @@
     "city":"Tonghua",
     "province_cn":"吉林",
     "city_cn":"通化",
-    "case":2,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"Jilin"
@@ -5221,13 +5221,45 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 125.691833,42.537275 ]
+    },
+    "properties": {
+    "city":"Meihekou",
+    "province_cn":"吉林",
+    "city_cn":"梅河口",
+    "case":1,
+    "death":0,
+    "cure":0,
+    "province":"Jilin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.84704,45.614037 ]
+    },
+    "properties": {
+    "city":"Baicheng",
+    "province_cn":"吉林",
+    "city_cn":"白城",
+    "case":1,
+    "death":0,
+    "cure":0,
+    "province":"Jilin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 103.060275,36.303488 ]
     },
     "properties": {
     "city":"Lanzhou",
     "province_cn":"甘肃",
     "city_cn":"兰州",
-    "case":32,
+    "case":33,
     "death":1,
     "cure":5,
     "province":"Gansu"
@@ -5339,7 +5371,7 @@
     "city":"Tianshui",
     "province_cn":"甘肃",
     "city_cn":"天水",
-    "case":10,
+    "case":12,
     "death":0,
     "cure":1,
     "province":"Gansu"
@@ -5355,7 +5387,7 @@
     "city":"Pingliang",
     "province_cn":"甘肃",
     "city_cn":"平凉",
-    "case":2,
+    "case":4,
     "death":0,
     "cure":0,
     "province":"Gansu"
@@ -5371,7 +5403,7 @@
     "city":"Gannan",
     "province_cn":"甘肃",
     "city_cn":"甘南",
-    "case":3,
+    "case":6,
     "death":0,
     "cure":0,
     "province":"Gansu"
@@ -5403,9 +5435,9 @@
     "city":"Yinchuan",
     "province_cn":"宁夏",
     "city_cn":"银川",
-    "case":29,
+    "case":28,
     "death":0,
-    "cure":3,
+    "cure":5,
     "province":"Ningxia"
     }
   },
@@ -5421,7 +5453,7 @@
     "city_cn":"中卫",
     "case":3,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Ningxia"
     }
   },
@@ -5437,7 +5469,7 @@
     "city_cn":"固原",
     "case":2,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Ningxia"
     }
   },
@@ -5451,9 +5483,9 @@
     "city":"Wuzhong",
     "province_cn":"宁夏",
     "city_cn":"吴忠",
-    "case":9,
+    "case":10,
     "death":0,
-    "cure":0,
+    "cure":4,
     "province":"Ningxia"
     }
   },
@@ -5499,7 +5531,7 @@
     "city":"__",
     "province_cn":"台湾",
     "city_cn":"地区",
-    "case":16,
+    "case":17,
     "death":0,
     "cure":1,
     "province":"Taiwan (ROC)"
@@ -5515,7 +5547,7 @@
     "city":"Urumqi",
     "province_cn":"新疆",
     "city_cn":"乌鲁木齐",
-    "case":18,
+    "case":20,
     "death":0,
     "cure":0,
     "province":"Xinjiang"
@@ -5531,7 +5563,7 @@
     "city":"Ili",
     "province_cn":"新疆",
     "city_cn":"伊犁",
-    "case":9,
+    "case":10,
     "death":0,
     "cure":0,
     "province":"Xinjiang"
@@ -5560,7 +5592,7 @@
        "coordinates":  [ 86.05,44.26 ]
     },
     "properties": {
-    "city":"Shihezi",
+    "city":"Shihezi (The 8th Division)",
     "province_cn":"新疆",
     "city_cn":"第八师石河子",
     "case":1,
@@ -5592,7 +5624,7 @@
        "coordinates":  [ 83.620741,46.521076 ]
     },
     "properties": {
-    "city":"Emin",
+    "city":"Emin (The 9th Division)",
     "province_cn":"新疆",
     "city_cn":"第九师额敏县",
     "case":4,
@@ -5624,7 +5656,7 @@
        "coordinates":  [ 87.538838,44.159797 ]
     },
     "properties": {
-    "city":"Wujiaqu",
+    "city":"Wujiaqu (The 6th Division)",
     "province_cn":"新疆",
     "city_cn":"第六师五家渠",
     "case":1,
@@ -5640,7 +5672,7 @@
        "coordinates":  [ 84.8254,44.710398 ]
     },
     "properties": {
-    "city":"Huyangh",
+    "city":"Huyangh (The 7th Division)",
     "province_cn":"新疆",
     "city_cn":"第七师胡杨河",
     "case":1,
@@ -5659,6 +5691,22 @@
     "city":"Bayingolin",
     "province_cn":"新疆",
     "city_cn":"巴音郭楞",
+    "case":3,
+    "death":0,
+    "cure":0,
+    "province":"Xinjiang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87,43.6 ]
+    },
+    "properties": {
+    "city":"The 12th Division",
+    "province_cn":"新疆",
+    "city_cn":"第十二师",
     "case":1,
     "death":0,
     "cure":0,
@@ -5723,9 +5771,9 @@
     "city":"Chengdu",
     "province_cn":"四川",
     "city_cn":"成都",
-    "case":109,
+    "case":120,
     "death":1,
-    "cure":25,
+    "cure":33,
     "province":"Sichuan"
     }
   },
@@ -5741,7 +5789,7 @@
     "city_cn":"绵阳",
     "case":20,
     "death":0,
-    "cure":2,
+    "cure":3,
     "province":"Sichuan"
     }
   },
@@ -5757,7 +5805,7 @@
     "city_cn":"广安",
     "case":28,
     "death":0,
-    "cure":1,
+    "cure":3,
     "province":"Sichuan"
     }
   },
@@ -5771,7 +5819,7 @@
     "city":"Suining",
     "province_cn":"四川",
     "city_cn":"遂宁",
-    "case":6,
+    "case":8,
     "death":0,
     "cure":2,
     "province":"Sichuan"
@@ -5787,9 +5835,9 @@
     "city":"Luzhou",
     "province_cn":"四川",
     "city_cn":"泸州",
-    "case":13,
+    "case":16,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"Sichuan"
     }
   },
@@ -5803,7 +5851,7 @@
     "city":"Nanchong",
     "province_cn":"四川",
     "city_cn":"南充",
-    "case":31,
+    "case":32,
     "death":0,
     "cure":2,
     "province":"Sichuan"
@@ -5835,7 +5883,7 @@
     "city":"Deyang",
     "province_cn":"四川",
     "city_cn":"德阳",
-    "case":13,
+    "case":16,
     "death":0,
     "cure":0,
     "province":"Sichuan"
@@ -5853,7 +5901,7 @@
     "city_cn":"雅安",
     "case":6,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"Sichuan"
     }
   },
@@ -5869,7 +5917,7 @@
     "city_cn":"达州",
     "case":25,
     "death":0,
-    "cure":4,
+    "cure":5,
     "province":"Sichuan"
     }
   },
@@ -5885,7 +5933,7 @@
     "city_cn":"自贡",
     "case":9,
     "death":0,
-    "cure":1,
+    "cure":2,
     "province":"Sichuan"
     }
   },
@@ -5901,7 +5949,7 @@
     "city_cn":"内江",
     "case":17,
     "death":0,
-    "cure":1,
+    "cure":2,
     "province":"Sichuan"
     }
   },
@@ -5931,7 +5979,7 @@
     "city":"Meishan",
     "province_cn":"四川",
     "city_cn":"眉山",
-    "case":6,
+    "case":7,
     "death":0,
     "cure":1,
     "province":"Sichuan"
@@ -5979,7 +6027,7 @@
     "city":"Ziyang",
     "province_cn":"四川",
     "city_cn":"资阳",
-    "case":2,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"Sichuan"
@@ -6043,9 +6091,9 @@
     "city":"Panzhihua",
     "province_cn":"四川",
     "city_cn":"攀枝花",
-    "case":12,
+    "case":13,
     "death":0,
-    "cure":1,
+    "cure":3,
     "province":"Sichuan"
     }
   },
@@ -6069,29 +6117,13 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -5.7,7.5 ]
-    },
-    "properties": {
-    "city":"Cote d'Ivoire",
-    "province_cn":"科特迪瓦",
-    "city_cn":"疑似1例",
-    "case":0,
-    "death":0,
-    "cure":0,
-    "province":"1 unconfirmed case"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 2.48,46.83 ]
     },
     "properties": {
     "city":"France",
     "province_cn":"法国",
     "city_cn":"_",
-    "case":6,
+    "case":11,
     "death":0,
     "cure":0,
     "province":"_"
@@ -6107,7 +6139,7 @@
     "city":"Germany",
     "province_cn":"德国",
     "city_cn":"_",
-    "case":12,
+    "case":14,
     "death":0,
     "cure":0,
     "province":"_"
@@ -6187,9 +6219,9 @@
     "city":"Malaysia",
     "province_cn":"马来西亚",
     "city_cn":"_",
-    "case":12,
+    "case":16,
     "death":0,
-    "cure":0,
+    "cure":1,
     "province":"_"
     }
   },
@@ -6203,9 +6235,9 @@
     "city":"Singapore",
     "province_cn":"新加坡",
     "city_cn":"_",
-    "case":30,
+    "case":33,
     "death":0,
-    "cure":0,
+    "cure":2,
     "province":"_"
     }
   },
@@ -6235,7 +6267,7 @@
     "city":"Japan",
     "province_cn":"日本",
     "city_cn":"_",
-    "case":86,
+    "case":89,
     "death":0,
     "cure":1,
     "province":"_"
@@ -6459,7 +6491,7 @@
     "city":"Toronto",
     "province_cn":"加拿大",
     "city_cn":"安大略省多伦多",
-    "case":1,
+    "case":2,
     "death":0,
     "cure":0,
     "province":"Canada"
@@ -6523,7 +6555,7 @@
     "city":"Italy",
     "province_cn":"意大利",
     "city_cn":"_",
-    "case":2,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"_"
@@ -6555,7 +6587,7 @@
     "city":"India",
     "province_cn":"印度",
     "city_cn":"_",
-    "case":1,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"_"
@@ -6571,7 +6603,7 @@
     "city":"UAE",
     "province_cn":"阿联酋",
     "city_cn":"_",
-    "case":5,
+    "case":7,
     "death":0,
     "cure":0,
     "province":"_"
@@ -6619,7 +6651,7 @@
     "city":"UK",
     "province_cn":"英国",
     "city_cn":"_",
-    "case":2,
+    "case":3,
     "death":0,
     "cure":0,
     "province":"_"
