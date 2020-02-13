@@ -70,7 +70,7 @@
 <div id ="intro"><center><h3>新型冠状病毒疫情 -- 城市分布地图<br>2019-nCoV (NCP) map</h3>
 
 	<div id ="intro"><p2>城市疫情数据/Data From:  <br><a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">丁香园/Dingxiangyuan</a></p2><br>
-		<p2>截止到/Last Updated: <br>  2020-02-10 19:00 (CST 芝加哥时间)</p2>
+		<p2>截止到/Last Updated: <br>  2020-02-12 20:00 (CST 芝加哥时间)</p2>
 		<div><center>右上角可添加卫星和边界底图<br>Add satellite/boundary basemaps at the upper-right menu.</center></div>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Back</a></center></div>
 </center>
@@ -142,6 +142,7 @@
 				else if (field < 1000) r = 25;
 				else if (field < 5000) r = 30;
 				else if (field < 10000) r = 40;
+				else if (isNaN(field)) r = 2;
 				else r = 50;
 				return r
 			}
@@ -154,7 +155,9 @@
 				else if (field < 50) color="#ef3b2c";
 				else if (field < 100) color="#cb181d";
 				else if (field < 1000) color="#a50f15";
+				else if (isNaN(field)) color = "black";
 				else color="#67000d";
+
 
 				return color
 			}
@@ -188,12 +191,14 @@
 					$("#paneltext").html('<h3> '+feature.properties.city+', '
 										+feature.properties.province +'</h3> Confirmed: '
 										+feature.properties.case+'<br> Recovered: '
-										+feature.properties.cure+'<br> Death: '
+										+feature.properties.cure+'<br> Remaining: '
+										+feature.properties.remain+'<br> Death: '
 										+feature.properties.death+'</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.province_cn+' '
 									+feature.properties.city_cn +'</h3> 确诊: '
-									+feature.properties.case+'<br> 治愈: '
+									+feature.properties.case+'<br> 剩余: '
+									+feature.properties.remain+'<br> 治愈: '
 									+feature.properties.cure+'<br> 死亡: '
 									+feature.properties.death+'<br> See panel below for data in English</p>', popup2)
 			}
