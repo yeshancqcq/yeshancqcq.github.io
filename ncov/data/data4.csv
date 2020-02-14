@@ -1,4 +1,4 @@
-,city_cn,province_cn,city,province,lat,lon,cure,death,case,remain
+id,city_cn,province_cn,city,province,lat,lon,cure,death,case,remain
 1,长沙,湖南,Changsha,Hunan,28.322759,113.224946,56,0,223,167
 2,岳阳,湖南,Yueyang,Hunan,29.178499,113.237527,42,1,146,103
 3,怀化,湖南,Huaihua,Hunan,27.612024,109.945539,21,0,39,18
@@ -295,14 +295,14 @@
 294,邯郸,河北,Handan,Hebei,36.574,114.48,5,0,31,26
 295,张家口,河北,Zhangjiakou,Hebei,40.81,114.89,3,0,25,22
 296,秦皇岛,河北,Qinhuangdao,Hebei,39.95,119.59,1,0,9,8
-297,锡林郭勒-锡林浩特,内蒙古,Xilingol - Xilinhot,Inner Mongolia,43.468238,114.415868,NA,NA,NA,NA
+297,锡林郭勒盟,内蒙古,Xilingol - Xilinhot,Inner Mongolia,43.468238,114.415868,1,0,5,4
 298,二连浩特,内蒙古,Erenhot,Inner Mongolia,43.63,112,NA,NA,NA,NA
 299,鄂尔多斯,内蒙古,Ordos,Inner Mongolia,39.805586,109.764419,2,0,11,9
 300,满洲里,内蒙古,Manzhouli,Inner Mongolia,49.500032,117.603687,NA,NA,NA,NA
 301,赤峰,内蒙古,Chifeng,Inner Mongolia,42.268753,118.757106,2,0,5,3
 302,呼伦贝尔,内蒙古,Hulun Buir,Inner Mongolia,49.22,119.76,1,0,6,5
 303,牙克石,内蒙古,Yakeshi,Inner Mongolia,49.329996,121.512668,0,0,1,1
-304,乌兰浩特,内蒙古,Ulahot,Inner Mongolia,46.05,122.1,NA,NA,NA,NA
+304,兴安盟,内蒙古,Ulahot,Inner Mongolia,46.05,122.1,0,0,1,1
 305,乌兰察布,内蒙古,Ulanqab,Inner Mongolia,40.99,113.13,0,0,3,3
 306,包头,内蒙古,Baotou,Inner Mongolia,40.65,109.8,0,0,11,11
 307,巴彦淖尔,内蒙古,Bayannur,Inner Mongolia,40.75,107.38,0,0,6,6
@@ -346,7 +346,7 @@
 345,吴忠,宁夏,Wuzhong,Ningxia,37.97,106.2,6,0,19,13
 346,宁东管委会,宁夏,Ningdong Energy Chemical Industry Base Admin Committee,Ningxia,38.4,106.31,1,0,1,0
 347,石嘴山,宁夏,Shizuishan,Ningxia,38.991988,106.37,1,0,1,0
-348,地区,台湾,__,Taiwan (ROC),23.5,121,12,5,0,-17
+348,地区,台湾,__,Taiwan (ROC),23.5,121,2,0,18,16
 349,乌鲁木齐,新疆,Urumqi,Xinjiang,43.419108,87.360244,2,0,20,18
 350,伊犁,新疆,Ili,Xinjiang,43.9,81.32,0,0,12,12
 351,吐鲁番,新疆,Turpan,Xinjiang,42.95,89.15,1,0,1,0
@@ -393,7 +393,7 @@
 392,_,马来西亚,Malaysia,_,4.4,102.13,1,0,18,NA
 393,_,新加坡,Singapore,_,1.18,103.85,2,0,47,NA
 394,_,韩国,South Korea,_,36.86,127.8,1,0,28,NA
-395,_,日本,Japan,_,36.22,139,9,0,203,NA
+395,_,日本,Japan,_,36.22,139,9,1,247,NA
 396,新南威尔士州,澳大利亚,New South Wales,Australia,-32.1,147.4,2,0,4,NA
 397,维多利亚州,澳大利亚,Victoria,Australia,-37,144.5,0,0,4,NA
 398,昆士兰州,澳大利亚,Queensland,Australia,-23.200961,146.260643,0,0,5,NA
