@@ -6939,7 +6939,7 @@
     },
     "properties": {
     "id":386,
-    "city_cn":"_",
+    "city_cn":"法国",
     "province_cn":"法国",
     "city":"France",
     "province":"_",
@@ -6957,7 +6957,7 @@
     },
     "properties": {
     "id":387,
-    "city_cn":"_",
+    "city_cn":"德国",
     "province_cn":"德国",
     "city":"Germany",
     "province":"_",
@@ -6975,7 +6975,7 @@
     },
     "properties": {
     "id":388,
-    "city_cn":"_",
+    "city_cn":"斯里兰卡",
     "province_cn":"斯里兰卡",
     "city":"Sri Lanka",
     "province":"_",
@@ -6993,13 +6993,13 @@
     },
     "properties": {
     "id":389,
-    "city_cn":"_",
+    "city_cn":"越南",
     "province_cn":"越南",
     "city":"Vietnam",
     "province":"_",
     "cure":"1",
     "death":"0",
-    "case":"15",
+    "case":"16",
     "remain":"NA"
     }
   },
@@ -7011,7 +7011,7 @@
     },
     "properties": {
     "id":390,
-    "city_cn":"_",
+    "city_cn":"柬埔寨",
     "province_cn":"柬埔寨",
     "city":"Combodia",
     "province":"_",
@@ -7029,13 +7029,13 @@
     },
     "properties": {
     "id":391,
-    "city_cn":"_",
+    "city_cn":"泰国",
     "province_cn":"泰国",
     "city":"Thailand",
     "province":"_",
     "cure":"5",
     "death":"0",
-    "case":"34",
+    "case":"35",
     "remain":"NA"
     }
   },
@@ -7047,13 +7047,13 @@
     },
     "properties": {
     "id":392,
-    "city_cn":"_",
+    "city_cn":"马来西亚",
     "province_cn":"马来西亚",
     "city":"Malaysia",
     "province":"_",
     "cure":"1",
     "death":"0",
-    "case":"18",
+    "case":"22",
     "remain":"NA"
     }
   },
@@ -7065,13 +7065,13 @@
     },
     "properties": {
     "id":393,
-    "city_cn":"_",
+    "city_cn":"新加坡",
     "province_cn":"新加坡",
     "city":"Singapore",
     "province":"_",
     "cure":"2",
     "death":"0",
-    "case":"72",
+    "case":"77",
     "remain":"NA"
     }
   },
@@ -7083,13 +7083,13 @@
     },
     "properties": {
     "id":394,
-    "city_cn":"_",
+    "city_cn":"韩国",
     "province_cn":"韩国",
     "city":"South Korea",
     "province":"_",
     "cure":"1",
     "death":"0",
-    "case":"28",
+    "case":"30",
     "remain":"NA"
     }
   },
@@ -7101,13 +7101,13 @@
     },
     "properties": {
     "id":395,
-    "city_cn":"_",
+    "city_cn":"日本",
     "province_cn":"日本",
     "city":"Japan",
     "province":"_",
     "cure":"9",
     "death":"0",
-    "case":"338",
+    "case":"616",
     "remain":"NA"
     }
   },
@@ -7277,10 +7277,28 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -87.6489,41.748 ]
+       "coordinates":  [ -95.957123,41.265679 ]
     },
     "properties": {
     "id":405,
+    "city_cn":"内布拉斯加州奥马哈",
+    "province_cn":"美国",
+    "city":"Omaha",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"14",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6489,41.748 ]
+    },
+    "properties": {
+    "id":406,
     "city_cn":"伊利诺伊州芝加哥",
     "province_cn":"美国",
     "city":"Chicago",
@@ -7298,7 +7316,7 @@
        "coordinates":  [ -89.410129,43.062382 ]
     },
     "properties": {
-    "id":406,
+    "id":407,
     "city_cn":"威斯康辛州麦迪逊",
     "province_cn":"美国",
     "city":"Madison",
@@ -7316,7 +7334,7 @@
        "coordinates":  [ -71.107678,42.358544 ]
     },
     "properties": {
-    "id":407,
+    "id":408,
     "city_cn":"马萨诸塞州波士顿",
     "province_cn":"美国",
     "city":"Boston",
@@ -7334,7 +7352,7 @@
        "coordinates":  [ -98.489771,29.408573 ]
     },
     "properties": {
-    "id":408,
+    "id":409,
     "city_cn":"得克萨斯州圣安东尼奥",
     "province_cn":"美国",
     "city":"San Antonio",
@@ -7352,7 +7370,7 @@
        "coordinates":  [ -117.76939,33.64136 ]
     },
     "properties": {
-    "id":409,
+    "id":410,
     "city_cn":"加利福尼亚州奥兰治",
     "province_cn":"美国",
     "city":"Orange",
@@ -7370,7 +7388,7 @@
        "coordinates":  [ -117.13623,32.743248 ]
     },
     "properties": {
-    "id":410,
+    "id":411,
     "city_cn":"加利福尼亚州圣迭戈",
     "province_cn":"美国",
     "city":"San Diego",
@@ -7388,7 +7406,7 @@
        "coordinates":  [ -79.448919,43.675818 ]
     },
     "properties": {
-    "id":411,
+    "id":412,
     "city_cn":"安大略省多伦多",
     "province_cn":"加拿大",
     "city":"Toronto",
@@ -7406,7 +7424,7 @@
        "coordinates":  [ -81.254883,42.995074 ]
     },
     "properties": {
-    "id":412,
+    "id":413,
     "city_cn":"安大略省伦敦",
     "province_cn":"加拿大",
     "city":"London",
@@ -7424,7 +7442,7 @@
        "coordinates":  [ 85.32,27.69 ]
     },
     "properties": {
-    "id":413,
+    "id":414,
     "city_cn":"_",
     "province_cn":"尼泊尔",
     "city":"Nepal",
@@ -7442,7 +7460,7 @@
        "coordinates":  [ -123.66,54.35 ]
     },
     "properties": {
-    "id":414,
+    "id":415,
     "city_cn":"不列颠哥伦比亚省",
     "province_cn":"加拿大",
     "city":"British Columbia",
@@ -7460,7 +7478,7 @@
        "coordinates":  [ 12.62,43 ]
     },
     "properties": {
-    "id":415,
+    "id":416,
     "city_cn":"_",
     "province_cn":"意大利",
     "city":"Italy",
@@ -7478,7 +7496,7 @@
        "coordinates":  [ 26.79,64.36 ]
     },
     "properties": {
-    "id":416,
+    "id":417,
     "city_cn":"_",
     "province_cn":"芬兰",
     "city":"Finland",
@@ -7496,7 +7514,7 @@
        "coordinates":  [ 78.2,21.56 ]
     },
     "properties": {
-    "id":417,
+    "id":418,
     "city_cn":"_",
     "province_cn":"印度",
     "city":"India",
@@ -7514,7 +7532,7 @@
        "coordinates":  [ 54.43,23.69 ]
     },
     "properties": {
-    "id":418,
+    "id":419,
     "city_cn":"_",
     "province_cn":"阿联酋",
     "city":"UAE",
@@ -7532,7 +7550,7 @@
        "coordinates":  [ 121.421,16.82048 ]
     },
     "properties": {
-    "id":419,
+    "id":420,
     "city_cn":"_",
     "province_cn":"菲律宾",
     "city":"Philippines",
@@ -7550,7 +7568,7 @@
        "coordinates":  [ 57.3898,62.267923 ]
     },
     "properties": {
-    "id":420,
+    "id":421,
     "city_cn":"_",
     "province_cn":"俄罗斯",
     "city":"Russia",
@@ -7568,7 +7586,7 @@
        "coordinates":  [ -1.64,53.9 ]
     },
     "properties": {
-    "id":421,
+    "id":422,
     "city_cn":"_",
     "province_cn":"英国",
     "city":"UK",
@@ -7586,7 +7604,7 @@
        "coordinates":  [ -3.7999,40.23 ]
     },
     "properties": {
-    "id":422,
+    "id":423,
     "city_cn":"_",
     "province_cn":"西班牙",
     "city":"Spain",
@@ -7604,7 +7622,7 @@
        "coordinates":  [ 15.226,62.75 ]
     },
     "properties": {
-    "id":423,
+    "id":424,
     "city_cn":"_",
     "province_cn":"瑞典",
     "city":"Sweden",
@@ -7622,7 +7640,7 @@
        "coordinates":  [ 4.42,50.814 ]
     },
     "properties": {
-    "id":424,
+    "id":425,
     "city_cn":"_",
     "province_cn":"比利时",
     "city":"Belgium",
@@ -7640,7 +7658,7 @@
        "coordinates":  [ 26.794042,29.882813 ]
     },
     "properties": {
-    "id":425,
+    "id":426,
     "city_cn":"_",
     "province_cn":"埃及",
     "city":"Egypt",
