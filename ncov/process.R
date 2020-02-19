@@ -1,5 +1,6 @@
 setwd("~/Documents/github/yeshancqcq.github.io/ncov")
 
+
 library(readr)
 library(stringr)
 #infec <- read_csv("data/infec.csv")
