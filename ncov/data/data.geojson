@@ -8,15 +8,15 @@
        "coordinates":  [ 113.224946,28.322759 ]
     },
     "properties": {
-    "id":1,
+    "FIELD1":1,
     "city_cn":"长沙",
     "province_cn":"湖南",
     "city":"Changsha",
     "province":"Hunan",
-    "cure":"73",
-    "death":"1",
+    "cure":"98",
+    "death":"2",
     "case":"241",
-    "remain":"167"
+    "remain":"141"
     }
   },
   {
@@ -26,15 +26,15 @@
        "coordinates":  [ 113.237527,29.178499 ]
     },
     "properties": {
-    "id":2,
+    "FIELD1":2,
     "city_cn":"岳阳",
     "province_cn":"湖南",
     "city":"Yueyang",
     "province":"Hunan",
-    "cure":"51",
+    "cure":"64",
     "death":"1",
-    "case":"154",
-    "remain":"102"
+    "case":"155",
+    "remain":"90"
     }
   },
   {
@@ -44,15 +44,15 @@
        "coordinates":  [ 109.945539,27.612024 ]
     },
     "properties": {
-    "id":3,
+    "FIELD1":3,
     "city_cn":"怀化",
     "province_cn":"湖南",
     "city":"Huaihua",
     "province":"Hunan",
-    "cure":"30",
+    "cure":"37",
     "death":"0",
     "case":"40",
-    "remain":"10"
+    "remain":"3"
     }
   },
   {
@@ -62,15 +62,15 @@
        "coordinates":  [ 112.004619,27.766945 ]
     },
     "properties": {
-    "id":4,
+    "FIELD1":4,
     "city_cn":"娄底",
     "province_cn":"湖南",
     "city":"Loudi",
     "province":"Hunan",
-    "cure":"34",
+    "cure":"47",
     "death":"0",
-    "case":"75",
-    "remain":"41"
+    "case":"76",
+    "remain":"29"
     }
   },
   {
@@ -80,15 +80,15 @@
        "coordinates":  [ 111.621586,26.560382 ]
     },
     "properties": {
-    "id":5,
+    "FIELD1":5,
     "city_cn":"永州",
     "province_cn":"湖南",
     "city":"Yongzhou",
     "province":"Hunan",
-    "cure":"27",
+    "cure":"30",
     "death":"0",
     "case":"43",
-    "remain":"16"
+    "remain":"13"
     }
   },
   {
@@ -98,15 +98,15 @@
        "coordinates":  [ 112.366547,28.588088 ]
     },
     "properties": {
-    "id":6,
+    "FIELD1":6,
     "city_cn":"益阳",
     "province_cn":"湖南",
     "city":"Yiyang",
     "province":"Hunan",
-    "cure":"25",
+    "cure":"35",
     "death":"0",
     "case":"59",
-    "remain":"34"
+    "remain":"24"
     }
   },
   {
@@ -116,15 +116,15 @@
        "coordinates":  [ 112.351579,27.109626 ]
     },
     "properties": {
-    "id":7,
+    "FIELD1":7,
     "city_cn":"衡阳",
     "province_cn":"湖南",
     "city":"Hengyang",
     "province":"Hunan",
-    "cure":"28",
+    "cure":"32",
     "death":"0",
-    "case":"47",
-    "remain":"19"
+    "case":"48",
+    "remain":"16"
     }
   },
   {
@@ -134,15 +134,15 @@
        "coordinates":  [ 111.747796,28.995243 ]
     },
     "properties": {
-    "id":8,
+    "FIELD1":8,
     "city_cn":"常德",
     "province_cn":"湖南",
     "city":"Changde",
     "province":"Hunan",
-    "cure":"28",
+    "cure":"49",
     "death":"0",
     "case":"79",
-    "remain":"51"
+    "remain":"30"
     }
   },
   {
@@ -152,11 +152,551 @@
        "coordinates":  [ 112.788805,27.669223 ]
     },
     "properties": {
-    "id":9,
+    "FIELD1":9,
     "city_cn":"湘潭",
     "province_cn":"湖南",
     "city":"Xiangtan",
     "province":"Hunan",
+    "cure":"17",
+    "death":"0",
+    "case":"35",
+    "remain":"18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.332372,26.984977 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "city_cn":"邵阳",
+    "province_cn":"湖南",
+    "city":"Shaoyang",
+    "province":"Hunan",
+    "cure":"71",
+    "death":"1",
+    "case":"102",
+    "remain":"30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.153348,27.535936 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "city_cn":"株洲",
+    "province_cn":"湖南",
+    "city":"Zhuzhou",
+    "province":"Hunan",
+    "cure":"40",
+    "death":"0",
+    "case":"78",
+    "remain":"38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.051002,25.773515 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "city_cn":"郴州",
+    "province_cn":"湖南",
+    "city":"Chenzhou",
+    "province":"Hunan",
+    "cure":"29",
+    "death":"0",
+    "case":"39",
+    "remain":"10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.69,28.26 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "city_cn":"湘西自治州",
+    "province_cn":"湖南",
+    "city":"Xiangxi",
+    "province":"Hunan",
+    "cure":"7",
+    "death":"0",
+    "case":"8",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.48,29.13 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "city_cn":"张家界",
+    "province_cn":"湖南",
+    "city":"Zhangjiajie",
+    "province":"Hunan",
+    "cure":"5",
+    "death":"0",
+    "case":"5",
+    "remain":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.3162,30.581084 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "city_cn":"武汉",
+    "province_cn":"湖北",
+    "city":"Wuhan",
+    "province":"Hubei",
+    "cure":"5448",
+    "death":"1585",
+    "case":"45027",
+    "remain":"37994"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.949569,30.518802 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "city_cn":"黄冈",
+    "province_cn":"湖北",
+    "city":"Huanggang",
+    "province":"Hubei",
+    "cure":"1149",
+    "death":"87",
+    "case":"2839",
+    "remain":"1603"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.016142,30.944617 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "city_cn":"孝感",
+    "province_cn":"湖北",
+    "city":"Xiaogan",
+    "province":"Hubei",
+    "cure":"673",
+    "death":"89",
+    "case":"3329",
+    "remain":"2567"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.391867,29.85465 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "city_cn":"咸宁",
+    "province_cn":"湖北",
+    "city":"Xianning",
+    "province":"Hubei",
+    "cure":"268",
+    "death":"10",
+    "case":"766",
+    "remain":"488"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.193923,30.932878 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "city_cn":"荆门",
+    "province_cn":"湖北",
+    "city":"Jingmen",
+    "province":"Hubei",
+    "cure":"201",
+    "death":"34",
+    "case":"794",
+    "remain":"559"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.294246,31.890024 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "city_cn":"随州",
+    "province_cn":"湖北",
+    "city":"Suizhou",
+    "province":"Hubei",
+    "cure":"308",
+    "death":"27",
+    "case":"1283",
+    "remain":"948"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.099857,30.396103 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "city_cn":"荆州",
+    "province_cn":"湖北",
+    "city":"Jingzhou",
+    "province":"Hubei",
+    "cure":"451",
+    "death":"40",
+    "case":"1510",
+    "remain":"1019"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.903009,30.218698 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "city_cn":"黄石",
+    "province_cn":"湖北",
+    "city":"Huangshi",
+    "province":"Hubei",
+    "cure":"299",
+    "death":"26",
+    "case":"967",
+    "remain":"642"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.310649,30.979971 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "city_cn":"宜昌",
+    "province_cn":"湖北",
+    "city":"Yichang",
+    "province":"Hubei",
+    "cure":"231",
+    "death":"27",
+    "case":"891",
+    "remain":"633"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.717401,32.66384 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "city_cn":"十堰",
+    "province_cn":"湖北",
+    "city":"Shiyan",
+    "province":"Hubei",
+    "cure":"187",
+    "death":"2",
+    "case":"641",
+    "remain":"452"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.5,32 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "city_cn":"恩施",
+    "province_cn":"湖北",
+    "city":"Enshi",
+    "province":"Hubei",
+    "cure":"102",
+    "death":"3",
+    "case":"244",
+    "remain":"139"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.387448,30.293966 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "city_cn":"仙桃",
+    "province_cn":"湖北",
+    "city":"Xiantao",
+    "province":"Hubei",
+    "cure":"184",
+    "death":"19",
+    "case":"567",
+    "remain":"364"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.12623,30.649047 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "city_cn":"天门",
+    "province_cn":"湖北",
+    "city":"Tianmen",
+    "province":"Hubei",
+    "cure":"133",
+    "death":"12",
+    "case":"473",
+    "remain":"328"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.250093,32.229169 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "city_cn":"襄阳",
+    "province_cn":"湖北",
+    "city":"Xiangyang",
+    "province":"Hubei",
+    "cure":"294",
+    "death":"23",
+    "case":"1167",
+    "remain":"850"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.901016,30.320603 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "city_cn":"鄂州",
+    "province_cn":"湖北",
+    "city":"Ezhou",
+    "province":"Hubei",
+    "cure":"350",
+    "death":"38",
+    "case":"1338",
+    "remain":"950"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.684,31.74 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "city_cn":"神农架",
+    "province_cn":"湖北",
+    "city":"Shennongjia",
+    "province":"Hubei",
+    "cure":"10",
+    "death":"0",
+    "case":"10",
+    "remain":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.89,30.4 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "city_cn":"潜江",
+    "province_cn":"湖北",
+    "city":"Qianjiang",
+    "province":"Hubei",
+    "cure":"49",
+    "death":"7",
+    "case":"185",
+    "remain":"129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.139086,32.30784 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "city_cn":"信阳",
+    "province_cn":"河南",
+    "city":"Xinyang",
+    "province":"Henan",
+    "cure":"86",
+    "death":"2",
+    "case":"269",
+    "remain":"181"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.62,34.759791 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "city_cn":"郑州",
+    "province_cn":"河南",
+    "city":"Zhengzhou",
+    "province":"Henan",
+    "cure":"77",
+    "death":"0",
+    "case":"156",
+    "remain":"79"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.484267,33.009839 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "city_cn":"南阳",
+    "province_cn":"河南",
+    "city":"Nanyang",
+    "province":"Henan",
+    "cure":"66",
+    "death":"2",
+    "case":"155",
+    "remain":"87"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.00829,32.968357 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "city_cn":"驻马店",
+    "province_cn":"河南",
+    "city":"Zhumadian",
+    "province":"Henan",
+    "cure":"83",
+    "death":"0",
+    "case":"139",
+    "remain":"56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.65795,33.630876 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "city_cn":"周口",
+    "province_cn":"河南",
+    "city":"Zhoukou",
+    "province":"Henan",
+    "cure":"34",
+    "death":"0",
+    "case":"76",
+    "remain":"42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.92,35.3 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "city_cn":"新乡",
+    "province_cn":"河南",
+    "city":"Xinxiang",
+    "province":"Henan",
+    "cure":"24",
+    "death":"3",
+    "case":"57",
+    "remain":"30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.256604,36.056025 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "city_cn":"安阳",
+    "province_cn":"河南",
+    "city":"Anyang",
+    "province":"Henan",
+    "cure":"28",
+    "death":"0",
+    "case":"53",
+    "remain":"25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.923601,33.534755 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "city_cn":"漯河",
+    "province_cn":"河南",
+    "city":"Luohe",
+    "province":"Henan",
     "cure":"14",
     "death":"0",
     "case":"35",
@@ -167,558 +707,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 111.332372,26.984977 ]
-    },
-    "properties": {
-    "id":10,
-    "city_cn":"邵阳",
-    "province_cn":"湖南",
-    "city":"Shaoyang",
-    "province":"Hunan",
-    "cure":"59",
-    "death":"1",
-    "case":"101",
-    "remain":"41"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 113.153348,27.535936 ]
-    },
-    "properties": {
-    "id":11,
-    "city_cn":"株洲",
-    "province_cn":"湖南",
-    "city":"Zhuzhou",
-    "province":"Hunan",
-    "cure":"29",
-    "death":"0",
-    "case":"78",
-    "remain":"49"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 113.051002,25.773515 ]
-    },
-    "properties": {
-    "id":12,
-    "city_cn":"郴州",
-    "province_cn":"湖南",
-    "city":"Chenzhou",
-    "province":"Hunan",
-    "cure":"22",
-    "death":"0",
-    "case":"39",
-    "remain":"17"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 109.69,28.26 ]
-    },
-    "properties": {
-    "id":13,
-    "city_cn":"湘西自治州",
-    "province_cn":"湖南",
-    "city":"Xiangxi",
-    "province":"Hunan",
-    "cure":"6",
-    "death":"0",
-    "case":"8",
-    "remain":"2"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 110.48,29.13 ]
-    },
-    "properties": {
-    "id":14,
-    "city_cn":"张家界",
-    "province_cn":"湖南",
-    "city":"Zhangjiajie",
-    "province":"Hunan",
-    "cure":"4",
-    "death":"0",
-    "case":"5",
-    "remain":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.3162,30.581084 ]
-    },
-    "properties": {
-    "id":15,
-    "city_cn":"武汉",
-    "province_cn":"湖北",
-    "city":"Wuhan",
-    "province":"Hubei",
-    "cure":"2915",
-    "death":"1233",
-    "case":"39462",
-    "remain":"35314"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.949569,30.518802 ]
-    },
-    "properties": {
-    "id":16,
-    "city_cn":"黄冈",
-    "province_cn":"湖北",
-    "city":"Huanggang",
-    "province":"Hubei",
-    "cure":"716",
-    "death":"75",
-    "case":"2823",
-    "remain":"2032"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.016142,30.944617 ]
-    },
-    "properties": {
-    "id":17,
-    "city_cn":"孝感",
-    "province_cn":"湖北",
-    "city":"Xiaogan",
-    "province":"Hubei",
-    "cure":"353",
-    "death":"65",
-    "case":"3201",
-    "remain":"2783"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.391867,29.85465 ]
-    },
-    "properties": {
-    "id":18,
-    "city_cn":"咸宁",
-    "province_cn":"湖北",
-    "city":"Xianning",
-    "province":"Hubei",
-    "cure":"152",
-    "death":"8",
-    "case":"852",
-    "remain":"692"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 112.193923,30.932878 ]
-    },
-    "properties": {
-    "id":19,
-    "city_cn":"荆门",
-    "province_cn":"湖北",
-    "city":"Jingmen",
-    "province":"Hubei",
-    "cure":"117",
-    "death":"30",
-    "case":"909",
-    "remain":"762"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 113.294246,31.890024 ]
-    },
-    "properties": {
-    "id":20,
-    "city_cn":"随州",
-    "province_cn":"湖北",
-    "city":"Suizhou",
-    "province":"Hubei",
-    "cure":"113",
-    "death":"22",
-    "case":"1254",
-    "remain":"1119"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 112.099857,30.396103 ]
-    },
-    "properties": {
-    "id":21,
-    "city_cn":"荆州",
-    "province_cn":"湖北",
-    "city":"Jingzhou",
-    "province":"Hubei",
-    "cure":"263",
-    "death":"36",
-    "case":"1490",
-    "remain":"1191"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.903009,30.218698 ]
-    },
-    "properties": {
-    "id":22,
-    "city_cn":"黄石",
-    "province_cn":"湖北",
-    "city":"Huangshi",
-    "province":"Hubei",
-    "cure":"192",
-    "death":"14",
-    "case":"988",
-    "remain":"782"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 111.310649,30.979971 ]
-    },
-    "properties": {
-    "id":23,
-    "city_cn":"宜昌",
-    "province_cn":"湖北",
-    "city":"Yichang",
-    "province":"Hubei",
-    "cure":"140",
-    "death":"21",
-    "case":"901",
-    "remain":"740"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 110.717401,32.66384 ]
-    },
-    "properties": {
-    "id":24,
-    "city_cn":"十堰",
-    "province_cn":"湖北",
-    "city":"Shiyan",
-    "province":"Hubei",
-    "cure":"116",
-    "death":"2",
-    "case":"602",
-    "remain":"484"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 109.5,32 ]
-    },
-    "properties": {
-    "id":25,
-    "city_cn":"恩施",
-    "province_cn":"湖北",
-    "city":"Enshi",
-    "province":"Hubei",
-    "cure":"76",
-    "death":"4",
-    "case":"247",
-    "remain":"167"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 113.387448,30.293966 ]
-    },
-    "properties": {
-    "id":26,
-    "city_cn":"仙桃",
-    "province_cn":"湖北",
-    "city":"Xiantao",
-    "province":"Hubei",
-    "cure":"87",
-    "death":"17",
-    "case":"523",
-    "remain":"419"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 113.12623,30.649047 ]
-    },
-    "properties": {
-    "id":27,
-    "city_cn":"天门",
-    "province_cn":"湖北",
-    "city":"Tianmen",
-    "province":"Hubei",
-    "cure":"27",
-    "death":"10",
-    "case":"447",
-    "remain":"410"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 112.250093,32.229169 ]
-    },
-    "properties": {
-    "id":28,
-    "city_cn":"襄阳",
-    "province_cn":"湖北",
-    "city":"Xiangyang",
-    "province":"Hubei",
-    "cure":"114",
-    "death":"19",
-    "case":"1144",
-    "remain":"1011"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.901016,30.320603 ]
-    },
-    "properties": {
-    "id":29,
-    "city_cn":"鄂州",
-    "province_cn":"湖北",
-    "city":"Ezhou",
-    "province":"Hubei",
-    "cure":"222",
-    "death":"34",
-    "case":"1230",
-    "remain":"974"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 110.684,31.74 ]
-    },
-    "properties": {
-    "id":30,
-    "city_cn":"神农架",
-    "province_cn":"湖北",
-    "city":"Shennongjia",
-    "province":"Hubei",
-    "cure":"8",
-    "death":"0",
-    "case":"10",
-    "remain":"2"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 112.89,30.4 ]
-    },
-    "properties": {
-    "id":31,
-    "city_cn":"潜江",
-    "province_cn":"湖北",
-    "city":"Qianjiang",
-    "province":"Hubei",
-    "cure":"12",
-    "death":"6",
-    "case":"166",
-    "remain":"148"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.139086,32.30784 ]
-    },
-    "properties": {
-    "id":32,
-    "city_cn":"信阳",
-    "province_cn":"河南",
-    "city":"Xinyang",
-    "province":"Henan",
-    "cure":"64",
-    "death":"2",
-    "case":"261",
-    "remain":"195"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 113.62,34.759791 ]
-    },
-    "properties": {
-    "id":33,
-    "city_cn":"郑州",
-    "province_cn":"河南",
-    "city":"Zhengzhou",
-    "province":"Henan",
-    "cure":"66",
-    "death":"0",
-    "case":"148",
-    "remain":"82"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 112.484267,33.009839 ]
-    },
-    "properties": {
-    "id":34,
-    "city_cn":"南阳",
-    "province_cn":"河南",
-    "city":"Nanyang",
-    "province":"Henan",
-    "cure":"52",
-    "death":"2",
-    "case":"151",
-    "remain":"97"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.00829,32.968357 ]
-    },
-    "properties": {
-    "id":35,
-    "city_cn":"驻马店",
-    "province_cn":"河南",
-    "city":"Zhumadian",
-    "province":"Henan",
-    "cure":"59",
-    "death":"0",
-    "case":"138",
-    "remain":"79"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.65795,33.630876 ]
-    },
-    "properties": {
-    "id":36,
-    "city_cn":"周口",
-    "province_cn":"河南",
-    "city":"Zhoukou",
-    "province":"Henan",
-    "cure":"25",
-    "death":"0",
-    "case":"71",
-    "remain":"46"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 113.92,35.3 ]
-    },
-    "properties": {
-    "id":37,
-    "city_cn":"新乡",
-    "province_cn":"河南",
-    "city":"Xinxiang",
-    "province":"Henan",
-    "cure":"10",
-    "death":"2",
-    "case":"56",
-    "remain":"44"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.256604,36.056025 ]
-    },
-    "properties": {
-    "id":38,
-    "city_cn":"安阳",
-    "province_cn":"河南",
-    "city":"Anyang",
-    "province":"Henan",
-    "cure":"18",
-    "death":"0",
-    "case":"51",
-    "remain":"33"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 113.923601,33.534755 ]
-    },
-    "properties": {
-    "id":39,
-    "city_cn":"漯河",
-    "province_cn":"河南",
-    "city":"Luohe",
-    "province":"Henan",
-    "cure":"9",
-    "death":"0",
-    "case":"34",
-    "remain":"25"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 111.281295,34.771778 ]
     },
     "properties": {
-    "id":40,
+    "FIELD1":40,
     "city_cn":"三门峡",
     "province_cn":"河南",
     "city":"Sanmenxia",
     "province":"Henan",
-    "cure":"4",
+    "cure":"5",
     "death":"0",
     "case":"7",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -728,7 +728,7 @@
        "coordinates":  [ 113.03959,34.703799 ]
     },
     "properties": {
-    "id":41,
+    "FIELD1":41,
     "city_cn":"巩义",
     "province_cn":"河南",
     "city":"Gongyi",
@@ -746,15 +746,15 @@
        "coordinates":  [ 113.278189,33.712341 ]
     },
     "properties": {
-    "id":42,
+    "FIELD1":42,
     "city_cn":"平顶山",
     "province_cn":"河南",
     "city":"Pingdingshan",
     "province":"Henan",
-    "cure":"20",
+    "cure":"31",
     "death":"1",
     "case":"58",
-    "remain":"37"
+    "remain":"26"
     }
   },
   {
@@ -764,15 +764,15 @@
        "coordinates":  [ 112.467093,34.638792 ]
     },
     "properties": {
-    "id":43,
+    "FIELD1":43,
     "city_cn":"洛阳",
     "province_cn":"河南",
     "city":"Luoyang",
     "province":"Henan",
-    "cure":"9",
-    "death":"0",
+    "cure":"13",
+    "death":"1",
     "case":"31",
-    "remain":"22"
+    "remain":"17"
     }
   },
   {
@@ -782,15 +782,15 @@
        "coordinates":  [ 115.65,34.42 ]
     },
     "properties": {
-    "id":44,
+    "FIELD1":44,
     "city_cn":"商丘",
     "province_cn":"河南",
     "city":"Shangqiu",
     "province":"Henan",
-    "cure":"30",
-    "death":"2",
+    "cure":"50",
+    "death":"3",
     "case":"91",
-    "remain":"59"
+    "remain":"38"
     }
   },
   {
@@ -800,15 +800,15 @@
        "coordinates":  [ 114.346,34.798 ]
     },
     "properties": {
-    "id":45,
+    "FIELD1":45,
     "city_cn":"开封",
     "province_cn":"河南",
     "city":"Kaifeng",
     "province":"Henan",
-    "cure":"6",
+    "cure":"11",
     "death":"0",
     "case":"26",
-    "remain":"20"
+    "remain":"15"
     }
   },
   {
@@ -818,15 +818,15 @@
        "coordinates":  [ 114.295,35.74 ]
     },
     "properties": {
-    "id":46,
+    "FIELD1":46,
     "city_cn":"鹤壁",
     "province_cn":"河南",
     "city":"Hebi",
     "province":"Henan",
-    "cure":"4",
+    "cure":"8",
     "death":"0",
     "case":"19",
-    "remain":"15"
+    "remain":"11"
     }
   },
   {
@@ -836,15 +836,15 @@
        "coordinates":  [ 113.8,34 ]
     },
     "properties": {
-    "id":47,
+    "FIELD1":47,
     "city_cn":"许昌",
     "province_cn":"河南",
     "city":"Xuchang",
     "province":"Henan",
-    "cure":"7",
+    "cure":"16",
     "death":"0",
-    "case":"38",
-    "remain":"31"
+    "case":"39",
+    "remain":"23"
     }
   },
   {
@@ -854,14 +854,14 @@
        "coordinates":  [ 113.257,35.2 ]
     },
     "properties": {
-    "id":48,
+    "FIELD1":48,
     "city_cn":"焦作",
     "province_cn":"河南",
     "city":"Jiaozuo",
     "province":"Henan",
-    "cure":"6",
+    "cure":"8",
     "death":"1",
-    "case":"30",
+    "case":"32",
     "remain":"23"
     }
   },
@@ -872,7 +872,7 @@
        "coordinates":  [ 115.709743,32.136944 ]
     },
     "properties": {
-    "id":49,
+    "FIELD1":49,
     "city_cn":"固始",
     "province_cn":"河南",
     "city":"Gushi",
@@ -890,15 +890,15 @@
        "coordinates":  [ 115.02,35.76 ]
     },
     "properties": {
-    "id":50,
+    "FIELD1":50,
     "city_cn":"濮阳",
     "province_cn":"河南",
     "city":"Puyang",
     "province":"Henan",
-    "cure":"2",
+    "cure":"7",
     "death":"0",
     "case":"17",
-    "remain":"15"
+    "remain":"10"
     }
   },
   {
@@ -908,7 +908,7 @@
        "coordinates":  [ 114.52,35.57 ]
     },
     "properties": {
-    "id":51,
+    "FIELD1":51,
     "city_cn":"滑县",
     "province_cn":"河南",
     "city":"Huaxian",
@@ -926,7 +926,7 @@
        "coordinates":  [ 114.66,35.21 ]
     },
     "properties": {
-    "id":52,
+    "FIELD1":52,
     "city_cn":"长垣",
     "province_cn":"河南",
     "city":"Changyuan",
@@ -944,7 +944,7 @@
        "coordinates":  [ 116.367,33.94 ]
     },
     "properties": {
-    "id":53,
+    "FIELD1":53,
     "city_cn":"永城",
     "province_cn":"河南",
     "city":"Yongcheng",
@@ -962,15 +962,15 @@
        "coordinates":  [ 112.58,35.1 ]
     },
     "properties": {
-    "id":54,
+    "FIELD1":54,
     "city_cn":"济源",
     "province_cn":"河南",
     "city":"Jiyuan",
     "province":"Henan",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
-    "case":"4",
-    "remain":"4"
+    "case":"5",
+    "remain":"3"
     }
   },
   {
@@ -980,15 +980,15 @@
        "coordinates":  [ 114.278483,22.606981 ]
     },
     "properties": {
-    "id":55,
+    "FIELD1":55,
     "city_cn":"深圳",
     "province_cn":"广东",
     "city":"Shenzhen",
     "province":"Guangdong",
-    "cure":"115",
-    "death":"0",
-    "case":"406",
-    "remain":"291"
+    "cure":"182",
+    "death":"2",
+    "case":"416",
+    "remain":"232"
     }
   },
   {
@@ -998,15 +998,15 @@
        "coordinates":  [ 113.220176,23.446661 ]
     },
     "properties": {
-    "id":56,
+    "FIELD1":56,
     "city_cn":"广州",
     "province_cn":"广东",
     "city":"Guangzhou",
     "province":"Guangdong",
-    "cure":"106",
+    "cure":"148",
     "death":"0",
-    "case":"335",
-    "remain":"229"
+    "case":"339",
+    "remain":"191"
     }
   },
   {
@@ -1016,15 +1016,15 @@
        "coordinates":  [ 113.41759,22.047215 ]
     },
     "properties": {
-    "id":57,
+    "FIELD1":57,
     "city_cn":"珠海",
     "province_cn":"广东",
     "city":"Zhuhai",
     "province":"Guangdong",
-    "cure":"34",
-    "death":"0",
-    "case":"95",
-    "remain":"61"
+    "cure":"45",
+    "death":"1",
+    "case":"98",
+    "remain":"52"
     }
   },
   {
@@ -1034,15 +1034,15 @@
        "coordinates":  [ 112.683258,22.824523 ]
     },
     "properties": {
-    "id":58,
+    "FIELD1":58,
     "city_cn":"佛山",
     "province_cn":"广东",
     "city":"Foshan",
     "province":"Guangdong",
-    "cure":"23",
+    "cure":"33",
     "death":"0",
     "case":"84",
-    "remain":"61"
+    "remain":"51"
     }
   },
   {
@@ -1052,15 +1052,15 @@
        "coordinates":  [ 114.485898,23.163063 ]
     },
     "properties": {
-    "id":59,
+    "FIELD1":59,
     "city_cn":"惠州",
     "province_cn":"广东",
     "city":"Huizhou",
     "province":"Guangdong",
-    "cure":"26",
+    "cure":"38",
     "death":"0",
-    "case":"58",
-    "remain":"32"
+    "case":"62",
+    "remain":"24"
     }
   },
   {
@@ -1070,15 +1070,15 @@
        "coordinates":  [ 111.930036,21.762804 ]
     },
     "properties": {
-    "id":60,
+    "FIELD1":60,
     "city_cn":"阳江",
     "province_cn":"广东",
     "city":"Yangjiang",
     "province":"Guangdong",
-    "cure":"7",
+    "cure":"9",
     "death":"0",
     "case":"13",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -1088,15 +1088,15 @@
        "coordinates":  [ 113.57745,24.919162 ]
     },
     "properties": {
-    "id":61,
+    "FIELD1":61,
     "city_cn":"韶关",
     "province_cn":"广东",
     "city":"Shaoguan",
     "province":"Guangdong",
-    "cure":"4",
+    "cure":"5",
     "death":"0",
     "case":"10",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -1106,7 +1106,7 @@
        "coordinates":  [ 110.338022,21.0941 ]
     },
     "properties": {
-    "id":62,
+    "FIELD1":62,
     "city_cn":"湛江",
     "province_cn":"广东",
     "city":"Zhanjiang",
@@ -1124,15 +1124,15 @@
        "coordinates":  [ 113.42206,22.545178 ]
     },
     "properties": {
-    "id":63,
+    "FIELD1":63,
     "city_cn":"中山",
     "province_cn":"广东",
     "city":"Zhongshan",
     "province":"Guangdong",
-    "cure":"31",
+    "cure":"40",
     "death":"0",
-    "case":"65",
-    "remain":"34"
+    "case":"66",
+    "remain":"26"
     }
   },
   {
@@ -1142,15 +1142,15 @@
        "coordinates":  [ 112.625249,23.208968 ]
     },
     "properties": {
-    "id":64,
+    "FIELD1":64,
     "city_cn":"肇庆",
     "province_cn":"广东",
     "city":"Zhaoqing",
     "province":"Guangdong",
     "cure":"8",
     "death":"1",
-    "case":"17",
-    "remain":"8"
+    "case":"18",
+    "remain":"9"
     }
   },
   {
@@ -1160,15 +1160,15 @@
        "coordinates":  [ 113.114585,23.625856 ]
     },
     "properties": {
-    "id":65,
+    "FIELD1":65,
     "city_cn":"清远",
     "province_cn":"广东",
     "city":"Qingyuan",
     "province":"Guangdong",
-    "cure":"7",
+    "cure":"9",
     "death":"0",
     "case":"12",
-    "remain":"5"
+    "remain":"3"
     }
   },
   {
@@ -1178,15 +1178,15 @@
        "coordinates":  [ 113.763434,23.043024 ]
     },
     "properties": {
-    "id":66,
+    "FIELD1":66,
     "city_cn":"东莞",
     "province_cn":"广东",
     "city":"Dongguan",
     "province":"Guangdong",
-    "cure":"7",
+    "cure":"24",
     "death":"1",
-    "case":"81",
-    "remain":"73"
+    "case":"91",
+    "remain":"66"
     }
   },
   {
@@ -1196,15 +1196,15 @@
        "coordinates":  [ 116.814808,23.532997 ]
     },
     "properties": {
-    "id":67,
+    "FIELD1":67,
     "city_cn":"汕头",
     "province_cn":"广东",
     "city":"Shantou",
     "province":"Guangdong",
-    "cure":"11",
+    "cure":"18",
     "death":"0",
     "case":"25",
-    "remain":"14"
+    "remain":"7"
     }
   },
   {
@@ -1214,15 +1214,15 @@
        "coordinates":  [ 115.38,22.8 ]
     },
     "properties": {
-    "id":68,
+    "FIELD1":68,
     "city_cn":"汕尾",
     "province_cn":"广东",
     "city":"Shanwei",
     "province":"Guangdong",
-    "cure":"1",
+    "cure":"2",
     "death":"0",
     "case":"5",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -1232,15 +1232,15 @@
        "coordinates":  [ 116.119,24.3 ]
     },
     "properties": {
-    "id":69,
+    "FIELD1":69,
     "city_cn":"梅州",
     "province_cn":"广东",
     "city":"Meizhou",
     "province":"Guangdong",
-    "cure":"7",
+    "cure":"10",
     "death":"0",
-    "case":"15",
-    "remain":"8"
+    "case":"16",
+    "remain":"6"
     }
   },
   {
@@ -1250,7 +1250,7 @@
        "coordinates":  [ 116.34,23.53 ]
     },
     "properties": {
-    "id":70,
+    "FIELD1":70,
     "city_cn":"揭阳",
     "province_cn":"广东",
     "city":"Jieyang",
@@ -1268,15 +1268,15 @@
        "coordinates":  [ 114.69,23.74 ]
     },
     "properties": {
-    "id":71,
+    "FIELD1":71,
     "city_cn":"河源",
     "province_cn":"广东",
     "city":"Heyuan",
     "province":"Guangdong",
     "cure":"1",
     "death":"0",
-    "case":"3",
-    "remain":"2"
+    "case":"4",
+    "remain":"3"
     }
   },
   {
@@ -1286,15 +1286,15 @@
        "coordinates":  [ 110.92,21.665 ]
     },
     "properties": {
-    "id":72,
+    "FIELD1":72,
     "city_cn":"茂名",
     "province_cn":"广东",
     "city":"Maoming",
     "province":"Guangdong",
-    "cure":"3",
+    "cure":"6",
     "death":"0",
-    "case":"13",
-    "remain":"10"
+    "case":"14",
+    "remain":"8"
     }
   },
   {
@@ -1304,15 +1304,15 @@
        "coordinates":  [ 113.079,22.57 ]
     },
     "properties": {
-    "id":73,
+    "FIELD1":73,
     "city_cn":"江门",
     "province_cn":"广东",
     "city":"Jiangmen",
     "province":"Guangdong",
-    "cure":"3",
+    "cure":"9",
     "death":"0",
-    "case":"22",
-    "remain":"19"
+    "case":"23",
+    "remain":"14"
     }
   },
   {
@@ -1322,15 +1322,15 @@
        "coordinates":  [ 116.62,23.656 ]
     },
     "properties": {
-    "id":74,
+    "FIELD1":74,
     "city_cn":"潮州",
     "province_cn":"广东",
     "city":"Chaozhou",
     "province":"Guangdong",
-    "cure":"1",
+    "cure":"4",
     "death":"0",
     "case":"5",
-    "remain":"4"
+    "remain":"1"
     }
   },
   {
@@ -1340,15 +1340,15 @@
        "coordinates":  [ 121.450242,28.548659 ]
     },
     "properties": {
-    "id":75,
+    "FIELD1":75,
     "city_cn":"台州",
     "province_cn":"浙江",
     "city":"Taizhou",
     "province":"Zhejiang",
-    "cure":"60",
+    "cure":"74",
     "death":"0",
     "case":"146",
-    "remain":"86"
+    "remain":"72"
     }
   },
   {
@@ -1358,15 +1358,15 @@
        "coordinates":  [ 119.998089,30.38812 ]
     },
     "properties": {
-    "id":76,
+    "FIELD1":76,
     "city_cn":"杭州",
     "province_cn":"浙江",
     "city":"Hangzhou",
     "province":"Zhejiang",
-    "cure":"75",
+    "cure":"108",
     "death":"0",
-    "case":"166",
-    "remain":"91"
+    "case":"169",
+    "remain":"61"
     }
   },
   {
@@ -1376,15 +1376,15 @@
        "coordinates":  [ 120.558404,27.972177 ]
     },
     "properties": {
-    "id":77,
+    "FIELD1":77,
     "city_cn":"温州",
     "province_cn":"浙江",
     "city":"Wenzhou",
     "province":"Zhejiang",
-    "cure":"169",
+    "cure":"228",
     "death":"0",
-    "case":"502",
-    "remain":"333"
+    "case":"504",
+    "remain":"276"
     }
   },
   {
@@ -1394,15 +1394,15 @@
        "coordinates":  [ 121.537835,29.785459 ]
     },
     "properties": {
-    "id":78,
+    "FIELD1":78,
     "city_cn":"宁波",
     "province_cn":"浙江",
     "city":"Ningbo",
     "province":"Zhejiang",
-    "cure":"53",
+    "cure":"89",
     "death":"0",
-    "case":"155",
-    "remain":"102"
+    "case":"156",
+    "remain":"67"
     }
   },
   {
@@ -1412,15 +1412,15 @@
        "coordinates":  [ 120.691907,30.777679 ]
     },
     "properties": {
-    "id":79,
+    "FIELD1":79,
     "city_cn":"嘉兴",
     "province_cn":"浙江",
     "city":"Jiaxing",
     "province":"Zhejiang",
-    "cure":"11",
+    "cure":"17",
     "death":"0",
-    "case":"43",
-    "remain":"32"
+    "case":"44",
+    "remain":"27"
     }
   },
   {
@@ -1430,15 +1430,15 @@
        "coordinates":  [ 120.572451,29.968789 ]
     },
     "properties": {
-    "id":80,
+    "FIELD1":80,
     "city_cn":"绍兴",
     "province_cn":"浙江",
     "city":"Shaoxing",
     "province":"Zhejiang",
-    "cure":"17",
+    "cure":"20",
     "death":"0",
     "case":"42",
-    "remain":"25"
+    "remain":"22"
     }
   },
   {
@@ -1448,7 +1448,7 @@
        "coordinates":  [ 122.278765,29.871101 ]
     },
     "properties": {
-    "id":81,
+    "FIELD1":81,
     "city_cn":"舟山",
     "province_cn":"浙江",
     "city":"Zhoushan",
@@ -1466,15 +1466,15 @@
        "coordinates":  [ 119.809227,29.155526 ]
     },
     "properties": {
-    "id":82,
+    "FIELD1":82,
     "city_cn":"金华",
     "province_cn":"浙江",
     "city":"Jinhua",
     "province":"Zhejiang",
-    "cure":"24",
+    "cure":"33",
     "death":"0",
     "case":"55",
-    "remain":"31"
+    "remain":"22"
     }
   },
   {
@@ -1484,15 +1484,15 @@
        "coordinates":  [ 118.939044,28.941983 ]
     },
     "properties": {
-    "id":83,
+    "FIELD1":83,
     "city_cn":"衢州",
     "province_cn":"浙江",
     "city":"Quzhou",
     "province":"Zhejiang",
-    "cure":"9",
+    "cure":"10",
     "death":"0",
     "case":"21",
-    "remain":"12"
+    "remain":"11"
     }
   },
   {
@@ -1502,15 +1502,15 @@
        "coordinates":  [ 119.921,28.48 ]
     },
     "properties": {
-    "id":84,
+    "FIELD1":84,
     "city_cn":"丽水",
     "province_cn":"浙江",
     "city":"Lishui",
     "province":"Zhejiang",
-    "cure":"10",
+    "cure":"14",
     "death":"0",
     "case":"17",
-    "remain":"7"
+    "remain":"3"
     }
   },
   {
@@ -1520,15 +1520,15 @@
        "coordinates":  [ 120.1,30.89 ]
     },
     "properties": {
-    "id":85,
+    "FIELD1":85,
     "city_cn":"湖州",
     "province_cn":"浙江",
     "city":"Huzhou",
     "province":"Zhejiang",
-    "cure":"4",
+    "cure":"6",
     "death":"0",
     "case":"10",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -1538,15 +1538,15 @@
        "coordinates":  [ 108.413439,30.710054 ]
     },
     "properties": {
-    "id":86,
+    "FIELD1":86,
     "city_cn":"万州",
     "province_cn":"重庆",
     "city":"Wanzhou",
     "province":"Chongqing",
-    "cure":"34",
+    "cure":"46",
     "death":"3",
-    "case":"105",
-    "remain":"68"
+    "case":"113",
+    "remain":"64"
     }
   },
   {
@@ -1556,14 +1556,14 @@
        "coordinates":  [ 107.146615,29.960491 ]
     },
     "properties": {
-    "id":87,
+    "FIELD1":87,
     "city_cn":"长寿",
     "province_cn":"重庆",
     "city":"Changshou",
     "province":"Chongqing",
-    "cure":"9",
+    "cure":"10",
     "death":"0",
-    "case":"20",
+    "case":"21",
     "remain":"11"
     }
   },
@@ -1574,15 +1574,15 @@
        "coordinates":  [ 108.4,31.2 ]
     },
     "properties": {
-    "id":88,
+    "FIELD1":88,
     "city_cn":"开州",
     "province_cn":"重庆",
     "city":"Kaizhou",
     "province":"Chongqing",
-    "cure":"12",
+    "cure":"14",
     "death":"1",
     "case":"20",
-    "remain":"7"
+    "remain":"5"
     }
   },
   {
@@ -1592,15 +1592,15 @@
        "coordinates":  [ 105.880358,29.296488 ]
     },
     "properties": {
-    "id":89,
+    "FIELD1":89,
     "city_cn":"永川",
     "province_cn":"重庆",
     "city":"Yongchuan",
     "province":"Chongqing",
-    "cure":"2",
+    "cure":"4",
     "death":"0",
     "case":"5",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -1610,10 +1610,100 @@
        "coordinates":  [ 107.921738,30.342003 ]
     },
     "properties": {
-    "id":90,
+    "FIELD1":90,
     "city_cn":"忠县",
     "province_cn":"重庆",
     "city":"Zhongxian",
+    "province":"Chongqing",
+    "cure":"13",
+    "death":"0",
+    "case":"20",
+    "remain":"7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.908611,31.121152 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "city_cn":"巫山",
+    "province_cn":"重庆",
+    "city":"Wushan",
+    "province":"Chongqing",
+    "cure":"6",
+    "death":"0",
+    "case":"10",
+    "remain":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,29.9 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "city_cn":"石柱",
+    "province_cn":"重庆",
+    "city":"Shizhu",
+    "province":"Chongqing",
+    "cure":"8",
+    "death":"0",
+    "case":"14",
+    "remain":"6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.54,29.59 ]
+    },
+    "properties": {
+    "FIELD1":93,
+    "city_cn":"重庆市区",
+    "province_cn":"重庆",
+    "city":"Chongqing",
+    "province":"Chongqing",
+    "cure":"104",
+    "death":"2",
+    "case":"238",
+    "remain":"132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.753799,29.816264 ]
+    },
+    "properties": {
+    "FIELD1":94,
+    "city_cn":"渝北",
+    "province_cn":"重庆",
+    "city":"Yubei",
+    "province":"Chongqing",
+    "cure":"9",
+    "death":"0",
+    "case":"16",
+    "remain":"7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.444445,30.259498 ]
+    },
+    "properties": {
+    "FIELD1":95,
+    "city_cn":"垫江",
+    "province_cn":"重庆",
+    "city":"Dianjiang",
     "province":"Chongqing",
     "cure":"9",
     "death":"0",
@@ -1625,108 +1715,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 109.908611,31.121152 ]
-    },
-    "properties": {
-    "id":91,
-    "city_cn":"巫山",
-    "province_cn":"重庆",
-    "city":"Wushan",
-    "province":"Chongqing",
-    "cure":"5",
-    "death":"0",
-    "case":"10",
-    "remain":"5"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 108,29.9 ]
-    },
-    "properties": {
-    "id":92,
-    "city_cn":"石柱",
-    "province_cn":"重庆",
-    "city":"Shizhu",
-    "province":"Chongqing",
-    "cure":"5",
-    "death":"0",
-    "case":"14",
-    "remain":"9"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 106.54,29.59 ]
-    },
-    "properties": {
-    "id":93,
-    "city_cn":"重庆市区",
-    "province_cn":"重庆",
-    "city":"Chongqing",
-    "province":"Chongqing",
-    "cure":"31",
-    "death":"1",
-    "case":"118",
-    "remain":"86"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 106.753799,29.816264 ]
-    },
-    "properties": {
-    "id":94,
-    "city_cn":"渝北",
-    "province_cn":"重庆",
-    "city":"Yubei",
-    "province":"Chongqing",
-    "cure":"5",
-    "death":"0",
-    "case":"15",
-    "remain":"10"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 107.444445,30.259498 ]
-    },
-    "properties": {
-    "id":95,
-    "city_cn":"垫江",
-    "province_cn":"重庆",
-    "city":"Dianjiang",
-    "province":"Chongqing",
-    "cure":"5",
-    "death":"0",
-    "case":"20",
-    "remain":"15"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 108.863186,31.042409 ]
     },
     "properties": {
-    "id":96,
+    "FIELD1":96,
     "city_cn":"云阳",
     "province_cn":"重庆",
     "city":"Yunyang",
     "province":"Chongqing",
-    "cure":"16",
+    "cure":"17",
     "death":"0",
-    "case":"23",
-    "remain":"7"
+    "case":"25",
+    "remain":"8"
     }
   },
   {
@@ -1736,15 +1736,15 @@
        "coordinates":  [ 109.360531,31.509161 ]
     },
     "properties": {
-    "id":97,
+    "FIELD1":97,
     "city_cn":"巫溪",
     "province_cn":"重庆",
     "city":"Wuxi",
     "province":"Chongqing",
-    "cure":"8",
+    "cure":"9",
     "death":"0",
     "case":"13",
-    "remain":"5"
+    "remain":"4"
     }
   },
   {
@@ -1754,15 +1754,15 @@
        "coordinates":  [ 106.318029,30.118708 ]
     },
     "properties": {
-    "id":98,
+    "FIELD1":98,
     "city_cn":"合川",
     "province_cn":"重庆",
     "city":"Hechuan",
     "province":"Chongqing",
-    "cure":"6",
+    "cure":"8",
     "death":"0",
     "case":"23",
-    "remain":"17"
+    "remain":"15"
     }
   },
   {
@@ -1772,15 +1772,15 @@
        "coordinates":  [ 106.17,29.5 ]
     },
     "properties": {
-    "id":99,
+    "FIELD1":99,
     "city_cn":"璧山",
     "province_cn":"重庆",
     "city":"Bishan",
     "province":"Chongqing",
-    "cure":"4",
+    "cure":"7",
     "death":"0",
-    "case":"8",
-    "remain":"4"
+    "case":"9",
+    "remain":"2"
     }
   },
   {
@@ -1790,15 +1790,15 @@
        "coordinates":  [ 107.3408,29.664671 ]
     },
     "properties": {
-    "id":100,
+    "FIELD1":100,
     "city_cn":"涪陵",
     "province_cn":"重庆",
     "city":"Fuling",
     "province":"Chongqing",
-    "cure":"1",
+    "cure":"2",
     "death":"0",
     "case":"3",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -1808,15 +1808,15 @@
        "coordinates":  [ 109.355667,30.958553 ]
     },
     "properties": {
-    "id":101,
+    "FIELD1":101,
     "city_cn":"奉节",
     "province_cn":"重庆",
     "city":"Fengjie",
     "province":"Chongqing",
-    "cure":"5",
+    "cure":"9",
     "death":"0",
-    "case":"20",
-    "remain":"15"
+    "case":"22",
+    "remain":"13"
     }
   },
   {
@@ -1826,7 +1826,7 @@
        "coordinates":  [ 109.06,28.38 ]
     },
     "properties": {
-    "id":102,
+    "FIELD1":102,
     "city_cn":"秀山",
     "province_cn":"重庆",
     "city":"Xiushan",
@@ -1844,7 +1844,7 @@
        "coordinates":  [ 107.8,30.65 ]
     },
     "properties": {
-    "id":103,
+    "FIELD1":103,
     "city_cn":"梁平",
     "province_cn":"重庆",
     "city":"Liangping",
@@ -1862,7 +1862,7 @@
        "coordinates":  [ 108.741855,31.888131 ]
     },
     "properties": {
-    "id":104,
+    "FIELD1":104,
     "city_cn":"城口",
     "province_cn":"重庆",
     "city":"Chengkou",
@@ -1880,15 +1880,15 @@
        "coordinates":  [ 105.72,29.714 ]
     },
     "properties": {
-    "id":105,
+    "FIELD1":105,
     "city_cn":"大足",
     "province_cn":"重庆",
     "city":"Dazu",
     "province":"Chongqing",
-    "cure":"2",
+    "cure":"9",
     "death":"0",
     "case":"14",
-    "remain":"12"
+    "remain":"5"
     }
   },
   {
@@ -1898,7 +1898,7 @@
        "coordinates":  [ 107.837517,29.890596 ]
     },
     "properties": {
-    "id":106,
+    "FIELD1":106,
     "city_cn":"丰都",
     "province_cn":"重庆",
     "city":"Fengdu",
@@ -1916,7 +1916,7 @@
        "coordinates":  [ 108.76,29.53 ]
     },
     "properties": {
-    "id":107,
+    "FIELD1":107,
     "city_cn":"黔江",
     "province_cn":"重庆",
     "city":"Qianjiang",
@@ -1934,7 +1934,7 @@
        "coordinates":  [ 106.924888,28.962248 ]
     },
     "properties": {
-    "id":108,
+    "FIELD1":108,
     "city_cn":"万盛",
     "province_cn":"重庆",
     "city":"Wansheng",
@@ -1952,15 +1952,15 @@
        "coordinates":  [ 105.84,30.19 ]
     },
     "properties": {
-    "id":109,
+    "FIELD1":109,
     "city_cn":"潼南",
     "province_cn":"重庆",
     "city":"Tongnan",
     "province":"Chongqing",
-    "cure":"2",
+    "cure":"4",
     "death":"0",
     "case":"18",
-    "remain":"16"
+    "remain":"14"
     }
   },
   {
@@ -1970,15 +1970,15 @@
        "coordinates":  [ 106.05,29.85 ]
     },
     "properties": {
-    "id":110,
+    "FIELD1":110,
     "city_cn":"铜梁",
     "province_cn":"重庆",
     "city":"Tongliang",
     "province":"Chongqing",
-    "cure":"2",
+    "cure":"4",
     "death":"0",
     "case":"9",
-    "remain":"7"
+    "remain":"5"
     }
   },
   {
@@ -1988,15 +1988,15 @@
        "coordinates":  [ 106.64,29.03 ]
     },
     "properties": {
-    "id":111,
+    "FIELD1":111,
     "city_cn":"綦江",
     "province_cn":"重庆",
     "city":"Qijiang",
     "province":"Chongqing",
-    "cure":"5",
+    "cure":"11",
     "death":"0",
     "case":"23",
-    "remain":"18"
+    "remain":"12"
     }
   },
   {
@@ -2006,15 +2006,15 @@
        "coordinates":  [ 106.26,29.28 ]
     },
     "properties": {
-    "id":112,
+    "FIELD1":112,
     "city_cn":"江津",
     "province_cn":"重庆",
     "city":"Jiangjin",
     "province":"Chongqing",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
     "case":"4",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -2024,15 +2024,15 @@
        "coordinates":  [ 106.52,29.37 ]
     },
     "properties": {
-    "id":113,
+    "FIELD1":113,
     "city_cn":"巴南",
     "province_cn":"重庆",
     "city":"Banan",
     "province":"Chongqing",
-    "cure":"1",
+    "cure":"2",
     "death":"0",
     "case":"6",
-    "remain":"5"
+    "remain":"4"
     }
   },
   {
@@ -2042,7 +2042,7 @@
        "coordinates":  [ 107.75,29.33 ]
     },
     "properties": {
-    "id":114,
+    "FIELD1":114,
     "city_cn":"武隆",
     "province_cn":"重庆",
     "city":"Wulong",
@@ -2060,7 +2060,7 @@
        "coordinates":  [ 108.763426,28.844414 ]
     },
     "properties": {
-    "id":115,
+    "FIELD1":115,
     "city_cn":"酉阳",
     "province_cn":"重庆",
     "city":"Youyang",
@@ -2078,15 +2078,15 @@
        "coordinates":  [ 105.61,29.422 ]
     },
     "properties": {
-    "id":116,
+    "FIELD1":116,
     "city_cn":"荣昌",
     "province_cn":"重庆",
     "city":"Rongchang",
     "province":"Chongqing",
-    "cure":"0",
+    "cure":"5",
     "death":"0",
     "case":"9",
-    "remain":"9"
+    "remain":"4"
     }
   },
   {
@@ -2096,7 +2096,7 @@
        "coordinates":  [ 108.165373,29.293585 ]
     },
     "properties": {
-    "id":117,
+    "FIELD1":117,
     "city_cn":"彭水",
     "province_cn":"重庆",
     "city":"Pengshui",
@@ -2114,15 +2114,15 @@
        "coordinates":  [ 116.46,39.92 ]
     },
     "properties": {
-    "id":118,
+    "FIELD1":118,
     "city_cn":"北京市区",
     "province_cn":"北京",
     "city":"Beijing",
     "province":"Beijing",
-    "cure":"7",
+    "cure":"14",
     "death":"0",
-    "case":"253",
-    "remain":"246"
+    "case":"526",
+    "remain":"512"
     }
   },
   {
@@ -2132,15 +2132,15 @@
        "coordinates":  [ 116.216456,40.221724 ]
     },
     "properties": {
-    "id":119,
+    "FIELD1":119,
     "city_cn":"昌平",
     "province_cn":"北京",
     "city":"Changping",
     "province":"Beijing",
     "cure":"0",
     "death":"0",
-    "case":"24",
-    "remain":"24"
+    "case":"29",
+    "remain":"29"
     }
   },
   {
@@ -2150,15 +2150,15 @@
        "coordinates":  [ 121.028859,32.081032 ]
     },
     "properties": {
-    "id":120,
+    "FIELD1":120,
     "city_cn":"通州",
     "province_cn":"北京",
     "city":"Tongzhou",
     "province":"Beijing",
     "cure":"1",
     "death":"0",
-    "case":"17",
-    "remain":"16"
+    "case":"18",
+    "remain":"17"
     }
   },
   {
@@ -2168,15 +2168,15 @@
        "coordinates":  [ 116.33,39.73 ]
     },
     "properties": {
-    "id":121,
+    "FIELD1":121,
     "city_cn":"大兴",
     "province_cn":"北京",
     "city":"Daxing",
     "province":"Beijing",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"2",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -2186,7 +2186,7 @@
        "coordinates":  [ 116.728229,40.154951 ]
     },
     "properties": {
-    "id":122,
+    "FIELD1":122,
     "city_cn":"顺义",
     "province_cn":"北京",
     "city":"Shunyi",
@@ -2204,15 +2204,15 @@
        "coordinates":  [ 116.1,39.94 ]
     },
     "properties": {
-    "id":123,
+    "FIELD1":123,
     "city_cn":"门头沟",
     "province_cn":"北京",
     "city":"Mentougou",
     "province":"Beijing",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"3",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -2222,15 +2222,15 @@
        "coordinates":  [ 116.134254,39.744 ]
     },
     "properties": {
-    "id":124,
+    "FIELD1":124,
     "city_cn":"房山",
     "province_cn":"北京",
     "city":"Fangshan",
     "province":"Beijing",
-    "cure":"0",
+    "cure":"3",
     "death":"0",
-    "case":"14",
-    "remain":"14"
+    "case":"16",
+    "remain":"13"
     }
   },
   {
@@ -2240,7 +2240,7 @@
        "coordinates":  [ 115.971,40.4565 ]
     },
     "properties": {
-    "id":125,
+    "FIELD1":125,
     "city_cn":"延庆",
     "province_cn":"北京",
     "city":"Yanqing",
@@ -2258,7 +2258,7 @@
        "coordinates":  [ 116.83548,40.375043 ]
     },
     "properties": {
-    "id":126,
+    "FIELD1":126,
     "city_cn":"密云",
     "province_cn":"北京",
     "city":"Miyun",
@@ -2276,7 +2276,7 @@
        "coordinates":  [ 116.626,40.315 ]
     },
     "properties": {
-    "id":127,
+    "FIELD1":127,
     "city_cn":"怀柔",
     "province_cn":"北京",
     "city":"Huairou",
@@ -2294,15 +2294,15 @@
        "coordinates":  [ 121.560642,31.2 ]
     },
     "properties": {
-    "id":128,
+    "FIELD1":128,
     "city_cn":"上海",
     "province_cn":"上海",
     "city":"Shanghai",
     "province":"Shanghai",
-    "cure":"124",
-    "death":"1",
-    "case":"328",
-    "remain":"203"
+    "cure":"NA",
+    "death":"NA",
+    "case":"NA",
+    "remain":"NA"
     }
   },
   {
@@ -2312,15 +2312,15 @@
        "coordinates":  [ 118.517311,35.127031 ]
     },
     "properties": {
-    "id":129,
+    "FIELD1":129,
     "city_cn":"临沂",
     "province_cn":"山东",
     "city":"Linyi",
     "province":"Shandong",
-    "cure":"29",
+    "cure":"41",
     "death":"0",
-    "case":"47",
-    "remain":"18"
+    "case":"49",
+    "remain":"8"
     }
   },
   {
@@ -2330,15 +2330,15 @@
        "coordinates":  [ 120.346326,36.284247 ]
     },
     "properties": {
-    "id":130,
+    "FIELD1":130,
     "city_cn":"青岛",
     "province_cn":"山东",
     "city":"Tsingtao",
     "province":"Shandong",
-    "cure":"22",
+    "cure":"29",
     "death":"1",
-    "case":"57",
-    "remain":"34"
+    "case":"59",
+    "remain":"29"
     }
   },
   {
@@ -2348,15 +2348,15 @@
        "coordinates":  [ 122.152075,37.399344 ]
     },
     "properties": {
-    "id":131,
+    "FIELD1":131,
     "city_cn":"威海",
     "province_cn":"山东",
     "city":"Weihai",
     "province":"Shandong",
-    "cure":"9",
+    "cure":"11",
     "death":"0",
     "case":"38",
-    "remain":"29"
+    "remain":"27"
     }
   },
   {
@@ -2366,15 +2366,15 @@
        "coordinates":  [ 119.377852,35.469377 ]
     },
     "properties": {
-    "id":132,
+    "FIELD1":132,
     "city_cn":"日照",
     "province_cn":"山东",
     "city":"Rizhao",
     "province":"Shandong",
-    "cure":"3",
+    "cure":"7",
     "death":"0",
     "case":"16",
-    "remain":"13"
+    "remain":"9"
     }
   },
   {
@@ -2384,15 +2384,15 @@
        "coordinates":  [ 116.572199,35.380135 ]
     },
     "properties": {
-    "id":133,
+    "FIELD1":133,
     "city_cn":"济宁",
     "province_cn":"山东",
     "city":"Jining",
     "province":"Shandong",
-    "cure":"18",
+    "cure":"27",
     "death":"0",
-    "case":"51",
-    "remain":"33"
+    "case":"52",
+    "remain":"25"
     }
   },
   {
@@ -2402,15 +2402,15 @@
        "coordinates":  [ 116.803552,36.42857 ]
     },
     "properties": {
-    "id":134,
+    "FIELD1":134,
     "city_cn":"济南",
     "province_cn":"山东",
     "city":"Jinan",
     "province":"Shandong",
-    "cure":"11",
+    "cure":"17",
     "death":"0",
     "case":"47",
-    "remain":"36"
+    "remain":"30"
     }
   },
   {
@@ -2420,15 +2420,15 @@
        "coordinates":  [ 116.332912,37.457437 ]
     },
     "properties": {
-    "id":135,
+    "FIELD1":135,
     "city_cn":"德州",
     "province_cn":"山东",
     "city":"Dezhou",
     "province":"Shandong",
-    "cure":"7",
-    "death":"1",
+    "cure":"9",
+    "death":"2",
     "case":"37",
-    "remain":"29"
+    "remain":"26"
     }
   },
   {
@@ -2438,15 +2438,15 @@
        "coordinates":  [ 119.196972,36.691227 ]
     },
     "properties": {
-    "id":136,
+    "FIELD1":136,
     "city_cn":"潍坊",
     "province_cn":"山东",
     "city":"Weifang",
     "province":"Shandong",
-    "cure":"9",
+    "cure":"15",
     "death":"0",
-    "case":"43",
-    "remain":"34"
+    "case":"44",
+    "remain":"29"
     }
   },
   {
@@ -2456,15 +2456,15 @@
        "coordinates":  [ 121.451535,37.407476 ]
     },
     "properties": {
-    "id":137,
+    "FIELD1":137,
     "city_cn":"烟台",
     "province_cn":"山东",
     "city":"Yantai",
     "province":"Shandong",
-    "cure":"13",
+    "cure":"15",
     "death":"0",
-    "case":"46",
-    "remain":"33"
+    "case":"47",
+    "remain":"32"
     }
   },
   {
@@ -2474,15 +2474,15 @@
        "coordinates":  [ 115.907706,36.45583 ]
     },
     "properties": {
-    "id":138,
+    "FIELD1":138,
     "city_cn":"聊城",
     "province_cn":"山东",
     "city":"Liaocheng",
     "province":"Shandong",
-    "cure":"10",
+    "cure":"18",
     "death":"0",
     "case":"38",
-    "remain":"28"
+    "remain":"20"
     }
   },
   {
@@ -2492,15 +2492,15 @@
        "coordinates":  [ 117.981211,37.424891 ]
     },
     "properties": {
-    "id":139,
+    "FIELD1":139,
     "city_cn":"滨州",
     "province_cn":"山东",
     "city":"Binzhou",
     "province":"Shandong",
-    "cure":"9",
+    "cure":"11",
     "death":"0",
-    "case":"14",
-    "remain":"5"
+    "case":"15",
+    "remain":"4"
     }
   },
   {
@@ -2510,15 +2510,15 @@
        "coordinates":  [ 115.46336,35.26244 ]
     },
     "properties": {
-    "id":140,
+    "FIELD1":140,
     "city_cn":"菏泽",
     "province_cn":"山东",
     "city":"Heze",
     "province":"Shandong",
-    "cure":"11",
+    "cure":"13",
     "death":"0",
     "case":"18",
-    "remain":"7"
+    "remain":"5"
     }
   },
   {
@@ -2528,15 +2528,15 @@
        "coordinates":  [ 117.875108,36.771219 ]
     },
     "properties": {
-    "id":141,
+    "FIELD1":141,
     "city_cn":"淄博",
     "province_cn":"山东",
     "city":"Zibo",
     "province":"Shandong",
-    "cure":"4",
+    "cure":"6",
     "death":"0",
     "case":"29",
-    "remain":"25"
+    "remain":"23"
     }
   },
   {
@@ -2546,15 +2546,15 @@
        "coordinates":  [ 117.31,34.82 ]
     },
     "properties": {
-    "id":142,
+    "FIELD1":142,
     "city_cn":"枣庄",
     "province_cn":"山东",
     "city":"Zaozhuang",
     "province":"Shandong",
-    "cure":"4",
+    "cure":"10",
     "death":"0",
     "case":"24",
-    "remain":"20"
+    "remain":"14"
     }
   },
   {
@@ -2564,15 +2564,15 @@
        "coordinates":  [ 117.1,36.189 ]
     },
     "properties": {
-    "id":143,
+    "FIELD1":143,
     "city_cn":"泰安",
     "province_cn":"山东",
     "city":"Tai An",
     "province":"Shandong",
-    "cure":"5",
-    "death":"0",
-    "case":"32",
-    "remain":"27"
+    "cure":"9",
+    "death":"1",
+    "case":"33",
+    "remain":"23"
     }
   },
   {
@@ -2582,15 +2582,15 @@
        "coordinates":  [ 117.353913,31.790724 ]
     },
     "properties": {
-    "id":144,
+    "FIELD1":144,
     "city_cn":"合肥",
     "province_cn":"安徽",
     "city":"Hefei",
     "province":"Anhui",
-    "cure":"38",
+    "cure":"75",
     "death":"1",
-    "case":"168",
-    "remain":"129"
+    "case":"173",
+    "remain":"97"
     }
   },
   {
@@ -2600,15 +2600,15 @@
        "coordinates":  [ 115.734026,33.07351 ]
     },
     "properties": {
-    "id":145,
+    "FIELD1":145,
     "city_cn":"阜阳",
     "province_cn":"安徽",
     "city":"Fuyang",
     "province":"Anhui",
-    "cure":"28",
+    "cure":"64",
     "death":"0",
-    "case":"150",
-    "remain":"122"
+    "case":"155",
+    "remain":"91"
     }
   },
   {
@@ -2618,15 +2618,15 @@
        "coordinates":  [ 115.812814,33.782924 ]
     },
     "properties": {
-    "id":146,
+    "FIELD1":146,
     "city_cn":"亳州",
     "province_cn":"安徽",
     "city":"Bozhou",
     "province":"Anhui",
-    "cure":"25",
+    "cure":"58",
     "death":"0",
-    "case":"107",
-    "remain":"82"
+    "case":"108",
+    "remain":"50"
     }
   },
   {
@@ -2636,15 +2636,15 @@
        "coordinates":  [ 117.216005,31.859252 ]
     },
     "properties": {
-    "id":147,
+    "FIELD1":147,
     "city_cn":"安庆",
     "province_cn":"安徽",
     "city":"Anqing",
     "province":"Anhui",
-    "cure":"33",
+    "cure":"44",
     "death":"0",
-    "case":"82",
-    "remain":"49"
+    "case":"83",
+    "remain":"39"
     }
   },
   {
@@ -2654,15 +2654,15 @@
        "coordinates":  [ 118.554558,31.659719 ]
     },
     "properties": {
-    "id":148,
+    "FIELD1":148,
     "city_cn":"马鞍山",
     "province_cn":"安徽",
     "city":"Maanshan",
     "province":"Anhui",
-    "cure":"10",
+    "cure":"15",
     "death":"0",
-    "case":"35",
-    "remain":"25"
+    "case":"37",
+    "remain":"22"
     }
   },
   {
@@ -2672,15 +2672,15 @@
        "coordinates":  [ 117.918516,30.952359 ]
     },
     "properties": {
-    "id":149,
+    "FIELD1":149,
     "city_cn":"铜陵",
     "province_cn":"安徽",
     "city":"Tongling",
     "province":"Anhui",
-    "cure":"10",
+    "cure":"12",
     "death":"0",
-    "case":"28",
-    "remain":"18"
+    "case":"29",
+    "remain":"17"
     }
   },
   {
@@ -2690,15 +2690,15 @@
        "coordinates":  [ 116.302573,31.753039 ]
     },
     "properties": {
-    "id":150,
+    "FIELD1":150,
     "city_cn":"六安",
     "province_cn":"安徽",
     "city":"Lu An",
     "province":"Anhui",
-    "cure":"15",
+    "cure":"30",
     "death":"0",
-    "case":"63",
-    "remain":"48"
+    "case":"69",
+    "remain":"39"
     }
   },
   {
@@ -2708,7 +2708,7 @@
        "coordinates":  [ 118.270828,32.310209 ]
     },
     "properties": {
-    "id":151,
+    "FIELD1":151,
     "city_cn":"滁州",
     "province_cn":"安徽",
     "city":"Chuzhou",
@@ -2726,15 +2726,15 @@
        "coordinates":  [ 117.508478,30.514086 ]
     },
     "properties": {
-    "id":152,
+    "FIELD1":152,
     "city_cn":"池州",
     "province_cn":"安徽",
     "city":"Chizhou",
     "province":"Anhui",
-    "cure":"4",
+    "cure":"7",
     "death":"0",
     "case":"17",
-    "remain":"13"
+    "remain":"10"
     }
   },
   {
@@ -2744,15 +2744,15 @@
        "coordinates":  [ 117.388184,33.023815 ]
     },
     "properties": {
-    "id":153,
+    "FIELD1":153,
     "city_cn":"蚌埠",
     "province_cn":"安徽",
     "city":"Bengbu",
     "province":"Anhui",
-    "cure":"7",
+    "cure":"40",
     "death":"5",
-    "case":"153",
-    "remain":"141"
+    "case":"160",
+    "remain":"115"
     }
   },
   {
@@ -2762,15 +2762,15 @@
        "coordinates":  [ 118.532462,31.191699 ]
     },
     "properties": {
-    "id":154,
+    "FIELD1":154,
     "city_cn":"芜湖",
     "province_cn":"安徽",
     "city":"Wuhu",
     "province":"Anhui",
-    "cure":"11",
+    "cure":"17",
     "death":"0",
-    "case":"31",
-    "remain":"20"
+    "case":"33",
+    "remain":"16"
     }
   },
   {
@@ -2780,15 +2780,15 @@
        "coordinates":  [ 118.314,29.7 ]
     },
     "properties": {
-    "id":155,
+    "FIELD1":155,
     "city_cn":"黄山",
     "province_cn":"安徽",
     "city":"Huangshan",
     "province":"Anhui",
-    "cure":"1",
+    "cure":"6",
     "death":"0",
     "case":"9",
-    "remain":"8"
+    "remain":"3"
     }
   },
   {
@@ -2798,15 +2798,15 @@
        "coordinates":  [ 116.9,33.94 ]
     },
     "properties": {
-    "id":156,
+    "FIELD1":156,
     "city_cn":"淮北",
     "province_cn":"安徽",
     "city":"Huaibei",
     "province":"Anhui",
-    "cure":"10",
+    "cure":"13",
     "death":"0",
-    "case":"26",
-    "remain":"16"
+    "case":"27",
+    "remain":"14"
     }
   },
   {
@@ -2816,15 +2816,15 @@
        "coordinates":  [ 117,32.58 ]
     },
     "properties": {
-    "id":157,
+    "FIELD1":157,
     "city_cn":"淮南",
     "province_cn":"安徽",
     "city":"Huainan",
     "province":"Anhui",
-    "cure":"7",
+    "cure":"12",
     "death":"0",
-    "case":"23",
-    "remain":"16"
+    "case":"27",
+    "remain":"15"
     }
   },
   {
@@ -2834,15 +2834,15 @@
        "coordinates":  [ 116.96,33.639 ]
     },
     "properties": {
-    "id":158,
+    "FIELD1":158,
     "city_cn":"宿州",
     "province_cn":"安徽",
     "city":"Suzhou",
     "province":"Anhui",
-    "cure":"11",
+    "cure":"20",
     "death":"0",
-    "case":"39",
-    "remain":"28"
+    "case":"41",
+    "remain":"21"
     }
   },
   {
@@ -2852,7 +2852,7 @@
        "coordinates":  [ 116.131,30.16 ]
     },
     "properties": {
-    "id":159,
+    "FIELD1":159,
     "city_cn":"宿松",
     "province_cn":"安徽",
     "city":"Susong",
@@ -2870,7 +2870,7 @@
        "coordinates":  [ 118.8,30.92 ]
     },
     "properties": {
-    "id":160,
+    "FIELD1":160,
     "city_cn":"宣城",
     "province_cn":"安徽",
     "city":"Xuancheng",
@@ -2888,15 +2888,15 @@
        "coordinates":  [ 114.937365,25.838711 ]
     },
     "properties": {
-    "id":161,
+    "FIELD1":161,
     "city_cn":"赣州",
     "province_cn":"江西",
     "city":"Ganzhou",
     "province":"Jiangxi",
-    "cure":"17",
+    "cure":"24",
     "death":"1",
     "case":"76",
-    "remain":"58"
+    "remain":"51"
     }
   },
   {
@@ -2906,15 +2906,15 @@
        "coordinates":  [ 116.362974,27.924732 ]
     },
     "properties": {
-    "id":162,
+    "FIELD1":162,
     "city_cn":"抚州",
     "province_cn":"江西",
     "city":"Fuzhou",
     "province":"Jiangxi",
-    "cure":"20",
+    "cure":"29",
     "death":"0",
     "case":"72",
-    "remain":"52"
+    "remain":"43"
     }
   },
   {
@@ -2924,15 +2924,15 @@
        "coordinates":  [ 117.944367,28.40568 ]
     },
     "properties": {
-    "id":163,
+    "FIELD1":163,
     "city_cn":"上饶",
     "province_cn":"江西",
     "city":"Shangrao",
     "province":"Jiangxi",
-    "cure":"31",
+    "cure":"47",
     "death":"0",
     "case":"123",
-    "remain":"92"
+    "remain":"76"
     }
   },
   {
@@ -2942,15 +2942,15 @@
        "coordinates":  [ 114.290358,27.839383 ]
     },
     "properties": {
-    "id":164,
+    "FIELD1":164,
     "city_cn":"宜春",
     "province_cn":"江西",
     "city":"Yichun",
     "province":"Jiangxi",
-    "cure":"20",
+    "cure":"33",
     "death":"0",
-    "case":"104",
-    "remain":"84"
+    "case":"106",
+    "remain":"73"
     }
   },
   {
@@ -2960,15 +2960,15 @@
        "coordinates":  [ 116.071261,28.620772 ]
     },
     "properties": {
-    "id":165,
+    "FIELD1":165,
     "city_cn":"南昌",
     "province_cn":"江西",
     "city":"Nanchang",
     "province":"Jiangxi",
-    "cure":"75",
+    "cure":"114",
     "death":"0",
-    "case":"227",
-    "remain":"152"
+    "case":"230",
+    "remain":"116"
     }
   },
   {
@@ -2978,15 +2978,15 @@
        "coordinates":  [ 113.739818,27.53371 ]
     },
     "properties": {
-    "id":166,
+    "FIELD1":166,
     "city_cn":"萍乡",
     "province_cn":"江西",
     "city":"Pingxiang",
     "province":"Jiangxi",
-    "cure":"4",
+    "cure":"7",
     "death":"0",
-    "case":"32",
-    "remain":"28"
+    "case":"33",
+    "remain":"26"
     }
   },
   {
@@ -2996,15 +2996,15 @@
        "coordinates":  [ 115.842035,29.64023 ]
     },
     "properties": {
-    "id":167,
+    "FIELD1":167,
     "city_cn":"九江",
     "province_cn":"江西",
     "city":"Jiujiang",
     "province":"Jiangxi",
-    "cure":"22",
+    "cure":"33",
     "death":"0",
-    "case":"117",
-    "remain":"95"
+    "case":"118",
+    "remain":"85"
     }
   },
   {
@@ -3014,15 +3014,15 @@
        "coordinates":  [ 114.960437,27.160925 ]
     },
     "properties": {
-    "id":168,
+    "FIELD1":168,
     "city_cn":"吉安",
     "province_cn":"江西",
     "city":"Ji An",
     "province":"Jiangxi",
-    "cure":"9",
+    "cure":"11",
     "death":"0",
-    "case":"21",
-    "remain":"12"
+    "case":"22",
+    "remain":"11"
     }
   },
   {
@@ -3032,15 +3032,15 @@
        "coordinates":  [ 115.007851,27.850578 ]
     },
     "properties": {
-    "id":169,
+    "FIELD1":169,
     "city_cn":"新余",
     "province_cn":"江西",
     "city":"Xinyu",
     "province":"Jiangxi",
-    "cure":"37",
+    "cure":"58",
     "death":"0",
     "case":"129",
-    "remain":"92"
+    "remain":"71"
     }
   },
   {
@@ -3050,15 +3050,15 @@
        "coordinates":  [ 117.234119,29.303231 ]
     },
     "properties": {
-    "id":170,
+    "FIELD1":170,
     "city_cn":"景德镇",
     "province_cn":"江西",
     "city":"Jingdezhen",
     "province":"Jiangxi",
-    "cure":"1",
+    "cure":"3",
     "death":"0",
-    "case":"5",
-    "remain":"4"
+    "case":"6",
+    "remain":"3"
     }
   },
   {
@@ -3068,7 +3068,7 @@
        "coordinates":  [ 117.023752,28.261751 ]
     },
     "properties": {
-    "id":171,
+    "FIELD1":171,
     "city_cn":"鹰潭",
     "province_cn":"江西",
     "city":"Yingtan",
@@ -3086,7 +3086,7 @@
        "coordinates":  [ 115.946982,28.815514 ]
     },
     "properties": {
-    "id":172,
+    "FIELD1":172,
     "city_cn":"赣江新区",
     "province_cn":"江西",
     "city":"Gan River New District",
@@ -3104,15 +3104,15 @@
        "coordinates":  [ 110.371485,25.112806 ]
     },
     "properties": {
-    "id":173,
+    "FIELD1":173,
     "city_cn":"桂林",
     "province_cn":"广西",
     "city":"Guilin",
     "province":"Guangxi",
-    "cure":"10",
+    "cure":"15",
     "death":"0",
     "case":"31",
-    "remain":"21"
+    "remain":"16"
     }
   },
   {
@@ -3122,15 +3122,15 @@
        "coordinates":  [ 109.422489,21.574915 ]
     },
     "properties": {
-    "id":174,
+    "FIELD1":174,
     "city_cn":"北海",
     "province_cn":"广西",
     "city":"Beihai",
     "province":"Guangxi",
-    "cure":"7",
+    "cure":"14",
     "death":"1",
-    "case":"43",
-    "remain":"35"
+    "case":"44",
+    "remain":"29"
     }
   },
   {
@@ -3140,15 +3140,15 @@
        "coordinates":  [ 109.413915,24.471743 ]
     },
     "properties": {
-    "id":175,
+    "FIELD1":175,
     "city_cn":"柳州",
     "province_cn":"广西",
     "city":"Liuzhou",
     "province":"Guangxi",
-    "cure":"8",
+    "cure":"10",
     "death":"0",
     "case":"24",
-    "remain":"16"
+    "remain":"14"
     }
   },
   {
@@ -3158,15 +3158,15 @@
        "coordinates":  [ 107.873444,24.660762 ]
     },
     "properties": {
-    "id":176,
+    "FIELD1":176,
     "city_cn":"河池",
     "province_cn":"广西",
     "city":"Hechi",
     "province":"Guangxi",
-    "cure":"0",
+    "cure":"4",
     "death":"1",
-    "case":"22",
-    "remain":"21"
+    "case":"23",
+    "remain":"18"
     }
   },
   {
@@ -3176,7 +3176,7 @@
        "coordinates":  [ 111.189914,23.5602 ]
     },
     "properties": {
-    "id":177,
+    "FIELD1":177,
     "city_cn":"梧州",
     "province_cn":"广西",
     "city":"Wuzhou",
@@ -3194,15 +3194,15 @@
        "coordinates":  [ 106.505596,23.941866 ]
     },
     "properties": {
-    "id":178,
+    "FIELD1":178,
     "city_cn":"百色",
     "province_cn":"广西",
     "city":"Baise",
     "province":"Guangxi",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"3",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -3212,15 +3212,15 @@
        "coordinates":  [ 108.449166,21.662036 ]
     },
     "properties": {
-    "id":179,
+    "FIELD1":179,
     "city_cn":"防城港",
     "province_cn":"广西",
     "city":"Fangchenggang",
     "province":"Guangxi",
-    "cure":"1",
+    "cure":"6",
     "death":"0",
-    "case":"18",
-    "remain":"17"
+    "case":"19",
+    "remain":"13"
     }
   },
   {
@@ -3230,15 +3230,15 @@
        "coordinates":  [ 108.573583,22.894927 ]
     },
     "properties": {
-    "id":180,
+    "FIELD1":180,
     "city_cn":"南宁",
     "province_cn":"广西",
     "city":"Nanning",
     "province":"Guangxi",
-    "cure":"11",
+    "cure":"23",
     "death":"0",
-    "case":"50",
-    "remain":"39"
+    "case":"54",
+    "remain":"31"
     }
   },
   {
@@ -3248,15 +3248,15 @@
        "coordinates":  [ 110.064534,22.557213 ]
     },
     "properties": {
-    "id":181,
+    "FIELD1":181,
     "city_cn":"玉林",
     "province_cn":"广西",
     "city":"Yulin",
     "province":"Guangxi",
-    "cure":"1",
+    "cure":"4",
     "death":"0",
-    "case":"10",
-    "remain":"9"
+    "case":"11",
+    "remain":"7"
     }
   },
   {
@@ -3266,7 +3266,7 @@
        "coordinates":  [ 111.54,24.415 ]
     },
     "properties": {
-    "id":182,
+    "FIELD1":182,
     "city_cn":"贺州",
     "province_cn":"广西",
     "city":"Hezhou",
@@ -3284,7 +3284,7 @@
        "coordinates":  [ 108.617,21.97 ]
     },
     "properties": {
-    "id":183,
+    "FIELD1":183,
     "city_cn":"钦州",
     "province_cn":"广西",
     "city":"Qinzhou",
@@ -3302,15 +3302,15 @@
        "coordinates":  [ 109.59,23.1 ]
     },
     "properties": {
-    "id":184,
+    "FIELD1":184,
     "city_cn":"贵港",
     "province_cn":"广西",
     "city":"Guigang",
     "province":"Guangxi",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
     "case":"8",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -3320,7 +3320,7 @@
        "coordinates":  [ 109.218231,23.746383 ]
     },
     "properties": {
-    "id":185,
+    "FIELD1":185,
     "city_cn":"来宾",
     "province_cn":"广西",
     "city":"Laibin",
@@ -3338,15 +3338,15 @@
        "coordinates":  [ 109.429348,18.397248 ]
     },
     "properties": {
-    "id":186,
+    "FIELD1":186,
     "city_cn":"三亚",
     "province_cn":"海南",
     "city":"Sanya",
     "province":"Hainan",
-    "cure":"15",
+    "cure":"22",
     "death":"1",
     "case":"54",
-    "remain":"38"
+    "remain":"31"
     }
   },
   {
@@ -3356,15 +3356,15 @@
        "coordinates":  [ 110.292505,18.839886 ]
     },
     "properties": {
-    "id":187,
+    "FIELD1":187,
     "city_cn":"万宁",
     "province_cn":"海南",
     "city":"Wanning",
     "province":"Hainan",
-    "cure":"3",
+    "cure":"9",
     "death":"0",
     "case":"13",
-    "remain":"10"
+    "remain":"4"
     }
   },
   {
@@ -3374,15 +3374,15 @@
        "coordinates":  [ 110.507269,19.942909 ]
     },
     "properties": {
-    "id":188,
+    "FIELD1":188,
     "city_cn":"海口",
     "province_cn":"海南",
     "city":"Haikou",
     "province":"Hainan",
-    "cure":"10",
+    "cure":"18",
     "death":"0",
-    "case":"33",
-    "remain":"23"
+    "case":"39",
+    "remain":"21"
     }
   },
   {
@@ -3392,15 +3392,15 @@
        "coordinates":  [ 109.413973,19.571153 ]
     },
     "properties": {
-    "id":189,
+    "FIELD1":189,
     "city_cn":"儋州",
     "province_cn":"海南",
     "city":"Danzhou",
     "province":"Hainan",
-    "cure":"2",
+    "cure":"11",
     "death":"0",
     "case":"15",
-    "remain":"13"
+    "remain":"4"
     }
   },
   {
@@ -3410,15 +3410,15 @@
        "coordinates":  [ 109.724102,19.805922 ]
     },
     "properties": {
-    "id":190,
+    "FIELD1":190,
     "city_cn":"临高",
     "province_cn":"海南",
     "city":"Lingao",
     "province":"Hainan",
-    "cure":"3",
+    "cure":"4",
     "death":"0",
     "case":"6",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -3428,15 +3428,15 @@
        "coordinates":  [ 110.0375,18.506 ]
     },
     "properties": {
-    "id":191,
+    "FIELD1":191,
     "city_cn":"陵水",
     "province_cn":"海南",
     "city":"Lingshui",
     "province":"Hainan",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"4",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -3446,15 +3446,15 @@
        "coordinates":  [ 110,19.7 ]
     },
     "properties": {
-    "id":192,
+    "FIELD1":192,
     "city_cn":"澄迈",
     "province_cn":"海南",
     "city":"Chengmai",
     "province":"Hainan",
-    "cure":"1",
+    "cure":"4",
     "death":"1",
     "case":"9",
-    "remain":"7"
+    "remain":"4"
     }
   },
   {
@@ -3464,7 +3464,7 @@
        "coordinates":  [ 109.82,19.04 ]
     },
     "properties": {
-    "id":193,
+    "FIELD1":193,
     "city_cn":"琼中",
     "province_cn":"海南",
     "city":"Qiongzhong",
@@ -3482,15 +3482,15 @@
        "coordinates":  [ 108.66,19.09 ]
     },
     "properties": {
-    "id":194,
+    "FIELD1":194,
     "city_cn":"东方",
     "province_cn":"海南",
     "city":"Dongfang",
     "province":"Hainan",
-    "cure":"1",
+    "cure":"2",
     "death":"0",
     "case":"3",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -3500,15 +3500,15 @@
        "coordinates":  [ 110.468,19.256 ]
     },
     "properties": {
-    "id":195,
+    "FIELD1":195,
     "city_cn":"琼海",
     "province_cn":"海南",
     "city":"Qionghai",
     "province":"Hainan",
-    "cure":"1",
+    "cure":"4",
     "death":"1",
     "case":"6",
-    "remain":"4"
+    "remain":"1"
     }
   },
   {
@@ -3518,15 +3518,15 @@
        "coordinates":  [ 110.36,19.68 ]
     },
     "properties": {
-    "id":196,
+    "FIELD1":196,
     "city_cn":"定安",
     "province_cn":"海南",
     "city":"Ding An",
     "province":"Hainan",
-    "cure":"1",
+    "cure":"2",
     "death":"1",
     "case":"3",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -3536,15 +3536,15 @@
        "coordinates":  [ 109.04,19.298 ]
     },
     "properties": {
-    "id":197,
+    "FIELD1":197,
     "city_cn":"昌江",
     "province_cn":"海南",
     "city":"Changjiang",
     "province":"Hainan",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"7",
-    "remain":"7"
+    "remain":"5"
     }
   },
   {
@@ -3554,7 +3554,7 @@
        "coordinates":  [ 109.168,18.75 ]
     },
     "properties": {
-    "id":198,
+    "FIELD1":198,
     "city_cn":"乐东",
     "province_cn":"海南",
     "city":"Ledong",
@@ -3572,10 +3572,28 @@
        "coordinates":  [ 110.787,19.539 ]
     },
     "properties": {
-    "id":199,
+    "FIELD1":199,
     "city_cn":"文昌",
     "province_cn":"海南",
     "city":"Wenchang",
+    "province":"Hainan",
+    "cure":"3",
+    "death":"0",
+    "case":"3",
+    "remain":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.694892,18.64104 ]
+    },
+    "properties": {
+    "FIELD1":200,
+    "city_cn":"保亭",
+    "province_cn":"海南",
+    "city":"Baoting",
     "province":"Hainan",
     "cure":"1",
     "death":"0",
@@ -3587,36 +3605,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 109.694892,18.64104 ]
-    },
-    "properties": {
-    "id":200,
-    "city_cn":"保亭",
-    "province_cn":"海南",
-    "city":"Baoting",
-    "province":"Hainan",
-    "cure":"0",
-    "death":"0",
-    "case":"3",
-    "remain":"3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 119.314923,26.221752 ]
     },
     "properties": {
-    "id":201,
+    "FIELD1":201,
     "city_cn":"福州",
     "province_cn":"福建",
     "city":"Fuzhou",
     "province":"Fujian",
-    "cure":"20",
+    "cure":"33",
     "death":"0",
-    "case":"68",
-    "remain":"48"
+    "case":"71",
+    "remain":"38"
     }
   },
   {
@@ -3626,15 +3626,15 @@
        "coordinates":  [ 118.280803,24.675485 ]
     },
     "properties": {
-    "id":202,
+    "FIELD1":202,
     "city_cn":"厦门",
     "province_cn":"福建",
     "city":"Xiamen",
     "province":"Fujian",
-    "cure":"5",
+    "cure":"10",
     "death":"0",
-    "case":"34",
-    "remain":"29"
+    "case":"35",
+    "remain":"25"
     }
   },
   {
@@ -3644,7 +3644,7 @@
        "coordinates":  [ 118.819017,25.173479 ]
     },
     "properties": {
-    "id":203,
+    "FIELD1":203,
     "city_cn":"泉州",
     "province_cn":"福建",
     "city":"Quanzhou",
@@ -3662,15 +3662,15 @@
        "coordinates":  [ 117.633366,24.575089 ]
     },
     "properties": {
-    "id":204,
+    "FIELD1":204,
     "city_cn":"漳州",
     "province_cn":"福建",
     "city":"Zhangzhou",
     "province":"Fujian",
-    "cure":"6",
+    "cure":"11",
     "death":"0",
     "case":"20",
-    "remain":"14"
+    "remain":"9"
     }
   },
   {
@@ -3680,15 +3680,15 @@
        "coordinates":  [ 119.454559,26.763865 ]
     },
     "properties": {
-    "id":205,
+    "FIELD1":205,
     "city_cn":"宁德",
     "province_cn":"福建",
     "city":"Ningde",
     "province":"Fujian",
-    "cure":"6",
+    "cure":"12",
     "death":"0",
-    "case":"25",
-    "remain":"19"
+    "case":"26",
+    "remain":"14"
     }
   },
   {
@@ -3698,15 +3698,15 @@
        "coordinates":  [ 117.516896,26.173967 ]
     },
     "properties": {
-    "id":206,
+    "FIELD1":206,
     "city_cn":"三明",
     "province_cn":"福建",
     "city":"Sanming",
     "province":"Fujian",
-    "cure":"3",
+    "cure":"5",
     "death":"0",
-    "case":"13",
-    "remain":"10"
+    "case":"14",
+    "remain":"9"
     }
   },
   {
@@ -3716,15 +3716,15 @@
        "coordinates":  [ 119,25.41 ]
     },
     "properties": {
-    "id":207,
+    "FIELD1":207,
     "city_cn":"莆田",
     "province_cn":"福建",
     "city":"Putian",
     "province":"Fujian",
-    "cure":"12",
+    "cure":"19",
     "death":"0",
     "case":"55",
-    "remain":"43"
+    "remain":"36"
     }
   },
   {
@@ -3734,15 +3734,15 @@
        "coordinates":  [ 118.18,26.63 ]
     },
     "properties": {
-    "id":208,
+    "FIELD1":208,
     "city_cn":"南平",
     "province_cn":"福建",
     "city":"Nanping",
     "province":"Fujian",
-    "cure":"5",
+    "cure":"8",
     "death":"0",
     "case":"20",
-    "remain":"15"
+    "remain":"12"
     }
   },
   {
@@ -3752,7 +3752,7 @@
        "coordinates":  [ 117,25.1 ]
     },
     "properties": {
-    "id":209,
+    "FIELD1":209,
     "city_cn":"龙岩",
     "province_cn":"福建",
     "city":"Longyan",
@@ -3770,15 +3770,15 @@
        "coordinates":  [ 119.943432,31.672903 ]
     },
     "properties": {
-    "id":210,
+    "FIELD1":210,
     "city_cn":"常州",
     "province_cn":"江苏",
     "city":"Changzhou",
     "province":"Jiangsu",
-    "cure":"11",
+    "cure":"27",
     "death":"0",
-    "case":"43",
-    "remain":"32"
+    "case":"51",
+    "remain":"24"
     }
   },
   {
@@ -3788,15 +3788,15 @@
        "coordinates":  [ 118.848166,32.40064 ]
     },
     "properties": {
-    "id":211,
+    "FIELD1":211,
     "city_cn":"南京",
     "province_cn":"江苏",
     "city":"Nanjing",
     "province":"Jiangsu",
-    "cure":"27",
+    "cure":"38",
     "death":"0",
-    "case":"91",
-    "remain":"64"
+    "case":"93",
+    "remain":"55"
     }
   },
   {
@@ -3806,15 +3806,15 @@
        "coordinates":  [ 120.630878,31.332306 ]
     },
     "properties": {
-    "id":212,
+    "FIELD1":212,
     "city_cn":"苏州",
     "province_cn":"江苏",
     "city":"Suzhou",
     "province":"Jiangsu",
-    "cure":"26",
+    "cure":"33",
     "death":"0",
-    "case":"86",
-    "remain":"60"
+    "case":"87",
+    "remain":"54"
     }
   },
   {
@@ -3824,15 +3824,15 @@
        "coordinates":  [ 119.162196,34.51416 ]
     },
     "properties": {
-    "id":213,
+    "FIELD1":213,
     "city_cn":"连云港",
     "province_cn":"江苏",
     "city":"Lianyungang",
     "province":"Jiangsu",
-    "cure":"12",
+    "cure":"17",
     "death":"0",
-    "case":"46",
-    "remain":"34"
+    "case":"48",
+    "remain":"31"
     }
   },
   {
@@ -3842,15 +3842,15 @@
        "coordinates":  [ 120.248502,31.466579 ]
     },
     "properties": {
-    "id":214,
+    "FIELD1":214,
     "city_cn":"无锡",
     "province_cn":"江苏",
     "city":"Wuxi",
     "province":"Jiangsu",
-    "cure":"18",
+    "cure":"27",
     "death":"0",
-    "case":"52",
-    "remain":"34"
+    "case":"55",
+    "remain":"28"
     }
   },
   {
@@ -3860,15 +3860,15 @@
        "coordinates":  [ 120.823875,32.071256 ]
     },
     "properties": {
-    "id":215,
+    "FIELD1":215,
     "city_cn":"南通",
     "province_cn":"江苏",
     "city":"Nantong",
     "province":"Jiangsu",
-    "cure":"15",
+    "cure":"23",
     "death":"0",
     "case":"40",
-    "remain":"25"
+    "remain":"17"
     }
   },
   {
@@ -3878,15 +3878,15 @@
        "coordinates":  [ 119.427778,32.408505 ]
     },
     "properties": {
-    "id":216,
+    "FIELD1":216,
     "city_cn":"扬州",
     "province_cn":"江苏",
     "city":"Yangzhou",
     "province":"Jiangsu",
-    "cure":"7",
+    "cure":"11",
     "death":"0",
-    "case":"21",
-    "remain":"14"
+    "case":"23",
+    "remain":"12"
     }
   },
   {
@@ -3896,15 +3896,15 @@
        "coordinates":  [ 119.968501,33.265898 ]
     },
     "properties": {
-    "id":217,
+    "FIELD1":217,
     "city_cn":"盐城",
     "province_cn":"江苏",
     "city":"Yancheng",
     "province":"Jiangsu",
-    "cure":"9",
+    "cure":"24",
     "death":"0",
     "case":"27",
-    "remain":"18"
+    "remain":"3"
     }
   },
   {
@@ -3914,15 +3914,15 @@
        "coordinates":  [ 118.343693,34.00953 ]
     },
     "properties": {
-    "id":218,
+    "FIELD1":218,
     "city_cn":"宿迁",
     "province_cn":"江苏",
     "city":"Suqian",
     "province":"Jiangsu",
     "cure":"7",
     "death":"0",
-    "case":"12",
-    "remain":"5"
+    "case":"13",
+    "remain":"6"
     }
   },
   {
@@ -3932,15 +3932,15 @@
        "coordinates":  [ 119.46,32.198 ]
     },
     "properties": {
-    "id":219,
+    "FIELD1":219,
     "city_cn":"镇江",
     "province_cn":"江苏",
     "city":"Zhenjiang",
     "province":"Jiangsu",
-    "cure":"4",
+    "cure":"6",
     "death":"0",
     "case":"12",
-    "remain":"8"
+    "remain":"6"
     }
   },
   {
@@ -3950,15 +3950,15 @@
        "coordinates":  [ 119.03,33.589 ]
     },
     "properties": {
-    "id":220,
+    "FIELD1":220,
     "city_cn":"淮安",
     "province_cn":"江苏",
     "city":"Huai An",
     "province":"Jiangsu",
-    "cure":"11",
+    "cure":"32",
     "death":"0",
-    "case":"60",
-    "remain":"49"
+    "case":"66",
+    "remain":"34"
     }
   },
   {
@@ -3968,15 +3968,15 @@
        "coordinates":  [ 119.91,32.45 ]
     },
     "properties": {
-    "id":221,
+    "FIELD1":221,
     "city_cn":"泰州",
     "province_cn":"江苏",
     "city":"Taizhou",
     "province":"Jiangsu",
-    "cure":"16",
+    "cure":"22",
     "death":"0",
     "case":"37",
-    "remain":"21"
+    "remain":"15"
     }
   },
   {
@@ -3986,15 +3986,15 @@
        "coordinates":  [ 117.186999,34.27 ]
     },
     "properties": {
-    "id":222,
+    "FIELD1":222,
     "city_cn":"徐州",
     "province_cn":"江苏",
     "city":"Xuzhou",
     "province":"Jiangsu",
-    "cure":"23",
+    "cure":"51",
     "death":"0",
-    "case":"77",
-    "remain":"54"
+    "case":"79",
+    "remain":"28"
     }
   },
   {
@@ -4004,15 +4004,15 @@
        "coordinates":  [ 123.242847,41.843551 ]
     },
     "properties": {
-    "id":223,
+    "FIELD1":223,
     "city_cn":"沈阳",
     "province_cn":"辽宁",
     "city":"Shenyang",
     "province":"Liaoning",
-    "cure":"9",
+    "cure":"19",
     "death":"0",
     "case":"28",
-    "remain":"19"
+    "remain":"9"
     }
   },
   {
@@ -4022,15 +4022,15 @@
        "coordinates":  [ 121.62,38.92 ]
     },
     "properties": {
-    "id":224,
+    "FIELD1":224,
     "city_cn":"大连",
     "province_cn":"辽宁",
     "city":"Dalian",
     "province":"Liaoning",
-    "cure":"5",
+    "cure":"9",
     "death":"0",
-    "case":"18",
-    "remain":"13"
+    "case":"19",
+    "remain":"10"
     }
   },
   {
@@ -4040,15 +4040,15 @@
        "coordinates":  [ 120.4,41.55 ]
     },
     "properties": {
-    "id":225,
+    "FIELD1":225,
     "city_cn":"朝阳",
     "province_cn":"辽宁",
     "city":"Chaoyang",
     "province":"Liaoning",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
     "case":"6",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -4058,7 +4058,7 @@
        "coordinates":  [ 123.914529,42.222765 ]
     },
     "properties": {
-    "id":226,
+    "FIELD1":226,
     "city_cn":"铁岭",
     "province_cn":"辽宁",
     "city":"Tieling",
@@ -4076,15 +4076,15 @@
        "coordinates":  [ 120.84,40.75 ]
     },
     "properties": {
-    "id":227,
+    "FIELD1":227,
     "city_cn":"葫芦岛",
     "province_cn":"辽宁",
     "city":"Huludao",
     "province":"Liaoning",
-    "cure":"0",
+    "cure":"2",
     "death":"1",
-    "case":"11",
-    "remain":"10"
+    "case":"12",
+    "remain":"9"
     }
   },
   {
@@ -4094,15 +4094,15 @@
        "coordinates":  [ 124.158564,41.19567 ]
     },
     "properties": {
-    "id":228,
+    "FIELD1":228,
     "city_cn":"本溪",
     "province_cn":"辽宁",
     "city":"Benxi",
     "province":"Liaoning",
-    "cure":"1",
+    "cure":"3",
     "death":"0",
     "case":"3",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -4112,7 +4112,7 @@
        "coordinates":  [ 122.06,41.112 ]
     },
     "properties": {
-    "id":229,
+    "FIELD1":229,
     "city_cn":"盘锦",
     "province_cn":"辽宁",
     "city":"Panjin",
@@ -4130,7 +4130,7 @@
        "coordinates":  [ 122.248,40.55 ]
     },
     "properties": {
-    "id":230,
+    "FIELD1":230,
     "city_cn":"营口",
     "province_cn":"辽宁",
     "city":"Yingkou",
@@ -4148,7 +4148,7 @@
        "coordinates":  [ 124.3545,40.008 ]
     },
     "properties": {
-    "id":231,
+    "FIELD1":231,
     "city_cn":"丹东",
     "province_cn":"辽宁",
     "city":"Dandong",
@@ -4166,15 +4166,15 @@
        "coordinates":  [ 123.164,41.26 ]
     },
     "properties": {
-    "id":232,
+    "FIELD1":232,
     "city_cn":"辽阳",
     "province_cn":"辽宁",
     "city":"Liaoyang",
     "province":"Liaoning",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
     "case":"3",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -4184,7 +4184,7 @@
        "coordinates":  [ 122.99,41.1 ]
     },
     "properties": {
-    "id":233,
+    "FIELD1":233,
     "city_cn":"鞍山",
     "province_cn":"辽宁",
     "city":"Anshan",
@@ -4202,15 +4202,15 @@
        "coordinates":  [ 121.11,41.0959 ]
     },
     "properties": {
-    "id":234,
+    "FIELD1":234,
     "city_cn":"锦州",
     "province_cn":"辽宁",
     "city":"Jinzhou",
     "province":"Liaoning",
-    "cure":"6",
+    "cure":"7",
     "death":"0",
     "case":"12",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -4220,15 +4220,15 @@
        "coordinates":  [ 121.645287,42.015173 ]
     },
     "properties": {
-    "id":235,
+    "FIELD1":235,
     "city_cn":"阜新",
     "province_cn":"辽宁",
     "city":"Fuxin",
     "province":"Liaoning",
-    "cure":"0",
+    "cure":"3",
     "death":"0",
     "case":"8",
-    "remain":"8"
+    "remain":"5"
     }
   },
   {
@@ -4238,15 +4238,15 @@
        "coordinates":  [ 108.874256,34.066899 ]
     },
     "properties": {
-    "id":236,
+    "FIELD1":236,
     "city_cn":"西安",
     "province_cn":"陕西",
     "city":"Xi An",
     "province":"Shaanxi",
-    "cure":"25",
+    "cure":"44",
     "death":"0",
-    "case":"114",
-    "remain":"89"
+    "case":"118",
+    "remain":"74"
     }
   },
   {
@@ -4256,15 +4256,15 @@
        "coordinates":  [ 108.817312,34.423853 ]
     },
     "properties": {
-    "id":237,
+    "FIELD1":237,
     "city_cn":"咸阳",
     "province_cn":"陕西",
     "city":"Xianyang",
     "province":"Shaanxi",
-    "cure":"5",
+    "cure":"8",
     "death":"0",
     "case":"17",
-    "remain":"12"
+    "remain":"9"
     }
   },
   {
@@ -4274,15 +4274,15 @@
        "coordinates":  [ 108.896243,32.814464 ]
     },
     "properties": {
-    "id":238,
+    "FIELD1":238,
     "city_cn":"安康",
     "province_cn":"陕西",
     "city":"Ankang",
     "province":"Shaanxi",
-    "cure":"5",
+    "cure":"15",
     "death":"0",
-    "case":"24",
-    "remain":"19"
+    "case":"25",
+    "remain":"10"
     }
   },
   {
@@ -4292,15 +4292,15 @@
        "coordinates":  [ 108.8355,35.032 ]
     },
     "properties": {
-    "id":239,
+    "FIELD1":239,
     "city_cn":"铜川",
     "province_cn":"陕西",
     "city":"Tongchuan",
     "province":"Shaanxi",
-    "cure":"4",
+    "cure":"6",
     "death":"0",
     "case":"8",
-    "remain":"4"
+    "remain":"2"
     }
   },
   {
@@ -4310,7 +4310,7 @@
        "coordinates":  [ 109.648602,36.575992 ]
     },
     "properties": {
-    "id":240,
+    "FIELD1":240,
     "city_cn":"延安",
     "province_cn":"陕西",
     "city":"Yan An",
@@ -4328,7 +4328,7 @@
        "coordinates":  [ 109.873271,33.895485 ]
     },
     "properties": {
-    "id":241,
+    "FIELD1":241,
     "city_cn":"商洛",
     "province_cn":"陕西",
     "city":"Shangluo",
@@ -4346,15 +4346,15 @@
        "coordinates":  [ 109.451,34.5 ]
     },
     "properties": {
-    "id":242,
+    "FIELD1":242,
     "city_cn":"渭南",
     "province_cn":"陕西",
     "city":"Weinan",
     "province":"Shaanxi",
-    "cure":"1",
+    "cure":"4",
     "death":"0",
     "case":"15",
-    "remain":"14"
+    "remain":"11"
     }
   },
   {
@@ -4364,15 +4364,15 @@
        "coordinates":  [ 107,33.1 ]
     },
     "properties": {
-    "id":243,
+    "FIELD1":243,
     "city_cn":"汉中",
     "province_cn":"陕西",
     "city":"Hanzhong",
     "province":"Shaanxi",
-    "cure":"1",
+    "cure":"5",
     "death":"0",
-    "case":"21",
-    "remain":"20"
+    "case":"26",
+    "remain":"21"
     }
   },
   {
@@ -4382,15 +4382,15 @@
        "coordinates":  [ 107.23,34.39 ]
     },
     "properties": {
-    "id":244,
+    "FIELD1":244,
     "city_cn":"宝鸡",
     "province_cn":"陕西",
     "city":"Baoji",
     "province":"Shaanxi",
-    "cure":"7",
+    "cure":"9",
     "death":"0",
     "case":"13",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -4400,7 +4400,7 @@
        "coordinates":  [ 110.447,35.474 ]
     },
     "properties": {
-    "id":245,
+    "FIELD1":245,
     "city_cn":"韩城",
     "province_cn":"陕西",
     "city":"Hancheng",
@@ -4418,7 +4418,7 @@
        "coordinates":  [ 109.75,38.23 ]
     },
     "properties": {
-    "id":246,
+    "FIELD1":246,
     "city_cn":"榆林",
     "province_cn":"陕西",
     "city":"Yulin",
@@ -4436,7 +4436,7 @@
        "coordinates":  [ 108.082123,34.272 ]
     },
     "properties": {
-    "id":247,
+    "FIELD1":247,
     "city_cn":"杨凌",
     "province_cn":"陕西",
     "city":"Yangling",
@@ -4454,15 +4454,15 @@
        "coordinates":  [ 103.078562,26.139329 ]
     },
     "properties": {
-    "id":248,
+    "FIELD1":248,
     "city_cn":"昆明",
     "province_cn":"云南",
     "city":"Kunming",
     "province":"Yunnan",
-    "cure":"8",
+    "cure":"15",
     "death":"0",
-    "case":"48",
-    "remain":"40"
+    "case":"52",
+    "remain":"37"
     }
   },
   {
@@ -4472,15 +4472,15 @@
        "coordinates":  [ 100.328596,26.8593 ]
     },
     "properties": {
-    "id":249,
+    "FIELD1":249,
     "city_cn":"丽江",
     "province_cn":"云南",
     "city":"Lijiang",
     "province":"Yunnan",
-    "cure":"5",
+    "cure":"7",
     "death":"0",
     "case":"7",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -4490,15 +4490,15 @@
        "coordinates":  [ 100.803038,22.009433 ]
     },
     "properties": {
-    "id":250,
+    "FIELD1":250,
     "city_cn":"西双版纳",
     "province_cn":"云南",
     "city":"Xishuangbanna",
     "province":"Yunnan",
-    "cure":"3",
+    "cure":"4",
     "death":"0",
     "case":"15",
-    "remain":"12"
+    "remain":"11"
     }
   },
   {
@@ -4508,15 +4508,15 @@
        "coordinates":  [ 103.913326,25.360057 ]
     },
     "properties": {
-    "id":251,
+    "FIELD1":251,
     "city_cn":"曲靖",
     "province_cn":"云南",
     "city":"Qujing",
     "province":"Yunnan",
-    "cure":"5",
+    "cure":"6",
     "death":"0",
     "case":"13",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -4526,15 +4526,15 @@
        "coordinates":  [ 102.499895,24.369854 ]
     },
     "properties": {
-    "id":252,
+    "FIELD1":252,
     "city_cn":"玉溪",
     "province_cn":"云南",
     "city":"Yuxi",
     "province":"Yunnan",
     "cure":"3",
-    "death":"0",
+    "death":"1",
     "case":"14",
-    "remain":"11"
+    "remain":"10"
     }
   },
   {
@@ -4544,7 +4544,7 @@
        "coordinates":  [ 102.243348,23.250955 ]
     },
     "properties": {
-    "id":253,
+    "FIELD1":253,
     "city_cn":"红河",
     "province_cn":"云南",
     "city":"Honghe",
@@ -4562,15 +4562,15 @@
        "coordinates":  [ 100.219209,25.693967 ]
     },
     "properties": {
-    "id":254,
+    "FIELD1":254,
     "city_cn":"大理",
     "province_cn":"云南",
     "city":"Dali",
     "province":"Yunnan",
-    "cure":"6",
+    "cure":"10",
     "death":"0",
     "case":"13",
-    "remain":"7"
+    "remain":"3"
     }
   },
   {
@@ -4580,15 +4580,15 @@
        "coordinates":  [ 99.176,25.16 ]
     },
     "properties": {
-    "id":255,
+    "FIELD1":255,
     "city_cn":"保山",
     "province_cn":"云南",
     "city":"Baoshan",
     "province":"Yunnan",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
     "case":"9",
-    "remain":"7"
+    "remain":"6"
     }
   },
   {
@@ -4598,7 +4598,7 @@
        "coordinates":  [ 98.596,24.43 ]
     },
     "properties": {
-    "id":256,
+    "FIELD1":256,
     "city_cn":"德宏",
     "province_cn":"云南",
     "city":"Dehong",
@@ -4616,7 +4616,7 @@
        "coordinates":  [ 103.72,27.32 ]
     },
     "properties": {
-    "id":257,
+    "FIELD1":257,
     "city_cn":"昭通",
     "province_cn":"云南",
     "city":"Zhaotong",
@@ -4634,15 +4634,15 @@
        "coordinates":  [ 100.96,22.7 ]
     },
     "properties": {
-    "id":258,
+    "FIELD1":258,
     "city_cn":"普洱",
     "province_cn":"云南",
     "city":"Pu Er",
     "province":"Yunnan",
-    "cure":"1",
+    "cure":"3",
     "death":"0",
     "case":"4",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -4652,7 +4652,7 @@
        "coordinates":  [ 100.1,23.87 ]
     },
     "properties": {
-    "id":259,
+    "FIELD1":259,
     "city_cn":"临沧",
     "province_cn":"云南",
     "city":"Lincang",
@@ -4670,7 +4670,7 @@
        "coordinates":  [ 104.226,23.394 ]
     },
     "properties": {
-    "id":260,
+    "FIELD1":260,
     "city_cn":"文山",
     "province_cn":"云南",
     "city":"Wenshan",
@@ -4688,7 +4688,7 @@
        "coordinates":  [ 101.548734,25.025884 ]
     },
     "properties": {
-    "id":261,
+    "FIELD1":261,
     "city_cn":"楚雄",
     "province_cn":"云南",
     "city":"Chuxiong",
@@ -4706,15 +4706,15 @@
        "coordinates":  [ 117.2,39.13 ]
     },
     "properties": {
-    "id":262,
+    "FIELD1":262,
     "city_cn":"天津",
     "province_cn":"天津",
     "city":"Tianjin",
     "province":"Tianjin",
-    "cure":"37",
-    "death":"3",
-    "case":"122",
-    "remain":"82"
+    "cure":"NA",
+    "death":"NA",
+    "case":"NA",
+    "remain":"NA"
     }
   },
   {
@@ -4724,15 +4724,15 @@
        "coordinates":  [ 126.61077,45.995674 ]
     },
     "properties": {
-    "id":263,
+    "FIELD1":263,
     "city_cn":"哈尔滨",
     "province_cn":"黑龙江",
     "city":"Harbin",
     "province":"Heilongjiang",
-    "cure":"30",
+    "cure":"48",
     "death":"3",
-    "case":"182",
-    "remain":"149"
+    "case":"194",
+    "remain":"143"
     }
   },
   {
@@ -4742,15 +4742,15 @@
        "coordinates":  [ 129.584924,44.491714 ]
     },
     "properties": {
-    "id":264,
+    "FIELD1":264,
     "city_cn":"牡丹江",
     "province_cn":"黑龙江",
     "city":"Mudanjiang",
     "province":"Heilongjiang",
     "cure":"1",
     "death":"0",
-    "case":"12",
-    "remain":"11"
+    "case":"14",
+    "remain":"13"
     }
   },
   {
@@ -4760,15 +4760,15 @@
        "coordinates":  [ 124.699077,46.070051 ]
     },
     "properties": {
-    "id":265,
+    "FIELD1":265,
     "city_cn":"大庆",
     "province_cn":"黑龙江",
     "city":"Daqing",
     "province":"Heilongjiang",
-    "cure":"2",
+    "cure":"7",
     "death":"1",
-    "case":"19",
-    "remain":"16"
+    "case":"26",
+    "remain":"18"
     }
   },
   {
@@ -4778,15 +4778,15 @@
        "coordinates":  [ 126.957863,46.747537 ]
     },
     "properties": {
-    "id":266,
+    "FIELD1":266,
     "city_cn":"绥化",
     "province_cn":"黑龙江",
     "city":"Suihua",
     "province":"Heilongjiang",
-    "cure":"12",
+    "cure":"18",
     "death":"4",
-    "case":"46",
-    "remain":"30"
+    "case":"47",
+    "remain":"25"
     }
   },
   {
@@ -4796,15 +4796,15 @@
        "coordinates":  [ 123.94,47.28 ]
     },
     "properties": {
-    "id":267,
+    "FIELD1":267,
     "city_cn":"齐齐哈尔",
     "province_cn":"黑龙江",
     "city":"Qiqihar",
     "province":"Heilongjiang",
-    "cure":"8",
+    "cure":"11",
     "death":"1",
-    "case":"38",
-    "remain":"29"
+    "case":"43",
+    "remain":"31"
     }
   },
   {
@@ -4814,15 +4814,15 @@
        "coordinates":  [ 130.37,46.8 ]
     },
     "properties": {
-    "id":268,
+    "FIELD1":268,
     "city_cn":"佳木斯",
     "province_cn":"黑龙江",
     "city":"Jiamusi",
     "province":"Heilongjiang",
-    "cure":"9",
+    "cure":"14",
     "death":"0",
     "case":"15",
-    "remain":"6"
+    "remain":"1"
     }
   },
   {
@@ -4832,15 +4832,15 @@
        "coordinates":  [ 131.152,46.642 ]
     },
     "properties": {
-    "id":269,
+    "FIELD1":269,
     "city_cn":"双鸭山",
     "province_cn":"黑龙江",
     "city":"Shuangyashan",
     "province":"Heilongjiang",
-    "cure":"1",
-    "death":"2",
-    "case":"49",
-    "remain":"46"
+    "cure":"8",
+    "death":"3",
+    "case":"52",
+    "remain":"41"
     }
   },
   {
@@ -4850,15 +4850,15 @@
        "coordinates":  [ 131,45.6 ]
     },
     "properties": {
-    "id":270,
+    "FIELD1":270,
     "city_cn":"七台河",
     "province_cn":"黑龙江",
     "city":"Qitaihe",
     "province":"Heilongjiang",
-    "cure":"4",
+    "cure":"6",
     "death":"0",
-    "case":"16",
-    "remain":"12"
+    "case":"17",
+    "remain":"11"
     }
   },
   {
@@ -4868,15 +4868,15 @@
        "coordinates":  [ 130.96,45.3 ]
     },
     "properties": {
-    "id":271,
+    "FIELD1":271,
     "city_cn":"鸡西",
     "province_cn":"黑龙江",
     "city":"Jixi",
     "province":"Heilongjiang",
-    "cure":"1",
+    "cure":"3",
     "death":"0",
     "case":"46",
-    "remain":"45"
+    "remain":"43"
     }
   },
   {
@@ -4886,7 +4886,7 @@
        "coordinates":  [ 130.294,47.335 ]
     },
     "properties": {
-    "id":272,
+    "FIELD1":272,
     "city_cn":"鹤岗",
     "province_cn":"黑龙江",
     "city":"Hegang",
@@ -4904,15 +4904,15 @@
        "coordinates":  [ 124.122,50.41 ]
     },
     "properties": {
-    "id":273,
+    "FIELD1":273,
     "city_cn":"大兴安岭",
     "province_cn":"黑龙江",
     "city":"Greater Hinggan",
     "province":"Heilongjiang",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"2",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -4922,15 +4922,15 @@
        "coordinates":  [ 127.51,50.235 ]
     },
     "properties": {
-    "id":274,
+    "FIELD1":274,
     "city_cn":"黑河",
     "province_cn":"黑龙江",
     "city":"Heihe",
     "province":"Heilongjiang",
-    "cure":"0",
+    "cure":"3",
     "death":"0",
     "case":"14",
-    "remain":"14"
+    "remain":"11"
     }
   },
   {
@@ -4940,15 +4940,15 @@
        "coordinates":  [ 112.843737,37.650825 ]
     },
     "properties": {
-    "id":275,
+    "FIELD1":275,
     "city_cn":"晋中",
     "province_cn":"山西",
     "city":"Jinzhong",
     "province":"Shanxi",
-    "cure":"12",
+    "cure":"18",
     "death":"0",
-    "case":"35",
-    "remain":"23"
+    "case":"36",
+    "remain":"18"
     }
   },
   {
@@ -4958,15 +4958,15 @@
        "coordinates":  [ 112.481587,37.748675 ]
     },
     "properties": {
-    "id":276,
+    "FIELD1":276,
     "city_cn":"太原",
     "province_cn":"山西",
     "city":"Taiyuan",
     "province":"Shanxi",
-    "cure":"6",
+    "cure":"10",
     "death":"0",
     "case":"19",
-    "remain":"13"
+    "remain":"9"
     }
   },
   {
@@ -4976,15 +4976,15 @@
        "coordinates":  [ 110.961931,35.063677 ]
     },
     "properties": {
-    "id":277,
+    "FIELD1":277,
     "city_cn":"运城",
     "province_cn":"山西",
     "city":"Yuncheng",
     "province":"Shanxi",
-    "cure":"13",
+    "cure":"14",
     "death":"0",
     "case":"19",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -4994,15 +4994,15 @@
        "coordinates":  [ 113.568086,37.911504 ]
     },
     "properties": {
-    "id":278,
+    "FIELD1":278,
     "city_cn":"阳泉",
     "province_cn":"山西",
     "city":"Yangquan",
     "province":"Shanxi",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"4",
-    "remain":"4"
+    "remain":"2"
     }
   },
   {
@@ -5012,15 +5012,15 @@
        "coordinates":  [ 113.3,40 ]
     },
     "properties": {
-    "id":279,
+    "FIELD1":279,
     "city_cn":"大同",
     "province_cn":"山西",
     "city":"Datong",
     "province":"Shanxi",
-    "cure":"4",
+    "cure":"6",
     "death":"0",
     "case":"12",
-    "remain":"8"
+    "remain":"6"
     }
   },
   {
@@ -5030,15 +5030,15 @@
        "coordinates":  [ 113.086194,36.02468 ]
     },
     "properties": {
-    "id":280,
+    "FIELD1":280,
     "city_cn":"长治",
     "province_cn":"山西",
     "city":"Changzhi",
     "province":"Shanxi",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"8",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -5048,7 +5048,7 @@
        "coordinates":  [ 111.52,36.1 ]
     },
     "properties": {
-    "id":281,
+    "FIELD1":281,
     "city_cn":"临汾",
     "province_cn":"山西",
     "city":"Linfen",
@@ -5066,14 +5066,14 @@
        "coordinates":  [ 112.43,39.35 ]
     },
     "properties": {
-    "id":282,
+    "FIELD1":282,
     "city_cn":"朔州",
     "province_cn":"山西",
     "city":"Shuozhou",
     "province":"Shanxi",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
-    "case":"7",
+    "case":"8",
     "remain":"5"
     }
   },
@@ -5084,7 +5084,7 @@
        "coordinates":  [ 111.1,37.5 ]
     },
     "properties": {
-    "id":283,
+    "FIELD1":283,
     "city_cn":"吕梁",
     "province_cn":"山西",
     "city":"Lyuliang",
@@ -5102,15 +5102,15 @@
        "coordinates":  [ 112.732,38.4 ]
     },
     "properties": {
-    "id":284,
+    "FIELD1":284,
     "city_cn":"忻州",
     "province_cn":"山西",
     "city":"Xinzhou",
     "province":"Shanxi",
-    "cure":"0",
+    "cure":"4",
     "death":"0",
     "case":"7",
-    "remain":"7"
+    "remain":"3"
     }
   },
   {
@@ -5120,209 +5120,11 @@
        "coordinates":  [ 112.857,35.498 ]
     },
     "properties": {
-    "id":285,
+    "FIELD1":285,
     "city_cn":"晋城",
     "province_cn":"山西",
     "city":"Jincheng",
     "province":"Shanxi",
-    "cure":"2",
-    "death":"0",
-    "case":"9",
-    "remain":"7"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.586383,38.014621 ]
-    },
-    "properties": {
-    "id":286,
-    "city_cn":"石家庄",
-    "province_cn":"河北",
-    "city":"Shijiazhuang",
-    "province":"Hebei",
-    "cure":"7",
-    "death":"0",
-    "case":"28",
-    "remain":"21"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 116.844854,38.314446 ]
-    },
-    "properties": {
-    "id":287,
-    "city_cn":"沧州",
-    "province_cn":"河北",
-    "city":"Cangzhou",
-    "province":"Hebei",
-    "cure":"14",
-    "death":"2",
-    "case":"47",
-    "remain":"31"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 115.484784,38.821877 ]
-    },
-    "properties": {
-    "id":288,
-    "city_cn":"保定",
-    "province_cn":"河北",
-    "city":"Baoding",
-    "province":"Hebei",
-    "cure":"19",
-    "death":"0",
-    "case":"32",
-    "remain":"13"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 118.125718,40.973242 ]
-    },
-    "properties": {
-    "id":289,
-    "city_cn":"承德",
-    "province_cn":"河北",
-    "city":"Chengde",
-    "province":"Hebei",
-    "cure":"2",
-    "death":"0",
-    "case":"7",
-    "remain":"5"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 116.7,39.47 ]
-    },
-    "properties": {
-    "id":290,
-    "city_cn":"廊坊",
-    "province_cn":"河北",
-    "city":"Langfang",
-    "province":"Hebei",
-    "cure":"14",
-    "death":"0",
-    "case":"30",
-    "remain":"16"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.57,37.04 ]
-    },
-    "properties": {
-    "id":291,
-    "city_cn":"邢台",
-    "province_cn":"河北",
-    "city":"Xingtai",
-    "province":"Hebei",
-    "cure":"10",
-    "death":"1",
-    "case":"22",
-    "remain":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 115.699,37.73 ]
-    },
-    "properties": {
-    "id":292,
-    "city_cn":"衡水",
-    "province_cn":"河北",
-    "city":"Hengshui",
-    "province":"Hebei",
-    "cure":"4",
-    "death":"0",
-    "case":"8",
-    "remain":"4"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 118.2,39.59 ]
-    },
-    "properties": {
-    "id":293,
-    "city_cn":"唐山",
-    "province_cn":"河北",
-    "city":"Tangshan",
-    "province":"Hebei",
-    "cure":"9",
-    "death":"0",
-    "case":"51",
-    "remain":"42"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.48,36.574 ]
-    },
-    "properties": {
-    "id":294,
-    "city_cn":"邯郸",
-    "province_cn":"河北",
-    "city":"Handan",
-    "province":"Hebei",
-    "cure":"9",
-    "death":"0",
-    "case":"31",
-    "remain":"22"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 114.89,40.81 ]
-    },
-    "properties": {
-    "id":295,
-    "city_cn":"张家口",
-    "province_cn":"河北",
-    "city":"Zhangjiakou",
-    "province":"Hebei",
-    "cure":"9",
-    "death":"0",
-    "case":"34",
-    "remain":"25"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 119.59,39.95 ]
-    },
-    "properties": {
-    "id":296,
-    "city_cn":"秦皇岛",
-    "province_cn":"河北",
-    "city":"Qinhuangdao",
-    "province":"Hebei",
     "cure":"3",
     "death":"0",
     "case":"10",
@@ -5333,18 +5135,216 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 114.586383,38.014621 ]
+    },
+    "properties": {
+    "FIELD1":286,
+    "city_cn":"石家庄",
+    "province_cn":"河北",
+    "city":"Shijiazhuang",
+    "province":"Hebei",
+    "cure":"13",
+    "death":"0",
+    "case":"28",
+    "remain":"15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.844854,38.314446 ]
+    },
+    "properties": {
+    "FIELD1":287,
+    "city_cn":"沧州",
+    "province_cn":"河北",
+    "city":"Cangzhou",
+    "province":"Hebei",
+    "cure":"18",
+    "death":"3",
+    "case":"48",
+    "remain":"27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.484784,38.821877 ]
+    },
+    "properties": {
+    "FIELD1":288,
+    "city_cn":"保定",
+    "province_cn":"河北",
+    "city":"Baoding",
+    "province":"Hebei",
+    "cure":"27",
+    "death":"0",
+    "case":"32",
+    "remain":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.125718,40.973242 ]
+    },
+    "properties": {
+    "FIELD1":289,
+    "city_cn":"承德",
+    "province_cn":"河北",
+    "city":"Chengde",
+    "province":"Hebei",
+    "cure":"4",
+    "death":"0",
+    "case":"7",
+    "remain":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7,39.47 ]
+    },
+    "properties": {
+    "FIELD1":290,
+    "city_cn":"廊坊",
+    "province_cn":"河北",
+    "city":"Langfang",
+    "province":"Hebei",
+    "cure":"20",
+    "death":"0",
+    "case":"30",
+    "remain":"10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.57,37.04 ]
+    },
+    "properties": {
+    "FIELD1":291,
+    "city_cn":"邢台",
+    "province_cn":"河北",
+    "city":"Xingtai",
+    "province":"Hebei",
+    "cure":"10",
+    "death":"1",
+    "case":"23",
+    "remain":"12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.699,37.73 ]
+    },
+    "properties": {
+    "FIELD1":292,
+    "city_cn":"衡水",
+    "province_cn":"河北",
+    "city":"Hengshui",
+    "province":"Hebei",
+    "cure":"6",
+    "death":"0",
+    "case":"8",
+    "remain":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.2,39.59 ]
+    },
+    "properties": {
+    "FIELD1":293,
+    "city_cn":"唐山",
+    "province_cn":"河北",
+    "city":"Tangshan",
+    "province":"Hebei",
+    "cure":"13",
+    "death":"1",
+    "case":"56",
+    "remain":"42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.48,36.574 ]
+    },
+    "properties": {
+    "FIELD1":294,
+    "city_cn":"邯郸",
+    "province_cn":"河北",
+    "city":"Handan",
+    "province":"Hebei",
+    "cure":"13",
+    "death":"0",
+    "case":"31",
+    "remain":"18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.89,40.81 ]
+    },
+    "properties": {
+    "FIELD1":295,
+    "city_cn":"张家口",
+    "province_cn":"河北",
+    "city":"Zhangjiakou",
+    "province":"Hebei",
+    "cure":"24",
+    "death":"0",
+    "case":"34",
+    "remain":"10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.59,39.95 ]
+    },
+    "properties": {
+    "FIELD1":296,
+    "city_cn":"秦皇岛",
+    "province_cn":"河北",
+    "city":"Qinhuangdao",
+    "province":"Hebei",
+    "cure":"4",
+    "death":"0",
+    "case":"10",
+    "remain":"6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 114.415868,43.468238 ]
     },
     "properties": {
-    "id":297,
+    "FIELD1":297,
     "city_cn":"锡林郭勒盟",
     "province_cn":"内蒙古",
     "city":"Xilingol - Xilinhot",
     "province":"Inner Mongolia",
     "cure":"1",
     "death":"0",
-    "case":"6",
-    "remain":"5"
+    "case":"9",
+    "remain":"8"
     }
   },
   {
@@ -5354,7 +5354,7 @@
        "coordinates":  [ 112,43.63 ]
     },
     "properties": {
-    "id":298,
+    "FIELD1":298,
     "city_cn":"二连浩特",
     "province_cn":"内蒙古",
     "city":"Erenhot",
@@ -5372,7 +5372,7 @@
        "coordinates":  [ 109.764419,39.805586 ]
     },
     "properties": {
-    "id":299,
+    "FIELD1":299,
     "city_cn":"鄂尔多斯",
     "province_cn":"内蒙古",
     "city":"Ordos",
@@ -5390,7 +5390,7 @@
        "coordinates":  [ 117.603687,49.500032 ]
     },
     "properties": {
-    "id":300,
+    "FIELD1":300,
     "city_cn":"满洲里",
     "province_cn":"内蒙古",
     "city":"Manzhouli",
@@ -5408,15 +5408,15 @@
        "coordinates":  [ 118.757106,42.268753 ]
     },
     "properties": {
-    "id":301,
+    "FIELD1":301,
     "city_cn":"赤峰",
     "province_cn":"内蒙古",
     "city":"Chifeng",
     "province":"Inner Mongolia",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
-    "case":"7",
-    "remain":"5"
+    "case":"9",
+    "remain":"6"
     }
   },
   {
@@ -5426,15 +5426,15 @@
        "coordinates":  [ 119.76,49.22 ]
     },
     "properties": {
-    "id":302,
+    "FIELD1":302,
     "city_cn":"呼伦贝尔",
     "province_cn":"内蒙古",
     "city":"Hulun Buir",
     "province":"Inner Mongolia",
     "cure":"1",
     "death":"0",
-    "case":"6",
-    "remain":"5"
+    "case":"7",
+    "remain":"6"
     }
   },
   {
@@ -5444,7 +5444,7 @@
        "coordinates":  [ 121.512668,49.329996 ]
     },
     "properties": {
-    "id":303,
+    "FIELD1":303,
     "city_cn":"牙克石",
     "province_cn":"内蒙古",
     "city":"Yakeshi",
@@ -5462,7 +5462,7 @@
        "coordinates":  [ 122.1,46.05 ]
     },
     "properties": {
-    "id":304,
+    "FIELD1":304,
     "city_cn":"兴安盟",
     "province_cn":"内蒙古",
     "city":"Ulahot",
@@ -5480,15 +5480,15 @@
        "coordinates":  [ 113.13,40.99 ]
     },
     "properties": {
-    "id":305,
+    "FIELD1":305,
     "city_cn":"乌兰察布",
     "province_cn":"内蒙古",
     "city":"Ulanqab",
     "province":"Inner Mongolia",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"3",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -5498,15 +5498,15 @@
        "coordinates":  [ 109.8,40.65 ]
     },
     "properties": {
-    "id":306,
+    "FIELD1":306,
     "city_cn":"包头",
     "province_cn":"内蒙古",
     "city":"Baotou",
     "province":"Inner Mongolia",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"11",
-    "remain":"11"
+    "remain":"10"
     }
   },
   {
@@ -5516,7 +5516,7 @@
        "coordinates":  [ 107.38,40.75 ]
     },
     "properties": {
-    "id":307,
+    "FIELD1":307,
     "city_cn":"巴彦淖尔",
     "province_cn":"内蒙古",
     "city":"Bayannur",
@@ -5534,28 +5534,10 @@
        "coordinates":  [ 122.25,43.626 ]
     },
     "properties": {
-    "id":308,
+    "FIELD1":308,
     "city_cn":"通辽",
     "province_cn":"内蒙古",
     "city":"Tongliao",
-    "province":"Inner Mongolia",
-    "cure":"0",
-    "death":"0",
-    "case":"6",
-    "remain":"6"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 111.69,40.83 ]
-    },
-    "properties": {
-    "id":309,
-    "city_cn":"呼和浩特",
-    "province_cn":"内蒙古",
-    "city":"Huhhot",
     "province":"Inner Mongolia",
     "cure":"0",
     "death":"0",
@@ -5567,10 +5549,28 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 111.69,40.83 ]
+    },
+    "properties": {
+    "FIELD1":309,
+    "city_cn":"呼和浩特",
+    "province_cn":"内蒙古",
+    "city":"Huhhot",
+    "province":"Inner Mongolia",
+    "cure":"1",
+    "death":"0",
+    "case":"7",
+    "remain":"6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 106.779,39.639 ]
     },
     "properties": {
-    "id":310,
+    "FIELD1":310,
     "city_cn":"乌海",
     "province_cn":"内蒙古",
     "city":"Wuhai",
@@ -5588,15 +5588,15 @@
        "coordinates":  [ 114.186124,22.293586 ]
     },
     "properties": {
-    "id":311,
+    "FIELD1":311,
     "city_cn":"香港",
     "province_cn":"香港",
     "city":"Hong Kong",
     "province":"Hong Kong SAR",
-    "cure":"1",
-    "death":"1",
-    "case":"56",
-    "remain":"54"
+    "cure":"5",
+    "death":"2",
+    "case":"63",
+    "remain":"56"
     }
   },
   {
@@ -5606,15 +5606,15 @@
        "coordinates":  [ 109.168558,27.674903 ]
     },
     "properties": {
-    "id":312,
+    "FIELD1":312,
     "city_cn":"铜仁",
     "province_cn":"贵州",
     "city":"Tongren",
     "province":"Guizhou",
-    "cure":"7",
+    "cure":"9",
     "death":"0",
     "case":"10",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -5624,15 +5624,15 @@
        "coordinates":  [ 106.70098,26.496945 ]
     },
     "properties": {
-    "id":313,
+    "FIELD1":313,
     "city_cn":"贵阳",
     "province_cn":"贵州",
     "city":"Guiyang",
     "province":"Guizhou",
-    "cure":"6",
-    "death":"0",
-    "case":"34",
-    "remain":"28"
+    "cure":"14",
+    "death":"1",
+    "case":"36",
+    "remain":"21"
     }
   },
   {
@@ -5642,15 +5642,15 @@
        "coordinates":  [ 107.522,26.254 ]
     },
     "properties": {
-    "id":314,
+    "FIELD1":314,
     "city_cn":"黔南州",
     "province_cn":"贵州",
     "city":"Qiannan",
     "province":"Guizhou",
-    "cure":"5",
+    "cure":"7",
     "death":"0",
     "case":"17",
-    "remain":"12"
+    "remain":"10"
     }
   },
   {
@@ -5660,7 +5660,7 @@
        "coordinates":  [ 104.9,25.1 ]
     },
     "properties": {
-    "id":315,
+    "FIELD1":315,
     "city_cn":"黔西南州",
     "province_cn":"贵州",
     "city":"Qianxinan",
@@ -5678,15 +5678,15 @@
        "coordinates":  [ 104.85,26.55 ]
     },
     "properties": {
-    "id":316,
+    "FIELD1":316,
     "city_cn":"六盘水",
     "province_cn":"贵州",
     "city":"Liupanshui",
     "province":"Guizhou",
-    "cure":"3",
+    "cure":"6",
     "death":"1",
     "case":"10",
-    "remain":"6"
+    "remain":"3"
     }
   },
   {
@@ -5696,7 +5696,7 @@
        "coordinates":  [ 108,26.56 ]
     },
     "properties": {
-    "id":317,
+    "FIELD1":317,
     "city_cn":"黔东南州",
     "province_cn":"贵州",
     "city":"Qiandongnan",
@@ -5714,15 +5714,15 @@
        "coordinates":  [ 106.91,27.7478 ]
     },
     "properties": {
-    "id":318,
+    "FIELD1":318,
     "city_cn":"遵义",
     "province_cn":"贵州",
     "city":"Zunyi",
     "province":"Guizhou",
-    "cure":"5",
+    "cure":"15",
     "death":"0",
-    "case":"31",
-    "remain":"26"
+    "case":"32",
+    "remain":"17"
     }
   },
   {
@@ -5732,15 +5732,15 @@
        "coordinates":  [ 105.29,27.31 ]
     },
     "properties": {
-    "id":319,
+    "FIELD1":319,
     "city_cn":"毕节",
     "province_cn":"贵州",
     "city":"Bijie",
     "province":"Guizhou",
-    "cure":"7",
+    "cure":"10",
     "death":"0",
     "case":"23",
-    "remain":"16"
+    "remain":"13"
     }
   },
   {
@@ -5750,15 +5750,15 @@
        "coordinates":  [ 105.93,26.25 ]
     },
     "properties": {
-    "id":320,
+    "FIELD1":320,
     "city_cn":"安顺",
     "province_cn":"贵州",
     "city":"Anshun",
     "province":"Guizhou",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"4",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -5768,7 +5768,7 @@
        "coordinates":  [ 126.57,43.87 ]
     },
     "properties": {
-    "id":321,
+    "FIELD1":321,
     "city_cn":"吉林市",
     "province_cn":"吉林",
     "city":"Jilin",
@@ -5786,15 +5786,15 @@
        "coordinates":  [ 125.712822,43.531747 ]
     },
     "properties": {
-    "id":322,
+    "FIELD1":322,
     "city_cn":"长春",
     "province_cn":"吉林",
     "city":"Changchun",
     "province":"Jilin",
-    "cure":"14",
+    "cure":"19",
     "death":"0",
     "case":"45",
-    "remain":"31"
+    "remain":"26"
     }
   },
   {
@@ -5804,15 +5804,15 @@
        "coordinates":  [ 124.867571,45.29271 ]
     },
     "properties": {
-    "id":323,
+    "FIELD1":323,
     "city_cn":"松原",
     "province_cn":"吉林",
     "city":"Songyuan",
     "province":"Jilin",
-    "cure":"1",
+    "cure":"2",
     "death":"0",
     "case":"2",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -5822,15 +5822,15 @@
        "coordinates":  [ 124.37,43.178 ]
     },
     "properties": {
-    "id":324,
+    "FIELD1":324,
     "city_cn":"四平",
     "province_cn":"吉林",
     "city":"Siping",
     "province":"Jilin",
-    "cure":"4",
+    "cure":"7",
     "death":"1",
-    "case":"14",
-    "remain":"9"
+    "case":"15",
+    "remain":"7"
     }
   },
   {
@@ -5840,7 +5840,7 @@
        "coordinates":  [ 124.8,43.49 ]
     },
     "properties": {
-    "id":325,
+    "FIELD1":325,
     "city_cn":"公主岭",
     "province_cn":"吉林",
     "city":"Gongzhuling",
@@ -5858,14 +5858,14 @@
        "coordinates":  [ 125.92,41.74 ]
     },
     "properties": {
-    "id":326,
+    "FIELD1":326,
     "city_cn":"通化",
     "province_cn":"吉林",
     "city":"Tonghua",
     "province":"Jilin",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
-    "case":"3",
+    "case":"4",
     "remain":"3"
     }
   },
@@ -5876,15 +5876,15 @@
        "coordinates":  [ 129.51,42.89 ]
     },
     "properties": {
-    "id":327,
+    "FIELD1":327,
     "city_cn":"延边",
     "province_cn":"吉林",
     "city":"Yanbian",
     "province":"Jilin",
-    "cure":"2",
+    "cure":"4",
     "death":"0",
     "case":"5",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -5894,7 +5894,7 @@
        "coordinates":  [ 125.148648,42.895188 ]
     },
     "properties": {
-    "id":328,
+    "FIELD1":328,
     "city_cn":"辽源",
     "province_cn":"吉林",
     "city":"Liaoyuan",
@@ -5912,7 +5912,7 @@
        "coordinates":  [ 125.691833,42.537275 ]
     },
     "properties": {
-    "id":329,
+    "FIELD1":329,
     "city_cn":"梅河口",
     "province_cn":"吉林",
     "city":"Meihekou",
@@ -5930,7 +5930,7 @@
        "coordinates":  [ 122.84704,45.614037 ]
     },
     "properties": {
-    "id":330,
+    "FIELD1":330,
     "city_cn":"白城",
     "province_cn":"吉林",
     "city":"Baicheng",
@@ -5948,15 +5948,15 @@
        "coordinates":  [ 103.060275,36.303488 ]
     },
     "properties": {
-    "id":331,
+    "FIELD1":331,
     "city_cn":"兰州",
     "province_cn":"甘肃",
     "city":"Lanzhou",
     "province":"Gansu",
-    "cure":"17",
+    "cure":"23",
     "death":"2",
-    "case":"35",
-    "remain":"16"
+    "case":"36",
+    "remain":"11"
     }
   },
   {
@@ -5966,7 +5966,7 @@
        "coordinates":  [ 104.945609,36.69035 ]
     },
     "properties": {
-    "id":332,
+    "FIELD1":332,
     "city_cn":"白银",
     "province_cn":"甘肃",
     "city":"Baiyin",
@@ -5984,7 +5984,7 @@
        "coordinates":  [ 103.050791,35.518719 ]
     },
     "properties": {
-    "id":333,
+    "FIELD1":333,
     "city_cn":"临夏",
     "province_cn":"甘肃",
     "city":"Linxia",
@@ -6002,7 +6002,7 @@
        "coordinates":  [ 104.62,35.58 ]
     },
     "properties": {
-    "id":334,
+    "FIELD1":334,
     "city_cn":"定西",
     "province_cn":"甘肃",
     "city":"Dingxi",
@@ -6020,7 +6020,7 @@
        "coordinates":  [ 100.46,38.93 ]
     },
     "properties": {
-    "id":335,
+    "FIELD1":335,
     "city_cn":"张掖",
     "province_cn":"甘肃",
     "city":"Zhangye",
@@ -6038,15 +6038,15 @@
        "coordinates":  [ 104.91,33.39 ]
     },
     "properties": {
-    "id":336,
+    "FIELD1":336,
     "city_cn":"陇南",
     "province_cn":"甘肃",
     "city":"Longnan",
     "province":"Gansu",
-    "cure":"3",
+    "cure":"4",
     "death":"0",
     "case":"4",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -6056,7 +6056,7 @@
        "coordinates":  [ 102.18,38.52 ]
     },
     "properties": {
-    "id":337,
+    "FIELD1":337,
     "city_cn":"金昌",
     "province_cn":"甘肃",
     "city":"Jinchang",
@@ -6074,15 +6074,15 @@
        "coordinates":  [ 105.73,34.58 ]
     },
     "properties": {
-    "id":338,
+    "FIELD1":338,
     "city_cn":"天水",
     "province_cn":"甘肃",
     "city":"Tianshui",
     "province":"Gansu",
-    "cure":"9",
+    "cure":"12",
     "death":"0",
     "case":"12",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -6092,15 +6092,15 @@
        "coordinates":  [ 106.67,35.53 ]
     },
     "properties": {
-    "id":339,
+    "FIELD1":339,
     "city_cn":"平凉",
     "province_cn":"甘肃",
     "city":"Pingliang",
     "province":"Gansu",
-    "cure":"1",
+    "cure":"3",
     "death":"0",
     "case":"9",
-    "remain":"8"
+    "remain":"6"
     }
   },
   {
@@ -6110,15 +6110,15 @@
        "coordinates":  [ 102.91,34.981 ]
     },
     "properties": {
-    "id":340,
+    "FIELD1":340,
     "city_cn":"甘南",
     "province_cn":"甘肃",
     "city":"Gannan",
     "province":"Gansu",
-    "cure":"2",
+    "cure":"4",
     "death":"0",
     "case":"8",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -6128,7 +6128,7 @@
        "coordinates":  [ 107.65,35.7 ]
     },
     "properties": {
-    "id":341,
+    "FIELD1":341,
     "city_cn":"庆阳",
     "province_cn":"甘肃",
     "city":"Qingyang",
@@ -6146,15 +6146,15 @@
        "coordinates":  [ 106.24265,38.478591 ]
     },
     "properties": {
-    "id":342,
+    "FIELD1":342,
     "city_cn":"银川",
     "province_cn":"宁夏",
     "city":"Yinchuan",
     "province":"Ningxia",
-    "cure":"20",
+    "cure":"25",
     "death":"0",
     "case":"33",
-    "remain":"13"
+    "remain":"8"
     }
   },
   {
@@ -6164,7 +6164,7 @@
        "coordinates":  [ 105.111278,37.360639 ]
     },
     "properties": {
-    "id":343,
+    "FIELD1":343,
     "city_cn":"中卫",
     "province_cn":"宁夏",
     "city":"Zhongwei",
@@ -6182,15 +6182,15 @@
        "coordinates":  [ 106.254011,36.206829 ]
     },
     "properties": {
-    "id":344,
+    "FIELD1":344,
     "city_cn":"固原",
     "province_cn":"宁夏",
     "city":"Guyuan",
     "province":"Ningxia",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
     "case":"5",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -6200,15 +6200,15 @@
        "coordinates":  [ 106.2,37.97 ]
     },
     "properties": {
-    "id":345,
+    "FIELD1":345,
     "city_cn":"吴忠",
     "province_cn":"宁夏",
     "city":"Wuzhong",
     "province":"Ningxia",
-    "cure":"6",
+    "cure":"9",
     "death":"0",
-    "case":"27",
-    "remain":"21"
+    "case":"28",
+    "remain":"19"
     }
   },
   {
@@ -6218,7 +6218,7 @@
        "coordinates":  [ 106.31,38.4 ]
     },
     "properties": {
-    "id":346,
+    "FIELD1":346,
     "city_cn":"宁东",
     "province_cn":"宁夏",
     "city":"Ningdong Energy Chemical Industry Base Admin Committee",
@@ -6236,7 +6236,7 @@
        "coordinates":  [ 106.37,38.991988 ]
     },
     "properties": {
-    "id":347,
+    "FIELD1":347,
     "city_cn":"石嘴山",
     "province_cn":"宁夏",
     "city":"Shizuishan",
@@ -6254,15 +6254,15 @@
        "coordinates":  [ 121,23.5 ]
     },
     "properties": {
-    "id":348,
+    "FIELD1":348,
     "city_cn":"地区",
     "province_cn":"台湾",
     "city":"__",
     "province":"Taiwan (ROC)",
     "cure":"2",
-    "death":"0",
-    "case":"18",
-    "remain":"16"
+    "death":"1",
+    "case":"23",
+    "remain":"20"
     }
   },
   {
@@ -6272,15 +6272,15 @@
        "coordinates":  [ 87.360244,43.419108 ]
     },
     "properties": {
-    "id":349,
+    "FIELD1":349,
     "city_cn":"乌鲁木齐",
     "province_cn":"新疆",
     "city":"Urumqi",
     "province":"Xinjiang",
-    "cure":"3",
+    "cure":"8",
     "death":"0",
     "case":"23",
-    "remain":"20"
+    "remain":"15"
     }
   },
   {
@@ -6290,14 +6290,14 @@
        "coordinates":  [ 81.32,43.9 ]
     },
     "properties": {
-    "id":350,
+    "FIELD1":350,
     "city_cn":"伊犁",
     "province_cn":"新疆",
     "city":"Ili",
     "province":"Xinjiang",
-    "cure":"4",
+    "cure":"6",
     "death":"0",
-    "case":"16",
+    "case":"18",
     "remain":"12"
     }
   },
@@ -6308,7 +6308,7 @@
        "coordinates":  [ 89.15,42.95 ]
     },
     "properties": {
-    "id":351,
+    "FIELD1":351,
     "city_cn":"吐鲁番",
     "province_cn":"新疆",
     "city":"Turpan",
@@ -6326,15 +6326,15 @@
        "coordinates":  [ 86.05,44.26 ]
     },
     "properties": {
-    "id":352,
+    "FIELD1":352,
     "city_cn":"第八师石河子",
     "province_cn":"新疆",
     "city":"Shihezi (The 8th Division)",
     "province":"Xinjiang",
     "cure":"1",
     "death":"1",
-    "case":"3",
-    "remain":"1"
+    "case":"4",
+    "remain":"2"
     }
   },
   {
@@ -6344,7 +6344,7 @@
        "coordinates":  [ 80.192,41.133 ]
     },
     "properties": {
-    "id":353,
+    "FIELD1":353,
     "city_cn":"阿克苏",
     "province_cn":"新疆",
     "city":"Aksu",
@@ -6362,15 +6362,15 @@
        "coordinates":  [ 83.620741,46.521076 ]
     },
     "properties": {
-    "id":354,
+    "FIELD1":354,
     "city_cn":"第九师额敏县",
     "province_cn":"新疆",
     "city":"Emin (The 9th Division)",
     "province":"Xinjiang",
-    "cure":"0",
-    "death":"0",
-    "case":"4",
-    "remain":"4"
+    "cure":"NA",
+    "death":"NA",
+    "case":"NA",
+    "remain":"NA"
     }
   },
   {
@@ -6380,15 +6380,15 @@
        "coordinates":  [ 81.044,43.9448 ]
     },
     "properties": {
-    "id":355,
+    "FIELD1":355,
     "city_cn":"第四师科克达拉",
     "province_cn":"新疆",
     "city":"Cocodala (The 4th Division)",
     "province":"Xinjiang",
-    "cure":"0",
-    "death":"0",
-    "case":"10",
-    "remain":"10"
+    "cure":"NA",
+    "death":"NA",
+    "case":"NA",
+    "remain":"NA"
     }
   },
   {
@@ -6398,15 +6398,15 @@
        "coordinates":  [ 87.275,44 ]
     },
     "properties": {
-    "id":356,
+    "FIELD1":356,
     "city_cn":"昌吉",
     "province_cn":"新疆",
     "city":"Changji",
     "province":"Xinjiang",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"4",
-    "remain":"4"
+    "remain":"2"
     }
   },
   {
@@ -6416,7 +6416,7 @@
        "coordinates":  [ 87.538838,44.159797 ]
     },
     "properties": {
-    "id":357,
+    "FIELD1":357,
     "city_cn":"第六师五家渠",
     "province_cn":"新疆",
     "city":"Wujiaqu (The 6th Division)",
@@ -6434,15 +6434,15 @@
        "coordinates":  [ 84.8254,44.710398 ]
     },
     "properties": {
-    "id":358,
+    "FIELD1":358,
     "city_cn":"第七师胡杨河",
     "province_cn":"新疆",
     "city":"Huyangh (The 7th Division)",
     "province":"Xinjiang",
-    "cure":"1",
-    "death":"0",
-    "case":"1",
-    "remain":"0"
+    "cure":"NA",
+    "death":"NA",
+    "case":"NA",
+    "remain":"NA"
     }
   },
   {
@@ -6452,10 +6452,28 @@
        "coordinates":  [ 86.161609,41.771312 ]
     },
     "properties": {
-    "id":359,
+    "FIELD1":359,
     "city_cn":"巴音郭楞",
     "province_cn":"新疆",
     "city":"Bayingolin",
+    "province":"Xinjiang",
+    "cure":"NA",
+    "death":"NA",
+    "case":"NA",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87,43.6 ]
+    },
+    "properties": {
+    "FIELD1":360,
+    "city_cn":"第十二师",
+    "province_cn":"新疆",
+    "city":"The 12th Division",
     "province":"Xinjiang",
     "cure":"0",
     "death":"0",
@@ -6467,36 +6485,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 87,43.6 ]
-    },
-    "properties": {
-    "id":360,
-    "city_cn":"第十二师",
-    "province_cn":"新疆",
-    "city":"The 12th Division",
-    "province":"Xinjiang",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 113.557519,22.204118 ]
     },
     "properties": {
-    "id":361,
+    "FIELD1":361,
     "city_cn":"澳门",
     "province_cn":"澳门",
     "city":"Macau",
     "province":"Macau SAR",
-    "cure":"3",
+    "cure":"5",
     "death":"0",
     "case":"10",
-    "remain":"7"
+    "remain":"5"
     }
   },
   {
@@ -6506,15 +6506,15 @@
        "coordinates":  [ 101.712664,36.686368 ]
     },
     "properties": {
-    "id":362,
+    "FIELD1":362,
     "city_cn":"西宁",
     "province_cn":"青海",
     "city":"Xining",
     "province":"Qinghai",
-    "cure":"11",
+    "cure":"14",
     "death":"0",
     "case":"15",
-    "remain":"4"
+    "remain":"1"
     }
   },
   {
@@ -6524,7 +6524,7 @@
        "coordinates":  [ 100.997,36.899 ]
     },
     "properties": {
-    "id":363,
+    "FIELD1":363,
     "city_cn":"海北州",
     "province_cn":"青海",
     "city":"Haibei",
@@ -6542,15 +6542,15 @@
        "coordinates":  [ 104.06,30.67 ]
     },
     "properties": {
-    "id":364,
+    "FIELD1":364,
     "city_cn":"成都",
     "province_cn":"四川",
     "city":"Chengdu",
     "province":"Sichuan",
-    "cure":"49",
+    "cure":"69",
     "death":"1",
-    "case":"140",
-    "remain":"90"
+    "case":"141",
+    "remain":"71"
     }
   },
   {
@@ -6560,10 +6560,190 @@
        "coordinates":  [ 104.73,31.46 ]
     },
     "properties": {
-    "id":365,
+    "FIELD1":365,
     "city_cn":"绵阳",
     "province_cn":"四川",
     "city":"Mianyang",
+    "province":"Sichuan",
+    "cure":"10",
+    "death":"0",
+    "case":"22",
+    "remain":"12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,30.3 ]
+    },
+    "properties": {
+    "FIELD1":366,
+    "city_cn":"广安",
+    "province_cn":"四川",
+    "city":"Guang An",
+    "province":"Sichuan",
+    "cure":"19",
+    "death":"0",
+    "case":"30",
+    "remain":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.569333,30.501934 ]
+    },
+    "properties": {
+    "FIELD1":367,
+    "city_cn":"遂宁",
+    "province_cn":"四川",
+    "city":"Suining",
+    "province":"Sichuan",
+    "cure":"10",
+    "death":"0",
+    "case":"17",
+    "remain":"7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.27,27.88 ]
+    },
+    "properties": {
+    "FIELD1":368,
+    "city_cn":"泸州",
+    "province_cn":"四川",
+    "city":"Luzhou",
+    "province":"Sichuan",
+    "cure":"5",
+    "death":"0",
+    "case":"24",
+    "remain":"19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.12,30.84 ]
+    },
+    "properties": {
+    "FIELD1":369,
+    "city_cn":"南充",
+    "province_cn":"四川",
+    "city":"Nanchong",
+    "province":"Sichuan",
+    "cure":"14",
+    "death":"0",
+    "case":"38",
+    "remain":"24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.99,31.62 ]
+    },
+    "properties": {
+    "FIELD1":370,
+    "city_cn":"甘孜",
+    "province_cn":"四川",
+    "city":"Ganzi",
+    "province":"Sichuan",
+    "cure":"8",
+    "death":"0",
+    "case":"67",
+    "remain":"59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.23,31.33 ]
+    },
+    "properties": {
+    "FIELD1":371,
+    "city_cn":"德阳",
+    "province_cn":"四川",
+    "city":"Deyang",
+    "province":"Sichuan",
+    "cure":"1",
+    "death":"0",
+    "case":"17",
+    "remain":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,30 ]
+    },
+    "properties": {
+    "FIELD1":372,
+    "city_cn":"雅安",
+    "province_cn":"四川",
+    "city":"Ya An",
+    "province":"Sichuan",
+    "cure":"3",
+    "death":"0",
+    "case":"7",
+    "remain":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.5,31.2 ]
+    },
+    "properties": {
+    "FIELD1":373,
+    "city_cn":"达州",
+    "province_cn":"四川",
+    "city":"Dazhou",
+    "province":"Sichuan",
+    "cure":"11",
+    "death":"0",
+    "case":"40",
+    "remain":"29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.78,29.34 ]
+    },
+    "properties": {
+    "FIELD1":374,
+    "city_cn":"自贡",
+    "province_cn":"四川",
+    "city":"Zigong",
+    "province":"Sichuan",
+    "cure":"4",
+    "death":"0",
+    "case":"9",
+    "remain":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,29.6 ]
+    },
+    "properties": {
+    "FIELD1":375,
+    "city_cn":"内江",
+    "province_cn":"四川",
+    "city":"Neijiang",
     "province":"Sichuan",
     "cure":"6",
     "death":"0",
@@ -6575,190 +6755,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 106,30.3 ]
-    },
-    "properties": {
-    "id":366,
-    "city_cn":"广安",
-    "province_cn":"四川",
-    "city":"Guang An",
-    "province":"Sichuan",
-    "cure":"10",
-    "death":"0",
-    "case":"30",
-    "remain":"20"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 105.569333,30.501934 ]
-    },
-    "properties": {
-    "id":367,
-    "city_cn":"遂宁",
-    "province_cn":"四川",
-    "city":"Suining",
-    "province":"Sichuan",
-    "cure":"4",
-    "death":"0",
-    "case":"12",
-    "remain":"8"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 106.27,27.88 ]
-    },
-    "properties": {
-    "id":368,
-    "city_cn":"泸州",
-    "province_cn":"四川",
-    "city":"Luzhou",
-    "province":"Sichuan",
-    "cure":"2",
-    "death":"0",
-    "case":"19",
-    "remain":"17"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 106.12,30.84 ]
-    },
-    "properties": {
-    "id":369,
-    "city_cn":"南充",
-    "province_cn":"四川",
-    "city":"Nanchong",
-    "province":"Sichuan",
-    "cure":"9",
-    "death":"0",
-    "case":"35",
-    "remain":"26"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 99.99,31.62 ]
-    },
-    "properties": {
-    "id":370,
-    "city_cn":"甘孜",
-    "province_cn":"四川",
-    "city":"Ganzi",
-    "province":"Sichuan",
-    "cure":"3",
-    "death":"0",
-    "case":"50",
-    "remain":"47"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 104.23,31.33 ]
-    },
-    "properties": {
-    "id":371,
-    "city_cn":"德阳",
-    "province_cn":"四川",
-    "city":"Deyang",
-    "province":"Sichuan",
-    "cure":"0",
-    "death":"0",
-    "case":"17",
-    "remain":"17"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 103,30 ]
-    },
-    "properties": {
-    "id":372,
-    "city_cn":"雅安",
-    "province_cn":"四川",
-    "city":"Ya An",
-    "province":"Sichuan",
-    "cure":"2",
-    "death":"0",
-    "case":"7",
-    "remain":"5"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 107.5,31.2 ]
-    },
-    "properties": {
-    "id":373,
-    "city_cn":"达州",
-    "province_cn":"四川",
-    "city":"Dazhou",
-    "province":"Sichuan",
-    "cure":"5",
-    "death":"0",
-    "case":"36",
-    "remain":"31"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 104.78,29.34 ]
-    },
-    "properties": {
-    "id":374,
-    "city_cn":"自贡",
-    "province_cn":"四川",
-    "city":"Zigong",
-    "province":"Sichuan",
-    "cure":"2",
-    "death":"0",
-    "case":"9",
-    "remain":"7"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 105,29.6 ]
-    },
-    "properties": {
-    "id":375,
-    "city_cn":"内江",
-    "province_cn":"四川",
-    "city":"Neijiang",
-    "province":"Sichuan",
-    "cure":"5",
-    "death":"0",
-    "case":"22",
-    "remain":"17"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 103.63,29.2 ]
     },
     "properties": {
-    "id":376,
+    "FIELD1":376,
     "city_cn":"乐山",
     "province_cn":"四川",
     "city":"Leshan",
@@ -6776,15 +6776,15 @@
        "coordinates":  [ 103.5,29.9 ]
     },
     "properties": {
-    "id":377,
+    "FIELD1":377,
     "city_cn":"眉山",
     "province_cn":"四川",
     "city":"Meishan",
     "province":"Sichuan",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
     "case":"8",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -6794,14 +6794,14 @@
        "coordinates":  [ 104.63,28.76 ]
     },
     "properties": {
-    "id":378,
+    "FIELD1":378,
     "city_cn":"宜宾",
     "province_cn":"四川",
     "city":"Yibin",
     "province":"Sichuan",
-    "cure":"6",
+    "cure":"7",
     "death":"0",
-    "case":"11",
+    "case":"12",
     "remain":"5"
     }
   },
@@ -6812,7 +6812,7 @@
        "coordinates":  [ 102.28,27.88 ]
     },
     "properties": {
-    "id":379,
+    "FIELD1":379,
     "city_cn":"凉山",
     "province_cn":"四川",
     "city":"Liangshan",
@@ -6830,7 +6830,7 @@
        "coordinates":  [ 104.67,30.1 ]
     },
     "properties": {
-    "id":380,
+    "FIELD1":380,
     "city_cn":"资阳",
     "province_cn":"四川",
     "city":"Ziyang",
@@ -6848,15 +6848,15 @@
        "coordinates":  [ 106.64,30.46 ]
     },
     "properties": {
-    "id":381,
+    "FIELD1":381,
     "city_cn":"广元",
     "province_cn":"四川",
     "city":"Guangyuan",
     "province":"Sichuan",
-    "cure":"2",
+    "cure":"4",
     "death":"0",
     "case":"6",
-    "remain":"4"
+    "remain":"2"
     }
   },
   {
@@ -6866,15 +6866,15 @@
        "coordinates":  [ 101.71,32.9 ]
     },
     "properties": {
-    "id":382,
+    "FIELD1":382,
     "city_cn":"阿坝",
     "province_cn":"四川",
     "city":"Aba",
     "province":"Sichuan",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -6884,15 +6884,15 @@
        "coordinates":  [ 106.75,31.86 ]
     },
     "properties": {
-    "id":383,
+    "FIELD1":383,
     "city_cn":"巴中",
     "province_cn":"四川",
     "city":"Bazhong",
     "province":"Sichuan",
-    "cure":"1",
+    "cure":"3",
     "death":"0",
     "case":"24",
-    "remain":"23"
+    "remain":"21"
     }
   },
   {
@@ -6902,15 +6902,15 @@
        "coordinates":  [ 101.721,26.578 ]
     },
     "properties": {
-    "id":384,
+    "FIELD1":384,
     "city_cn":"攀枝花",
     "province_cn":"四川",
     "city":"Panzhihua",
     "province":"Sichuan",
-    "cure":"10",
+    "cure":"11",
     "death":"0",
-    "case":"13",
-    "remain":"3"
+    "case":"16",
+    "remain":"5"
     }
   },
   {
@@ -6920,7 +6920,7 @@
        "coordinates":  [ 91.577,29.65 ]
     },
     "properties": {
-    "id":385,
+    "FIELD1":385,
     "city_cn":"拉萨",
     "province_cn":"西藏",
     "city":"Lhasa",
@@ -6938,15 +6938,15 @@
        "coordinates":  [ 2.48,46.83 ]
     },
     "properties": {
-    "id":386,
+    "FIELD1":386,
     "city_cn":"法国",
     "province_cn":"法国",
     "city":"France",
     "province":"_",
-    "cure":"0",
-    "death":"0",
+    "cure":"4",
+    "death":"1",
     "case":"12",
-    "remain":"NA"
+    "remain":"7"
     }
   },
   {
@@ -6956,15 +6956,15 @@
        "coordinates":  [ 10.2,51.3 ]
     },
     "properties": {
-    "id":387,
+    "FIELD1":387,
     "city_cn":"德国",
     "province_cn":"德国",
     "city":"Germany",
     "province":"_",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"16",
-    "remain":"NA"
+    "remain":"15"
     }
   },
   {
@@ -6974,15 +6974,15 @@
        "coordinates":  [ 80.4,7.6 ]
     },
     "properties": {
-    "id":388,
+    "FIELD1":388,
     "city_cn":"斯里兰卡",
     "province_cn":"斯里兰卡",
     "city":"Sri Lanka",
     "province":"_",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"0"
     }
   },
   {
@@ -6992,15 +6992,15 @@
        "coordinates":  [ 108.05,15.56 ]
     },
     "properties": {
-    "id":389,
+    "FIELD1":389,
     "city_cn":"越南",
     "province_cn":"越南",
     "city":"Vietnam",
     "province":"_",
-    "cure":"1",
+    "cure":"7",
     "death":"0",
     "case":"16",
-    "remain":"NA"
+    "remain":"9"
     }
   },
   {
@@ -7010,15 +7010,15 @@
        "coordinates":  [ 104.9,12.57 ]
     },
     "properties": {
-    "id":390,
+    "FIELD1":390,
     "city_cn":"柬埔寨",
     "province_cn":"柬埔寨",
     "city":"Combodia",
     "province":"_",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"0"
     }
   },
   {
@@ -7028,15 +7028,15 @@
        "coordinates":  [ 101.14,15.76 ]
     },
     "properties": {
-    "id":391,
+    "FIELD1":391,
     "city_cn":"泰国",
     "province_cn":"泰国",
     "city":"Thailand",
     "province":"_",
-    "cure":"5",
+    "cure":"15",
     "death":"0",
     "case":"35",
-    "remain":"NA"
+    "remain":"20"
     }
   },
   {
@@ -7046,15 +7046,15 @@
        "coordinates":  [ 102.13,4.4 ]
     },
     "properties": {
-    "id":392,
+    "FIELD1":392,
     "city_cn":"马来西亚",
     "province_cn":"马来西亚",
     "city":"Malaysia",
     "province":"_",
-    "cure":"1",
+    "cure":"15",
     "death":"0",
     "case":"22",
-    "remain":"NA"
+    "remain":"7"
     }
   },
   {
@@ -7064,15 +7064,15 @@
        "coordinates":  [ 103.85,1.18 ]
     },
     "properties": {
-    "id":393,
+    "FIELD1":393,
     "city_cn":"新加坡",
     "province_cn":"新加坡",
     "city":"Singapore",
     "province":"_",
-    "cure":"2",
+    "cure":"34",
     "death":"0",
-    "case":"77",
-    "remain":"NA"
+    "case":"84",
+    "remain":"50"
     }
   },
   {
@@ -7082,15 +7082,15 @@
        "coordinates":  [ 127.8,36.86 ]
     },
     "properties": {
-    "id":394,
+    "FIELD1":394,
     "city_cn":"韩国",
     "province_cn":"韩国",
     "city":"South Korea",
     "province":"_",
-    "cure":"1",
+    "cure":"16",
     "death":"0",
-    "case":"30",
-    "remain":"NA"
+    "case":"51",
+    "remain":"35"
     }
   },
   {
@@ -7100,15 +7100,15 @@
        "coordinates":  [ 139,36.22 ]
     },
     "properties": {
-    "id":395,
+    "FIELD1":395,
     "city_cn":"日本",
     "province_cn":"日本",
     "city":"Japan",
     "province":"_",
-    "cure":"9",
-    "death":"0",
-    "case":"616",
-    "remain":"NA"
+    "cure":"12",
+    "death":"1",
+    "case":"84",
+    "remain":"71"
     }
   },
   {
@@ -7118,7 +7118,7 @@
        "coordinates":  [ 147.4,-32.1 ]
     },
     "properties": {
-    "id":396,
+    "FIELD1":396,
     "city_cn":"新南威尔士州",
     "province_cn":"澳大利亚",
     "city":"New South Wales",
@@ -7136,7 +7136,7 @@
        "coordinates":  [ 144.5,-37 ]
     },
     "properties": {
-    "id":397,
+    "FIELD1":397,
     "city_cn":"维多利亚州",
     "province_cn":"澳大利亚",
     "city":"Victoria",
@@ -7154,7 +7154,7 @@
        "coordinates":  [ 146.260643,-23.200961 ]
     },
     "properties": {
-    "id":398,
+    "FIELD1":398,
     "city_cn":"昆士兰州",
     "province_cn":"澳大利亚",
     "city":"Queensland",
@@ -7172,12 +7172,12 @@
        "coordinates":  [ 134.736328,-29.864316 ]
     },
     "properties": {
-    "id":399,
+    "FIELD1":399,
     "city_cn":"南澳大利亚州",
     "province_cn":"澳大利亚",
     "city":"South Australia",
     "province":"Australia",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"2",
     "remain":"NA"
@@ -7187,10 +7187,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.255859,47.582142 ]
+       "coordinates":  [ -122.25586,47.582142 ]
     },
     "properties": {
-    "id":400,
+    "FIELD1":400,
     "city_cn":"华盛顿州西雅图",
     "province_cn":"美国",
     "city":"Seattle",
@@ -7205,10 +7205,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -121.967669,37.370946 ]
+       "coordinates":  [ -121.96767,37.370946 ]
     },
     "properties": {
-    "id":401,
+    "FIELD1":401,
     "city_cn":"加利福尼亚州圣克拉拉",
     "province_cn":"美国",
     "city":"Santa Clara",
@@ -7226,7 +7226,7 @@
        "coordinates":  [ -121.08186,36.509685 ]
     },
     "properties": {
-    "id":402,
+    "FIELD1":402,
     "city_cn":"加利福尼亚州圣本尼托",
     "province_cn":"美国",
     "city":"San Benito",
@@ -7241,10 +7241,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -118.270397,33.906896 ]
+       "coordinates":  [ -118.2704,33.906896 ]
     },
     "properties": {
-    "id":403,
+    "FIELD1":403,
     "city_cn":"加利福尼亚州洛杉矶",
     "province_cn":"美国",
     "city":"Los Angeles",
@@ -7259,17 +7259,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -111.946564,33.427564 ]
+       "coordinates":  [ -111.94656,33.427564 ]
     },
     "properties": {
-    "id":404,
+    "FIELD1":404,
     "city_cn":"亚利桑那州坦普",
     "province_cn":"美国",
     "city":"Tempe",
     "province":"USA",
     "cure":"0",
     "death":"0",
-    "case":"1",
+    "case":"`",
     "remain":"NA"
     }
   },
@@ -7280,7 +7280,7 @@
        "coordinates":  [ -95.957123,41.265679 ]
     },
     "properties": {
-    "id":405,
+    "FIELD1":405,
     "city_cn":"内布拉斯加州奥马哈",
     "province_cn":"美国",
     "city":"Omaha",
@@ -7298,12 +7298,12 @@
        "coordinates":  [ -87.6489,41.748 ]
     },
     "properties": {
-    "id":406,
+    "FIELD1":406,
     "city_cn":"伊利诺伊州芝加哥",
     "province_cn":"美国",
     "city":"Chicago",
     "province":"USA",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"2",
     "remain":"NA"
@@ -7316,7 +7316,7 @@
        "coordinates":  [ -89.410129,43.062382 ]
     },
     "properties": {
-    "id":407,
+    "FIELD1":407,
     "city_cn":"威斯康辛州麦迪逊",
     "province_cn":"美国",
     "city":"Madison",
@@ -7334,7 +7334,7 @@
        "coordinates":  [ -71.107678,42.358544 ]
     },
     "properties": {
-    "id":408,
+    "FIELD1":408,
     "city_cn":"马萨诸塞州波士顿",
     "province_cn":"美国",
     "city":"Boston",
@@ -7352,7 +7352,7 @@
        "coordinates":  [ -98.489771,29.408573 ]
     },
     "properties": {
-    "id":409,
+    "FIELD1":409,
     "city_cn":"得克萨斯州圣安东尼奥",
     "province_cn":"美国",
     "city":"San Antonio",
@@ -7370,7 +7370,7 @@
        "coordinates":  [ -117.76939,33.64136 ]
     },
     "properties": {
-    "id":410,
+    "FIELD1":410,
     "city_cn":"加利福尼亚州奥兰治",
     "province_cn":"美国",
     "city":"Orange",
@@ -7388,7 +7388,7 @@
        "coordinates":  [ -117.13623,32.743248 ]
     },
     "properties": {
-    "id":411,
+    "FIELD1":411,
     "city_cn":"加利福尼亚州圣迭戈",
     "province_cn":"美国",
     "city":"San Diego",
@@ -7406,7 +7406,7 @@
        "coordinates":  [ -79.448919,43.675818 ]
     },
     "properties": {
-    "id":412,
+    "FIELD1":412,
     "city_cn":"安大略省多伦多",
     "province_cn":"加拿大",
     "city":"Toronto",
@@ -7424,7 +7424,7 @@
        "coordinates":  [ -81.254883,42.995074 ]
     },
     "properties": {
-    "id":413,
+    "FIELD1":413,
     "city_cn":"安大略省伦敦",
     "province_cn":"加拿大",
     "city":"London",
@@ -7442,15 +7442,15 @@
        "coordinates":  [ 85.32,27.69 ]
     },
     "properties": {
-    "id":414,
-    "city_cn":"_",
+    "FIELD1":414,
+    "city_cn":"尼泊尔",
     "province_cn":"尼泊尔",
     "city":"Nepal",
     "province":"_",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"0"
     }
   },
   {
@@ -7460,14 +7460,14 @@
        "coordinates":  [ -123.66,54.35 ]
     },
     "properties": {
-    "id":415,
+    "FIELD1":415,
     "city_cn":"不列颠哥伦比亚省",
     "province_cn":"加拿大",
     "city":"British Columbia",
     "province":"Canada",
     "cure":"0",
     "death":"0",
-    "case":"4",
+    "case":"5",
     "remain":"NA"
     }
   },
@@ -7478,15 +7478,15 @@
        "coordinates":  [ 12.62,43 ]
     },
     "properties": {
-    "id":416,
-    "city_cn":"_",
+    "FIELD1":416,
+    "city_cn":"意大利",
     "province_cn":"意大利",
     "city":"Italy",
     "province":"_",
     "cure":"0",
     "death":"0",
     "case":"3",
-    "remain":"NA"
+    "remain":"3"
     }
   },
   {
@@ -7496,15 +7496,15 @@
        "coordinates":  [ 26.79,64.36 ]
     },
     "properties": {
-    "id":417,
-    "city_cn":"_",
+    "FIELD1":417,
+    "city_cn":"芬兰",
     "province_cn":"芬兰",
     "city":"Finland",
     "province":"_",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"0"
     }
   },
   {
@@ -7514,15 +7514,15 @@
        "coordinates":  [ 78.2,21.56 ]
     },
     "properties": {
-    "id":418,
-    "city_cn":"_",
+    "FIELD1":418,
+    "city_cn":"印度",
     "province_cn":"印度",
     "city":"India",
     "province":"_",
-    "cure":"0",
+    "cure":"3",
     "death":"0",
     "case":"3",
-    "remain":"NA"
+    "remain":"0"
     }
   },
   {
@@ -7532,15 +7532,15 @@
        "coordinates":  [ 54.43,23.69 ]
     },
     "properties": {
-    "id":419,
-    "city_cn":"_",
+    "FIELD1":419,
+    "city_cn":"阿联酋",
     "province_cn":"阿联酋",
     "city":"UAE",
     "province":"_",
-    "cure":"0",
+    "cure":"4",
     "death":"0",
-    "case":"8",
-    "remain":"NA"
+    "case":"9",
+    "remain":"5"
     }
   },
   {
@@ -7550,15 +7550,15 @@
        "coordinates":  [ 121.421,16.82048 ]
     },
     "properties": {
-    "id":420,
-    "city_cn":"_",
+    "FIELD1":420,
+    "city_cn":"菲律宾",
     "province_cn":"菲律宾",
     "city":"Philippines",
     "province":"_",
-    "cure":"0",
+    "cure":"1",
     "death":"1",
     "case":"3",
-    "remain":"NA"
+    "remain":"1"
     }
   },
   {
@@ -7568,15 +7568,15 @@
        "coordinates":  [ 57.3898,62.267923 ]
     },
     "properties": {
-    "id":421,
-    "city_cn":"_",
+    "FIELD1":421,
+    "city_cn":"俄罗斯",
     "province_cn":"俄罗斯",
     "city":"Russia",
     "province":"_",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
     "case":"2",
-    "remain":"NA"
+    "remain":"0"
     }
   },
   {
@@ -7586,15 +7586,15 @@
        "coordinates":  [ -1.64,53.9 ]
     },
     "properties": {
-    "id":422,
-    "city_cn":"_",
+    "FIELD1":422,
+    "city_cn":"英国",
     "province_cn":"英国",
     "city":"UK",
     "province":"_",
-    "cure":"0",
+    "cure":"8",
     "death":"0",
-    "case":"3",
-    "remain":"NA"
+    "case":"9",
+    "remain":"1"
     }
   },
   {
@@ -7604,15 +7604,15 @@
        "coordinates":  [ -3.7999,40.23 ]
     },
     "properties": {
-    "id":423,
-    "city_cn":"_",
+    "FIELD1":423,
+    "city_cn":"西班牙",
     "province_cn":"西班牙",
     "city":"Spain",
     "province":"_",
-    "cure":"0",
+    "cure":"2",
     "death":"0",
-    "case":"1",
-    "remain":"NA"
+    "case":"2",
+    "remain":"0"
     }
   },
   {
@@ -7622,15 +7622,15 @@
        "coordinates":  [ 15.226,62.75 ]
     },
     "properties": {
-    "id":424,
-    "city_cn":"_",
+    "FIELD1":424,
+    "city_cn":"瑞典",
     "province_cn":"瑞典",
     "city":"Sweden",
     "province":"_",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"1"
     }
   },
   {
@@ -7640,15 +7640,15 @@
        "coordinates":  [ 4.42,50.814 ]
     },
     "properties": {
-    "id":425,
-    "city_cn":"_",
+    "FIELD1":425,
+    "city_cn":"比利时",
     "province_cn":"比利时",
     "city":"Belgium",
     "province":"_",
-    "cure":"0",
+    "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"0"
     }
   },
   {
@@ -7658,15 +7658,51 @@
        "coordinates":  [ 26.794042,29.882813 ]
     },
     "properties": {
-    "id":426,
-    "city_cn":"_",
+    "FIELD1":426,
+    "city_cn":"埃及",
     "province_cn":"埃及",
     "city":"Egypt",
     "province":"_",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.085938,35.262441 ]
+    },
+    "properties": {
+    "FIELD1":427,
+    "city_cn":"钻石公主号邮轮",
+    "province_cn":"",
+    "city":"Diamond Princess",
+    "province":"Diamond Princess",
+    "cure":"0",
+    "death":"0",
+    "case":"621",
+    "remain":"621"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.207916,32.546813 ]
+    },
+    "properties": {
+    "FIELD1":428,
+    "city_cn":"伊朗",
+    "province_cn":"伊朗",
+    "city":"Iran",
+    "province":"Iran",
+    "cure":"0",
+    "death":"2",
+    "case":"2",
+    "remain":"0"
     }
   }
 ]

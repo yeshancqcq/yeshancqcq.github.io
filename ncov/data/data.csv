@@ -1,426 +1,429 @@
-id	city_cn	province_cn	city	province	lat	lon	cure	death	case	remain
-1	长沙	湖南	Changsha	Hunan	28.322759	113.224946	73	1	241	167
-2	岳阳	湖南	Yueyang	Hunan	29.178499	113.237527	51	1	154	102
-3	怀化	湖南	Huaihua	Hunan	27.612024	109.945539	30	0	40	10
-4	娄底	湖南	Loudi	Hunan	27.766945	112.004619	34	0	75	41
-5	永州	湖南	Yongzhou	Hunan	26.560382	111.621586	27	0	43	16
-6	益阳	湖南	Yiyang	Hunan	28.588088	112.366547	25	0	59	34
-7	衡阳	湖南	Hengyang	Hunan	27.109626	112.351579	28	0	47	19
-8	常德	湖南	Changde	Hunan	28.995243	111.747796	28	0	79	51
-9	湘潭	湖南	Xiangtan	Hunan	27.669223	112.788805	14	0	35	21
-10	邵阳	湖南	Shaoyang	Hunan	26.984977	111.332372	59	1	101	41
-11	株洲	湖南	Zhuzhou	Hunan	27.535936	113.153348	29	0	78	49
-12	郴州	湖南	Chenzhou	Hunan	25.773515	113.051002	22	0	39	17
-13	湘西州	湖南	Xiangxi	Hunan	28.26	109.69	6	0	8	2
-14	张家界	湖南	Zhangjiajie	Hunan	29.13	110.48	4	0	5	1
-15	武汉	湖北	Wuhan	Hubei	30.581084	114.3162	2915	1233	39462	35314
-16	黄冈	湖北	Huanggang	Hubei	30.518802	114.949569	716	75	2823	2032
-17	孝感	湖北	Xiaogan	Hubei	30.944617	114.016142	353	65	3201	2783
-18	咸宁	湖北	Xianning	Hubei	29.85465	114.391867	152	8	852	692
-19	荆门	湖北	Jingmen	Hubei	30.932878	112.193923	117	30	909	762
-20	随州	湖北	Suizhou	Hubei	31.890024	113.294246	113	22	1254	1119
-21	荆州	湖北	Jingzhou	Hubei	30.396103	112.099857	263	36	1490	1191
-22	黄石	湖北	Huangshi	Hubei	30.218698	114.903009	192	14	988	782
-23	宜昌	湖北	Yichang	Hubei	30.979971	111.310649	140	21	901	740
-24	十堰	湖北	Shiyan	Hubei	32.66384	110.717401	116	2	602	484
-25	恩施	湖北	Enshi	Hubei	32	109.5	76	4	247	167
-26	仙桃	湖北	Xiantao	Hubei	30.293966	113.387448	87	17	523	419
-27	天门	湖北	Tianmen	Hubei	30.649047	113.12623	27	10	447	410
-28	襄阳	湖北	Xiangyang	Hubei	32.229169	112.250093	114	19	1144	1011
-29	鄂州	湖北	Ezhou	Hubei	30.320603	114.901016	222	34	1230	974
-30	神农架	湖北	Shennongjia	Hubei	31.74	110.684	8	0	10	2
-31	潜江	湖北	Qianjiang	Hubei	30.4	112.89	12	6	166	148
-32	信阳	河南	Xinyang	Henan	32.30784	114.139086	64	2	261	195
-33	郑州	河南	Zhengzhou	Henan	34.759791	113.62	66	0	148	82
-34	南阳	河南	Nanyang	Henan	33.009839	112.484267	52	2	151	97
-35	驻马店	河南	Zhumadian	Henan	32.968357	114.00829	59	0	138	79
-36	周口	河南	Zhoukou	Henan	33.630876	114.65795	25	0	71	46
-37	新乡	河南	Xinxiang	Henan	35.3	113.92	10	2	56	44
-38	安阳	河南	Anyang	Henan	36.056025	114.256604	18	0	51	33
-39	漯河	河南	Luohe	Henan	33.534755	113.923601	9	0	34	25
-40	三门峡	河南	Sanmenxia	Henan	34.771778	111.281295	4	0	7	3
-41	巩义	河南	Gongyi	Henan	34.703799	113.03959	NA	NA	NA	NA
-42	平顶山	河南	Pingdingshan	Henan	33.712341	113.278189	20	1	58	37
-43	洛阳	河南	Luoyang	Henan	34.638792	112.467093	9	0	31	22
-44	商丘	河南	Shangqiu	Henan	34.42	115.65	30	2	91	59
-45	开封	河南	Kaifeng	Henan	34.798	114.346	6	0	26	20
-46	鹤壁	河南	Hebi	Henan	35.74	114.295	4	0	19	15
-47	许昌	河南	Xuchang	Henan	34	113.8	7	0	38	31
-48	焦作	河南	Jiaozuo	Henan	35.2	113.257	6	1	30	23
-49	固始	河南	Gushi	Henan	32.136944	115.709743	NA	NA	NA	NA
-50	濮阳	河南	Puyang	Henan	35.76	115.02	2	0	17	15
-51	滑县	河南	Huaxian	Henan	35.57	114.52	NA	NA	NA	NA
-52	长垣	河南	Changyuan	Henan	35.21	114.66	NA	NA	NA	NA
-53	永城	河南	Yongcheng	Henan	33.94	116.367	NA	NA	NA	NA
-54	济源	河南	Jiyuan	Henan	35.1	112.58	0	0	4	4
-55	深圳	广东	Shenzhen	Guangdong	22.606981	114.278483	115	0	406	291
-56	广州	广东	Guangzhou	Guangdong	23.446661	113.220176	106	0	335	229
-57	珠海	广东	Zhuhai	Guangdong	22.047215	113.41759	34	0	95	61
-58	佛山	广东	Foshan	Guangdong	22.824523	112.683258	23	0	84	61
-59	惠州	广东	Huizhou	Guangdong	23.163063	114.485898	26	0	58	32
-60	阳江	广东	Yangjiang	Guangdong	21.762804	111.930036	7	0	13	6
-61	韶关	广东	Shaoguan	Guangdong	24.919162	113.57745	4	0	10	6
-62	湛江	广东	Zhanjiang	Guangdong	21.0941	110.338022	11	0	22	11
-63	中山	广东	Zhongshan	Guangdong	22.545178	113.42206	31	0	65	34
-64	肇庆	广东	Zhaoqing	Guangdong	23.208968	112.625249	8	1	17	8
-65	清远	广东	Qingyuan	Guangdong	23.625856	113.114585	7	0	12	5
-66	东莞	广东	Dongguan	Guangdong	23.043024	113.763434	7	1	81	73
-67	汕头	广东	Shantou	Guangdong	23.532997	116.814808	11	0	25	14
-68	汕尾	广东	Shanwei	Guangdong	22.8	115.38	1	0	5	4
-69	梅州	广东	Meizhou	Guangdong	24.3	116.119	7	0	15	8
-70	揭阳	广东	Jieyang	Guangdong	23.53	116.34	4	0	8	4
-71	河源	广东	Heyuan	Guangdong	23.74	114.69	1	0	3	2
-72	茂名	广东	Maoming	Guangdong	21.665	110.92	3	0	13	10
-73	江门	广东	Jiangmen	Guangdong	22.57	113.079	3	0	22	19
-74	潮州	广东	Chaozhou	Guangdong	23.656	116.62	1	0	5	4
-75	台州	浙江	Taizhou	Zhejiang	28.548659	121.450242	60	0	146	86
-76	杭州	浙江	Hangzhou	Zhejiang	30.38812	119.998089	75	0	166	91
-77	温州	浙江	Wenzhou	Zhejiang	27.972177	120.558404	169	0	502	333
-78	宁波	浙江	Ningbo	Zhejiang	29.785459	121.537835	53	0	155	102
-79	嘉兴	浙江	Jiaxing	Zhejiang	30.777679	120.691907	11	0	43	32
-80	绍兴	浙江	Shaoxing	Zhejiang	29.968789	120.572451	17	0	42	25
-81	舟山	浙江	Zhoushan	Zhejiang	29.871101	122.278765	5	0	10	5
-82	金华	浙江	Jinhua	Zhejiang	29.155526	119.809227	24	0	55	31
-83	衢州	浙江	Quzhou	Zhejiang	28.941983	118.939044	9	0	21	12
-84	丽水	浙江	Lishui	Zhejiang	28.48	119.921	10	0	17	7
-85	湖州	浙江	Huzhou	Zhejiang	30.89	120.1	4	0	10	6
-86	万州	重庆	Wanzhou	Chongqing	30.710054	108.413439	34	3	105	68
-87	长寿	重庆	Changshou	Chongqing	29.960491	107.146615	9	0	20	11
-88	开州	重庆	Kaizhou	Chongqing	31.2	108.4	12	1	20	7
-89	永川	重庆	Yongchuan	Chongqing	29.296488	105.880358	2	0	5	3
-90	忠县	重庆	Zhongxian	Chongqing	30.342003	107.921738	9	0	20	11
-91	巫山	重庆	Wushan	Chongqing	31.121152	109.908611	5	0	10	5
-92	石柱	重庆	Shizhu	Chongqing	29.9	108	5	0	14	9
-93	重庆市区	重庆	Chongqing	Chongqing	29.59	106.54	31	1	118	86
-94	渝北	重庆	Yubei	Chongqing	29.816264	106.753799	5	0	15	10
-95	垫江	重庆	Dianjiang	Chongqing	30.259498	107.444445	5	0	20	15
-96	云阳	重庆	Yunyang	Chongqing	31.042409	108.863186	16	0	23	7
-97	巫溪	重庆	Wuxi	Chongqing	31.509161	109.360531	8	0	13	5
-98	合川	重庆	Hechuan	Chongqing	30.118708	106.318029	6	0	23	17
-99	璧山	重庆	Bishan	Chongqing	29.5	106.17	4	0	8	4
-100	涪陵	重庆	Fuling	Chongqing	29.664671	107.3408	1	0	3	2
-101	奉节	重庆	Fengjie	Chongqing	30.958553	109.355667	5	0	20	15
-102	秀山	重庆	Xiushan	Chongqing	28.38	109.06	1	0	1	0
-103	梁平	重庆	Liangping	Chongqing	30.65	107.8	4	0	4	0
-104	城口	重庆	Chengkou	Chongqing	31.888131	108.741855	2	0	2	0
-105	大足	重庆	Dazu	Chongqing	29.714	105.72	2	0	14	12
-106	丰都	重庆	Fengdu	Chongqing	29.890596	107.837517	3	0	10	7
-107	黔江	重庆	Qianjiang	Chongqing	29.53	108.76	2	0	2	0
-108	万盛	重庆	Wansheng	Chongqing	28.962248	106.924888	0	0	1	1
-109	潼南	重庆	Tongnan	Chongqing	30.19	105.84	2	0	18	16
-110	铜梁	重庆	Tongliang	Chongqing	29.85	106.05	2	0	9	7
-111	綦江	重庆	Qijiang	Chongqing	29.03	106.64	5	0	23	18
-112	江津	重庆	Jiangjin	Chongqing	29.28	106.26	2	0	4	2
-113	巴南	重庆	Banan	Chongqing	29.37	106.52	1	0	6	5
-114	武隆	重庆	Wulong	Chongqing	29.33	107.75	1	0	1	0
-115	酉阳	重庆	Youyang	Chongqing	28.844414	108.763426	0	0	1	1
-116	荣昌	重庆	Rongchang	Chongqing	29.422	105.61	0	0	9	9
-117	彭水	重庆	Pengshui	Chongqing	29.293585	108.165373	0	0	2	2
-118	北京市区	北京	Beijing	Beijing	39.92	116.46	7	0	253	246
-119	昌平	北京	Changping	Beijing	40.221724	116.216456	0	0	24	24
-120	通州	北京	Tongzhou	Beijing	32.081032	121.028859	1	0	17	16
-121	大兴	北京	Daxing	Beijing	39.73	116.33	0	0	2	2
-122	顺义	北京	Shunyi	Beijing	40.154951	116.728229	0	0	10	10
-123	门头沟	北京	Mentougou	Beijing	39.94	116.1	0	0	3	3
-124	房山	北京	Fangshan	Beijing	39.744	116.134254	0	0	14	14
-125	延庆	北京	Yanqing	Beijing	40.4565	115.971	0	0	1	1
-126	密云	北京	Miyun	Beijing	40.375043	116.83548	0	0	7	7
-127	怀柔	北京	Huairou	Beijing	40.315	116.626	0	0	7	7
-128	上海	上海	Shanghai	Shanghai	31.2	121.560642	124	1	328	203
-129	临沂	山东	Linyi	Shandong	35.127031	118.517311	29	0	47	18
-130	青岛	山东	Tsingtao	Shandong	36.284247	120.346326	22	1	57	34
-131	威海	山东	Weihai	Shandong	37.399344	122.152075	9	0	38	29
-132	日照	山东	Rizhao	Shandong	35.469377	119.377852	3	0	16	13
-133	济宁	山东	Jining	Shandong	35.380135	116.572199	18	0	51	33
-134	济南	山东	Jinan	Shandong	36.42857	116.803552	11	0	47	36
-135	德州	山东	Dezhou	Shandong	37.457437	116.332912	7	1	37	29
-136	潍坊	山东	Weifang	Shandong	36.691227	119.196972	9	0	43	34
-137	烟台	山东	Yantai	Shandong	37.407476	121.451535	13	0	46	33
-138	聊城	山东	Liaocheng	Shandong	36.45583	115.907706	10	0	38	28
-139	滨州	山东	Binzhou	Shandong	37.424891	117.981211	9	0	14	5
-140	菏泽	山东	Heze	Shandong	35.26244	115.46336	11	0	18	7
-141	淄博	山东	Zibo	Shandong	36.771219	117.875108	4	0	29	25
-142	枣庄	山东	Zaozhuang	Shandong	34.82	117.31	4	0	24	20
-143	泰安	山东	Tai An	Shandong	36.189	117.1	5	0	32	27
-144	合肥	安徽	Hefei	Anhui	31.790724	117.353913	38	1	168	129
-145	阜阳	安徽	Fuyang	Anhui	33.07351	115.734026	28	0	150	122
-146	亳州	安徽	Bozhou	Anhui	33.782924	115.812814	25	0	107	82
-147	安庆	安徽	Anqing	Anhui	31.859252	117.216005	33	0	82	49
-148	马鞍山	安徽	Maanshan	Anhui	31.659719	118.554558	10	0	35	25
-149	铜陵	安徽	Tongling	Anhui	30.952359	117.918516	10	0	28	18
-150	六安	安徽	Lu An	Anhui	31.753039	116.302573	15	0	63	48
-151	滁州	安徽	Chuzhou	Anhui	32.310209	118.270828	7	0	13	6
-152	池州	安徽	Chizhou	Anhui	30.514086	117.508478	4	0	17	13
-153	蚌埠	安徽	Bengbu	Anhui	33.023815	117.388184	7	5	153	141
-154	芜湖	安徽	Wuhu	Anhui	31.191699	118.532462	11	0	31	20
-155	黄山	安徽	Huangshan	Anhui	29.7	118.314	1	0	9	8
-156	淮北	安徽	Huaibei	Anhui	33.94	116.9	10	0	26	16
-157	淮南	安徽	Huainan	Anhui	32.58	117	7	0	23	16
-158	宿州	安徽	Suzhou	Anhui	33.639	116.96	11	0	39	28
-159	宿松	安徽	Susong	Anhui	30.16	116.131	NA	NA	NA	NA
-160	宣城	安徽	Xuancheng	Anhui	30.92	118.8	4	0	6	2
-161	赣州	江西	Ganzhou	Jiangxi	25.838711	114.937365	17	1	76	58
-162	抚州	江西	Fuzhou	Jiangxi	27.924732	116.362974	20	0	72	52
-163	上饶	江西	Shangrao	Jiangxi	28.40568	117.944367	31	0	123	92
-164	宜春	江西	Yichun	Jiangxi	27.839383	114.290358	20	0	104	84
-165	南昌	江西	Nanchang	Jiangxi	28.620772	116.071261	75	0	227	152
-166	萍乡	江西	Pingxiang	Jiangxi	27.53371	113.739818	4	0	32	28
-167	九江	江西	Jiujiang	Jiangxi	29.64023	115.842035	22	0	117	95
-168	吉安	江西	Ji An	Jiangxi	27.160925	114.960437	9	0	21	12
-169	新余	江西	Xinyu	Jiangxi	27.850578	115.007851	37	0	129	92
-170	景德镇	江西	Jingdezhen	Jiangxi	29.303231	117.234119	1	0	5	4
-171	鹰潭	江西	Yingtan	Jiangxi	28.261751	117.023752	3	0	18	15
-172	赣江新区	江西	Gan River New District	Jiangxi	28.815514	115.946982	0	0	1	1
-173	桂林	广西	Guilin	Guangxi	25.112806	110.371485	10	0	31	21
-174	北海	广西	Beihai	Guangxi	21.574915	109.422489	7	1	43	35
-175	柳州	广西	Liuzhou	Guangxi	24.471743	109.413915	8	0	24	16
-176	河池	广西	Hechi	Guangxi	24.660762	107.873444	0	1	22	21
-177	梧州	广西	Wuzhou	Guangxi	23.5602	111.189914	5	0	5	0
-178	百色	广西	Baise	Guangxi	23.941866	106.505596	0	0	3	3
-179	防城港	广西	Fangchenggang	Guangxi	21.662036	108.449166	1	0	18	17
-180	南宁	广西	Nanning	Guangxi	22.894927	108.573583	11	0	50	39
-181	玉林	广西	Yulin	Guangxi	22.557213	110.064534	1	0	10	9
-182	贺州	广西	Hezhou	Guangxi	24.415	111.54	0	0	4	4
-183	钦州	广西	Qinzhou	Guangxi	21.97	108.617	1	0	8	7
-184	贵港	广西	Guigang	Guangxi	23.1	109.59	2	0	8	6
-185	来宾	广西	Laibin	Guangxi	23.746383	109.218231	0	0	11	11
-186	三亚	海南	Sanya	Hainan	18.397248	109.429348	15	1	54	38
-187	万宁	海南	Wanning	Hainan	18.839886	110.292505	3	0	13	10
-188	海口	海南	Haikou	Hainan	19.942909	110.507269	10	0	33	23
-189	儋州	海南	Danzhou	Hainan	19.571153	109.413973	2	0	15	13
-190	临高	海南	Lingao	Hainan	19.805922	109.724102	3	0	6	3
-191	陵水	海南	Lingshui	Hainan	18.506	110.0375	0	0	4	4
-192	澄迈	海南	Chengmai	Hainan	19.7	110	1	1	9	7
-193	琼中	海南	Qiongzhong	Hainan	19.04	109.82	1	0	1	0
-194	东方	海南	Dongfang	Hainan	19.09	108.66	1	0	3	2
-195	琼海	海南	Qionghai	Hainan	19.256	110.468	1	1	6	4
-196	定安	海南	Ding An	Hainan	19.68	110.36	1	1	3	1
-197	昌江	海南	Changjiang	Hainan	19.298	109.04	0	0	7	7
-198	乐东	海南	Ledong	Hainan	18.75	109.168	0	0	2	2
-199	文昌	海南	Wenchang	Hainan	19.539	110.787	1	0	3	2
-200	保亭	海南	Baoting	Hainan	18.64104	109.694892	0	0	3	3
-201	福州	福建	Fuzhou	Fujian	26.221752	119.314923	20	0	68	48
-202	厦门	福建	Xiamen	Fujian	24.675485	118.280803	5	0	34	29
-203	泉州	福建	Quanzhou	Fujian	25.173479	118.819017	13	0	46	33
-204	漳州	福建	Zhangzhou	Fujian	24.575089	117.633366	6	0	20	14
-205	宁德	福建	Ningde	Fujian	26.763865	119.454559	6	0	25	19
-206	三明	福建	Sanming	Fujian	26.173967	117.516896	3	0	13	10
-207	莆田	福建	Putian	Fujian	25.41	119	12	0	55	43
-208	南平	福建	Nanping	Fujian	26.63	118.18	5	0	20	15
-209	龙岩	福建	Longyan	Fujian	25.1	117	1	0	6	5
-210	常州	江苏	Changzhou	Jiangsu	31.672903	119.943432	11	0	43	32
-211	南京	江苏	Nanjing	Jiangsu	32.40064	118.848166	27	0	91	64
-212	苏州	江苏	Suzhou	Jiangsu	31.332306	120.630878	26	0	86	60
-213	连云港	江苏	Lianyungang	Jiangsu	34.51416	119.162196	12	0	46	34
-214	无锡	江苏	Wuxi	Jiangsu	31.466579	120.248502	18	0	52	34
-215	南通	江苏	Nantong	Jiangsu	32.071256	120.823875	15	0	40	25
-216	扬州	江苏	Yangzhou	Jiangsu	32.408505	119.427778	7	0	21	14
-217	盐城	江苏	Yancheng	Jiangsu	33.265898	119.968501	9	0	27	18
-218	宿迁	江苏	Suqian	Jiangsu	34.00953	118.343693	7	0	12	5
-219	镇江	江苏	Zhenjiang	Jiangsu	32.198	119.46	4	0	12	8
-220	淮安	江苏	Huai An	Jiangsu	33.589	119.03	11	0	60	49
-221	泰州	江苏	Taizhou	Jiangsu	32.45	119.91	16	0	37	21
-222	徐州	江苏	Xuzhou	Jiangsu	34.27	117.186999	23	0	77	54
-223	沈阳	辽宁	Shenyang	Liaoning	41.843551	123.242847	9	0	28	19
-224	大连	辽宁	Dalian	Liaoning	38.92	121.62	5	0	18	13
-225	朝阳	辽宁	Chaoyang	Liaoning	41.55	120.4	2	0	6	4
-226	铁岭	辽宁	Tieling	Liaoning	42.222765	123.914529	1	0	7	6
-227	葫芦岛	辽宁	Huludao	Liaoning	40.75	120.84	0	1	11	10
-228	本溪	辽宁	Benxi	Liaoning	41.19567	124.158564	1	0	3	2
-229	盘锦	辽宁	Panjin	Liaoning	41.112	122.06	0	0	11	11
-230	营口	辽宁	Yingkou	Liaoning	40.55	122.248	1	0	1	0
-231	丹东	辽宁	Dandong	Liaoning	40.008	124.3545	4	0	7	3
-232	辽阳	辽宁	Liaoyang	Liaoning	41.26	123.164	2	0	3	1
-233	鞍山	辽宁	Anshan	Liaoning	41.1	122.99	0	0	4	4
-234	锦州	辽宁	Jinzhou	Liaoning	41.0959	121.11	6	0	12	6
-235	阜新	辽宁	Fuxin	Liaoning	42.015173	121.645287	0	0	8	8
-236	西安	陕西	Xi An	Shaanxi	34.066899	108.874256	25	0	114	89
-237	咸阳	陕西	Xianyang	Shaanxi	34.423853	108.817312	5	0	17	12
-238	安康	陕西	Ankang	Shaanxi	32.814464	108.896243	5	0	24	19
-239	铜川	陕西	Tongchuan	Shaanxi	35.032	108.8355	4	0	8	4
-240	延安	陕西	Yan An	Shaanxi	36.575992	109.648602	6	0	8	2
-241	商洛	陕西	Shangluo	Shaanxi	33.895485	109.873271	2	0	7	5
-242	渭南	陕西	Weinan	Shaanxi	34.5	109.451	1	0	15	14
-243	汉中	陕西	Hanzhong	Shaanxi	33.1	107	1	0	21	20
-244	宝鸡	陕西	Baoji	Shaanxi	34.39	107.23	7	0	13	6
-245	韩城	陕西	Hancheng	Shaanxi	35.474	110.447	1	0	1	0
-246	榆林	陕西	Yulin	Shaanxi	38.23	109.75	1	0	3	2
-247	杨凌	陕西	Yangling	Shaanxi	34.272	108.082123	0	0	1	1
-248	昆明	云南	Kunming	Yunnan	26.139329	103.078562	8	0	48	40
-249	丽江	云南	Lijiang	Yunnan	26.8593	100.328596	5	0	7	2
-250	西双版纳	云南	Xishuangbanna	Yunnan	22.009433	100.803038	3	0	15	12
-251	曲靖	云南	Qujing	Yunnan	25.360057	103.913326	5	0	13	8
-252	玉溪	云南	Yuxi	Yunnan	24.369854	102.499895	3	0	14	11
-253	红河	云南	Honghe	Yunnan	23.250955	102.243348	3	0	8	5
-254	大理	云南	Dali	Yunnan	25.693967	100.219209	6	0	13	7
-255	保山	云南	Baoshan	Yunnan	25.16	99.176	2	0	9	7
-256	德宏	云南	Dehong	Yunnan	24.43	98.596	2	0	5	3
-257	昭通	云南	Zhaotong	Yunnan	27.32	103.72	2	0	25	23
-258	普洱	云南	Pu Er	Yunnan	22.7	100.96	1	0	4	3
-259	临沧	云南	Lincang	Yunnan	23.87	100.1	1	0	1	0
-260	文山	云南	Wenshan	Yunnan	23.394	104.226	0	0	2	2
-261	楚雄	云南	Chuxiong	Yunnan	25.025884	101.548734	1	0	4	3
-262	天津	天津	Tianjin	Tianjin	39.13	117.2	37	3	122	82
-263	哈尔滨	黑龙江	Harbin	Heilongjiang	45.995674	126.61077	30	3	182	149
-264	牡丹江	黑龙江	Mudanjiang	Heilongjiang	44.491714	129.584924	1	0	12	11
-265	大庆	黑龙江	Daqing	Heilongjiang	46.070051	124.699077	2	1	19	16
-266	绥化	黑龙江	Suihua	Heilongjiang	46.747537	126.957863	12	4	46	30
-267	齐齐哈尔	黑龙江	Qiqihar	Heilongjiang	47.28	123.94	8	1	38	29
-268	佳木斯	黑龙江	Jiamusi	Heilongjiang	46.8	130.37	9	0	15	6
-269	双鸭山	黑龙江	Shuangyashan	Heilongjiang	46.642	131.152	1	2	49	46
-270	七台河	黑龙江	Qitaihe	Heilongjiang	45.6	131	4	0	16	12
-271	鸡西	黑龙江	Jixi	Heilongjiang	45.3	130.96	1	0	46	45
-272	鹤岗	黑龙江	Hegang	Heilongjiang	47.335	130.294	2	0	5	3
-273	大兴安岭	黑龙江	Greater Hinggan	Heilongjiang	50.41	124.122	0	0	2	2
-274	黑河	黑龙江	Heihe	Heilongjiang	50.235	127.51	0	0	14	14
-275	晋中	山西	Jinzhong	Shanxi	37.650825	112.843737	12	0	35	23
-276	太原	山西	Taiyuan	Shanxi	37.748675	112.481587	6	0	19	13
-277	运城	山西	Yuncheng	Shanxi	35.063677	110.961931	13	0	19	6
-278	阳泉	山西	Yangquan	Shanxi	37.911504	113.568086	0	0	4	4
-279	大同	山西	Datong	Shanxi	40	113.3	4	0	12	8
-280	长治	山西	Changzhi	Shanxi	36.02468	113.086194	0	0	8	8
-281	临汾	山西	Linfen	Shanxi	36.1	111.52	1	0	2	1
-282	朔州	山西	Shuozhou	Shanxi	39.35	112.43	2	0	7	5
-283	吕梁	山西	Lyuliang	Shanxi	37.5	111.1	6	0	6	0
-284	忻州	山西	Xinzhou	Shanxi	38.4	112.732	0	0	7	7
-285	晋城	山西	Jincheng	Shanxi	35.498	112.857	2	0	9	7
-286	石家庄	河北	Shijiazhuang	Hebei	38.014621	114.586383	7	0	28	21
-287	沧州	河北	Cangzhou	Hebei	38.314446	116.844854	14	2	47	31
-288	保定	河北	Baoding	Hebei	38.821877	115.484784	19	0	32	13
-289	承德	河北	Chengde	Hebei	40.973242	118.125718	2	0	7	5
-290	廊坊	河北	Langfang	Hebei	39.47	116.7	14	0	30	16
-291	邢台	河北	Xingtai	Hebei	37.04	114.57	10	1	22	11
-292	衡水	河北	Hengshui	Hebei	37.73	115.699	4	0	8	4
-293	唐山	河北	Tangshan	Hebei	39.59	118.2	9	0	51	42
-294	邯郸	河北	Handan	Hebei	36.574	114.48	9	0	31	22
-295	张家口	河北	Zhangjiakou	Hebei	40.81	114.89	9	0	34	25
-296	秦皇岛	河北	Qinhuangdao	Hebei	39.95	119.59	3	0	10	7
-297	锡林郭勒盟	内蒙古	Xilingol - Xilinhot	Inner Mongolia	43.468238	114.415868	1	0	6	5
-298	二连浩特	内蒙古	Erenhot	Inner Mongolia	43.63	112	NA	NA	NA	NA
-299	鄂尔多斯	内蒙古	Ordos	Inner Mongolia	39.805586	109.764419	3	0	11	8
-300	满洲里	内蒙古	Manzhouli	Inner Mongolia	49.500032	117.603687	NA	NA	NA	NA
-301	赤峰	内蒙古	Chifeng	Inner Mongolia	42.268753	118.757106	2	0	7	5
-302	呼伦贝尔	内蒙古	Hulun Buir	Inner Mongolia	49.22	119.76	1	0	6	5
-303	牙克石	内蒙古	Yakeshi	Inner Mongolia	49.329996	121.512668	NA	NA	NA	NA
-304	兴安盟	内蒙古	Ulahot	Inner Mongolia	46.05	122.1	0	0	1	1
-305	乌兰察布	内蒙古	Ulanqab	Inner Mongolia	40.99	113.13	0	0	3	3
-306	包头	内蒙古	Baotou	Inner Mongolia	40.65	109.8	0	0	11	11
-307	巴彦淖尔	内蒙古	Bayannur	Inner Mongolia	40.75	107.38	0	0	8	8
-308	通辽	内蒙古	Tongliao	Inner Mongolia	43.626	122.25	0	0	6	6
-309	呼和浩特	内蒙古	Huhhot	Inner Mongolia	40.83	111.69	0	0	7	7
-310	乌海	内蒙古	Wuhai	Inner Mongolia	39.639	106.779	0	0	2	2
-311	香港	香港	Hong Kong	Hong Kong SAR	22.293586	114.186124	1	1	56	54
-312	铜仁	贵州	Tongren	Guizhou	27.674903	109.168558	7	0	10	3
-313	贵阳	贵州	Guiyang	Guizhou	26.496945	106.70098	6	0	34	28
-314	黔南州	贵州	Qiannan	Guizhou	26.254	107.522	5	0	17	12
-315	黔西南州	贵州	Qianxinan	Guizhou	25.1	104.9	4	0	4	0
-316	六盘水	贵州	Liupanshui	Guizhou	26.55	104.85	3	1	10	6
-317	黔东南州	贵州	Qiandongnan	Guizhou	26.56	108	4	0	10	6
-318	遵义	贵州	Zunyi	Guizhou	27.7478	106.91	5	0	31	26
-319	毕节	贵州	Bijie	Guizhou	27.31	105.29	7	0	23	16
-320	安顺	贵州	Anshun	Guizhou	26.25	105.93	0	0	4	4
-321	吉林市	吉林	Jilin	Jilin	43.87	126.57	3	0	5	2
-322	长春	吉林	Changchun	Jilin	43.531747	125.712822	14	0	45	31
-323	松原	吉林	Songyuan	Jilin	45.29271	124.867571	1	0	2	1
-324	四平	吉林	Siping	Jilin	43.178	124.37	4	1	14	9
-325	公主岭	吉林	Gongzhuling	Jilin	43.49	124.8	2	0	6	4
-326	通化	吉林	Tonghua	Jilin	41.74	125.92	0	0	3	3
-327	延边	吉林	Yanbian	Jilin	42.89	129.51	2	0	5	3
-328	辽源	吉林	Liaoyuan	Jilin	42.895188	125.148648	1	0	7	6
-329	梅河口	吉林	Meihekou	Jilin	42.537275	125.691833	1	0	1	0
-330	白城	吉林	Baicheng	Jilin	45.614037	122.84704	0	0	1	1
-331	兰州	甘肃	Lanzhou	Gansu	36.303488	103.060275	17	2	35	16
-332	白银	甘肃	Baiyin	Gansu	36.69035	104.945609	1	0	4	3
-333	临夏	甘肃	Linxia	Gansu	35.518719	103.050791	3	0	3	0
-334	定西	甘肃	Dingxi	Gansu	35.58	104.62	8	0	9	1
-335	张掖	甘肃	Zhangye	Gansu	38.93	100.46	2	0	2	0
-336	陇南	甘肃	Longnan	Gansu	33.39	104.91	3	0	4	1
-337	金昌	甘肃	Jinchang	Gansu	38.52	102.18	1	0	1	0
-338	天水	甘肃	Tianshui	Gansu	34.58	105.73	9	0	12	3
-339	平凉	甘肃	Pingliang	Gansu	35.53	106.67	1	0	9	8
-340	甘南	甘肃	Gannan	Gansu	34.981	102.91	2	0	8	6
-341	庆阳	甘肃	Qingyang	Gansu	35.7	107.65	2	0	3	1
-342	银川	宁夏	Yinchuan	Ningxia	38.478591	106.24265	20	0	33	13
-343	中卫	宁夏	Zhongwei	Ningxia	37.360639	105.111278	3	0	3	0
-344	固原	宁夏	Guyuan	Ningxia	36.206829	106.254011	2	0	5	3
-345	吴忠	宁夏	Wuzhong	Ningxia	37.97	106.2	6	0	27	21
-346	宁东管委会	宁夏	Ningdong Energy Chemical Industry Base Admin Committee	Ningxia	38.4	106.31	1	0	1	0
-347	石嘴山	宁夏	Shizuishan	Ningxia	38.991988	106.37	1	0	1	0
-348	地区	台湾	__	Taiwan (ROC)	23.5	121	2	0	18	16
-349	乌鲁木齐	新疆	Urumqi	Xinjiang	43.419108	87.360244	3	0	23	20
-350	伊犁	新疆	Ili	Xinjiang	43.9	81.32	4	0	16	12
-351	吐鲁番	新疆	Turpan	Xinjiang	42.95	89.15	1	0	3	2
-352	第八师石河子	新疆	Shihezi (The 8th Division)	Xinjiang	44.26	86.05	1	1	3	1
-353	阿克苏	新疆	Aksu	Xinjiang	41.133	80.192	1	0	1	0
-354	第九师额敏县	新疆	Emin (The 9th Division)	Xinjiang	46.521076	83.620741	0	0	4	4
-355	第四师科克达拉	新疆	Cocodala (The 4th Division)	Xinjiang	43.9448	81.044	0	0	10	10
-356	昌吉	新疆	Changji	Xinjiang	44	87.275	0	0	4	4
-357	第六师五家渠	新疆	Wujiaqu (The 6th Division)	Xinjiang	44.159797	87.538838	0	0	2	2
-358	第七师胡杨河	新疆	Huyangh (The 7th Division)	Xinjiang	44.710398	84.8254	1	0	1	0
-359	巴音郭楞	新疆	Bayingolin	Xinjiang	41.771312	86.161609	0	0	3	3
-360	第十二师	新疆	The 12th Division	Xinjiang	43.6	87	0	0	1	1
-361	澳门	澳门	Macau	Macau SAR	22.204118	113.557519	3	0	10	7
-362	西宁	青海	Xining	Qinghai	36.686368	101.712664	11	0	15	4
-363	海北州	青海	Haibei	Qinghai	36.899	100.997	2	0	3	1
-364	成都	四川	Chengdu	Sichuan	30.67	104.06	49	1	140	90
-365	绵阳	四川	Mianyang	Sichuan	31.46	104.73	6	0	22	16
-366	广安	四川	Guang An	Sichuan	30.3	106	10	0	30	20
-367	遂宁	四川	Suining	Sichuan	30.501934	105.569333	4	0	12	8
-368	泸州	四川	Luzhou	Sichuan	27.88	106.27	2	0	19	17
-369	南充	四川	Nanchong	Sichuan	30.84	106.12	9	0	35	26
-370	甘孜	四川	Ganzi	Sichuan	31.62	99.99	3	0	50	47
-371	德阳	四川	Deyang	Sichuan	31.33	104.23	0	0	17	17
-372	雅安	四川	Ya An	Sichuan	30	103	2	0	7	5
-373	达州	四川	Dazhou	Sichuan	31.2	107.5	5	0	36	31
-374	自贡	四川	Zigong	Sichuan	29.34	104.78	2	0	9	7
-375	内江	四川	Neijiang	Sichuan	29.6	105	5	0	22	17
-376	乐山	四川	Leshan	Sichuan	29.2	103.63	2	0	3	1
-377	眉山	四川	Meishan	Sichuan	29.9	103.5	2	0	8	6
-378	宜宾	四川	Yibin	Sichuan	28.76	104.63	6	0	11	5
-379	凉山	四川	Liangshan	Sichuan	27.88	102.28	5	0	13	8
-380	资阳	四川	Ziyang	Sichuan	30.1	104.67	2	0	3	1
-381	广元	四川	Guangyuan	Sichuan	30.46	106.64	2	0	6	4
-382	阿坝	四川	Aba	Sichuan	32.9	101.71	0	0	1	1
-383	巴中	四川	Bazhong	Sichuan	31.86	106.75	1	0	24	23
-384	攀枝花	四川	Panzhihua	Sichuan	26.578	101.721	10	0	13	3
-385	拉萨	西藏	Lhasa	Tibet	29.65	91.577	1	0	1	0
-386	_	法国	France	_	46.83	2.48	0	0	12	NA
-387	_	德国	Germany	_	51.3	10.2	0	0	16	NA
-388	_	斯里兰卡	Sri Lanka	_	7.6	80.4	0	0	1	NA
-389	_	越南	Vietnam	_	15.56	108.05	1	0	15	NA
-390	_	柬埔寨	Combodia	_	12.57	104.9	0	0	1	NA
-391	_	泰国	Thailand	_	15.76	101.14	5	0	34	NA
-392	_	马来西亚	Malaysia	_	4.4	102.13	1	0	18	NA
-393	_	新加坡	Singapore	_	1.18	103.85	2	0	72	NA
-394	_	韩国	South Korea	_	36.86	127.8	1	0	28	NA
-395	_	日本	Japan	_	36.22	139	9	0	338	NA
-396	新南威尔士州	澳大利亚	New South Wales	Australia	-32.1	147.4	4	0	4	NA
-397	维多利亚州	澳大利亚	Victoria	Australia	-37	144.5	4	0	4	NA
-398	昆士兰州	澳大利亚	Queensland	Australia	-23.200961	146.260643	0	0	5	NA
-399	南澳大利亚州	澳大利亚	South Australia	Australia	-29.864316	134.736328	0	0	2	NA
-400	华盛顿州西雅图	美国	Seattle	USA	47.582142	-122.255859	1	0	1	NA
-401	加利福尼亚州圣克拉拉	美国	Santa Clara	USA	37.370946	-121.967669	0	0	2	NA
-402	加利福尼亚州圣本尼托	美国	San Benito	USA	36.509685	-121.08186	0	0	2	NA
-403	加利福尼亚州洛杉矶	美国	Los Angeles	USA	33.906896	-118.270397	0	0	1	NA
-404	亚利桑那州坦普	美国	Tempe	USA	33.427564	-111.946564	0	0	1	NA
-405	伊利诺伊州芝加哥	美国	Chicago	USA	41.748	-87.6489	0	0	2	NA
-406	威斯康辛州麦迪逊	美国	Madison	USA	43.062382	-89.410129	0	0	1	NA
-407	马萨诸塞州波士顿	美国	Boston	USA	42.358544	-71.107678	0	0	1	NA
-408	得克萨斯州圣安东尼奥	美国	San Antonio	USA	29.408573	-98.489771	0	0	1	NA
-409	加利福尼亚州奥兰治	美国	Orange	USA	33.64136	-117.76939	0	0	1	NA
-410	加利福尼亚州圣迭戈	美国	San Diego	USA	32.743248	-117.13623	0	0	2	NA
-411	安大略省多伦多	加拿大	Toronto	Canada	43.675818	-79.448919	0	0	2	NA
-412	安大略省伦敦	加拿大	London	Canada	42.995074	-81.254883	0	0	1	NA
-413	_	尼泊尔	Nepal	_	27.69	85.32	0	0	1	NA
-414	不列颠哥伦比亚省	加拿大	British Columbia	Canada	54.35	-123.66	0	0	4	NA
-415	_	意大利	Italy	_	43	12.62	0	0	3	NA
-416	_	芬兰	Finland	_	64.36	26.79	0	0	1	NA
-417	_	印度	India	_	21.56	78.2	0	0	3	NA
-418	_	阿联酋	UAE	_	23.69	54.43	0	0	8	NA
-419	_	菲律宾	Philippines	_	16.82048	121.421	0	1	3	NA
-420	_	俄罗斯	Russia	_	62.267923	57.3898	0	0	2	NA
-421	_	英国	UK	_	53.9	-1.64	0	0	3	NA
-422	_	西班牙	Spain	_	40.23	-3.7999	0	0	1	NA
-423	_	瑞典	Sweden	_	62.75	15.226	0	0	1	NA
-424	_	比利时	Belgium	_	50.814	4.42	0	0	1	NA
-425	_	埃及	Egypt	_	29.882813	26.794042	0	0	1	NA
+,city_cn,province_cn,city,province,lat,lon,cure,death,case,remain
+1,长沙,湖南,Changsha,Hunan,28.322759,113.224946,98,2,241,141
+2,岳阳,湖南,Yueyang,Hunan,29.178499,113.237527,64,1,155,90
+3,怀化,湖南,Huaihua,Hunan,27.612024,109.945539,37,0,40,3
+4,娄底,湖南,Loudi,Hunan,27.766945,112.004619,47,0,76,29
+5,永州,湖南,Yongzhou,Hunan,26.560382,111.621586,30,0,43,13
+6,益阳,湖南,Yiyang,Hunan,28.588088,112.366547,35,0,59,24
+7,衡阳,湖南,Hengyang,Hunan,27.109626,112.351579,32,0,48,16
+8,常德,湖南,Changde,Hunan,28.995243,111.747796,49,0,79,30
+9,湘潭,湖南,Xiangtan,Hunan,27.669223,112.788805,17,0,35,18
+10,邵阳,湖南,Shaoyang,Hunan,26.984977,111.332372,71,1,102,30
+11,株洲,湖南,Zhuzhou,Hunan,27.535936,113.153348,40,0,78,38
+12,郴州,湖南,Chenzhou,Hunan,25.773515,113.051002,29,0,39,10
+13,湘西自治州,湖南,Xiangxi,Hunan,28.26,109.69,7,0,8,1
+14,张家界,湖南,Zhangjiajie,Hunan,29.13,110.48,5,0,5,0
+15,武汉,湖北,Wuhan,Hubei,30.581084,114.3162,5448,1585,45027,37994
+16,黄冈,湖北,Huanggang,Hubei,30.518802,114.949569,1149,87,2839,1603
+17,孝感,湖北,Xiaogan,Hubei,30.944617,114.016142,673,89,3329,2567
+18,咸宁,湖北,Xianning,Hubei,29.85465,114.391867,268,10,766,488
+19,荆门,湖北,Jingmen,Hubei,30.932878,112.193923,201,34,794,559
+20,随州,湖北,Suizhou,Hubei,31.890024,113.294246,308,27,1283,948
+21,荆州,湖北,Jingzhou,Hubei,30.396103,112.099857,451,40,1510,1019
+22,黄石,湖北,Huangshi,Hubei,30.218698,114.903009,299,26,967,642
+23,宜昌,湖北,Yichang,Hubei,30.979971,111.310649,231,27,891,633
+24,十堰,湖北,Shiyan,Hubei,32.66384,110.717401,187,2,641,452
+25,恩施,湖北,Enshi,Hubei,32,109.5,102,3,244,139
+26,仙桃,湖北,Xiantao,Hubei,30.293966,113.387448,184,19,567,364
+27,天门,湖北,Tianmen,Hubei,30.649047,113.12623,133,12,473,328
+28,襄阳,湖北,Xiangyang,Hubei,32.229169,112.250093,294,23,1167,850
+29,鄂州,湖北,Ezhou,Hubei,30.320603,114.901016,350,38,1338,950
+30,神农架,湖北,Shennongjia,Hubei,31.74,110.684,10,0,10,0
+31,潜江,湖北,Qianjiang,Hubei,30.4,112.89,49,7,185,129
+32,信阳,河南,Xinyang,Henan,32.30784,114.139086,86,2,269,181
+33,郑州,河南,Zhengzhou,Henan,34.759791,113.62,77,0,156,79
+34,南阳,河南,Nanyang,Henan,33.009839,112.484267,66,2,155,87
+35,驻马店,河南,Zhumadian,Henan,32.968357,114.00829,83,0,139,56
+36,周口,河南,Zhoukou,Henan,33.630876,114.65795,34,0,76,42
+37,新乡,河南,Xinxiang,Henan,35.3,113.92,24,3,57,30
+38,安阳,河南,Anyang,Henan,36.056025,114.256604,28,0,53,25
+39,漯河,河南,Luohe,Henan,33.534755,113.923601,14,0,35,21
+40,三门峡,河南,Sanmenxia,Henan,34.771778,111.281295,5,0,7,2
+41,巩义,河南,Gongyi,Henan,34.703799,113.03959,NA,NA,NA,NA
+42,平顶山,河南,Pingdingshan,Henan,33.712341,113.278189,31,1,58,26
+43,洛阳,河南,Luoyang,Henan,34.638792,112.467093,13,1,31,17
+44,商丘,河南,Shangqiu,Henan,34.42,115.65,50,3,91,38
+45,开封,河南,Kaifeng,Henan,34.798,114.346,11,0,26,15
+46,鹤壁,河南,Hebi,Henan,35.74,114.295,8,0,19,11
+47,许昌,河南,Xuchang,Henan,34,113.8,16,0,39,23
+48,焦作,河南,Jiaozuo,Henan,35.2,113.257,8,1,32,23
+49,固始,河南,Gushi,Henan,32.136944,115.709743,NA,NA,NA,NA
+50,濮阳,河南,Puyang,Henan,35.76,115.02,7,0,17,10
+51,滑县,河南,Huaxian,Henan,35.57,114.52,NA,NA,NA,NA
+52,长垣,河南,Changyuan,Henan,35.21,114.66,NA,NA,NA,NA
+53,永城,河南,Yongcheng,Henan,33.94,116.367,NA,NA,NA,NA
+54,济源,河南,Jiyuan,Henan,35.1,112.58,2,0,5,3
+55,深圳,广东,Shenzhen,Guangdong,22.606981,114.278483,182,2,416,232
+56,广州,广东,Guangzhou,Guangdong,23.446661,113.220176,148,0,339,191
+57,珠海,广东,Zhuhai,Guangdong,22.047215,113.41759,45,1,98,52
+58,佛山,广东,Foshan,Guangdong,22.824523,112.683258,33,0,84,51
+59,惠州,广东,Huizhou,Guangdong,23.163063,114.485898,38,0,62,24
+60,阳江,广东,Yangjiang,Guangdong,21.762804,111.930036,9,0,13,4
+61,韶关,广东,Shaoguan,Guangdong,24.919162,113.57745,5,0,10,5
+62,湛江,广东,Zhanjiang,Guangdong,21.0941,110.338022,11,0,22,11
+63,中山,广东,Zhongshan,Guangdong,22.545178,113.42206,40,0,66,26
+64,肇庆,广东,Zhaoqing,Guangdong,23.208968,112.625249,8,1,18,9
+65,清远,广东,Qingyuan,Guangdong,23.625856,113.114585,9,0,12,3
+66,东莞,广东,Dongguan,Guangdong,23.043024,113.763434,24,1,91,66
+67,汕头,广东,Shantou,Guangdong,23.532997,116.814808,18,0,25,7
+68,汕尾,广东,Shanwei,Guangdong,22.8,115.38,2,0,5,3
+69,梅州,广东,Meizhou,Guangdong,24.3,116.119,10,0,16,6
+70,揭阳,广东,Jieyang,Guangdong,23.53,116.34,4,0,8,4
+71,河源,广东,Heyuan,Guangdong,23.74,114.69,1,0,4,3
+72,茂名,广东,Maoming,Guangdong,21.665,110.92,6,0,14,8
+73,江门,广东,Jiangmen,Guangdong,22.57,113.079,9,0,23,14
+74,潮州,广东,Chaozhou,Guangdong,23.656,116.62,4,0,5,1
+75,台州,浙江,Taizhou,Zhejiang,28.548659,121.450242,74,0,146,72
+76,杭州,浙江,Hangzhou,Zhejiang,30.38812,119.998089,108,0,169,61
+77,温州,浙江,Wenzhou,Zhejiang,27.972177,120.558404,228,0,504,276
+78,宁波,浙江,Ningbo,Zhejiang,29.785459,121.537835,89,0,156,67
+79,嘉兴,浙江,Jiaxing,Zhejiang,30.777679,120.691907,17,0,44,27
+80,绍兴,浙江,Shaoxing,Zhejiang,29.968789,120.572451,20,0,42,22
+81,舟山,浙江,Zhoushan,Zhejiang,29.871101,122.278765,5,0,10,5
+82,金华,浙江,Jinhua,Zhejiang,29.155526,119.809227,33,0,55,22
+83,衢州,浙江,Quzhou,Zhejiang,28.941983,118.939044,10,0,21,11
+84,丽水,浙江,Lishui,Zhejiang,28.48,119.921,14,0,17,3
+85,湖州,浙江,Huzhou,Zhejiang,30.89,120.1,6,0,10,4
+86,万州,重庆,Wanzhou,Chongqing,30.710054,108.413439,46,3,113,64
+87,长寿,重庆,Changshou,Chongqing,29.960491,107.146615,10,0,21,11
+88,开州,重庆,Kaizhou,Chongqing,31.2,108.4,14,1,20,5
+89,永川,重庆,Yongchuan,Chongqing,29.296488,105.880358,4,0,5,1
+90,忠县,重庆,Zhongxian,Chongqing,30.342003,107.921738,13,0,20,7
+91,巫山,重庆,Wushan,Chongqing,31.121152,109.908611,6,0,10,4
+92,石柱,重庆,Shizhu,Chongqing,29.9,108,8,0,14,6
+93,重庆市区,重庆,Chongqing,Chongqing,29.59,106.54,104,2,238,132
+94,渝北,重庆,Yubei,Chongqing,29.816264,106.753799,9,0,16,7
+95,垫江,重庆,Dianjiang,Chongqing,30.259498,107.444445,9,0,20,11
+96,云阳,重庆,Yunyang,Chongqing,31.042409,108.863186,17,0,25,8
+97,巫溪,重庆,Wuxi,Chongqing,31.509161,109.360531,9,0,13,4
+98,合川,重庆,Hechuan,Chongqing,30.118708,106.318029,8,0,23,15
+99,璧山,重庆,Bishan,Chongqing,29.5,106.17,7,0,9,2
+100,涪陵,重庆,Fuling,Chongqing,29.664671,107.3408,2,0,3,1
+101,奉节,重庆,Fengjie,Chongqing,30.958553,109.355667,9,0,22,13
+102,秀山,重庆,Xiushan,Chongqing,28.38,109.06,1,0,1,0
+103,梁平,重庆,Liangping,Chongqing,30.65,107.8,4,0,4,0
+104,城口,重庆,Chengkou,Chongqing,31.888131,108.741855,2,0,2,0
+105,大足,重庆,Dazu,Chongqing,29.714,105.72,9,0,14,5
+106,丰都,重庆,Fengdu,Chongqing,29.890596,107.837517,3,0,10,7
+107,黔江,重庆,Qianjiang,Chongqing,29.53,108.76,2,0,2,0
+108,万盛,重庆,Wansheng,Chongqing,28.962248,106.924888,0,0,1,1
+109,潼南,重庆,Tongnan,Chongqing,30.19,105.84,4,0,18,14
+110,铜梁,重庆,Tongliang,Chongqing,29.85,106.05,4,0,9,5
+111,綦江,重庆,Qijiang,Chongqing,29.03,106.64,11,0,23,12
+112,江津,重庆,Jiangjin,Chongqing,29.28,106.26,3,0,4,1
+113,巴南,重庆,Banan,Chongqing,29.37,106.52,2,0,6,4
+114,武隆,重庆,Wulong,Chongqing,29.33,107.75,1,0,1,0
+115,酉阳,重庆,Youyang,Chongqing,28.844414,108.763426,0,0,1,1
+116,荣昌,重庆,Rongchang,Chongqing,29.422,105.61,5,0,9,4
+117,彭水,重庆,Pengshui,Chongqing,29.293585,108.165373,0,0,2,2
+118,北京市区,北京,Beijing,Beijing,39.92,116.46,14,0,526,512
+119,昌平,北京,Changping,Beijing,40.221724,116.216456,0,0,29,29
+120,通州,北京,Tongzhou,Beijing,32.081032,121.028859,1,0,18,17
+121,大兴,北京,Daxing,Beijing,39.73,116.33,2,0,2,0
+122,顺义,北京,Shunyi,Beijing,40.154951,116.728229,0,0,10,10
+123,门头沟,北京,Mentougou,Beijing,39.94,116.1,2,0,3,1
+124,房山,北京,Fangshan,Beijing,39.744,116.134254,3,0,16,13
+125,延庆,北京,Yanqing,Beijing,40.4565,115.971,0,0,1,1
+126,密云,北京,Miyun,Beijing,40.375043,116.83548,0,0,7,7
+127,怀柔,北京,Huairou,Beijing,40.315,116.626,0,0,7,7
+128,上海,上海,Shanghai,Shanghai,31.2,121.560642,NA,NA,NA,NA
+129,临沂,山东,Linyi,Shandong,35.127031,118.517311,41,0,49,8
+130,青岛,山东,Tsingtao,Shandong,36.284247,120.346326,29,1,59,29
+131,威海,山东,Weihai,Shandong,37.399344,122.152075,11,0,38,27
+132,日照,山东,Rizhao,Shandong,35.469377,119.377852,7,0,16,9
+133,济宁,山东,Jining,Shandong,35.380135,116.572199,27,0,52,25
+134,济南,山东,Jinan,Shandong,36.42857,116.803552,17,0,47,30
+135,德州,山东,Dezhou,Shandong,37.457437,116.332912,9,2,37,26
+136,潍坊,山东,Weifang,Shandong,36.691227,119.196972,15,0,44,29
+137,烟台,山东,Yantai,Shandong,37.407476,121.451535,15,0,47,32
+138,聊城,山东,Liaocheng,Shandong,36.45583,115.907706,18,0,38,20
+139,滨州,山东,Binzhou,Shandong,37.424891,117.981211,11,0,15,4
+140,菏泽,山东,Heze,Shandong,35.26244,115.46336,13,0,18,5
+141,淄博,山东,Zibo,Shandong,36.771219,117.875108,6,0,29,23
+142,枣庄,山东,Zaozhuang,Shandong,34.82,117.31,10,0,24,14
+143,泰安,山东,Tai An,Shandong,36.189,117.1,9,1,33,23
+144,合肥,安徽,Hefei,Anhui,31.790724,117.353913,75,1,173,97
+145,阜阳,安徽,Fuyang,Anhui,33.07351,115.734026,64,0,155,91
+146,亳州,安徽,Bozhou,Anhui,33.782924,115.812814,58,0,108,50
+147,安庆,安徽,Anqing,Anhui,31.859252,117.216005,44,0,83,39
+148,马鞍山,安徽,Maanshan,Anhui,31.659719,118.554558,15,0,37,22
+149,铜陵,安徽,Tongling,Anhui,30.952359,117.918516,12,0,29,17
+150,六安,安徽,Lu An,Anhui,31.753039,116.302573,30,0,69,39
+151,滁州,安徽,Chuzhou,Anhui,32.310209,118.270828,7,0,13,6
+152,池州,安徽,Chizhou,Anhui,30.514086,117.508478,7,0,17,10
+153,蚌埠,安徽,Bengbu,Anhui,33.023815,117.388184,40,5,160,115
+154,芜湖,安徽,Wuhu,Anhui,31.191699,118.532462,17,0,33,16
+155,黄山,安徽,Huangshan,Anhui,29.7,118.314,6,0,9,3
+156,淮北,安徽,Huaibei,Anhui,33.94,116.9,13,0,27,14
+157,淮南,安徽,Huainan,Anhui,32.58,117,12,0,27,15
+158,宿州,安徽,Suzhou,Anhui,33.639,116.96,20,0,41,21
+159,宿松,安徽,Susong,Anhui,30.16,116.131,NA,NA,NA,NA
+160,宣城,安徽,Xuancheng,Anhui,30.92,118.8,4,0,6,2
+161,赣州,江西,Ganzhou,Jiangxi,25.838711,114.937365,24,1,76,51
+162,抚州,江西,Fuzhou,Jiangxi,27.924732,116.362974,29,0,72,43
+163,上饶,江西,Shangrao,Jiangxi,28.40568,117.944367,47,0,123,76
+164,宜春,江西,Yichun,Jiangxi,27.839383,114.290358,33,0,106,73
+165,南昌,江西,Nanchang,Jiangxi,28.620772,116.071261,114,0,230,116
+166,萍乡,江西,Pingxiang,Jiangxi,27.53371,113.739818,7,0,33,26
+167,九江,江西,Jiujiang,Jiangxi,29.64023,115.842035,33,0,118,85
+168,吉安,江西,Ji An,Jiangxi,27.160925,114.960437,11,0,22,11
+169,新余,江西,Xinyu,Jiangxi,27.850578,115.007851,58,0,129,71
+170,景德镇,江西,Jingdezhen,Jiangxi,29.303231,117.234119,3,0,6,3
+171,鹰潭,江西,Yingtan,Jiangxi,28.261751,117.023752,3,0,18,15
+172,赣江新区,江西,Gan River New District,Jiangxi,28.815514,115.946982,0,0,1,1
+173,桂林,广西,Guilin,Guangxi,25.112806,110.371485,15,0,31,16
+174,北海,广西,Beihai,Guangxi,21.574915,109.422489,14,1,44,29
+175,柳州,广西,Liuzhou,Guangxi,24.471743,109.413915,10,0,24,14
+176,河池,广西,Hechi,Guangxi,24.660762,107.873444,4,1,23,18
+177,梧州,广西,Wuzhou,Guangxi,23.5602,111.189914,5,0,5,0
+178,百色,广西,Baise,Guangxi,23.941866,106.505596,2,0,3,1
+179,防城港,广西,Fangchenggang,Guangxi,21.662036,108.449166,6,0,19,13
+180,南宁,广西,Nanning,Guangxi,22.894927,108.573583,23,0,54,31
+181,玉林,广西,Yulin,Guangxi,22.557213,110.064534,4,0,11,7
+182,贺州,广西,Hezhou,Guangxi,24.415,111.54,0,0,4,4
+183,钦州,广西,Qinzhou,Guangxi,21.97,108.617,1,0,8,7
+184,贵港,广西,Guigang,Guangxi,23.1,109.59,3,0,8,5
+185,来宾,广西,Laibin,Guangxi,23.746383,109.218231,0,0,11,11
+186,三亚,海南,Sanya,Hainan,18.397248,109.429348,22,1,54,31
+187,万宁,海南,Wanning,Hainan,18.839886,110.292505,9,0,13,4
+188,海口,海南,Haikou,Hainan,19.942909,110.507269,18,0,39,21
+189,儋州,海南,Danzhou,Hainan,19.571153,109.413973,11,0,15,4
+190,临高,海南,Lingao,Hainan,19.805922,109.724102,4,0,6,2
+191,陵水,海南,Lingshui,Hainan,18.506,110.0375,1,0,4,3
+192,澄迈,海南,Chengmai,Hainan,19.7,110,4,1,9,4
+193,琼中,海南,Qiongzhong,Hainan,19.04,109.82,1,0,1,0
+194,东方,海南,Dongfang,Hainan,19.09,108.66,2,0,3,1
+195,琼海,海南,Qionghai,Hainan,19.256,110.468,4,1,6,1
+196,定安,海南,Ding An,Hainan,19.68,110.36,2,1,3,0
+197,昌江,海南,Changjiang,Hainan,19.298,109.04,2,0,7,5
+198,乐东,海南,Ledong,Hainan,18.75,109.168,0,0,2,2
+199,文昌,海南,Wenchang,Hainan,19.539,110.787,3,0,3,0
+200,保亭,海南,Baoting,Hainan,18.64104,109.694892,1,0,3,2
+201,福州,福建,Fuzhou,Fujian,26.221752,119.314923,33,0,71,38
+202,厦门,福建,Xiamen,Fujian,24.675485,118.280803,10,0,35,25
+203,泉州,福建,Quanzhou,Fujian,25.173479,118.819017,13,0,46,33
+204,漳州,福建,Zhangzhou,Fujian,24.575089,117.633366,11,0,20,9
+205,宁德,福建,Ningde,Fujian,26.763865,119.454559,12,0,26,14
+206,三明,福建,Sanming,Fujian,26.173967,117.516896,5,0,14,9
+207,莆田,福建,Putian,Fujian,25.41,119,19,0,55,36
+208,南平,福建,Nanping,Fujian,26.63,118.18,8,0,20,12
+209,龙岩,福建,Longyan,Fujian,25.1,117,1,0,6,5
+210,常州,江苏,Changzhou,Jiangsu,31.672903,119.943432,27,0,51,24
+211,南京,江苏,Nanjing,Jiangsu,32.40064,118.848166,38,0,93,55
+212,苏州,江苏,Suzhou,Jiangsu,31.332306,120.630878,33,0,87,54
+213,连云港,江苏,Lianyungang,Jiangsu,34.51416,119.162196,17,0,48,31
+214,无锡,江苏,Wuxi,Jiangsu,31.466579,120.248502,27,0,55,28
+215,南通,江苏,Nantong,Jiangsu,32.071256,120.823875,23,0,40,17
+216,扬州,江苏,Yangzhou,Jiangsu,32.408505,119.427778,11,0,23,12
+217,盐城,江苏,Yancheng,Jiangsu,33.265898,119.968501,24,0,27,3
+218,宿迁,江苏,Suqian,Jiangsu,34.00953,118.343693,7,0,13,6
+219,镇江,江苏,Zhenjiang,Jiangsu,32.198,119.46,6,0,12,6
+220,淮安,江苏,Huai An,Jiangsu,33.589,119.03,32,0,66,34
+221,泰州,江苏,Taizhou,Jiangsu,32.45,119.91,22,0,37,15
+222,徐州,江苏,Xuzhou,Jiangsu,34.27,117.186999,51,0,79,28
+223,沈阳,辽宁,Shenyang,Liaoning,41.843551,123.242847,19,0,28,9
+224,大连,辽宁,Dalian,Liaoning,38.92,121.62,9,0,19,10
+225,朝阳,辽宁,Chaoyang,Liaoning,41.55,120.4,3,0,6,3
+226,铁岭,辽宁,Tieling,Liaoning,42.222765,123.914529,1,0,7,6
+227,葫芦岛,辽宁,Huludao,Liaoning,40.75,120.84,2,1,12,9
+228,本溪,辽宁,Benxi,Liaoning,41.19567,124.158564,3,0,3,0
+229,盘锦,辽宁,Panjin,Liaoning,41.112,122.06,0,0,11,11
+230,营口,辽宁,Yingkou,Liaoning,40.55,122.248,1,0,1,0
+231,丹东,辽宁,Dandong,Liaoning,40.008,124.3545,4,0,7,3
+232,辽阳,辽宁,Liaoyang,Liaoning,41.26,123.164,3,0,3,0
+233,鞍山,辽宁,Anshan,Liaoning,41.1,122.99,0,0,4,4
+234,锦州,辽宁,Jinzhou,Liaoning,41.0959,121.11,7,0,12,5
+235,阜新,辽宁,Fuxin,Liaoning,42.015173,121.645287,3,0,8,5
+236,西安,陕西,Xi An,Shaanxi,34.066899,108.874256,44,0,118,74
+237,咸阳,陕西,Xianyang,Shaanxi,34.423853,108.817312,8,0,17,9
+238,安康,陕西,Ankang,Shaanxi,32.814464,108.896243,15,0,25,10
+239,铜川,陕西,Tongchuan,Shaanxi,35.032,108.8355,6,0,8,2
+240,延安,陕西,Yan An,Shaanxi,36.575992,109.648602,6,0,8,2
+241,商洛,陕西,Shangluo,Shaanxi,33.895485,109.873271,2,0,7,5
+242,渭南,陕西,Weinan,Shaanxi,34.5,109.451,4,0,15,11
+243,汉中,陕西,Hanzhong,Shaanxi,33.1,107,5,0,26,21
+244,宝鸡,陕西,Baoji,Shaanxi,34.39,107.23,9,0,13,4
+245,韩城,陕西,Hancheng,Shaanxi,35.474,110.447,1,0,1,0
+246,榆林,陕西,Yulin,Shaanxi,38.23,109.75,1,0,3,2
+247,杨凌,陕西,Yangling,Shaanxi,34.272,108.082123,0,0,1,1
+248,昆明,云南,Kunming,Yunnan,26.139329,103.078562,15,0,52,37
+249,丽江,云南,Lijiang,Yunnan,26.8593,100.328596,7,0,7,0
+250,西双版纳,云南,Xishuangbanna,Yunnan,22.009433,100.803038,4,0,15,11
+251,曲靖,云南,Qujing,Yunnan,25.360057,103.913326,6,0,13,7
+252,玉溪,云南,Yuxi,Yunnan,24.369854,102.499895,3,1,14,10
+253,红河,云南,Honghe,Yunnan,23.250955,102.243348,3,0,8,5
+254,大理,云南,Dali,Yunnan,25.693967,100.219209,10,0,13,3
+255,保山,云南,Baoshan,Yunnan,25.16,99.176,3,0,9,6
+256,德宏,云南,Dehong,Yunnan,24.43,98.596,2,0,5,3
+257,昭通,云南,Zhaotong,Yunnan,27.32,103.72,2,0,25,23
+258,普洱,云南,Pu Er,Yunnan,22.7,100.96,3,0,4,1
+259,临沧,云南,Lincang,Yunnan,23.87,100.1,1,0,1,0
+260,文山,云南,Wenshan,Yunnan,23.394,104.226,0,0,2,2
+261,楚雄,云南,Chuxiong,Yunnan,25.025884,101.548734,1,0,4,3
+262,天津,天津,Tianjin,Tianjin,39.13,117.2,NA,NA,NA,NA
+263,哈尔滨,黑龙江,Harbin,Heilongjiang,45.995674,126.61077,48,3,194,143
+264,牡丹江,黑龙江,Mudanjiang,Heilongjiang,44.491714,129.584924,1,0,14,13
+265,大庆,黑龙江,Daqing,Heilongjiang,46.070051,124.699077,7,1,26,18
+266,绥化,黑龙江,Suihua,Heilongjiang,46.747537,126.957863,18,4,47,25
+267,齐齐哈尔,黑龙江,Qiqihar,Heilongjiang,47.28,123.94,11,1,43,31
+268,佳木斯,黑龙江,Jiamusi,Heilongjiang,46.8,130.37,14,0,15,1
+269,双鸭山,黑龙江,Shuangyashan,Heilongjiang,46.642,131.152,8,3,52,41
+270,七台河,黑龙江,Qitaihe,Heilongjiang,45.6,131,6,0,17,11
+271,鸡西,黑龙江,Jixi,Heilongjiang,45.3,130.96,3,0,46,43
+272,鹤岗,黑龙江,Hegang,Heilongjiang,47.335,130.294,2,0,5,3
+273,大兴安岭,黑龙江,Greater Hinggan,Heilongjiang,50.41,124.122,2,0,2,0
+274,黑河,黑龙江,Heihe,Heilongjiang,50.235,127.51,3,0,14,11
+275,晋中,山西,Jinzhong,Shanxi,37.650825,112.843737,18,0,36,18
+276,太原,山西,Taiyuan,Shanxi,37.748675,112.481587,10,0,19,9
+277,运城,山西,Yuncheng,Shanxi,35.063677,110.961931,14,0,19,5
+278,阳泉,山西,Yangquan,Shanxi,37.911504,113.568086,2,0,4,2
+279,大同,山西,Datong,Shanxi,40,113.3,6,0,12,6
+280,长治,山西,Changzhi,Shanxi,36.02468,113.086194,1,0,8,7
+281,临汾,山西,Linfen,Shanxi,36.1,111.52,1,0,2,1
+282,朔州,山西,Shuozhou,Shanxi,39.35,112.43,3,0,8,5
+283,吕梁,山西,Lyuliang,Shanxi,37.5,111.1,6,0,6,0
+284,忻州,山西,Xinzhou,Shanxi,38.4,112.732,4,0,7,3
+285,晋城,山西,Jincheng,Shanxi,35.498,112.857,3,0,10,7
+286,石家庄,河北,Shijiazhuang,Hebei,38.014621,114.586383,13,0,28,15
+287,沧州,河北,Cangzhou,Hebei,38.314446,116.844854,18,3,48,27
+288,保定,河北,Baoding,Hebei,38.821877,115.484784,27,0,32,5
+289,承德,河北,Chengde,Hebei,40.973242,118.125718,4,0,7,3
+290,廊坊,河北,Langfang,Hebei,39.47,116.7,20,0,30,10
+291,邢台,河北,Xingtai,Hebei,37.04,114.57,10,1,23,12
+292,衡水,河北,Hengshui,Hebei,37.73,115.699,6,0,8,2
+293,唐山,河北,Tangshan,Hebei,39.59,118.2,13,1,56,42
+294,邯郸,河北,Handan,Hebei,36.574,114.48,13,0,31,18
+295,张家口,河北,Zhangjiakou,Hebei,40.81,114.89,24,0,34,10
+296,秦皇岛,河北,Qinhuangdao,Hebei,39.95,119.59,4,0,10,6
+297,锡林郭勒盟,内蒙古,Xilingol - Xilinhot,Inner Mongolia,43.468238,114.415868,1,0,9,8
+298,二连浩特,内蒙古,Erenhot,Inner Mongolia,43.63,112,NA,NA,NA,NA
+299,鄂尔多斯,内蒙古,Ordos,Inner Mongolia,39.805586,109.764419,3,0,11,8
+300,满洲里,内蒙古,Manzhouli,Inner Mongolia,49.500032,117.603687,NA,NA,NA,NA
+301,赤峰,内蒙古,Chifeng,Inner Mongolia,42.268753,118.757106,3,0,9,6
+302,呼伦贝尔,内蒙古,Hulun Buir,Inner Mongolia,49.22,119.76,1,0,7,6
+303,牙克石,内蒙古,Yakeshi,Inner Mongolia,49.329996,121.512668,NA,NA,NA,NA
+304,兴安盟,内蒙古,Ulahot,Inner Mongolia,46.05,122.1,0,0,1,1
+305,乌兰察布,内蒙古,Ulanqab,Inner Mongolia,40.99,113.13,1,0,3,2
+306,包头,内蒙古,Baotou,Inner Mongolia,40.65,109.8,1,0,11,10
+307,巴彦淖尔,内蒙古,Bayannur,Inner Mongolia,40.75,107.38,0,0,8,8
+308,通辽,内蒙古,Tongliao,Inner Mongolia,43.626,122.25,0,0,7,7
+309,呼和浩特,内蒙古,Huhhot,Inner Mongolia,40.83,111.69,1,0,7,6
+310,乌海,内蒙古,Wuhai,Inner Mongolia,39.639,106.779,0,0,2,2
+311,香港,香港,Hong Kong,Hong Kong SAR,22.293586,114.186124,5,2,63,56
+312,铜仁,贵州,Tongren,Guizhou,27.674903,109.168558,9,0,10,1
+313,贵阳,贵州,Guiyang,Guizhou,26.496945,106.70098,14,1,36,21
+314,黔南州,贵州,Qiannan,Guizhou,26.254,107.522,7,0,17,10
+315,黔西南州,贵州,Qianxinan,Guizhou,25.1,104.9,4,0,4,0
+316,六盘水,贵州,Liupanshui,Guizhou,26.55,104.85,6,1,10,3
+317,黔东南州,贵州,Qiandongnan,Guizhou,26.56,108,4,0,10,6
+318,遵义,贵州,Zunyi,Guizhou,27.7478,106.91,15,0,32,17
+319,毕节,贵州,Bijie,Guizhou,27.31,105.29,10,0,23,13
+320,安顺,贵州,Anshun,Guizhou,26.25,105.93,1,0,4,3
+321,吉林市,吉林,Jilin,Jilin,43.87,126.57,3,0,5,2
+322,长春,吉林,Changchun,Jilin,43.531747,125.712822,19,0,45,26
+323,松原,吉林,Songyuan,Jilin,45.29271,124.867571,2,0,2,0
+324,四平,吉林,Siping,Jilin,43.178,124.37,7,1,15,7
+325,公主岭,吉林,Gongzhuling,Jilin,43.49,124.8,2,0,6,4
+326,通化,吉林,Tonghua,Jilin,41.74,125.92,1,0,4,3
+327,延边,吉林,Yanbian,Jilin,42.89,129.51,4,0,5,1
+328,辽源,吉林,Liaoyuan,Jilin,42.895188,125.148648,1,0,7,6
+329,梅河口,吉林,Meihekou,Jilin,42.537275,125.691833,1,0,1,0
+330,白城,吉林,Baicheng,Jilin,45.614037,122.84704,0,0,1,1
+331,兰州,甘肃,Lanzhou,Gansu,36.303488,103.060275,23,2,36,11
+332,白银,甘肃,Baiyin,Gansu,36.69035,104.945609,1,0,4,3
+333,临夏,甘肃,Linxia,Gansu,35.518719,103.050791,3,0,3,0
+334,定西,甘肃,Dingxi,Gansu,35.58,104.62,8,0,9,1
+335,张掖,甘肃,Zhangye,Gansu,38.93,100.46,2,0,2,0
+336,陇南,甘肃,Longnan,Gansu,33.39,104.91,4,0,4,0
+337,金昌,甘肃,Jinchang,Gansu,38.52,102.18,1,0,1,0
+338,天水,甘肃,Tianshui,Gansu,34.58,105.73,12,0,12,0
+339,平凉,甘肃,Pingliang,Gansu,35.53,106.67,3,0,9,6
+340,甘南,甘肃,Gannan,Gansu,34.981,102.91,4,0,8,4
+341,庆阳,甘肃,Qingyang,Gansu,35.7,107.65,2,0,3,1
+342,银川,宁夏,Yinchuan,Ningxia,38.478591,106.24265,25,0,33,8
+343,中卫,宁夏,Zhongwei,Ningxia,37.360639,105.111278,3,0,3,0
+344,固原,宁夏,Guyuan,Ningxia,36.206829,106.254011,3,0,5,2
+345,吴忠,宁夏,Wuzhong,Ningxia,37.97,106.2,9,0,28,19
+346,宁东,宁夏,Ningdong Energy Chemical Industry Base Admin Committee,Ningxia,38.4,106.31,1,0,1,0
+347,石嘴山,宁夏,Shizuishan,Ningxia,38.991988,106.37,1,0,1,0
+348,地区,台湾,__,Taiwan (ROC),23.5,121,51,6,0,-57
+349,乌鲁木齐,新疆,Urumqi,Xinjiang,43.419108,87.360244,8,0,23,15
+350,伊犁,新疆,Ili,Xinjiang,43.9,81.32,6,0,18,12
+351,吐鲁番,新疆,Turpan,Xinjiang,42.95,89.15,1,0,3,2
+352,第八师石河子,新疆,Shihezi (The 8th Division),Xinjiang,44.26,86.05,1,1,4,2
+353,阿克苏,新疆,Aksu,Xinjiang,41.133,80.192,1,0,1,0
+354,第九师额敏县,新疆,Emin (The 9th Division),Xinjiang,46.521076,83.620741,NA,NA,NA,NA
+355,第四师科克达拉,新疆,Cocodala (The 4th Division),Xinjiang,43.9448,81.044,NA,NA,NA,NA
+356,昌吉,新疆,Changji,Xinjiang,44,87.275,2,0,4,2
+357,第六师五家渠,新疆,Wujiaqu (The 6th Division),Xinjiang,44.159797,87.538838,0,0,2,2
+358,第七师胡杨河,新疆,Huyangh (The 7th Division),Xinjiang,44.710398,84.8254,NA,NA,NA,NA
+359,巴音郭楞,新疆,Bayingolin,Xinjiang,41.771312,86.161609,NA,NA,NA,NA
+360,第十二师,新疆,The 12th Division,Xinjiang,43.6,87,0,0,3,3
+361,澳门,澳门,Macau,Macau SAR,22.204118,113.557519,5,0,10,5
+362,西宁,青海,Xining,Qinghai,36.686368,101.712664,14,0,15,1
+363,海北州,青海,Haibei,Qinghai,36.899,100.997,2,0,3,1
+364,成都,四川,Chengdu,Sichuan,30.67,104.06,69,1,141,71
+365,绵阳,四川,Mianyang,Sichuan,31.46,104.73,10,0,22,12
+366,广安,四川,Guang An,Sichuan,30.3,106,19,0,30,11
+367,遂宁,四川,Suining,Sichuan,30.501934,105.569333,10,0,17,7
+368,泸州,四川,Luzhou,Sichuan,27.88,106.27,5,0,24,19
+369,南充,四川,Nanchong,Sichuan,30.84,106.12,14,0,38,24
+370,甘孜,四川,Ganzi,Sichuan,31.62,99.99,8,0,67,59
+371,德阳,四川,Deyang,Sichuan,31.33,104.23,1,0,17,16
+372,雅安,四川,Ya An,Sichuan,30,103,3,0,7,4
+373,达州,四川,Dazhou,Sichuan,31.2,107.5,11,0,40,29
+374,自贡,四川,Zigong,Sichuan,29.34,104.78,4,0,9,5
+375,内江,四川,Neijiang,Sichuan,29.6,105,6,0,22,16
+376,乐山,四川,Leshan,Sichuan,29.2,103.63,2,0,3,1
+377,眉山,四川,Meishan,Sichuan,29.9,103.5,3,0,8,5
+378,宜宾,四川,Yibin,Sichuan,28.76,104.63,7,0,12,5
+379,凉山,四川,Liangshan,Sichuan,27.88,102.28,5,0,13,8
+380,资阳,四川,Ziyang,Sichuan,30.1,104.67,2,0,3,1
+381,广元,四川,Guangyuan,Sichuan,30.46,106.64,4,0,6,2
+382,阿坝,四川,Aba,Sichuan,32.9,101.71,1,0,1,0
+383,巴中,四川,Bazhong,Sichuan,31.86,106.75,3,0,24,21
+384,攀枝花,四川,Panzhihua,Sichuan,26.578,101.721,11,0,16,5
+385,拉萨,西藏,Lhasa,Tibet,29.65,91.577,1,0,1,0
+386,法国,法国,France,_,46.83,2.48,4,1,12,7
+387,德国,德国,Germany,_,51.3,10.2,1,0,16,15
+388,斯里兰卡,斯里兰卡,Sri Lanka,_,7.6,80.4,1,0,1,0
+389,越南,越南,Vietnam,_,15.56,108.05,7,0,16,9
+390,柬埔寨,柬埔寨,Combodia,_,12.57,104.9,1,0,1,0
+391,泰国,泰国,Thailand,_,15.76,101.14,15,0,35,20
+392,马来西亚,马来西亚,Malaysia,_,4.4,102.13,15,0,22,7
+393,新加坡,新加坡,Singapore,_,1.18,103.85,34,0,84,50
+394,韩国,韩国,South Korea,_,36.86,127.8,16,0,51,35
+395,日本,日本,Japan,_,36.22,139,12,1,84,71
+396,新南威尔士州,澳大利亚,New South Wales,Australia,-32.1,147.4,4,0,4,NA
+397,维多利亚州,澳大利亚,Victoria,Australia,-37,144.5,4,0,4,NA
+398,昆士兰州,澳大利亚,Queensland,Australia,-23.200961,146.260643,0,0,5,NA
+399,南澳大利亚州,澳大利亚,South Australia,Australia,-29.864316,134.736328,2,0,2,NA
+400,华盛顿州西雅图,美国,Seattle,USA,47.582142,-122.255859,1,0,1,NA
+401,加利福尼亚州圣克拉拉,美国,Santa Clara,USA,37.370946,-121.967669,0,0,2,NA
+402,加利福尼亚州圣本尼托,美国,San Benito,USA,36.509685,-121.08186,0,0,2,NA
+403,加利福尼亚州洛杉矶,美国,Los Angeles,USA,33.906896,-118.270397,0,0,1,NA
+404,亚利桑那州坦普,美国,Tempe,USA,33.427564,-111.946564,0,0,`,NA
+405,内布拉斯加州奥马哈,美国,Omaha,USA,41.265679,-95.957123,0,0,14,NA
+406,伊利诺伊州芝加哥,美国,Chicago,USA,41.748,-87.6489,2,0,2,NA
+407,威斯康辛州麦迪逊,美国,Madison,USA,43.062382,-89.410129,0,0,1,NA
+408,马萨诸塞州波士顿,美国,Boston,USA,42.358544,-71.107678,0,0,1,NA
+409,得克萨斯州圣安东尼奥,美国,San Antonio,USA,29.408573,-98.489771,0,0,1,NA
+410,加利福尼亚州奥兰治,美国,Orange,USA,33.64136,-117.76939,0,0,1,NA
+411,加利福尼亚州圣迭戈,美国,San Diego,USA,32.743248,-117.13623,0,0,2,NA
+412,安大略省多伦多,加拿大,Toronto,Canada,43.675818,-79.448919,0,0,2,NA
+413,安大略省伦敦,加拿大,London,Canada,42.995074,-81.254883,0,0,1,NA
+414,尼泊尔,尼泊尔,Nepal,_,27.69,85.32,1,0,1,0
+415,不列颠哥伦比亚省,加拿大,British Columbia,Canada,54.35,-123.66,0,0,5,NA
+416,意大利,意大利,Italy,_,43,12.62,0,0,3,3
+417,芬兰,芬兰,Finland,_,64.36,26.79,1,0,1,0
+418,印度,印度,India,_,21.56,78.2,3,0,3,0
+419,阿联酋,阿联酋,UAE,_,23.69,54.43,4,0,9,5
+420,菲律宾,菲律宾,Philippines,_,16.82048,121.421,1,1,3,1
+421,俄罗斯,俄罗斯,Russia,_,62.267923,57.3898,2,0,2,0
+422,英国,英国,UK,_,53.9,-1.64,8,0,9,1
+423,西班牙,西班牙,Spain,_,40.23,-3.7999,2,0,2,0
+424,瑞典,瑞典,Sweden,_,62.75,15.226,0,0,1,1
+425,比利时,比利时,Belgium,_,50.814,4.42,1,0,1,0
+426,埃及,埃及,Egypt,_,29.882813,26.794042,0,0,1,1
+427,钻石公主号邮轮,,Diamond Princess,Diamond Princess,35.262441,143.085938,0,0,621,621
+428,伊朗,伊朗,Iran,Iran,32.546813,54.207916,0,2,2,0
