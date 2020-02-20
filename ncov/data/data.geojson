@@ -2299,10 +2299,10 @@
     "province_cn":"上海",
     "city":"Shanghai",
     "province":"Shanghai",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"186",
+    "death":"2",
+    "case":"333",
+    "remain":"145"
     }
   },
   {
@@ -4711,10 +4711,10 @@
     "province_cn":"天津",
     "city":"Tianjin",
     "province":"Tianjin",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"54",
+    "death":"3",
+    "case":"130",
+    "remain":"73"
     }
   },
   {
@@ -6367,10 +6367,10 @@
     "province_cn":"新疆",
     "city":"Emin (The 9th Division)",
     "province":"Xinjiang",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"0",
+    "death":"0",
+    "case":"4",
+    "remain":"4"
     }
   },
   {
@@ -6385,10 +6385,10 @@
     "province_cn":"新疆",
     "city":"Cocodala (The 4th Division)",
     "province":"Xinjiang",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"0",
+    "death":"0",
+    "case":"10",
+    "remain":"10"
     }
   },
   {
@@ -6437,12 +6437,12 @@
     "FIELD1":358,
     "city_cn":"第七师胡杨河",
     "province_cn":"新疆",
-    "city":"Huyangh (The 7th Division)",
+    "city":"Huyanghe (The 7th Division)",
     "province":"Xinjiang",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"1",
+    "death":"0",
+    "case":"1",
+    "remain":"0"
     }
   },
   {
@@ -6457,10 +6457,10 @@
     "province_cn":"新疆",
     "city":"Bayingolin",
     "province":"Xinjiang",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"0",
+    "death":"0",
+    "case":"3",
+    "remain":"3"
     }
   },
   {

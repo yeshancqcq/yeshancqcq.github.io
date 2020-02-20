@@ -126,7 +126,7 @@
 125,延庆,北京,Yanqing,Beijing,40.4565,115.971,0,0,1,1
 126,密云,北京,Miyun,Beijing,40.375043,116.83548,0,0,7,7
 127,怀柔,北京,Huairou,Beijing,40.315,116.626,0,0,7,7
-128,上海,上海,Shanghai,Shanghai,31.2,121.560642,NA,NA,NA,NA
+128,上海,上海,Shanghai,Shanghai,31.2,121.560642,186,2,333,145
 129,临沂,山东,Linyi,Shandong,35.127031,118.517311,41,0,49,8
 130,青岛,山东,Tsingtao,Shandong,36.284247,120.346326,29,1,59,29
 131,威海,山东,Weihai,Shandong,37.399344,122.152075,11,0,38,27
@@ -260,7 +260,7 @@
 259,临沧,云南,Lincang,Yunnan,23.87,100.1,1,0,1,0
 260,文山,云南,Wenshan,Yunnan,23.394,104.226,0,0,2,2
 261,楚雄,云南,Chuxiong,Yunnan,25.025884,101.548734,1,0,4,3
-262,天津,天津,Tianjin,Tianjin,39.13,117.2,NA,NA,NA,NA
+262,天津,天津,Tianjin,Tianjin,39.13,117.2,54,3,130,73
 263,哈尔滨,黑龙江,Harbin,Heilongjiang,45.995674,126.61077,48,3,194,143
 264,牡丹江,黑龙江,Mudanjiang,Heilongjiang,44.491714,129.584924,1,0,14,13
 265,大庆,黑龙江,Daqing,Heilongjiang,46.070051,124.699077,7,1,26,18
@@ -352,12 +352,12 @@
 351,吐鲁番,新疆,Turpan,Xinjiang,42.95,89.15,1,0,3,2
 352,第八师石河子,新疆,Shihezi (The 8th Division),Xinjiang,44.26,86.05,1,1,4,2
 353,阿克苏,新疆,Aksu,Xinjiang,41.133,80.192,1,0,1,0
-354,第九师额敏县,新疆,Emin (The 9th Division),Xinjiang,46.521076,83.620741,NA,NA,NA,NA
-355,第四师科克达拉,新疆,Cocodala (The 4th Division),Xinjiang,43.9448,81.044,NA,NA,NA,NA
+354,第九师额敏县,新疆,Emin (The 9th Division),Xinjiang,46.521076,83.620741,0,0,4,4
+355,第四师科克达拉,新疆,Cocodala (The 4th Division),Xinjiang,43.9448,81.044,0,0,10,10
 356,昌吉,新疆,Changji,Xinjiang,44,87.275,2,0,4,2
 357,第六师五家渠,新疆,Wujiaqu (The 6th Division),Xinjiang,44.159797,87.538838,0,0,2,2
-358,第七师胡杨河,新疆,Huyangh (The 7th Division),Xinjiang,44.710398,84.8254,NA,NA,NA,NA
-359,巴音郭楞,新疆,Bayingolin,Xinjiang,41.771312,86.161609,NA,NA,NA,NA
+358,第七师胡杨河,新疆,Huyanghe (The 7th Division),Xinjiang,44.710398,84.8254,1,0,1,0
+359,巴音郭楞,新疆,Bayingolin,Xinjiang,41.771312,86.161609,0,0,3,3
 360,第十二师,新疆,The 12th Division,Xinjiang,43.6,87,0,0,3,3
 361,澳门,澳门,Macau,Macau SAR,22.204118,113.557519,5,0,10,5
 362,西宁,青海,Xining,Qinghai,36.686368,101.712664,14,0,15,1
