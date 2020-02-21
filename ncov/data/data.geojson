@@ -6269,6 +6269,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [116.589105,35.3]
+    },
+    "properties": {
+    "FIELD1":3481,
+    "city_cn":"任城监狱",
+    "province_cn":"山东",
+    "city":"Rencheng Prison",
+    "province":"Shandong",
+    "cure":"0",
+    "death":"0",
+    "case":"200",
+    "remain":"200"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 87.360244,43.419108 ]
     },
     "properties": {
