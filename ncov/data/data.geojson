@@ -1669,10 +1669,10 @@
     "province_cn":"重庆",
     "city":"Chongqing",
     "province":"Chongqing",
-    "cure":"120",
-    "death":"2",
-    "case":"238",
-    "remain":"116"
+    "cure":"180",
+    "death":"3",
+    "case":"357",
+    "remain":"174"
     }
   },
   {
@@ -2119,10 +2119,10 @@
     "province_cn":"北京",
     "city":"Beijing",
     "province":"Beijing",
-    "cure":"14",
+    "cure":"21",
     "death":"0",
-    "case":"536",
-    "remain":"522"
+    "case":"804",
+    "remain":"783"
     }
   },
   {
@@ -6367,10 +6367,10 @@
     "province_cn":"新疆",
     "city":"Emin (The 9th Division)",
     "province":"Xinjiang",
-    "cure":"0",
+    "cure":"1",
     "death":"1",
     "case":"4",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -7269,7 +7269,7 @@
     "province":"USA",
     "cure":"0",
     "death":"0",
-    "case":"`",
+    "case":"1",
     "remain":"NA"
     }
   },
@@ -7717,10 +7717,10 @@
     "province_cn":"湖北",
     "city":"Prison System",
     "province":"Hubei",
-    "cure":"0",
-    "death":"0",
-    "case":"253",
-    "remain":"250"
+    "cure":"NA",
+    "death":"NA",
+    "case":"NA",
+    "remain":"NA"
     }
   },
   {
@@ -7811,6 +7811,132 @@
     "death":"0",
     "case":"1",
     "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.936523,31.470473 ]
+    },
+    "properties": {
+    "FIELD1":435,
+    "city_cn":"以色列",
+    "province_cn":"以色列",
+    "city":"Israel",
+    "province":"Israel",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 56.601,21.414719 ]
+    },
+    "properties": {
+    "FIELD1":436,
+    "city_cn":"阿曼",
+    "province_cn":"阿曼",
+    "city":"Oman",
+    "province":"Oman",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.765305,33.765092 ]
+    },
+    "properties": {
+    "FIELD1":437,
+    "city_cn":"黎巴嫩",
+    "province_cn":"黎巴嫩",
+    "city":"Lebanon",
+    "province":"Lebanon",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.730392,32.694866 ]
+    },
+    "properties": {
+    "FIELD1":438,
+    "city_cn":"伊拉克",
+    "province_cn":"伊拉克",
+    "city":"Iraq",
+    "province":"Iraq",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.999153,29.142689 ]
+    },
+    "properties": {
+    "FIELD1":439,
+    "city_cn":"科威特",
+    "province_cn":"科威特",
+    "city":"Kuwait",
+    "province":"Kuwait",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.559082,26.091861 ]
+    },
+    "properties": {
+    "FIELD1":440,
+    "city_cn":"巴林",
+    "province_cn":"巴林",
+    "city":"Barin",
+    "province":"Barin",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.5,34 ]
+    },
+    "properties": {
+    "FIELD1":441,
+    "city_cn":"阿富汗",
+    "province_cn":"阿富汗",
+    "city":"Afghanistan",
+    "province":"Afghanistan",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
     }
   }
 ]
