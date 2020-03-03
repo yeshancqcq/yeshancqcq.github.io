@@ -13,10 +13,10 @@
     "province_cn":"湖南",
     "city":"Changsha",
     "province":"Hunan",
-    "cure":"178",
+    "cure":"186",
     "death":"2",
     "case":"242",
-    "remain":"62"
+    "remain":"54"
     }
   },
   {
@@ -31,10 +31,10 @@
     "province_cn":"湖南",
     "city":"Yueyang",
     "province":"Hunan",
-    "cure":"115",
+    "cure":"126",
     "death":"1",
     "case":"156",
-    "remain":"40"
+    "remain":"29"
     }
   },
   {
@@ -67,10 +67,10 @@
     "province_cn":"湖南",
     "city":"Loudi",
     "province":"Hunan",
-    "cure":"62",
+    "cure":"66",
     "death":"0",
     "case":"76",
-    "remain":"14"
+    "remain":"10"
     }
   },
   {
@@ -85,10 +85,10 @@
     "province_cn":"湖南",
     "city":"Yongzhou",
     "province":"Hunan",
-    "cure":"42",
+    "cure":"43",
     "death":"0",
     "case":"44",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -121,10 +121,10 @@
     "province_cn":"湖南",
     "city":"Hengyang",
     "province":"Hunan",
-    "cure":"46",
+    "cure":"48",
     "death":"0",
     "case":"48",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -139,10 +139,10 @@
     "province_cn":"湖南",
     "city":"Changde",
     "province":"Hunan",
-    "cure":"72",
+    "cure":"74",
     "death":"0",
     "case":"82",
-    "remain":"10"
+    "remain":"8"
     }
   },
   {
@@ -157,10 +157,10 @@
     "province_cn":"湖南",
     "city":"Xiangtan",
     "province":"Hunan",
-    "cure":"34",
+    "cure":"35",
     "death":"0",
     "case":"36",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -175,10 +175,10 @@
     "province_cn":"湖南",
     "city":"Shaoyang",
     "province":"Hunan",
-    "cure":"95",
+    "cure":"100",
     "death":"1",
     "case":"102",
-    "remain":"6"
+    "remain":"1"
     }
   },
   {
@@ -193,10 +193,10 @@
     "province_cn":"湖南",
     "city":"Zhuzhou",
     "province":"Hunan",
-    "cure":"62",
+    "cure":"69",
     "death":"0",
     "case":"80",
-    "remain":"18"
+    "remain":"11"
     }
   },
   {
@@ -265,10 +265,10 @@
     "province_cn":"湖北",
     "city":"Wuhan",
     "province":"Hubei",
-    "cure":"19227",
-    "death":"2195",
-    "case":"49122",
-    "remain":"27700"
+    "cure":"23031",
+    "death":"2251",
+    "case":"49426",
+    "remain":"24144"
     }
   },
   {
@@ -283,10 +283,10 @@
     "province_cn":"湖北",
     "city":"Huanggang",
     "province":"Hubei",
-    "cure":"2171",
-    "death":"115",
-    "case":"2905",
-    "remain":"619"
+    "cure":"2343",
+    "death":"119",
+    "case":"2907",
+    "remain":"445"
     }
   },
   {
@@ -301,10 +301,10 @@
     "province_cn":"湖北",
     "city":"Xiaogan",
     "province":"Hubei",
-    "cure":"2215",
-    "death":"118",
+    "cure":"2560",
+    "death":"120",
     "case":"3518",
-    "remain":"1185"
+    "remain":"838"
     }
   },
   {
@@ -319,10 +319,10 @@
     "province_cn":"湖北",
     "city":"Xianning",
     "province":"Hubei",
-    "cure":"692",
+    "cure":"749",
     "death":"12",
     "case":"836",
-    "remain":"132"
+    "remain":"75"
     }
   },
   {
@@ -337,10 +337,10 @@
     "province_cn":"湖北",
     "city":"Jingmen",
     "province":"Hubei",
-    "cure":"604",
-    "death":"37",
-    "case":"925",
-    "remain":"284"
+    "cure":"650",
+    "death":"39",
+    "case":"928",
+    "remain":"239"
     }
   },
   {
@@ -355,10 +355,10 @@
     "province_cn":"湖北",
     "city":"Suizhou",
     "province":"Hubei",
-    "cure":"835",
-    "death":"40",
+    "cure":"893",
+    "death":"42",
     "case":"1307",
-    "remain":"432"
+    "remain":"372"
     }
   },
   {
@@ -373,10 +373,10 @@
     "province_cn":"湖北",
     "city":"Jingzhou",
     "province":"Hubei",
-    "cure":"1034",
-    "death":"46",
-    "case":"1579",
-    "remain":"499"
+    "cure":"1144",
+    "death":"48",
+    "case":"1580",
+    "remain":"388"
     }
   },
   {
@@ -391,10 +391,10 @@
     "province_cn":"湖北",
     "city":"Huangshi",
     "province":"Hubei",
-    "cure":"697",
-    "death":"34",
+    "cure":"752",
+    "death":"35",
     "case":"1014",
-    "remain":"283"
+    "remain":"227"
     }
   },
   {
@@ -409,10 +409,10 @@
     "province_cn":"湖北",
     "city":"Yichang",
     "province":"Hubei",
-    "cure":"506",
-    "death":"31",
+    "cure":"583",
+    "death":"32",
     "case":"931",
-    "remain":"394"
+    "remain":"316"
     }
   },
   {
@@ -427,10 +427,10 @@
     "province_cn":"湖北",
     "city":"Shiyan",
     "province":"Hubei",
-    "cure":"441",
+    "cure":"491",
     "death":"7",
     "case":"672",
-    "remain":"224"
+    "remain":"174"
     }
   },
   {
@@ -445,10 +445,10 @@
     "province_cn":"湖北",
     "city":"Enshi",
     "province":"Hubei",
-    "cure":"192",
+    "cure":"198",
     "death":"4",
     "case":"252",
-    "remain":"56"
+    "remain":"50"
     }
   },
   {
@@ -463,10 +463,10 @@
     "province_cn":"湖北",
     "city":"Xiantao",
     "province":"Hubei",
-    "cure":"438",
-    "death":"19",
+    "cure":"467",
+    "death":"20",
     "case":"575",
-    "remain":"118"
+    "remain":"88"
     }
   },
   {
@@ -481,10 +481,10 @@
     "province_cn":"湖北",
     "city":"Tianmen",
     "province":"Hubei",
-    "cure":"371",
-    "death":"13",
+    "cure":"414",
+    "death":"14",
     "case":"496",
-    "remain":"112"
+    "remain":"68"
     }
   },
   {
@@ -499,10 +499,10 @@
     "province_cn":"湖北",
     "city":"Xiangyang",
     "province":"Hubei",
-    "cure":"850",
+    "cure":"913",
     "death":"34",
     "case":"1175",
-    "remain":"291"
+    "remain":"228"
     }
   },
   {
@@ -517,10 +517,10 @@
     "province_cn":"湖北",
     "city":"Ezhou",
     "province":"Hubei",
-    "cure":"784",
-    "death":"47",
+    "cure":"840",
+    "death":"48",
     "case":"1391",
-    "remain":"560"
+    "remain":"503"
     }
   },
   {
@@ -553,10 +553,10 @@
     "province_cn":"湖北",
     "city":"Qianjiang",
     "province":"Hubei",
-    "cure":"119",
+    "cure":"128",
     "death":"9",
     "case":"198",
-    "remain":"70"
+    "remain":"61"
     }
   },
   {
@@ -571,10 +571,10 @@
     "province_cn":"河南",
     "city":"Xinyang",
     "province":"Henan",
-    "cure":"258",
+    "cure":"267",
     "death":"2",
     "case":"274",
-    "remain":"14"
+    "remain":"5"
     }
   },
   {
@@ -589,10 +589,10 @@
     "province_cn":"河南",
     "city":"Zhengzhou",
     "province":"Henan",
-    "cure":"134",
-    "death":"0",
+    "cure":"146",
+    "death":"5",
     "case":"157",
-    "remain":"23"
+    "remain":"6"
     }
   },
   {
@@ -625,10 +625,10 @@
     "province_cn":"河南",
     "city":"Zhumadian",
     "province":"Henan",
-    "cure":"137",
+    "cure":"139",
     "death":"0",
     "case":"139",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -643,10 +643,10 @@
     "province_cn":"河南",
     "city":"Zhoukou",
     "province":"Henan",
-    "cure":"66",
+    "cure":"69",
     "death":"1",
     "case":"76",
-    "remain":"9"
+    "remain":"6"
     }
   },
   {
@@ -679,10 +679,10 @@
     "province_cn":"河南",
     "city":"Anyang",
     "province":"Henan",
-    "cure":"47",
+    "cure":"50",
     "death":"0",
     "case":"53",
-    "remain":"6"
+    "remain":"3"
     }
   },
   {
@@ -697,10 +697,10 @@
     "province_cn":"河南",
     "city":"Luohe",
     "province":"Henan",
-    "cure":"30",
+    "cure":"34",
     "death":"0",
     "case":"35",
-    "remain":"5"
+    "remain":"1"
     }
   },
   {
@@ -751,10 +751,10 @@
     "province_cn":"河南",
     "city":"Pingdingshan",
     "province":"Henan",
-    "cure":"53",
+    "cure":"57",
     "death":"1",
     "case":"58",
-    "remain":"4"
+    "remain":"0"
     }
   },
   {
@@ -769,10 +769,10 @@
     "province_cn":"河南",
     "city":"Luoyang",
     "province":"Henan",
-    "cure":"27",
+    "cure":"30",
     "death":"1",
     "case":"31",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -787,10 +787,10 @@
     "province_cn":"河南",
     "city":"Shangqiu",
     "province":"Henan",
-    "cure":"86",
+    "cure":"88",
     "death":"3",
     "case":"91",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -841,10 +841,10 @@
     "province_cn":"河南",
     "city":"Xuchang",
     "province":"Henan",
-    "cure":"37",
-    "death":"0",
+    "cure":"38",
+    "death":"1",
     "case":"39",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -895,10 +895,10 @@
     "province_cn":"河南",
     "city":"Puyang",
     "province":"Henan",
-    "cure":"13",
+    "cure":"16",
     "death":"0",
     "case":"17",
-    "remain":"4"
+    "remain":"1"
     }
   },
   {
@@ -967,10 +967,10 @@
     "province_cn":"河南",
     "city":"Jiyuan",
     "province":"Henan",
-    "cure":"3",
+    "cure":"4",
     "death":"0",
     "case":"5",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -985,10 +985,10 @@
     "province_cn":"广东",
     "city":"Shenzhen",
     "province":"Guangdong",
-    "cure":"299",
+    "cure":"332",
     "death":"3",
-    "case":"417",
-    "remain":"115"
+    "case":"418",
+    "remain":"83"
     }
   },
   {
@@ -1003,10 +1003,10 @@
     "province_cn":"广东",
     "city":"Guangzhou",
     "province":"Guangdong",
-    "cure":"248",
+    "cure":"272",
     "death":"1",
     "case":"346",
-    "remain":"97"
+    "remain":"73"
     }
   },
   {
@@ -1021,10 +1021,10 @@
     "province_cn":"广东",
     "city":"Zhuhai",
     "province":"Guangdong",
-    "cure":"71",
+    "cure":"81",
     "death":"1",
     "case":"98",
-    "remain":"26"
+    "remain":"16"
     }
   },
   {
@@ -1039,10 +1039,10 @@
     "province_cn":"广东",
     "city":"Foshan",
     "province":"Guangdong",
-    "cure":"47",
+    "cure":"59",
     "death":"0",
     "case":"84",
-    "remain":"37"
+    "remain":"25"
     }
   },
   {
@@ -1057,10 +1057,10 @@
     "province_cn":"广东",
     "city":"Huizhou",
     "province":"Guangdong",
-    "cure":"58",
+    "cure":"60",
     "death":"0",
     "case":"62",
-    "remain":"4"
+    "remain":"2"
     }
   },
   {
@@ -1111,10 +1111,10 @@
     "province_cn":"广东",
     "city":"Zhanjiang",
     "province":"Guangdong",
-    "cure":"17",
+    "cure":"19",
     "death":"0",
     "case":"22",
-    "remain":"5"
+    "remain":"3"
     }
   },
   {
@@ -1129,10 +1129,10 @@
     "province_cn":"广东",
     "city":"Zhongshan",
     "province":"Guangdong",
-    "cure":"58",
+    "cure":"59",
     "death":"0",
     "case":"66",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -1147,10 +1147,10 @@
     "province_cn":"广东",
     "city":"Zhaoqing",
     "province":"Guangdong",
-    "cure":"13",
+    "cure":"15",
     "death":"1",
     "case":"19",
-    "remain":"5"
+    "remain":"3"
     }
   },
   {
@@ -1183,10 +1183,10 @@
     "province_cn":"广东",
     "city":"Dongguan",
     "province":"Guangdong",
-    "cure":"63",
+    "cure":"74",
     "death":"1",
     "case":"99",
-    "remain":"35"
+    "remain":"24"
     }
   },
   {
@@ -1255,10 +1255,10 @@
     "province_cn":"广东",
     "city":"Jieyang",
     "province":"Guangdong",
-    "cure":"6",
+    "cure":"8",
     "death":"0",
     "case":"8",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -1291,10 +1291,10 @@
     "province_cn":"广东",
     "city":"Maoming",
     "province":"Guangdong",
-    "cure":"9",
+    "cure":"10",
     "death":"0",
     "case":"14",
-    "remain":"5"
+    "remain":"4"
     }
   },
   {
@@ -1345,10 +1345,10 @@
     "province_cn":"浙江",
     "city":"Taizhou",
     "province":"Zhejiang",
-    "cure":"107",
+    "cure":"112",
     "death":"0",
     "case":"146",
-    "remain":"39"
+    "remain":"34"
     }
   },
   {
@@ -1363,10 +1363,10 @@
     "province_cn":"浙江",
     "city":"Hangzhou",
     "province":"Zhejiang",
-    "cure":"164",
+    "cure":"158",
     "death":"0",
     "case":"169",
-    "remain":"5"
+    "remain":"11"
     }
   },
   {
@@ -1381,10 +1381,10 @@
     "province_cn":"浙江",
     "city":"Wenzhou",
     "province":"Zhejiang",
-    "cure":"432",
+    "cure":"456",
     "death":"1",
     "case":"504",
-    "remain":"71"
+    "remain":"47"
     }
   },
   {
@@ -1399,10 +1399,10 @@
     "province_cn":"浙江",
     "city":"Ningbo",
     "province":"Zhejiang",
-    "cure":"148",
+    "cure":"151",
     "death":"0",
     "case":"157",
-    "remain":"9"
+    "remain":"6"
     }
   },
   {
@@ -1417,10 +1417,10 @@
     "province_cn":"浙江",
     "city":"Jiaxing",
     "province":"Zhejiang",
-    "cure":"38",
+    "cure":"41",
     "death":"0",
     "case":"45",
-    "remain":"7"
+    "remain":"4"
     }
   },
   {
@@ -1435,10 +1435,10 @@
     "province_cn":"浙江",
     "city":"Shaoxing",
     "province":"Zhejiang",
-    "cure":"36",
+    "cure":"38",
     "death":"0",
     "case":"42",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -1453,10 +1453,10 @@
     "province_cn":"浙江",
     "city":"Zhoushan",
     "province":"Zhejiang",
-    "cure":"8",
+    "cure":"10",
     "death":"0",
     "case":"10",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -1471,10 +1471,10 @@
     "province_cn":"浙江",
     "city":"Jinhua",
     "province":"Zhejiang",
-    "cure":"51",
+    "cure":"54",
     "death":"0",
     "case":"55",
-    "remain":"4"
+    "remain":"1"
     }
   },
   {
@@ -1509,8 +1509,8 @@
     "province":"Zhejiang",
     "cure":"17",
     "death":"0",
-    "case":"17",
-    "remain":"0"
+    "case":"25",
+    "remain":"8"
     }
   },
   {
@@ -1525,10 +1525,10 @@
     "province_cn":"浙江",
     "city":"Huzhou",
     "province":"Zhejiang",
-    "cure":"9",
+    "cure":"10",
     "death":"0",
     "case":"10",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -1543,10 +1543,10 @@
     "province_cn":"重庆",
     "city":"Wanzhou",
     "province":"Chongqing",
-    "cure":"87",
+    "cure":"98",
     "death":"4",
     "case":"118",
-    "remain":"27"
+    "remain":"16"
     }
   },
   {
@@ -1561,10 +1561,10 @@
     "province_cn":"重庆",
     "city":"Changshou",
     "province":"Chongqing",
-    "cure":"14",
+    "cure":"15",
     "death":"0",
     "case":"22",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -1651,10 +1651,10 @@
     "province_cn":"重庆",
     "city":"Shizhu",
     "province":"Chongqing",
-    "cure":"12",
+    "cure":"13",
     "death":"0",
     "case":"15",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -1669,10 +1669,10 @@
     "province_cn":"重庆",
     "city":"Chongqing",
     "province":"Chongqing",
-    "cure":"268",
-    "death":"4",
-    "case":"478",
-    "remain":"206"
+    "cure":"462",
+    "death":"6",
+    "case":"720",
+    "remain":"252"
     }
   },
   {
@@ -1687,10 +1687,10 @@
     "province_cn":"重庆",
     "city":"Yubei",
     "province":"Chongqing",
-    "cure":"15",
+    "cure":"16",
     "death":"0",
     "case":"17",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -1705,10 +1705,10 @@
     "province_cn":"重庆",
     "city":"Dianjiang",
     "province":"Chongqing",
-    "cure":"14",
+    "cure":"15",
     "death":"0",
     "case":"20",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -1723,10 +1723,10 @@
     "province_cn":"重庆",
     "city":"Yunyang",
     "province":"Chongqing",
-    "cure":"22",
+    "cure":"23",
     "death":"0",
     "case":"25",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -1741,10 +1741,10 @@
     "province_cn":"重庆",
     "city":"Wuxi",
     "province":"Chongqing",
-    "cure":"12",
+    "cure":"13",
     "death":"0",
     "case":"14",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -1759,10 +1759,10 @@
     "province_cn":"重庆",
     "city":"Hechuan",
     "province":"Chongqing",
-    "cure":"18",
+    "cure":"20",
     "death":"0",
     "case":"23",
-    "remain":"5"
+    "remain":"3"
     }
   },
   {
@@ -1903,10 +1903,10 @@
     "province_cn":"重庆",
     "city":"Fengdu",
     "province":"Chongqing",
-    "cure":"6",
+    "cure":"7",
     "death":"0",
     "case":"10",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -1957,10 +1957,10 @@
     "province_cn":"重庆",
     "city":"Tongnan",
     "province":"Chongqing",
-    "cure":"10",
+    "cure":"11",
     "death":"0",
     "case":"18",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -1993,10 +1993,10 @@
     "province_cn":"重庆",
     "city":"Qijiang",
     "province":"Chongqing",
-    "cure":"14",
+    "cure":"15",
     "death":"0",
     "case":"23",
-    "remain":"9"
+    "remain":"8"
     }
   },
   {
@@ -2119,10 +2119,10 @@
     "province_cn":"北京",
     "city":"Beijing",
     "province":"Beijing",
-    "cure":"28",
+    "cure":"42",
     "death":"0",
-    "case":"1084",
-    "remain":"1056"
+    "case":"1646",
+    "remain":"1604"
     }
   },
   {
@@ -2175,8 +2175,8 @@
     "province":"Beijing",
     "cure":"2",
     "death":"0",
-    "case":"2",
-    "remain":"0"
+    "case":"39",
+    "remain":"37"
     }
   },
   {
@@ -2299,10 +2299,10 @@
     "province_cn":"上海",
     "city":"Shanghai",
     "province":"Shanghai",
-    "cure":"287",
+    "cure":"294",
     "death":"3",
-    "case":"337",
-    "remain":"47"
+    "case":"338",
+    "remain":"41"
     }
   },
   {
@@ -2317,10 +2317,10 @@
     "province_cn":"山东",
     "city":"Linyi",
     "province":"Shandong",
-    "cure":"46",
+    "cure":"47",
     "death":"0",
     "case":"49",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -2335,10 +2335,10 @@
     "province_cn":"山东",
     "city":"Tsingtao",
     "province":"Shandong",
-    "cure":"51",
+    "cure":"58",
     "death":"1",
     "case":"60",
-    "remain":"8"
+    "remain":"1"
     }
   },
   {
@@ -2353,10 +2353,10 @@
     "province_cn":"山东",
     "city":"Weihai",
     "province":"Shandong",
-    "cure":"31",
+    "cure":"34",
     "death":"0",
     "case":"38",
-    "remain":"7"
+    "remain":"4"
     }
   },
   {
@@ -2371,10 +2371,10 @@
     "province_cn":"山东",
     "city":"Rizhao",
     "province":"Shandong",
-    "cure":"14",
+    "cure":"15",
     "death":"0",
     "case":"16",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -2389,10 +2389,10 @@
     "province_cn":"山东",
     "city":"Jining",
     "province":"Shandong",
-    "cure":"46",
+    "cure":"81",
     "death":"0",
-    "case":"258",
-    "remain":"212"
+    "case":"260",
+    "remain":"179"
     }
   },
   {
@@ -2407,10 +2407,10 @@
     "province_cn":"山东",
     "city":"Jinan",
     "province":"Shandong",
-    "cure":"29",
+    "cure":"32",
     "death":"0",
     "case":"47",
-    "remain":"18"
+    "remain":"15"
     }
   },
   {
@@ -2443,10 +2443,10 @@
     "province_cn":"山东",
     "city":"Weifang",
     "province":"Shandong",
-    "cure":"29",
+    "cure":"31",
     "death":"0",
     "case":"44",
-    "remain":"15"
+    "remain":"13"
     }
   },
   {
@@ -2461,10 +2461,10 @@
     "province_cn":"山东",
     "city":"Yantai",
     "province":"Shandong",
-    "cure":"31",
+    "cure":"35",
     "death":"0",
     "case":"47",
-    "remain":"16"
+    "remain":"12"
     }
   },
   {
@@ -2479,10 +2479,10 @@
     "province_cn":"山东",
     "city":"Liaocheng",
     "province":"Shandong",
-    "cure":"34",
+    "cure":"38",
     "death":"0",
     "case":"38",
-    "remain":"4"
+    "remain":"0"
     }
   },
   {
@@ -2497,10 +2497,10 @@
     "province_cn":"山东",
     "city":"Binzhou",
     "province":"Shandong",
-    "cure":"12",
+    "cure":"14",
     "death":"0",
     "case":"15",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -2515,10 +2515,10 @@
     "province_cn":"山东",
     "city":"Heze",
     "province":"Shandong",
-    "cure":"17",
+    "cure":"18",
     "death":"0",
     "case":"18",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -2551,10 +2551,10 @@
     "province_cn":"山东",
     "city":"Zaozhuang",
     "province":"Shandong",
-    "cure":"22",
+    "cure":"23",
     "death":"0",
     "case":"24",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -2569,10 +2569,10 @@
     "province_cn":"山东",
     "city":"Tai An",
     "province":"Shandong",
-    "cure":"30",
+    "cure":"33",
     "death":"2",
     "case":"35",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -2587,10 +2587,10 @@
     "province_cn":"安徽",
     "city":"Hefei",
     "province":"Anhui",
-    "cure":"143",
+    "cure":"153",
     "death":"1",
     "case":"174",
-    "remain":"30"
+    "remain":"20"
     }
   },
   {
@@ -2605,10 +2605,10 @@
     "province_cn":"安徽",
     "city":"Fuyang",
     "province":"Anhui",
-    "cure":"134",
+    "cure":"145",
     "death":"0",
     "case":"155",
-    "remain":"21"
+    "remain":"10"
     }
   },
   {
@@ -2623,10 +2623,10 @@
     "province_cn":"安徽",
     "city":"Bozhou",
     "province":"Anhui",
-    "cure":"101",
+    "cure":"107",
     "death":"0",
     "case":"108",
-    "remain":"7"
+    "remain":"1"
     }
   },
   {
@@ -2641,10 +2641,10 @@
     "province_cn":"安徽",
     "city":"Anqing",
     "province":"Anhui",
-    "cure":"80",
+    "cure":"82",
     "death":"0",
     "case":"83",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -2659,10 +2659,10 @@
     "province_cn":"安徽",
     "city":"Maanshan",
     "province":"Anhui",
-    "cure":"33",
+    "cure":"34",
     "death":"0",
     "case":"38",
-    "remain":"5"
+    "remain":"4"
     }
   },
   {
@@ -2695,10 +2695,10 @@
     "province_cn":"安徽",
     "city":"Lu An",
     "province":"Anhui",
-    "cure":"57",
+    "cure":"63",
     "death":"0",
     "case":"69",
-    "remain":"12"
+    "remain":"6"
     }
   },
   {
@@ -2731,10 +2731,10 @@
     "province_cn":"安徽",
     "city":"Chizhou",
     "province":"Anhui",
-    "cure":"13",
+    "cure":"16",
     "death":"0",
     "case":"17",
-    "remain":"4"
+    "remain":"1"
     }
   },
   {
@@ -2749,10 +2749,10 @@
     "province_cn":"安徽",
     "city":"Bengbu",
     "province":"Anhui",
-    "cure":"144",
+    "cure":"148",
     "death":"5",
     "case":"160",
-    "remain":"11"
+    "remain":"7"
     }
   },
   {
@@ -2767,10 +2767,10 @@
     "province_cn":"安徽",
     "city":"Wuhu",
     "province":"Anhui",
-    "cure":"31",
+    "cure":"33",
     "death":"0",
     "case":"34",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -2785,10 +2785,10 @@
     "province_cn":"安徽",
     "city":"Huangshan",
     "province":"Anhui",
-    "cure":"7",
+    "cure":"8",
     "death":"0",
     "case":"9",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -2821,10 +2821,10 @@
     "province_cn":"安徽",
     "city":"Huainan",
     "province":"Anhui",
-    "cure":"21",
+    "cure":"23",
     "death":"0",
     "case":"27",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -2839,10 +2839,10 @@
     "province_cn":"安徽",
     "city":"Suzhou",
     "province":"Anhui",
-    "cure":"36",
+    "cure":"37",
     "death":"0",
     "case":"41",
-    "remain":"5"
+    "remain":"4"
     }
   },
   {
@@ -2893,10 +2893,10 @@
     "province_cn":"江西",
     "city":"Ganzhou",
     "province":"Jiangxi",
-    "cure":"71",
+    "cure":"73",
     "death":"1",
     "case":"76",
-    "remain":"4"
+    "remain":"2"
     }
   },
   {
@@ -2911,10 +2911,10 @@
     "province_cn":"江西",
     "city":"Fuzhou",
     "province":"Jiangxi",
-    "cure":"65",
+    "cure":"70",
     "death":"0",
     "case":"72",
-    "remain":"7"
+    "remain":"2"
     }
   },
   {
@@ -2929,10 +2929,10 @@
     "province_cn":"江西",
     "city":"Shangrao",
     "province":"Jiangxi",
-    "cure":"111",
+    "cure":"120",
     "death":"0",
     "case":"123",
-    "remain":"12"
+    "remain":"3"
     }
   },
   {
@@ -2947,10 +2947,10 @@
     "province_cn":"江西",
     "city":"Yichun",
     "province":"Jiangxi",
-    "cure":"104",
+    "cure":"105",
     "death":"0",
     "case":"106",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -2965,10 +2965,10 @@
     "province_cn":"江西",
     "city":"Nanchang",
     "province":"Jiangxi",
-    "cure":"207",
+    "cure":"216",
     "death":"0",
     "case":"230",
-    "remain":"23"
+    "remain":"14"
     }
   },
   {
@@ -3001,10 +3001,10 @@
     "province_cn":"江西",
     "city":"Jiujiang",
     "province":"Jiangxi",
-    "cure":"94",
+    "cure":"98",
     "death":"0",
     "case":"118",
-    "remain":"24"
+    "remain":"20"
     }
   },
   {
@@ -3019,10 +3019,10 @@
     "province_cn":"江西",
     "city":"Ji An",
     "province":"Jiangxi",
-    "cure":"18",
+    "cure":"20",
     "death":"0",
     "case":"22",
-    "remain":"4"
+    "remain":"2"
     }
   },
   {
@@ -3037,10 +3037,10 @@
     "province_cn":"江西",
     "city":"Xinyu",
     "province":"Jiangxi",
-    "cure":"120",
+    "cure":"122",
     "death":"0",
     "case":"130",
-    "remain":"10"
+    "remain":"8"
     }
   },
   {
@@ -3055,10 +3055,10 @@
     "province_cn":"江西",
     "city":"Jingdezhen",
     "province":"Jiangxi",
-    "cure":"3",
+    "cure":"5",
     "death":"0",
     "case":"6",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -3073,10 +3073,10 @@
     "province_cn":"江西",
     "city":"Yingtan",
     "province":"Jiangxi",
-    "cure":"12",
+    "cure":"15",
     "death":"0",
     "case":"18",
-    "remain":"6"
+    "remain":"3"
     }
   },
   {
@@ -3109,10 +3109,10 @@
     "province_cn":"广西",
     "city":"Guilin",
     "province":"Guangxi",
-    "cure":"26",
+    "cure":"28",
     "death":"0",
     "case":"32",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -3127,10 +3127,10 @@
     "province_cn":"广西",
     "city":"Beihai",
     "province":"Guangxi",
-    "cure":"33",
+    "cure":"37",
     "death":"1",
     "case":"44",
-    "remain":"10"
+    "remain":"6"
     }
   },
   {
@@ -3145,10 +3145,10 @@
     "province_cn":"广西",
     "city":"Liuzhou",
     "province":"Guangxi",
-    "cure":"16",
+    "cure":"17",
     "death":"0",
     "case":"24",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -3163,10 +3163,10 @@
     "province_cn":"广西",
     "city":"Hechi",
     "province":"Guangxi",
-    "cure":"8",
+    "cure":"13",
     "death":"1",
     "case":"28",
-    "remain":"19"
+    "remain":"14"
     }
   },
   {
@@ -3235,10 +3235,10 @@
     "province_cn":"广西",
     "city":"Nanning",
     "province":"Guangxi",
-    "cure":"50",
+    "cure":"54",
     "death":"0",
     "case":"55",
-    "remain":"5"
+    "remain":"1"
     }
   },
   {
@@ -3253,10 +3253,10 @@
     "province_cn":"广西",
     "city":"Yulin",
     "province":"Guangxi",
-    "cure":"7",
+    "cure":"11",
     "death":"0",
     "case":"11",
-    "remain":"4"
+    "remain":"0"
     }
   },
   {
@@ -3289,10 +3289,10 @@
     "province_cn":"广西",
     "city":"Qinzhou",
     "province":"Guangxi",
-    "cure":"7",
+    "cure":"8",
     "death":"0",
     "case":"8",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -3307,10 +3307,10 @@
     "province_cn":"广西",
     "city":"Guigang",
     "province":"Guangxi",
-    "cure":"6",
+    "cure":"8",
     "death":"0",
     "case":"8",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -3343,10 +3343,10 @@
     "province_cn":"海南",
     "city":"Sanya",
     "province":"Hainan",
-    "cure":"52",
+    "cure":"50",
     "death":"1",
     "case":"54",
-    "remain":"1"
+    "remain":"3"
     }
   },
   {
@@ -3379,10 +3379,10 @@
     "province_cn":"海南",
     "city":"Haikou",
     "province":"Hainan",
-    "cure":"33",
+    "cure":"35",
     "death":"0",
     "case":"39",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -3541,10 +3541,10 @@
     "province_cn":"海南",
     "city":"Changjiang",
     "province":"Hainan",
-    "cure":"6",
+    "cure":"7",
     "death":"0",
     "case":"7",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -3595,10 +3595,10 @@
     "province_cn":"海南",
     "city":"Baoting",
     "province":"Hainan",
-    "cure":"1",
+    "cure":"3",
     "death":"0",
     "case":"3",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -3649,10 +3649,10 @@
     "province_cn":"福建",
     "city":"Quanzhou",
     "province":"Fujian",
-    "cure":"32",
+    "cure":"40",
     "death":"0",
     "case":"47",
-    "remain":"15"
+    "remain":"7"
     }
   },
   {
@@ -3721,10 +3721,10 @@
     "province_cn":"福建",
     "city":"Putian",
     "province":"Fujian",
-    "cure":"36",
+    "cure":"39",
     "death":"0",
     "case":"56",
-    "remain":"20"
+    "remain":"17"
     }
   },
   {
@@ -3739,10 +3739,10 @@
     "province_cn":"福建",
     "city":"Nanping",
     "province":"Fujian",
-    "cure":"14",
+    "cure":"15",
     "death":"0",
     "case":"20",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -3775,10 +3775,10 @@
     "province_cn":"江苏",
     "city":"Changzhou",
     "province":"Jiangsu",
-    "cure":"48",
+    "cure":"50",
     "death":"0",
     "case":"51",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -3793,10 +3793,10 @@
     "province_cn":"江苏",
     "city":"Nanjing",
     "province":"Jiangsu",
-    "cure":"58",
+    "cure":"68",
     "death":"0",
     "case":"93",
-    "remain":"35"
+    "remain":"25"
     }
   },
   {
@@ -3811,10 +3811,10 @@
     "province_cn":"江苏",
     "city":"Suzhou",
     "province":"Jiangsu",
-    "cure":"64",
+    "cure":"67",
     "death":"0",
     "case":"87",
-    "remain":"23"
+    "remain":"20"
     }
   },
   {
@@ -3829,10 +3829,10 @@
     "province_cn":"江苏",
     "city":"Lianyungang",
     "province":"Jiangsu",
-    "cure":"37",
+    "cure":"41",
     "death":"0",
     "case":"48",
-    "remain":"11"
+    "remain":"7"
     }
   },
   {
@@ -3847,10 +3847,10 @@
     "province_cn":"江苏",
     "city":"Wuxi",
     "province":"Jiangsu",
-    "cure":"49",
+    "cure":"50",
     "death":"0",
     "case":"55",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -3865,10 +3865,10 @@
     "province_cn":"江苏",
     "city":"Nantong",
     "province":"Jiangsu",
-    "cure":"37",
+    "cure":"40",
     "death":"0",
     "case":"40",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -3919,10 +3919,10 @@
     "province_cn":"江苏",
     "city":"Suqian",
     "province":"Jiangsu",
-    "cure":"12",
+    "cure":"13",
     "death":"0",
     "case":"13",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -3955,10 +3955,10 @@
     "province_cn":"江苏",
     "city":"Huai An",
     "province":"Jiangsu",
-    "cure":"55",
+    "cure":"58",
     "death":"0",
     "case":"66",
-    "remain":"11"
+    "remain":"8"
     }
   },
   {
@@ -4063,10 +4063,10 @@
     "province_cn":"辽宁",
     "city":"Tieling",
     "province":"Liaoning",
-    "cure":"5",
+    "cure":"6",
     "death":"0",
     "case":"7",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -4153,10 +4153,10 @@
     "province_cn":"辽宁",
     "city":"Dandong",
     "province":"Liaoning",
-    "cure":"6",
+    "cure":"7",
     "death":"0",
-    "case":"8",
-    "remain":"2"
+    "case":"11",
+    "remain":"4"
     }
   },
   {
@@ -4243,10 +4243,10 @@
     "province_cn":"陕西",
     "city":"Xi An",
     "province":"Shaanxi",
-    "cure":"100",
+    "cure":"104",
     "death":"1",
     "case":"120",
-    "remain":"19"
+    "remain":"15"
     }
   },
   {
@@ -4279,10 +4279,10 @@
     "province_cn":"陕西",
     "city":"Ankang",
     "province":"Shaanxi",
-    "cure":"23",
+    "cure":"25",
     "death":"0",
     "case":"26",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -4297,10 +4297,10 @@
     "province_cn":"陕西",
     "city":"Tongchuan",
     "province":"Shaanxi",
-    "cure":"6",
+    "cure":"7",
     "death":"0",
     "case":"8",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -4351,10 +4351,10 @@
     "province_cn":"陕西",
     "city":"Weinan",
     "province":"Shaanxi",
-    "cure":"9",
+    "cure":"10",
     "death":"0",
     "case":"15",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -4459,10 +4459,10 @@
     "province_cn":"云南",
     "city":"Kunming",
     "province":"Yunnan",
-    "cure":"48",
+    "cure":"52",
     "death":"0",
     "case":"53",
-    "remain":"5"
+    "remain":"1"
     }
   },
   {
@@ -4531,10 +4531,10 @@
     "province_cn":"云南",
     "city":"Yuxi",
     "province":"Yunnan",
-    "cure":"12",
+    "cure":"13",
     "death":"1",
     "case":"14",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -4549,10 +4549,10 @@
     "province_cn":"云南",
     "city":"Honghe",
     "province":"Yunnan",
-    "cure":"8",
+    "cure":"9",
     "death":"0",
     "case":"9",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -4585,10 +4585,10 @@
     "province_cn":"云南",
     "city":"Baoshan",
     "province":"Yunnan",
-    "cure":"8",
+    "cure":"9",
     "death":"0",
     "case":"9",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -4621,10 +4621,10 @@
     "province_cn":"云南",
     "city":"Zhaotong",
     "province":"Yunnan",
-    "cure":"20",
+    "cure":"25",
     "death":"0",
     "case":"25",
-    "remain":"5"
+    "remain":"0"
     }
   },
   {
@@ -4711,10 +4711,10 @@
     "province_cn":"天津",
     "city":"Tianjin",
     "province":"Tianjin",
-    "cure":"109",
+    "cure":"118",
     "death":"3",
     "case":"136",
-    "remain":"24"
+    "remain":"15"
     }
   },
   {
@@ -4729,10 +4729,10 @@
     "province_cn":"黑龙江",
     "city":"Harbin",
     "province":"Heilongjiang",
-    "cure":"123",
+    "cure":"140",
     "death":"4",
     "case":"198",
-    "remain":"71"
+    "remain":"54"
     }
   },
   {
@@ -4765,10 +4765,10 @@
     "province_cn":"黑龙江",
     "city":"Daqing",
     "province":"Heilongjiang",
-    "cure":"17",
+    "cure":"19",
     "death":"1",
     "case":"26",
-    "remain":"8"
+    "remain":"6"
     }
   },
   {
@@ -4801,10 +4801,10 @@
     "province_cn":"黑龙江",
     "city":"Qiqihar",
     "province":"Heilongjiang",
-    "cure":"33",
+    "cure":"35",
     "death":"1",
     "case":"43",
-    "remain":"9"
+    "remain":"7"
     }
   },
   {
@@ -4837,10 +4837,10 @@
     "province_cn":"黑龙江",
     "city":"Shuangyashan",
     "province":"Heilongjiang",
-    "cure":"36",
+    "cure":"39",
     "death":"3",
     "case":"52",
-    "remain":"13"
+    "remain":"10"
     }
   },
   {
@@ -4873,10 +4873,10 @@
     "province_cn":"黑龙江",
     "city":"Jixi",
     "province":"Heilongjiang",
-    "cure":"31",
+    "cure":"35",
     "death":"0",
     "case":"46",
-    "remain":"15"
+    "remain":"11"
     }
   },
   {
@@ -4945,10 +4945,10 @@
     "province_cn":"山西",
     "city":"Jinzhong",
     "province":"Shanxi",
-    "cure":"28",
+    "cure":"29",
     "death":"0",
     "case":"37",
-    "remain":"9"
+    "remain":"8"
     }
   },
   {
@@ -4963,10 +4963,10 @@
     "province_cn":"山西",
     "city":"Taiyuan",
     "province":"Shanxi",
-    "cure":"19",
+    "cure":"20",
     "death":"0",
     "case":"20",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -5017,10 +5017,10 @@
     "province_cn":"山西",
     "city":"Datong",
     "province":"Shanxi",
-    "cure":"8",
+    "cure":"9",
     "death":"0",
     "case":"12",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -5035,10 +5035,10 @@
     "province_cn":"山西",
     "city":"Changzhi",
     "province":"Shanxi",
-    "cure":"7",
+    "cure":"8",
     "death":"0",
     "case":"8",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -5125,10 +5125,10 @@
     "province_cn":"山西",
     "city":"Jincheng",
     "province":"Shanxi",
-    "cure":"8",
+    "cure":"9",
     "death":"0",
     "case":"10",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -5143,10 +5143,10 @@
     "province_cn":"河北",
     "city":"Shijiazhuang",
     "province":"Hebei",
-    "cure":"27",
+    "cure":"28",
     "death":"0",
     "case":"29",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -5161,10 +5161,10 @@
     "province_cn":"河北",
     "city":"Cangzhou",
     "province":"Hebei",
-    "cure":"42",
+    "cure":"45",
     "death":"3",
     "case":"48",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -5269,10 +5269,10 @@
     "province_cn":"河北",
     "city":"Tangshan",
     "province":"Hebei",
-    "cure":"42",
+    "cure":"50",
     "death":"1",
     "case":"58",
-    "remain":"15"
+    "remain":"7"
     }
   },
   {
@@ -5305,10 +5305,10 @@
     "province_cn":"河北",
     "city":"Zhangjiakou",
     "province":"Hebei",
-    "cure":"33",
+    "cure":"35",
     "death":"0",
     "case":"41",
-    "remain":"8"
+    "remain":"6"
     }
   },
   {
@@ -5503,10 +5503,10 @@
     "province_cn":"内蒙古",
     "city":"Baotou",
     "province":"Inner Mongolia",
-    "cure":"6",
+    "cure":"8",
     "death":"0",
     "case":"11",
-    "remain":"5"
+    "remain":"3"
     }
   },
   {
@@ -5522,9 +5522,9 @@
     "city":"Bayannur",
     "province":"Inner Mongolia",
     "cure":"7",
-    "death":"0",
+    "death":"1",
     "case":"8",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -5539,10 +5539,10 @@
     "province_cn":"内蒙古",
     "city":"Tongliao",
     "province":"Inner Mongolia",
-    "cure":"3",
+    "cure":"4",
     "death":"0",
     "case":"7",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -5593,10 +5593,10 @@
     "province_cn":"香港",
     "city":"Hong Kong",
     "province":"Hong Kong SAR",
-    "cure":"33",
+    "cure":"36",
     "death":"2",
-    "case":"95",
-    "remain":"60"
+    "case":"100",
+    "remain":"62"
     }
   },
   {
@@ -5629,10 +5629,10 @@
     "province_cn":"贵州",
     "city":"Guiyang",
     "province":"Guizhou",
-    "cure":"27",
+    "cure":"28",
     "death":"1",
     "case":"36",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -5737,10 +5737,10 @@
     "province_cn":"贵州",
     "city":"Bijie",
     "province":"Guizhou",
-    "cure":"15",
+    "cure":"16",
     "death":"0",
     "case":"23",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -5791,10 +5791,10 @@
     "province_cn":"吉林",
     "city":"Changchun",
     "province":"Jilin",
-    "cure":"39",
+    "cure":"40",
     "death":"0",
     "case":"45",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -5827,10 +5827,10 @@
     "province_cn":"吉林",
     "city":"Siping",
     "province":"Jilin",
-    "cure":"11",
+    "cure":"14",
     "death":"1",
     "case":"15",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -5845,10 +5845,10 @@
     "province_cn":"吉林",
     "city":"Gongzhuling",
     "province":"Jilin",
-    "cure":"5",
+    "cure":"6",
     "death":"0",
     "case":"6",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -5899,10 +5899,10 @@
     "province_cn":"吉林",
     "city":"Liaoyuan",
     "province":"Jilin",
-    "cure":"4",
+    "cure":"7",
     "death":"0",
     "case":"7",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -5945,7 +5945,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 103.060275,36.303488 ]
+       "coordinates":  [ 103.831,36.0637 ]
     },
     "properties": {
     "FIELD1":331,
@@ -5953,10 +5953,10 @@
     "province_cn":"甘肃",
     "city":"Lanzhou",
     "province":"Gansu",
-    "cure":"32",
+    "cure":"33",
     "death":"2",
     "case":"36",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -6097,10 +6097,10 @@
     "province_cn":"甘肃",
     "city":"Pingliang",
     "province":"Gansu",
-    "cure":"6",
+    "cure":"8",
     "death":"0",
     "case":"9",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -6153,8 +6153,8 @@
     "province":"Ningxia",
     "cure":"32",
     "death":"0",
-    "case":"34",
-    "remain":"2"
+    "case":"35",
+    "remain":"3"
     }
   },
   {
@@ -6259,10 +6259,10 @@
     "province_cn":"台湾",
     "city":"__",
     "province":"Taiwan (ROC)",
-    "cure":"9",
+    "cure":"12",
     "death":"1",
-    "case":"39",
-    "remain":"29"
+    "case":"41",
+    "remain":"28"
     }
   },
   {
@@ -6277,10 +6277,10 @@
     "province_cn":"新疆",
     "city":"Urumqi",
     "province":"Xinjiang",
-    "cure":"17",
+    "cure":"21",
     "death":"0",
     "case":"23",
-    "remain":"6"
+    "remain":"2"
     }
   },
   {
@@ -6331,10 +6331,10 @@
     "province_cn":"新疆",
     "city":"Shihezi (The 8th Division)",
     "province":"Xinjiang",
-    "cure":"2",
+    "cure":"3",
     "death":"1",
     "case":"4",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -6547,10 +6547,10 @@
     "province_cn":"四川",
     "city":"Chengdu",
     "province":"Sichuan",
-    "cure":"88",
+    "cure":"92",
     "death":"3",
     "case":"143",
-    "remain":"52"
+    "remain":"48"
     }
   },
   {
@@ -6565,10 +6565,10 @@
     "province_cn":"四川",
     "city":"Mianyang",
     "province":"Sichuan",
-    "cure":"15",
+    "cure":"16",
     "death":"0",
     "case":"22",
-    "remain":"7"
+    "remain":"6"
     }
   },
   {
@@ -6583,10 +6583,10 @@
     "province_cn":"四川",
     "city":"Guang An",
     "province":"Sichuan",
-    "cure":"24",
+    "cure":"25",
     "death":"0",
     "case":"30",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -6637,10 +6637,10 @@
     "province_cn":"四川",
     "city":"Nanchong",
     "province":"Sichuan",
-    "cure":"24",
+    "cure":"29",
     "death":"0",
     "case":"39",
-    "remain":"15"
+    "remain":"10"
     }
   },
   {
@@ -6655,10 +6655,10 @@
     "province_cn":"四川",
     "city":"Ganzi",
     "province":"Sichuan",
-    "cure":"40",
+    "cure":"47",
     "death":"0",
     "case":"78",
-    "remain":"38"
+    "remain":"31"
     }
   },
   {
@@ -6673,10 +6673,10 @@
     "province_cn":"四川",
     "city":"Deyang",
     "province":"Sichuan",
-    "cure":"10",
+    "cure":"11",
     "death":"0",
     "case":"18",
-    "remain":"8"
+    "remain":"7"
     }
   },
   {
@@ -6709,10 +6709,10 @@
     "province_cn":"四川",
     "city":"Dazhou",
     "province":"Sichuan",
-    "cure":"27",
+    "cure":"28",
     "death":"0",
     "case":"42",
-    "remain":"15"
+    "remain":"14"
     }
   },
   {
@@ -6817,10 +6817,10 @@
     "province_cn":"四川",
     "city":"Liangshan",
     "province":"Sichuan",
-    "cure":"10",
+    "cure":"12",
     "death":"0",
     "case":"13",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -6889,10 +6889,10 @@
     "province_cn":"四川",
     "city":"Bazhong",
     "province":"Sichuan",
-    "cure":"12",
+    "cure":"16",
     "death":"0",
     "case":"24",
-    "remain":"12"
+    "remain":"8"
     }
   },
   {
@@ -6945,8 +6945,8 @@
     "province":"France",
     "cure":"12",
     "death":"2",
-    "case":"100",
-    "remain":"86"
+    "case":"130",
+    "remain":"116"
     }
   },
   {
@@ -6963,8 +6963,8 @@
     "province":"Germany",
     "cure":"14",
     "death":"0",
-    "case":"115",
-    "remain":"101"
+    "case":"130",
+    "remain":"116"
     }
   },
   {
@@ -7033,10 +7033,10 @@
     "province_cn":"泰国",
     "city":"Thailand",
     "province":"Thailand",
-    "cure":"28",
-    "death":"0",
-    "case":"42",
-    "remain":"14"
+    "cure":"31",
+    "death":"1",
+    "case":"43",
+    "remain":"11"
     }
   },
   {
@@ -7053,8 +7053,8 @@
     "province":"Malaysia",
     "cure":"18",
     "death":"0",
-    "case":"25",
-    "remain":"7"
+    "case":"29",
+    "remain":"11"
     }
   },
   {
@@ -7069,10 +7069,10 @@
     "province_cn":"新加坡",
     "city":"Singapore",
     "province":"Singapore",
-    "cure":"72",
+    "cure":"74",
     "death":"0",
-    "case":"102",
-    "remain":"30"
+    "case":"106",
+    "remain":"32"
     }
   },
   {
@@ -7088,9 +7088,9 @@
     "city":"South Korea",
     "province":"South Korea",
     "cure":"30",
-    "death":"17",
-    "case":"3526",
-    "remain":"3479"
+    "death":"29",
+    "case":"4812",
+    "remain":"4753"
     }
   },
   {
@@ -7105,10 +7105,10 @@
     "province_cn":"日本",
     "city":"Japan",
     "province":"Japan",
-    "cure":"22",
-    "death":"5",
-    "case":"240",
-    "remain":"213"
+    "cure":"41",
+    "death":"6",
+    "case":"274",
+    "remain":"227"
     }
   },
   {
@@ -7197,8 +7197,8 @@
     "province":"USA",
     "cure":"1",
     "death":"1",
-    "case":"6",
-    "remain":"4"
+    "case":"15",
+    "remain":"NA"
     }
   },
   {
@@ -7431,7 +7431,7 @@
     "province":"Canada",
     "cure":"0",
     "death":"0",
-    "case":"1",
+    "case":"17",
     "remain":"NA"
     }
   },
@@ -7457,13 +7457,13 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -123.66,54.35 ]
+       "coordinates":  [ -122.954693,49.2371 ]
     },
     "properties": {
     "FIELD1":415,
-    "city_cn":"不列颠哥伦比亚省",
+    "city_cn":"不列颠哥伦比亚省温哥华",
     "province_cn":"加拿大",
-    "city":"British Columbia",
+    "city":"Vancouver",
     "province":"Canada",
     "cure":"0",
     "death":"0",
@@ -7483,10 +7483,10 @@
     "province_cn":"意大利",
     "city":"Italy",
     "province":"Italy",
-    "cure":"50",
-    "death":"29",
-    "case":"1128",
-    "remain":"1049"
+    "cure":"149",
+    "death":"52",
+    "case":"2036",
+    "remain":"1835"
     }
   },
   {
@@ -7503,8 +7503,8 @@
     "province":"Finland",
     "cure":"1",
     "death":"0",
-    "case":"3",
-    "remain":"2"
+    "case":"6",
+    "remain":"5"
     }
   },
   {
@@ -7593,8 +7593,8 @@
     "province":"UK",
     "cure":"8",
     "death":"0",
-    "case":"20",
-    "remain":"12"
+    "case":"36",
+    "remain":"28"
     }
   },
   {
@@ -7611,8 +7611,8 @@
     "province":"Spain",
     "cure":"2",
     "death":"0",
-    "case":"41",
-    "remain":"39"
+    "case":"123",
+    "remain":"121"
     }
   },
   {
@@ -7629,8 +7629,8 @@
     "province":"Sweden",
     "cure":"0",
     "death":"0",
-    "case":"13",
-    "remain":"13"
+    "case":"14",
+    "remain":"14"
     }
   },
   {
@@ -7647,8 +7647,8 @@
     "province":"Belgium",
     "cure":"1",
     "death":"0",
-    "case":"1",
-    "remain":"0"
+    "case":"2",
+    "remain":"1"
     }
   },
   {
@@ -7665,8 +7665,8 @@
     "province":"Egypt",
     "cure":"1",
     "death":"0",
-    "case":"1",
-    "remain":"0"
+    "case":"2",
+    "remain":"1"
     }
   },
   {
@@ -7683,8 +7683,8 @@
     "province":"Diamond Princess",
     "cure":"0",
     "death":"6",
-    "case":"705",
-    "remain":"699"
+    "case":"706",
+    "remain":"700"
     }
   },
   {
@@ -7699,10 +7699,10 @@
     "province_cn":"伊朗",
     "city":"Iran",
     "province":"Iran",
-    "cure":"123",
-    "death":"43",
-    "case":"593",
-    "remain":"427"
+    "cure":"175",
+    "death":"66",
+    "case":"1501",
+    "remain":"1260"
     }
   },
   {
@@ -7735,10 +7735,10 @@
     "province_cn":"浙江",
     "city":"Shilifeng Prison",
     "province":"Zhejiang",
-    "cure":"5",
+    "cure":"15",
     "death":"0",
     "case":"36",
-    "remain":"31"
+    "remain":"21"
     }
   },
   {
@@ -7827,8 +7827,8 @@
     "province":"Israel",
     "cure":"1",
     "death":"0",
-    "case":"9",
-    "remain":"8"
+    "case":"10",
+    "remain":"9"
     }
   },
   {
@@ -7863,8 +7863,8 @@
     "province":"Lebanon",
     "cure":"0",
     "death":"0",
-    "case":"3",
-    "remain":"3"
+    "case":"10",
+    "remain":"10"
     }
   },
   {
@@ -7881,8 +7881,8 @@
     "province":"Iraq",
     "cure":"0",
     "death":"0",
-    "case":"13",
-    "remain":"13"
+    "case":"19",
+    "remain":"19"
     }
   },
   {
@@ -7899,8 +7899,8 @@
     "province":"Kuwait",
     "cure":"0",
     "death":"0",
-    "case":"43",
-    "remain":"43"
+    "case":"56",
+    "remain":"56"
     }
   },
   {
@@ -7917,8 +7917,8 @@
     "province":"Barin",
     "cure":"0",
     "death":"0",
-    "case":"38",
-    "remain":"38"
+    "case":"47",
+    "remain":"47"
     }
   },
   {
@@ -8025,8 +8025,8 @@
     "province":"Iceland",
     "cure":"0",
     "death":"0",
-    "case":"1",
-    "remain":"1"
+    "case":"2",
+    "remain":"2"
     }
   },
   {
@@ -8061,8 +8061,8 @@
     "province":"Ecuador",
     "cure":"0",
     "death":"0",
-    "case":"1",
-    "remain":"1"
+    "case":"6",
+    "remain":"6"
     }
   },
   {
@@ -8133,8 +8133,8 @@
     "province":"Azerbaijan",
     "cure":"0",
     "death":"0",
-    "case":"1",
-    "remain":"1"
+    "case":"3",
+    "remain":"3"
     }
   },
   {
@@ -8151,8 +8151,8 @@
     "province":"Georgia",
     "cure":"0",
     "death":"0",
-    "case":"2",
-    "remain":"2"
+    "case":"3",
+    "remain":"3"
     }
   },
   {
@@ -8169,8 +8169,8 @@
     "province":"Pakistan",
     "cure":"0",
     "death":"0",
-    "case":"2",
-    "remain":"2"
+    "case":"4",
+    "remain":"4"
     }
   },
   {
@@ -8205,15 +8205,15 @@
     "province":"Mexico",
     "cure":"0",
     "death":"0",
-    "case":"4",
-    "remain":"4"
+    "case":"5",
+    "remain":"5"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 25.60300 ,58.64 ]
+       "coordinates":  [ 25.603,58.64 ]
     },
     "properties": {
     "FIELD1":457,
@@ -8259,8 +8259,8 @@
     "province":"Crotia",
     "cure":"0",
     "death":"0",
-    "case":"6",
-    "remain":"6"
+    "case":"7",
+    "remain":"7"
     }
   },
   {
@@ -8295,8 +8295,8 @@
     "province":"Belarus",
     "cure":"0",
     "death":"0",
-    "case":"1",
-    "remain":"1"
+    "case":"3",
+    "remain":"3"
     }
   },
   {
@@ -8313,8 +8313,170 @@
     "province":"Austria",
     "cure":"0",
     "death":"0",
-    "case":"10",
-    "remain":"10"
+    "case":"14",
+    "remain":"14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.359954,15.397687 ]
+    },
+    "properties": {
+    "FIELD1":463,
+    "city_cn":"多米尼加",
+    "province_cn":"多米尼加",
+    "city":"Dominica",
+    "province":"Dominica",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5271,42.533793 ]
+    },
+    "properties": {
+    "FIELD1":464,
+    "city_cn":"安道尔",
+    "province_cn":"安道尔",
+    "city":"Andorra",
+    "province":"Andorra",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.688477,49.474817 ]
+    },
+    "properties": {
+    "FIELD1":465,
+    "city_cn":"捷克",
+    "province_cn":"捷克",
+    "city":"Czech",
+    "province":"Czech",
+    "cure":"0",
+    "death":"0",
+    "case":"3",
+    "remain":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.975586,56.428902 ]
+    },
+    "properties": {
+    "FIELD1":466,
+    "city_cn":"丹麦",
+    "province_cn":"丹麦",
+    "city":"Denmark",
+    "province":"Denmark",
+    "cure":"0",
+    "death":"0",
+    "case":"4",
+    "remain":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.631836,38.91 ]
+    },
+    "properties": {
+    "FIELD1":467,
+    "city_cn":"希腊",
+    "province_cn":"希腊",
+    "city":"Greece",
+    "province":"Greece",
+    "cure":"0",
+    "death":"0",
+    "case":"7",
+    "remain":"7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.217773,46.818 ]
+    },
+    "properties": {
+    "FIELD1":468,
+    "city_cn":"瑞士",
+    "province_cn":"瑞士",
+    "city":"Switzerland",
+    "province":"Switzerland",
+    "cure":"0",
+    "death":"0",
+    "case":"27",
+    "remain":"27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.530249,40.38 ]
+    },
+    "properties": {
+    "FIELD1":469,
+    "city_cn":"亚美尼亚",
+    "province_cn":"亚美尼亚",
+    "city":"Armenia",
+    "province":"Armenia",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.5,25 ]
+    },
+    "properties": {
+    "FIELD1":470,
+    "city_cn":"沙特阿拉伯",
+    "province_cn":"沙特阿拉伯",
+    "city":"Saudi",
+    "province":"Saudi",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.292526,14.9971 ]
+    },
+    "properties": {
+    "FIELD1":471,
+    "city_cn":"塞内加尔",
+    "province_cn":"塞内加尔",
+    "city":"Senegal",
+    "province":"Senegal",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
     }
   },
   {
@@ -8324,7 +8486,7 @@
        "coordinates":  [ -73.654919,45.496782 ]
     },
     "properties": {
-    "FIELD1":463,
+    "FIELD1":472,
     "city_cn":"魁北克省蒙特利尔",
     "province_cn":"加拿大",
     "city":"Montreal",
@@ -8342,7 +8504,7 @@
        "coordinates":  [ -121.772461,47.869323 ]
     },
     "properties": {
-    "FIELD1":464,
+    "FIELD1":473,
     "city_cn":"华盛顿州斯诺霍米什",
     "province_cn":"美国",
     "city":"Snohomish",
@@ -8360,7 +8522,7 @@
        "coordinates":  [ -122.697887,45.503399 ]
     },
     "properties": {
-    "FIELD1":465,
+    "FIELD1":474,
     "city_cn":"俄勒冈州波特兰",
     "province_cn":"美国",
     "city":"Portland",
@@ -8369,6 +8531,150 @@
     "death":"0",
     "case":"1",
     "remain":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.433105,41.829 ]
+    },
+    "properties": {
+    "FIELD1":475,
+    "city_cn":"罗德岛州普罗维登斯",
+    "province_cn":"美国",
+    "city":"Provicence",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.12,42.1686 ]
+    },
+    "properties": {
+    "FIELD1":476,
+    "city_cn":"马萨诸塞州诺福克",
+    "province_cn":"美国",
+    "city":"Norfolk",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.980035,40.76 ]
+    },
+    "properties": {
+    "FIELD1":477,
+    "city_cn":"纽约",
+    "province_cn":"美国",
+    "city":"NYC",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.39276,33.760882 ]
+    },
+    "properties": {
+    "FIELD1":478,
+    "city_cn":"佐治亚州亚特兰大",
+    "province_cn":"美国",
+    "city":"Atlanta",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.49784,27.35 ]
+    },
+    "properties": {
+    "FIELD1":479,
+    "city_cn":"佛罗里达州萨拉索塔",
+    "province_cn":"美国",
+    "city":"Sarasota",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.492,27.974 ]
+    },
+    "properties": {
+    "FIELD1":480,
+    "city_cn":"佛罗里达州坦帕",
+    "province_cn":"美国",
+    "city":"Tampa",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.327896,45.9171 ]
+    },
+    "properties": {
+    "FIELD1":481,
+    "city_cn":"俄勒冈州巫马提拉",
+    "province_cn":"美国",
+    "city":"Umatilla",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.743472,39.0144 ]
+    },
+    "properties": {
+    "FIELD1":482,
+    "city_cn":"加利福尼亚州普莱瑟尔",
+    "province_cn":"美国",
+    "city":"Placer",
+    "province":"USA",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"NA"
     }
   }
 ]
