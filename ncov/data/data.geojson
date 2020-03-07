@@ -6367,10 +6367,10 @@
     "province_cn":"新疆",
     "city":"Emin (The 9th Division)",
     "province":"Xinjiang",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"1",
+    "death":"4",
+    "case":"1",
+    "remain":"2"
     }
   },
   {
@@ -6385,10 +6385,10 @@
     "province_cn":"新疆",
     "city":"Cocodala (The 4th Division)",
     "province":"Xinjiang",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"9",
+    "death":"1",
+    "case":"10",
+    "remain":"0"
     }
   },
   {
@@ -6439,10 +6439,10 @@
     "province_cn":"新疆",
     "city":"Huyanghe (The 7th Division)",
     "province":"Xinjiang",
-    "cure":"NA",
-    "death":"NA",
-    "case":"NA",
-    "remain":"NA"
+    "cure":"1",
+    "death":"0",
+    "case":"1",
+    "remain":"0"
     }
   },
   {
@@ -9628,6 +9628,24 @@
     "cure":"0",
     "death":"0",
     "case":"1",
+    "remain":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.83,17.9 ]
+    },
+    "properties": {
+    "FIELD1":536,
+    "city_cn":"圣巴泰勒米",
+    "province_cn":"圣巴泰勒米",
+    "city":"Saint Barthelemy",
+    "province":"Saint Barthelemy",
+    "cure":"0",
+    "death":"0",
+    "case":"3",
     "remain":"NA"
     }
   }

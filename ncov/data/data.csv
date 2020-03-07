@@ -352,11 +352,11 @@
 351,吐鲁番,新疆,Turpan,Xinjiang,42.95,89.15,2,0,3,1
 352,第八师石河子,新疆,Shihezi (The 8th Division),Xinjiang,44.26,86.05,3,1,4,0
 353,阿克苏,新疆,Aksu,Xinjiang,41.133,80.192,1,0,1,0
-354,第九师额敏县,新疆,Emin (The 9th Division),Xinjiang,46.521076,83.620741,NA,NA,NA,NA
-355,第四师科克达拉,新疆,Cocodala (The 4th Division),Xinjiang,43.9448,81.044,NA,NA,NA,NA
+354,第九师额敏县,新疆,Emin (The 9th Division),Xinjiang,46.521076,83.620741,1,4,1,2
+355,第四师科克达拉,新疆,Cocodala (The 4th Division),Xinjiang,43.9448,81.044,9,1,10,0
 356,昌吉,新疆,Changji,Xinjiang,44,87.275,4,0,4,0
 357,第六师五家渠,新疆,Wujiaqu (The 6th Division),Xinjiang,44.159797,87.538838,2,0,2,0
-358,第七师胡杨河,新疆,Huyanghe (The 7th Division),Xinjiang,44.710398,84.8254,NA,NA,NA,NA
+358,第七师胡杨河,新疆,Huyanghe (The 7th Division),Xinjiang,44.710398,84.8254,1,0,1,0
 359,巴音郭楞,新疆,Bayingolin,Xinjiang,41.771312,86.161609,3,0,3,0
 360,第十二师,新疆,The 12th Division,Xinjiang,43.6,87,3,0,3,0
 361,澳门,澳门,Macau,Macau SAR,22.204118,113.557519,10,0,10,0
@@ -534,3 +534,4 @@
 533,华盛顿州格兰特县,美国,Grant County WA,USA,47.2979,-119.508,0,0,1,NA
 534,艾伯特省卡尔加里,加拿大,Calgary,Canada,51,-114.086,0,0,1,NA
 535,明尼苏达州拉姆塞郡,美国,Ramsey County,USA,45,-93.1059,0,0,1,NA
+536,圣巴泰勒米,圣巴泰勒米,Saint Barthelemy,Saint Barthelemy,17.9,-62.83,0,0,3,NA
