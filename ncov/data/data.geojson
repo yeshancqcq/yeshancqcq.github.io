@@ -10301,7 +10301,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 21.34,-157.82 ]
+       "coordinates":  [ -157.82, 21.34 ]
     },
     "properties": {
     "FIELD1":573,
