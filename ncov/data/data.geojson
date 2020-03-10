@@ -13,10 +13,10 @@
     "province_cn":"湖南",
     "city":"Changsha",
     "province":"Hunan",
-    "cure":"213",
+    "cure":"216",
     "death":"2",
     "case":"242",
-    "remain":"27"
+    "remain":"24"
     }
   },
   {
@@ -31,10 +31,10 @@
     "province_cn":"湖南",
     "city":"Yueyang",
     "province":"Hunan",
-    "cure":"146",
+    "cure":"151",
     "death":"1",
     "case":"156",
-    "remain":"9"
+    "remain":"4"
     }
   },
   {
@@ -67,10 +67,10 @@
     "province_cn":"湖南",
     "city":"Loudi",
     "province":"Hunan",
-    "cure":"71",
+    "cure":"74",
     "death":"0",
     "case":"76",
-    "remain":"5"
+    "remain":"2"
     }
   },
   {
@@ -265,10 +265,10 @@
     "province_cn":"湖北",
     "city":"Wuhan",
     "province":"Hubei",
-    "cure":"29977",
-    "death":"2370",
-    "case":"49912",
-    "remain":"17565"
+    "cure":"30987",
+    "death":"2389",
+    "case":"49948",
+    "remain":"16572"
     }
   },
   {
@@ -283,10 +283,10 @@
     "province_cn":"湖北",
     "city":"Huanggang",
     "province":"Hubei",
-    "cure":"2636",
+    "cure":"2641",
     "death":"125",
     "case":"2907",
-    "remain":"146"
+    "remain":"141"
     }
   },
   {
@@ -301,10 +301,10 @@
     "province_cn":"湖北",
     "city":"Xiaogan",
     "province":"Hubei",
-    "cure":"3024",
-    "death":"125",
+    "cure":"3057",
+    "death":"126",
     "case":"3518",
-    "remain":"369"
+    "remain":"335"
     }
   },
   {
@@ -319,10 +319,10 @@
     "province_cn":"湖北",
     "city":"Xianning",
     "province":"Hubei",
-    "cure":"801",
+    "cure":"806",
     "death":"14",
     "case":"836",
-    "remain":"21"
+    "remain":"16"
     }
   },
   {
@@ -337,10 +337,10 @@
     "province_cn":"湖北",
     "city":"Jingmen",
     "province":"Hubei",
-    "cure":"743",
+    "cure":"767",
     "death":"39",
     "case":"928",
-    "remain":"146"
+    "remain":"122"
     }
   },
   {
@@ -355,10 +355,10 @@
     "province_cn":"湖北",
     "city":"Suizhou",
     "province":"Hubei",
-    "cure":"1077",
-    "death":"43",
+    "cure":"1104",
+    "death":"44",
     "case":"1307",
-    "remain":"187"
+    "remain":"159"
     }
   },
   {
@@ -373,10 +373,10 @@
     "province_cn":"湖北",
     "city":"Jingzhou",
     "province":"Hubei",
-    "cure":"1377",
+    "cure":"1411",
     "death":"49",
     "case":"1580",
-    "remain":"154"
+    "remain":"120"
     }
   },
   {
@@ -391,10 +391,10 @@
     "province_cn":"湖北",
     "city":"Huangshi",
     "province":"Hubei",
-    "cure":"884",
-    "death":"36",
+    "cure":"897",
+    "death":"37",
     "case":"1015",
-    "remain":"95"
+    "remain":"81"
     }
   },
   {
@@ -409,10 +409,10 @@
     "province_cn":"湖北",
     "city":"Yichang",
     "province":"Hubei",
-    "cure":"727",
+    "cure":"753",
     "death":"34",
     "case":"931",
-    "remain":"170"
+    "remain":"144"
     }
   },
   {
@@ -427,10 +427,10 @@
     "province_cn":"湖北",
     "city":"Shiyan",
     "province":"Hubei",
-    "cure":"571",
+    "cure":"588",
     "death":"8",
     "case":"672",
-    "remain":"93"
+    "remain":"76"
     }
   },
   {
@@ -463,10 +463,10 @@
     "province_cn":"湖北",
     "city":"Xiantao",
     "province":"Hubei",
-    "cure":"501",
+    "cure":"506",
     "death":"21",
     "case":"575",
-    "remain":"53"
+    "remain":"48"
     }
   },
   {
@@ -481,10 +481,10 @@
     "province_cn":"湖北",
     "city":"Tianmen",
     "province":"Hubei",
-    "cure":"457",
+    "cure":"461",
     "death":"15",
     "case":"496",
-    "remain":"24"
+    "remain":"20"
     }
   },
   {
@@ -499,10 +499,10 @@
     "province_cn":"湖北",
     "city":"Xiangyang",
     "province":"Hubei",
-    "cure":"1055",
+    "cure":"1064",
     "death":"38",
     "case":"1175",
-    "remain":"82"
+    "remain":"73"
     }
   },
   {
@@ -517,10 +517,10 @@
     "province_cn":"湖北",
     "city":"Ezhou",
     "province":"Hubei",
-    "cure":"993",
+    "cure":"1030",
     "death":"54",
     "case":"1394",
-    "remain":"347"
+    "remain":"310"
     }
   },
   {
@@ -553,10 +553,10 @@
     "province_cn":"湖北",
     "city":"Qianjiang",
     "province":"Hubei",
-    "cure":"168",
+    "cure":"172",
     "death":"9",
     "case":"198",
-    "remain":"21"
+    "remain":"17"
     }
   },
   {
@@ -895,10 +895,10 @@
     "province_cn":"河南",
     "city":"Jiyuan",
     "province":"Henan",
-    "cure":"4",
+    "cure":"5",
     "death":"0",
     "case":"5",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -913,10 +913,10 @@
     "province_cn":"广东",
     "city":"Shenzhen",
     "province":"Guangdong",
-    "cure":"368",
+    "cure":"373",
     "death":"3",
     "case":"419",
-    "remain":"48"
+    "remain":"43"
     }
   },
   {
@@ -931,10 +931,10 @@
     "province_cn":"广东",
     "city":"Guangzhou",
     "province":"Guangdong",
-    "cure":"321",
+    "cure":"322",
     "death":"1",
     "case":"347",
-    "remain":"25"
+    "remain":"24"
     }
   },
   {
@@ -1022,9 +1022,9 @@
     "city":"Shaoguan",
     "province":"Guangdong",
     "cure":"9",
-    "death":"0",
+    "death":"1",
     "case":"10",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -1273,10 +1273,10 @@
     "province_cn":"浙江",
     "city":"Taizhou",
     "province":"Zhejiang",
-    "cure":"137",
+    "cure":"139",
     "death":"0",
     "case":"146",
-    "remain":"9"
+    "remain":"7"
     }
   },
   {
@@ -1291,10 +1291,10 @@
     "province_cn":"浙江",
     "city":"Hangzhou",
     "province":"Zhejiang",
-    "cure":"163",
+    "cure":"166",
     "death":"0",
     "case":"169",
-    "remain":"6"
+    "remain":"3"
     }
   },
   {
@@ -1309,10 +1309,10 @@
     "province_cn":"浙江",
     "city":"Wenzhou",
     "province":"Zhejiang",
-    "cure":"489",
+    "cure":"493",
     "death":"1",
     "case":"504",
-    "remain":"14"
+    "remain":"10"
     }
   },
   {
@@ -1327,10 +1327,10 @@
     "province_cn":"浙江",
     "city":"Ningbo",
     "province":"Zhejiang",
-    "cure":"155",
+    "cure":"157",
     "death":"0",
     "case":"157",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -1345,10 +1345,10 @@
     "province_cn":"浙江",
     "city":"Jiaxing",
     "province":"Zhejiang",
-    "cure":"42",
+    "cure":"43",
     "death":"0",
     "case":"45",
-    "remain":"3"
+    "remain":"2"
     }
   },
   {
@@ -1471,10 +1471,10 @@
     "province_cn":"重庆",
     "city":"Wanzhou",
     "province":"Chongqing",
-    "cure":"109",
+    "cure":"111",
     "death":"4",
     "case":"118",
-    "remain":"5"
+    "remain":"3"
     }
   },
   {
@@ -1579,10 +1579,10 @@
     "province_cn":"重庆",
     "city":"Shizhu",
     "province":"Chongqing",
-    "cure":"14",
+    "cure":"15",
     "death":"0",
     "case":"15",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -1597,10 +1597,10 @@
     "province_cn":"重庆",
     "city":"Chongqing",
     "province":"Chongqing",
-    "cure":"777",
-    "death":"9",
-    "case":"1083",
-    "remain":"297"
+    "cure":"888",
+    "death":"10",
+    "case":"1204",
+    "remain":"306"
     }
   },
   {
@@ -1633,10 +1633,10 @@
     "province_cn":"重庆",
     "city":"Dianjiang",
     "province":"Chongqing",
-    "cure":"19",
+    "cure":"20",
     "death":"0",
     "case":"20",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -1651,10 +1651,10 @@
     "province_cn":"重庆",
     "city":"Yunyang",
     "province":"Chongqing",
-    "cure":"24",
+    "cure":"25",
     "death":"0",
     "case":"25",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -1741,10 +1741,10 @@
     "province_cn":"重庆",
     "city":"Fengjie",
     "province":"Chongqing",
-    "cure":"20",
+    "cure":"22",
     "death":"0",
     "case":"22",
-    "remain":"2"
+    "remain":"0"
     }
   },
   {
@@ -1813,10 +1813,10 @@
     "province_cn":"重庆",
     "city":"Dazu",
     "province":"Chongqing",
-    "cure":"12",
+    "cure":"13",
     "death":"0",
     "case":"14",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -1885,10 +1885,10 @@
     "province_cn":"重庆",
     "city":"Tongnan",
     "province":"Chongqing",
-    "cure":"14",
+    "cure":"15",
     "death":"0",
     "case":"18",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -1903,10 +1903,10 @@
     "province_cn":"重庆",
     "city":"Tongliang",
     "province":"Chongqing",
-    "cure":"8",
+    "cure":"9",
     "death":"0",
     "case":"10",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -1921,10 +1921,10 @@
     "province_cn":"重庆",
     "city":"Qijiang",
     "province":"Chongqing",
-    "cure":"19",
+    "cure":"20",
     "death":"0",
     "case":"23",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -1957,10 +1957,10 @@
     "province_cn":"重庆",
     "city":"Banan",
     "province":"Chongqing",
-    "cure":"4",
+    "cure":"5",
     "death":"0",
     "case":"6",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -2011,10 +2011,10 @@
     "province_cn":"重庆",
     "city":"Rongchang",
     "province":"Chongqing",
-    "cure":"7",
+    "cure":"8",
     "death":"0",
     "case":"9",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -2047,10 +2047,10 @@
     "province_cn":"北京",
     "city":"Beijing",
     "province":"Beijing",
-    "cure":"63",
+    "cure":"70",
     "death":"0",
-    "case":"2494",
-    "remain":"2431"
+    "case":"2778",
+    "remain":"2708"
     }
   },
   {
@@ -2227,10 +2227,10 @@
     "province_cn":"上海",
     "city":"Shanghai",
     "province":"Shanghai",
-    "cure":"314",
+    "cure":"315",
     "death":"3",
     "case":"342",
-    "remain":"25"
+    "remain":"24"
     }
   },
   {
@@ -2317,10 +2317,10 @@
     "province_cn":"山东",
     "city":"Jining",
     "province":"Shandong",
-    "cure":"178",
+    "cure":"229",
     "death":"0",
     "case":"260",
-    "remain":"82"
+    "remain":"31"
     }
   },
   {
@@ -2335,10 +2335,10 @@
     "province_cn":"山东",
     "city":"Jinan",
     "province":"Shandong",
-    "cure":"43",
+    "cure":"44",
     "death":"0",
     "case":"47",
-    "remain":"4"
+    "remain":"3"
     }
   },
   {
@@ -2353,10 +2353,10 @@
     "province_cn":"山东",
     "city":"Dezhou",
     "province":"Shandong",
-    "cure":"29",
+    "cure":"31",
     "death":"2",
     "case":"37",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -2371,10 +2371,10 @@
     "province_cn":"山东",
     "city":"Weifang",
     "province":"Shandong",
-    "cure":"41",
+    "cure":"44",
     "death":"0",
     "case":"44",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -2389,10 +2389,10 @@
     "province_cn":"山东",
     "city":"Yantai",
     "province":"Shandong",
-    "cure":"42",
+    "cure":"43",
     "death":"0",
     "case":"47",
-    "remain":"5"
+    "remain":"4"
     }
   },
   {
@@ -2911,10 +2911,10 @@
     "province_cn":"江西",
     "city":"Jiujiang",
     "province":"Jiangxi",
-    "cure":"112",
+    "cure":"113",
     "death":"0",
     "case":"118",
-    "remain":"6"
+    "remain":"5"
     }
   },
   {
@@ -2947,10 +2947,10 @@
     "province_cn":"江西",
     "city":"Xinyu",
     "province":"Jiangxi",
-    "cure":"127",
+    "cure":"130",
     "death":"0",
     "case":"130",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -3721,10 +3721,10 @@
     "province_cn":"江苏",
     "city":"Suzhou",
     "province":"Jiangsu",
-    "cure":"80",
+    "cure":"84",
     "death":"0",
     "case":"87",
-    "remain":"7"
+    "remain":"3"
     }
   },
   {
@@ -3739,10 +3739,10 @@
     "province_cn":"江苏",
     "city":"Lianyungang",
     "province":"Jiangsu",
-    "cure":"45",
+    "cure":"47",
     "death":"0",
     "case":"48",
-    "remain":"3"
+    "remain":"1"
     }
   },
   {
@@ -3865,10 +3865,10 @@
     "province_cn":"江苏",
     "city":"Huai An",
     "province":"Jiangsu",
-    "cure":"63",
+    "cure":"66",
     "death":"0",
     "case":"66",
-    "remain":"3"
+    "remain":"0"
     }
   },
   {
@@ -4621,10 +4621,10 @@
     "province_cn":"天津",
     "city":"Tianjin",
     "province":"Tianjin",
-    "cure":"128",
+    "cure":"130",
     "death":"3",
     "case":"136",
-    "remain":"5"
+    "remain":"3"
     }
   },
   {
@@ -4783,10 +4783,10 @@
     "province_cn":"黑龙江",
     "city":"Jixi",
     "province":"Heilongjiang",
-    "cure":"41",
+    "cure":"43",
     "death":"0",
     "case":"46",
-    "remain":"5"
+    "remain":"3"
     }
   },
   {
@@ -4855,10 +4855,10 @@
     "province_cn":"山西",
     "city":"Jinzhong",
     "province":"Shanxi",
-    "cure":"32",
+    "cure":"33",
     "death":"0",
     "case":"37",
-    "remain":"5"
+    "remain":"4"
     }
   },
   {
@@ -5449,9 +5449,9 @@
     "province_cn":"香港",
     "city":"Hong Kong",
     "province":"Hong Kong SAR",
-    "cure":"58",
+    "cure":"59",
     "death":"3",
-    "case":"114",
+    "case":"115",
     "remain":"53"
     }
   },
@@ -5503,10 +5503,10 @@
     "province_cn":"贵州",
     "city":"Qiannan",
     "province":"Guizhou",
-    "cure":"15",
+    "cure":"16",
     "death":"0",
     "case":"17",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -5575,10 +5575,10 @@
     "province_cn":"贵州",
     "city":"Zunyi",
     "province":"Guizhou",
-    "cure":"21",
+    "cure":"24",
     "death":"0",
     "case":"32",
-    "remain":"11"
+    "remain":"8"
     }
   },
   {
@@ -5593,10 +5593,10 @@
     "province_cn":"贵州",
     "city":"Bijie",
     "province":"Guizhou",
-    "cure":"17",
+    "cure":"19",
     "death":"0",
     "case":"23",
-    "remain":"6"
+    "remain":"4"
     }
   },
   {
@@ -5647,10 +5647,10 @@
     "province_cn":"吉林",
     "city":"Changchun",
     "province":"Jilin",
-    "cure":"44",
+    "cure":"45",
     "death":"0",
     "case":"45",
-    "remain":"1"
+    "remain":"0"
     }
   },
   {
@@ -6115,10 +6115,10 @@
     "province_cn":"台湾",
     "city":"__",
     "province":"Taiwan (ROC)",
-    "cure":"13",
+    "cure":"15",
     "death":"1",
     "case":"45",
-    "remain":"31"
+    "remain":"29"
     }
   },
   {
@@ -6296,7 +6296,7 @@
     "city":"Huyanghe (The 7th Division)",
     "province":"Xinjiang",
     "cure":"1",
-    "death":"o",
+    "death":"0",
     "case":"1",
     "remain":"0"
     }
@@ -6403,10 +6403,10 @@
     "province_cn":"四川",
     "city":"Chengdu",
     "province":"Sichuan",
-    "cure":"101",
+    "cure":"102",
     "death":"3",
     "case":"144",
-    "remain":"40"
+    "remain":"39"
     }
   },
   {
@@ -6691,10 +6691,10 @@
     "province_cn":"四川",
     "city":"Ziyang",
     "province":"Sichuan",
-    "cure":"2",
+    "cure":"3",
     "death":"0",
     "case":"4",
-    "remain":"2"
+    "remain":"1"
     }
   },
   {
@@ -6800,9 +6800,9 @@
     "city":"France",
     "province":"France",
     "cure":"12",
-    "death":"19",
-    "case":"1126",
-    "remain":"1095"
+    "death":"25",
+    "case":"1412",
+    "remain":"1375"
     }
   },
   {
@@ -6819,8 +6819,8 @@
     "province":"Germany",
     "cure":"14",
     "death":"0",
-    "case":"902",
-    "remain":"888"
+    "case":"1112",
+    "remain":"1098"
     }
   },
   {
@@ -6909,8 +6909,8 @@
     "province":"Malaysia",
     "cure":"23",
     "death":"0",
-    "case":"93",
-    "remain":"70"
+    "case":"117",
+    "remain":"94"
     }
   },
   {
@@ -6943,10 +6943,10 @@
     "province_cn":"韩国",
     "city":"South Korea",
     "province":"South Korea",
-    "cure":"108",
-    "death":"50",
-    "case":"7313",
-    "remain":"7155"
+    "cure":"166",
+    "death":"53",
+    "case":"7478",
+    "remain":"7259"
     }
   },
   {
@@ -6962,333 +6962,9 @@
     "city":"Japan",
     "province":"Japan",
     "cure":"46",
-    "death":"7",
-    "case":"494",
-    "remain":"441"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 147.4,-32.1 ]
-    },
-    "properties": {
-    "FIELD1":388,
-    "city_cn":"新南威尔士州",
-    "province_cn":"澳大利亚",
-    "city":"New South Wales",
-    "province":"Australia",
-    "cure":"4",
-    "death":"0",
-    "case":"38",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 144.5,-37 ]
-    },
-    "properties": {
-    "FIELD1":389,
-    "city_cn":"维多利亚州",
-    "province_cn":"澳大利亚",
-    "city":"Victoria",
-    "province":"Australia",
-    "cure":"4",
-    "death":"0",
-    "case":"10",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 146.260643,-23.200961 ]
-    },
-    "properties": {
-    "FIELD1":390,
-    "city_cn":"昆士兰州",
-    "province_cn":"澳大利亚",
-    "city":"Queensland",
-    "province":"Australia",
-    "cure":"8",
-    "death":"0",
-    "case":"15",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 134.736328,-29.864316 ]
-    },
-    "properties": {
-    "FIELD1":391,
-    "city_cn":"南澳大利亚州",
-    "province_cn":"澳大利亚",
-    "city":"South Australia",
-    "province":"Australia",
-    "cure":"2",
-    "death":"0",
-    "case":"7",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.255859,47.582142 ]
-    },
-    "properties": {
-    "FIELD1":392,
-    "city_cn":"华盛顿州西雅图",
-    "province_cn":"美国",
-    "city":"Seattle",
-    "province":"USA",
-    "cure":"1",
-    "death":"17",
-    "case":"83",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.967669,37.370946 ]
-    },
-    "properties": {
-    "FIELD1":393,
-    "city_cn":"加利福尼亚州圣克拉拉",
-    "province_cn":"美国",
-    "city":"Santa Clara",
-    "province":"USA",
-    "cure":"1",
-    "death":"0",
-    "case":"38",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.08186,36.509685 ]
-    },
-    "properties": {
-    "FIELD1":394,
-    "city_cn":"加利福尼亚州圣本尼托",
-    "province_cn":"美国",
-    "city":"San Benito",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -118.270397,33.906896 ]
-    },
-    "properties": {
-    "FIELD1":395,
-    "city_cn":"加利福尼亚州洛杉矶",
-    "province_cn":"美国",
-    "city":"Los Angeles",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"14",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.946564,33.427564 ]
-    },
-    "properties": {
-    "FIELD1":396,
-    "city_cn":"亚利桑那州坦普",
-    "province_cn":"美国",
-    "city":"Tempe",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.957123,41.265679 ]
-    },
-    "properties": {
-    "FIELD1":397,
-    "city_cn":"内布拉斯加州奥马哈",
-    "province_cn":"美国",
-    "city":"Omaha",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"14",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -87.6489,41.748 ]
-    },
-    "properties": {
-    "FIELD1":398,
-    "city_cn":"伊利诺伊州芝加哥",
-    "province_cn":"美国",
-    "city":"Chicago",
-    "province":"USA",
-    "cure":"2",
-    "death":"0",
-    "case":"7",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -89.410129,43.062382 ]
-    },
-    "properties": {
-    "FIELD1":399,
-    "city_cn":"威斯康辛州麦迪逊",
-    "province_cn":"美国",
-    "city":"Madison",
-    "province":"USA",
-    "cure":"1",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -71.107678,42.358544 ]
-    },
-    "properties": {
-    "FIELD1":400,
-    "city_cn":"马萨诸塞州波士顿",
-    "province_cn":"美国",
-    "city":"Boston",
-    "province":"USA",
-    "cure":"1",
-    "death":"0",
-    "case":"8",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -98.489771,29.408573 ]
-    },
-    "properties": {
-    "FIELD1":401,
-    "city_cn":"得克萨斯州圣安东尼奥",
-    "province_cn":"美国",
-    "city":"San Antonio",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.76939,33.64136 ]
-    },
-    "properties": {
-    "FIELD1":402,
-    "city_cn":"加利福尼亚州奥兰治",
-    "province_cn":"美国",
-    "city":"Orange",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"3",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.13623,32.743248 ]
-    },
-    "properties": {
-    "FIELD1":403,
-    "city_cn":"加利福尼亚州圣迭戈",
-    "province_cn":"美国",
-    "city":"San Diego",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"3",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -79.448919,43.675818 ]
-    },
-    "properties": {
-    "FIELD1":404,
-    "city_cn":"安大略省多伦多",
-    "province_cn":"加拿大",
-    "city":"Toronto",
-    "province":"Canada",
-    "cure":"3",
-    "death":"0",
-    "case":"28",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.254883,42.995074 ]
-    },
-    "properties": {
-    "FIELD1":405,
-    "city_cn":"安大略省伦敦",
-    "province_cn":"加拿大",
-    "city":"London",
-    "province":"Canada",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
+    "death":"9",
+    "case":"514",
+    "remain":"459"
     }
   },
   {
@@ -7307,24 +6983,6 @@
     "death":"0",
     "case":"1",
     "remain":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.954693,49.2371 ]
-    },
-    "properties": {
-    "FIELD1":407,
-    "city_cn":"不列颠哥伦比亚省温哥华",
-    "province_cn":"加拿大",
-    "city":"Vancouver",
-    "province":"Canada",
-    "cure":"4",
-    "death":"0",
-    "case":"27",
-    "remain":"NA"
     }
   },
   {
@@ -7359,8 +7017,8 @@
     "province":"Finland",
     "cure":"1",
     "death":"0",
-    "case":"25",
-    "remain":"24"
+    "case":"30",
+    "remain":"29"
     }
   },
   {
@@ -7466,9 +7124,9 @@
     "city":"Spain",
     "province":"Spain",
     "cure":"2",
-    "death":"17",
-    "case":"589",
-    "remain":"570"
+    "death":"28",
+    "case":"1204",
+    "remain":"1174"
     }
   },
   {
@@ -7485,8 +7143,8 @@
     "province":"Sweden",
     "cure":"0",
     "death":"0",
-    "case":"161",
-    "remain":"161"
+    "case":"213",
+    "remain":"213"
     }
   },
   {
@@ -7503,8 +7161,8 @@
     "province":"Belgium",
     "cure":"1",
     "death":"0",
-    "case":"169",
-    "remain":"168"
+    "case":"239",
+    "remain":"238"
     }
   },
   {
@@ -7519,10 +7177,10 @@
     "province_cn":"埃及",
     "city":"Egypt",
     "province":"Egypt",
-    "cure":"1",
+    "cure":"12",
     "death":"0",
-    "case":"33",
-    "remain":"32"
+    "case":"55",
+    "remain":"43"
     }
   },
   {
@@ -7555,10 +7213,10 @@
     "province_cn":"伊朗",
     "city":"Iran",
     "province":"Iran",
-    "cure":"2134",
-    "death":"194",
-    "case":"6566",
-    "remain":"4238"
+    "cure":"2194",
+    "death":"237",
+    "case":"7161",
+    "remain":"4730"
     }
   },
   {
@@ -7573,82 +7231,10 @@
     "province_cn":"浙江",
     "city":"Shilifeng Prison",
     "province":"Zhejiang",
-    "cure":"31",
+    "cure":"34",
     "death":"0",
     "case":"36",
-    "remain":"5"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.486816,38.579238 ]
-    },
-    "properties": {
-    "FIELD1":422,
-    "city_cn":"加利福尼亚州萨克拉门托",
-    "province_cn":"美国",
-    "city":"Sacramento",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -98.591309,29.395112 ]
-    },
-    "properties": {
-    "FIELD1":423,
-    "city_cn":"得克萨斯州拉克兰",
-    "province_cn":"美国",
-    "city":"Lackland",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.942749,38.258052 ]
-    },
-    "properties": {
-    "FIELD1":424,
-    "city_cn":"加利福尼亚州特拉维斯空军基地",
-    "province_cn":"美国",
-    "city":"Travis AFB",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"5",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -123.943877,40.737644 ]
-    },
-    "properties": {
-    "FIELD1":425,
-    "city_cn":"加利福尼亚州洪堡",
-    "province_cn":"美国",
-    "city":"Humboldt",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
+    "remain":"2"
     }
   },
   {
@@ -7753,10 +7339,10 @@
     "province_cn":"巴林",
     "city":"Barin",
     "province":"Barin",
-    "cure":"4",
+    "cure":"14",
     "death":"0",
-    "case":"77",
-    "remain":"73"
+    "case":"109",
+    "remain":"95"
     }
   },
   {
@@ -7827,8 +7413,8 @@
     "province":"Nigeria",
     "cure":"0",
     "death":"0",
-    "case":"1",
-    "remain":"1"
+    "case":"2",
+    "remain":"2"
     }
   },
   {
@@ -7863,8 +7449,8 @@
     "province":"Iceland",
     "cure":"0",
     "death":"0",
-    "case":"55",
-    "remain":"55"
+    "case":"58",
+    "remain":"58"
     }
   },
   {
@@ -8258,9 +7844,9 @@
     "city":"Switzerland",
     "province":"Switzerland",
     "cure":"3",
-    "death":"1",
-    "case":"228",
-    "remain":"224"
+    "death":"2",
+    "case":"312",
+    "remain":"307"
     }
   },
   {
@@ -8295,8 +7881,8 @@
     "province":"Saudi",
     "cure":"0",
     "death":"0",
-    "case":"7",
-    "remain":"7"
+    "case":"20",
+    "remain":"20"
     }
   },
   {
@@ -8331,8 +7917,8 @@
     "province":"Tunisia",
     "cure":"0",
     "death":"0",
-    "case":"1",
-    "remain":"1"
+    "case":"2",
+    "remain":"2"
     }
   },
   {
@@ -8457,8 +8043,8 @@
     "province":"Costa Rica",
     "cure":"0",
     "death":"0",
-    "case":"1",
-    "remain":"1"
+    "case":"9",
+    "remain":"9"
     }
   },
   {
@@ -8547,8 +8133,8 @@
     "province":"Portugal",
     "cure":"0",
     "death":"0",
-    "case":"15",
-    "remain":"15"
+    "case":"30",
+    "remain":"30"
     }
   },
   {
@@ -8727,8 +8313,8 @@
     "province":"Hungary",
     "cure":"0",
     "death":"0",
-    "case":"7",
-    "remain":"7"
+    "case":"9",
+    "remain":"9"
     }
   },
   {
@@ -8745,8 +8331,8 @@
     "province":"Latvia",
     "cure":"0",
     "death":"0",
-    "case":"2",
-    "remain":"2"
+    "case":"6",
+    "remain":"6"
     }
   },
   {
@@ -8817,8 +8403,8 @@
     "province":"Slovakia",
     "cure":"0",
     "death":"0",
-    "case":"5",
-    "remain":"5"
+    "case":"7",
+    "remain":"7"
     }
   },
   {
@@ -8843,774 +8429,144 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.654919,45.496782 ]
+       "coordinates":  [ 25.4858,42.7339 ]
     },
     "properties": {
     "FIELD1":492,
-    "city_cn":"魁北克省蒙特利尔",
-    "province_cn":"加拿大",
-    "city":"Montreal",
-    "province":"Canada",
+    "city_cn":"保加利亚",
+    "province_cn":"保加利亚",
+    "city":"Bulgaria",
+    "province":"Bulgaria",
     "cure":"0",
     "death":"0",
-    "case":"1",
-    "remain":"NA"
+    "case":"2",
+    "remain":"2"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -121.772461,47.869323 ]
+       "coordinates":  [ 28.3699,47.4116 ]
     },
     "properties": {
     "FIELD1":493,
-    "city_cn":"华盛顿州斯诺霍米什",
-    "province_cn":"美国",
-    "city":"Snohomish",
-    "province":"USA",
+    "city_cn":"摩尔多瓦",
+    "province_cn":"摩尔多瓦",
+    "city":"Moldova",
+    "province":"Moldova",
     "cure":"0",
-    "death":"1",
-    "case":"31",
-    "remain":"NA"
+    "death":"0",
+    "case":"1",
+    "remain":"1"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.697887,45.503399 ]
+       "coordinates":  [ 114.598,4.61 ]
     },
     "properties": {
     "FIELD1":494,
-    "city_cn":"俄勒冈州波特兰",
-    "province_cn":"美国",
-    "city":"Portland",
-    "province":"USA",
+    "city_cn":"文莱",
+    "province_cn":"文莱",
+    "city":"Brunei",
+    "province":"Brunei",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"1"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -71.433105,41.829 ]
+       "coordinates":  [ 90.3563,23.685 ]
+    },
+    "properties": {
+    "FIELD1":null,
+    "city_cn":"孟加拉国",
+    "province_cn":"孟加拉国",
+    "city":"Bangladesh",
+    "province":"Bangladesh",
+    "cure":"",
+    "death":"",
+    "case":"",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.17,40.626 ]
     },
     "properties": {
     "FIELD1":495,
-    "city_cn":"罗德岛州普罗维登斯",
-    "province_cn":"美国",
-    "city":"Provicence",
-    "province":"USA",
+    "city_cn":"阿尔巴尼亚",
+    "province_cn":"阿尔巴尼亚",
+    "city":"Albania",
+    "province":"Albania",
     "cure":"0",
     "death":"0",
-    "case":"3",
-    "remain":"NA"
+    "case":"2",
+    "remain":"2"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -71.12,42.1686 ]
+       "coordinates":  [ -5.3536,36.1408 ]
     },
     "properties": {
     "FIELD1":496,
-    "city_cn":"马萨诸塞州诺福克",
-    "province_cn":"美国",
-    "city":"Norfolk",
-    "province":"USA",
+    "city_cn":"直布罗陀",
+    "province_cn":"直布罗陀",
+    "city":"Gibratar",
+    "province":"Gibratar",
     "cure":"0",
     "death":"0",
-    "case":"6",
-    "remain":"NA"
+    "case":"1",
+    "remain":"1"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.980035,40.76 ]
+       "coordinates":  [ -63.06,18.05 ]
     },
     "properties": {
     "FIELD1":497,
-    "city_cn":"纽约州纽约城",
-    "province_cn":"美国",
-    "city":"NYC",
-    "province":"USA",
+    "city_cn":"圣马丁",
+    "province_cn":"圣马丁",
+    "city":"St Martin",
+    "province":"St Martin",
     "cure":"0",
     "death":"0",
-    "case":"16",
-    "remain":"NA"
+    "case":"2",
+    "remain":"2"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -84.39276,33.760882 ]
+       "coordinates":  [ -53.1258,3.9339 ]
     },
     "properties": {
     "FIELD1":498,
-    "city_cn":"佐治亚州亚特兰大",
-    "province_cn":"美国",
-    "city":"Atlanta",
-    "province":"USA",
+    "city_cn":"法属圭亚那",
+    "province_cn":"法属圭亚那",
+    "city":"French Guyana",
+    "province":"French Guyana",
     "cure":"0",
     "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -82.49784,27.35 ]
-    },
-    "properties": {
-    "FIELD1":499,
-    "city_cn":"佛罗里达州萨拉索塔",
-    "province_cn":"美国",
-    "city":"Sarasota",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -82.492,27.974 ]
-    },
-    "properties": {
-    "FIELD1":500,
-    "city_cn":"佛罗里达州坦帕",
-    "province_cn":"美国",
-    "city":"Tampa",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -119.327896,45.9171 ]
-    },
-    "properties": {
-    "FIELD1":501,
-    "city_cn":"俄勒冈州巫马提拉",
-    "province_cn":"美国",
-    "city":"Umatilla",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -120.743472,39.0144 ]
-    },
-    "properties": {
-    "FIELD1":502,
-    "city_cn":"加利福尼亚州普莱瑟尔",
-    "province_cn":"美国",
-    "city":"Placer",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -71.966776,43.577929 ]
-    },
-    "properties": {
-    "FIELD1":503,
-    "city_cn":"新罕布夏州格拉夫顿",
-    "province_cn":"美国",
-    "city":"Grafton",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -78.635931,35.782171 ]
-    },
-    "properties": {
-    "FIELD1":504,
-    "city_cn":"北卡罗来纳州罗利",
-    "province_cn":"美国",
-    "city":"Raleigh",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.73299,41.119514 ]
-    },
-    "properties": {
-    "FIELD1":505,
-    "city_cn":"纽约州西切斯特",
-    "province_cn":"美国",
-    "city":"Westhester",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"83",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.24131,33.37067 ]
-    },
-    "properties": {
-    "FIELD1":506,
-    "city_cn":"亚利桑那州马里科巴",
-    "province_cn":"美国",
-    "city":"Maricopa",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.255859,37.88 ]
-    },
-    "properties": {
-    "FIELD1":507,
-    "city_cn":"加利福尼亚州伯克利",
-    "province_cn":"美国",
-    "city":"Berkeley",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.991097,38.4621 ]
-    },
-    "properties": {
-    "FIELD1":508,
-    "city_cn":"加利福尼亚州索诺玛",
-    "province_cn":"美国",
-    "city":"Somoma",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 146.317291,-42.293 ]
-    },
-    "properties": {
-    "FIELD1":509,
-    "city_cn":"塔斯马尼亚",
-    "province_cn":"澳大利亚",
-    "city":"Tasmania",
-    "province":"Australia",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 115.916,-31.9464 ]
-    },
-    "properties": {
-    "FIELD1":510,
-    "city_cn":"珀斯",
-    "province_cn":"澳大利亚",
-    "city":"Perth",
-    "province":"Australia",
-    "cure":"0",
-    "death":"1",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.43,37.757 ]
-    },
-    "properties": {
-    "FIELD1":511,
-    "city_cn":"加利福尼亚州旧金山",
-    "province_cn":"美国",
-    "city":"San Francisco",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"9",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -119.589217,40.596 ]
-    },
-    "properties": {
-    "FIELD1":512,
-    "city_cn":"内华达州沃休",
-    "province_cn":"美国",
-    "city":"Washoe County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.097,36.261992 ]
-    },
-    "properties": {
-    "FIELD1":513,
-    "city_cn":"内华达州拉斯维加斯",
-    "province_cn":"美国",
-    "city":"Las Vegas ",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.75,29.525 ]
-    },
-    "properties": {
-    "FIELD1":514,
-    "city_cn":"得克萨斯州本德堡",
-    "province_cn":"美国",
-    "city":"Fort Bend",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"6",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.314636,29.783 ]
-    },
-    "properties": {
-    "FIELD1":515,
-    "city_cn":"得克萨斯州休斯敦",
-    "province_cn":"美国",
-    "city":"Houston",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"3",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -87.049765,30.65 ]
-    },
-    "properties": {
-    "FIELD1":516,
-    "city_cn":"佛罗里达州圣塔罗萨",
-    "province_cn":"美国",
-    "city":"Santa Rosa FL",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -85.2336,34.33 ]
-    },
-    "properties": {
-    "FIELD1":517,
-    "city_cn":"佐治亚州佛洛依德郡",
-    "province_cn":"美国",
-    "city":"Floyd County Georgia",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -86.907298,35.8797 ]
-    },
-    "properties": {
-    "FIELD1":518,
-    "city_cn":"田纳西州威廉姆森郡",
-    "province_cn":"美国",
-    "city":"Williamson County TN",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -79.230932,35.696 ]
-    },
-    "properties": {
-    "FIELD1":519,
-    "city_cn":"北卡罗来纳州查塔姆",
-    "province_cn":"美国",
-    "city":"Chatham County NC",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.406,39.934 ]
-    },
-    "properties": {
-    "FIELD1":520,
-    "city_cn":"宾夕法尼亚州特拉华郡",
-    "province_cn":"美国",
-    "city":"Delaware County PA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.207868,39.144 ]
-    },
-    "properties": {
-    "FIELD1":521,
-    "city_cn":"马里兰州蒙哥马利郡",
-    "province_cn":"美国",
-    "city":"Montgomery County MD",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"3",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.274712,41.617 ]
-    },
-    "properties": {
-    "FIELD1":522,
-    "city_cn":"宾夕法尼亚州韦恩县",
-    "province_cn":"美国",
-    "city":"Wayne PA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.0832,40.948 ]
-    },
-    "properties": {
-    "FIELD1":523,
-    "city_cn":"新泽西州贝尔金县",
-    "province_cn":"美国",
-    "city":"Bergen NJ",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.5864,40.744 ]
-    },
-    "properties": {
-    "FIELD1":524,
-    "city_cn":"纽约州拿骚",
-    "province_cn":"美国",
-    "city":"Nassau NY",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"4",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -71.018,42.07 ]
-    },
-    "properties": {
-    "FIELD1":525,
-    "city_cn":"马萨诸塞州布洛克敦",
-    "province_cn":"美国",
-    "city":"Brockton",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -71.4592,42.447 ]
-    },
-    "properties": {
-    "FIELD1":526,
-    "city_cn":"马萨诸塞州中赛克斯",
-    "province_cn":"美国",
-    "city":"Middlesex MA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"7",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -84.506836,38.0367 ]
-    },
-    "properties": {
-    "FIELD1":527,
-    "city_cn":"肯塔基州列克星敦",
-    "province_cn":"美国",
-    "city":"Lexington KY",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -86.205,39.791 ]
-    },
-    "properties": {
-    "FIELD1":528,
-    "city_cn":"印第安纳州印第安阿波利斯",
-    "province_cn":"美国",
-    "city":"Indianapolis",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -104.94,39.69 ]
-    },
-    "properties": {
-    "FIELD1":529,
-    "city_cn":"科罗拉多州丹佛",
-    "province_cn":"美国",
-    "city":"Denver",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -104.561083,38.825 ]
-    },
-    "properties": {
-    "FIELD1":530,
-    "city_cn":"科罗拉多州厄尔帕索郡",
-    "province_cn":"美国",
-    "city":"El Paso County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -106.105872,39.64 ]
-    },
-    "properties": {
-    "FIELD1":531,
-    "city_cn":"科罗拉多州萨米特县",
-    "province_cn":"美国",
-    "city":"Summit County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -119.508,47.2979 ]
-    },
-    "properties": {
-    "FIELD1":532,
-    "city_cn":"华盛顿州格兰特县",
-    "province_cn":"美国",
-    "city":"Grant County WA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.086,51 ]
-    },
-    "properties": {
-    "FIELD1":533,
-    "city_cn":"艾伯特省卡尔加里",
-    "province_cn":"加拿大",
-    "city":"Calgary",
-    "province":"Canada",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -93.1059,45 ]
-    },
-    "properties": {
-    "FIELD1":534,
-    "city_cn":"明尼苏达州拉姆塞郡",
-    "province_cn":"美国",
-    "city":"Ramsey County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
+    "case":"5",
+    "remain":"5"
     }
   },
   {
@@ -9620,7 +8576,7 @@
        "coordinates":  [ -62.83,17.9 ]
     },
     "properties": {
-    "FIELD1":535,
+    "FIELD1":499,
     "city_cn":"圣巴泰勒米",
     "province_cn":"圣巴泰勒米",
     "city":"Saint Barthelemy",
@@ -9638,7 +8594,7 @@
        "coordinates":  [ -6.981,62.1441 ]
     },
     "properties": {
-    "FIELD1":536,
+    "FIELD1":500,
     "city_cn":"法罗群岛",
     "province_cn":"法罗群岛",
     "city":"Faroe Islands",
@@ -9653,640 +8609,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -104.99474,39.348 ]
-    },
-    "properties": {
-    "FIELD1":537,
-    "city_cn":"科罗拉多州道格拉斯县",
-    "province_cn":"美国",
-    "city":"Douglas County CO",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"3",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.96283,36.156 ]
-    },
-    "properties": {
-    "FIELD1":538,
-    "city_cn":"俄克拉荷马州塔尔萨",
-    "province_cn":"美国",
-    "city":"Tulsa",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -94.831,38.899 ]
-    },
-    "properties": {
-    "FIELD1":539,
-    "city_cn":"堪萨斯州约翰逊县",
-    "province_cn":"美国",
-    "city":"Johnson County KS",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -90.016,35.16 ]
-    },
-    "properties": {
-    "FIELD1":540,
-    "city_cn":"田纳西州孟菲斯",
-    "province_cn":"美国",
-    "city":"Memphis",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -90.236,38.631 ]
-    },
-    "properties": {
-    "FIELD1":541,
-    "city_cn":"密苏里州圣路易斯",
-    "province_cn":"美国",
-    "city":"St Louis",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -86.5,39.7623 ]
-    },
-    "properties": {
-    "FIELD1":542,
-    "city_cn":"印第安纳州亨德里克斯县",
-    "province_cn":"美国",
-    "city":"Hendricks County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.92992,34.9493 ]
-    },
-    "properties": {
-    "FIELD1":543,
-    "city_cn":"南卡罗来纳州斯巴坦堡",
-    "province_cn":"美国",
-    "city":"Spartanburg",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.58306,34.3423 ]
-    },
-    "properties": {
-    "FIELD1":544,
-    "city_cn":"南卡罗来纳州克尔肖县",
-    "province_cn":"美国",
-    "city":"Kershaw County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"4",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -79.949,32.789584 ]
-    },
-    "properties": {
-    "FIELD1":545,
-    "city_cn":"南卡罗来纳州查尔斯顿",
-    "province_cn":"美国",
-    "city":"Charleston",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -85.172,33.998 ]
-    },
-    "properties": {
-    "FIELD1":546,
-    "city_cn":"佐治亚州波尔克县",
-    "province_cn":"美国",
-    "city":"Polk County GA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -86.594,30.66 ]
-    },
-    "properties": {
-    "FIELD1":547,
-    "city_cn":"佛罗里达州奥卡卢萨县",
-    "province_cn":"美国",
-    "city":"Okaloosa County FL",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -82.43868,27.4274 ]
-    },
-    "properties": {
-    "FIELD1":548,
-    "city_cn":"佛罗里达州曼娜提郡",
-    "province_cn":"美国",
-    "city":"Manatee County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.948,26.553 ]
-    },
-    "properties": {
-    "FIELD1":549,
-    "city_cn":"佛罗里达州李县",
-    "province_cn":"美国",
-    "city":"Lee County FL",
-    "province":"USA",
-    "cure":"0",
-    "death":"1",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.4483,26.15629 ]
-    },
-    "properties": {
-    "FIELD1":550,
-    "city_cn":"佛罗里达州布洛瓦德郡",
-    "province_cn":"美国",
-    "city":"Broward County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.172,29.023 ]
-    },
-    "properties": {
-    "FIELD1":551,
-    "city_cn":"佛罗里达州沃尔卢西亚县",
-    "province_cn":"美国",
-    "city":"Volusia County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.0251,38.904 ]
-    },
-    "properties": {
-    "FIELD1":552,
-    "city_cn":"华盛顿特区",
-    "province_cn":"美国",
-    "city":"Washington DC",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.28,38.8311 ]
-    },
-    "properties": {
-    "FIELD1":553,
-    "city_cn":"弗吉尼亚州费尔法克斯县",
-    "province_cn":"美国",
-    "city":"Fairfax County VA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -76.3,39.48 ]
-    },
-    "properties": {
-    "FIELD1":554,
-    "city_cn":"马里兰州哈尔佛德县",
-    "province_cn":"美国",
-    "city":"Harford County MD",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.356,40.212 ]
-    },
-    "properties": {
-    "FIELD1":555,
-    "city_cn":"宾夕法尼亚州蒙哥马利县",
-    "province_cn":"美国",
-    "city":"Montgomery County PA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"4",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -72.671,40.93 ]
-    },
-    "properties": {
-    "FIELD1":556,
-    "city_cn":"纽约州萨佛克县",
-    "province_cn":"美国",
-    "city":"Suffolk County NY",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.06,41.159 ]
-    },
-    "properties": {
-    "FIELD1":557,
-    "city_cn":"纽约州洛克兰",
-    "province_cn":"美国",
-    "city":"Rockland",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.396,41.3 ]
-    },
-    "properties": {
-    "FIELD1":558,
-    "city_cn":"康涅狄格州费尔菲尔德",
-    "province_cn":"美国",
-    "city":"Fairfield CT",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.346124,41.87 ]
-    },
-    "properties": {
-    "FIELD1":559,
-    "city_cn":"纽约州乌尔斯特县",
-    "province_cn":"美国",
-    "city":"Ulster County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.866686,43.0875 ]
-    },
-    "properties": {
-    "FIELD1":560,
-    "city_cn":"纽约州萨拉托加",
-    "province_cn":"美国",
-    "city":"Saratoga",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -72.542,44.179 ]
-    },
-    "properties": {
-    "FIELD1":561,
-    "city_cn":"佛蒙特州",
-    "province_cn":"美国",
-    "city":"Vermont",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -71.00629,43 ]
-    },
-    "properties": {
-    "FIELD1":562,
-    "city_cn":"新罕布夏州罗金汉姆县",
-    "province_cn":"美国",
-    "city":"Rockingham County NH",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -123.6,47.906 ]
-    },
-    "properties": {
-    "FIELD1":563,
-    "city_cn":"华盛顿州杰斐逊县",
-    "province_cn":"美国",
-    "city":"Jefferson County WA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -120.418,46.983 ]
-    },
-    "properties": {
-    "FIELD1":564,
-    "city_cn":"华盛顿州基提塔斯",
-    "province_cn":"美国",
-    "city":"Kittitas",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.1132,47.067 ]
-    },
-    "properties": {
-    "FIELD1":565,
-    "city_cn":"华盛顿州蒂尔斯县",
-    "province_cn":"美国",
-    "city":"Pierce County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"4",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.431688,47.654 ]
-    },
-    "properties": {
-    "FIELD1":566,
-    "city_cn":"华盛顿州斯波坎县",
-    "province_cn":"美国",
-    "city":"Spokane County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.75,42.5 ]
-    },
-    "properties": {
-    "FIELD1":567,
-    "city_cn":"俄勒冈州杰克逊县",
-    "province_cn":"美国",
-    "city":"Jackson County OR",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"2",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.987,37.91 ]
-    },
-    "properties": {
-    "FIELD1":568,
-    "city_cn":"加利福尼亚康特拉科斯塔县",
-    "province_cn":"美国",
-    "city":"Contra Costa County",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"12",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.39,33.949 ]
-    },
-    "properties": {
-    "FIELD1":569,
-    "city_cn":"加利福尼亚州河滨",
-    "province_cn":"美国",
-    "city":"Riverside CA",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.92,40.86 ]
-    },
-    "properties": {
-    "FIELD1":570,
-    "city_cn":"犹他州戴维斯县",
-    "province_cn":"美国",
-    "city":"Davis County UT",
-    "province":"USA",
-    "cure":"0",
-    "death":"0",
-    "case":"1",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -113.492,53.5561 ]
-    },
-    "properties": {
-    "FIELD1":571,
-    "city_cn":"艾伯塔省埃德蒙顿",
-    "province_cn":"加拿大",
-    "city":"Edmonton",
-    "province":"Canada",
-    "cure":"0",
-    "death":"0",
-    "case":"3",
-    "remain":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -61.019,14.633 ]
     },
     "properties": {
-    "FIELD1":572,
+    "FIELD1":501,
     "city_cn":"马丁尼克",
     "province_cn":"马丁尼克",
     "city":"Martinique",
@@ -10301,18 +8627,2142 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -157.82, 21.34 ]
+       "coordinates":  [ -71.1449,42.1767 ]
     },
     "properties": {
-    "FIELD1":573,
-    "city_cn":"夏威夷州檀香山",
+    "FIELD1":502,
+    "city_cn":" Norfolk County, MA",
     "province_cn":"美国",
-    "city":"Honolulu",
-    "province":"USA",
+    "city":" Norfolk County, MA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"6",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7195,37.6017 ]
+    },
+    "properties": {
+    "FIELD1":503,
+    "city_cn":"Alameda County, CA",
+    "province_cn":"美国",
+    "city":"Alameda County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.077,40.9263 ]
+    },
+    "properties": {
+    "FIELD1":504,
+    "city_cn":"Bergen County, NJ",
+    "province_cn":"美国",
+    "city":"Bergen County, NJ",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"4",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.1822,42.3118 ]
+    },
+    "properties": {
+    "FIELD1":505,
+    "city_cn":"Berkshire County, MA",
+    "province_cn":"美国",
+    "city":"Berkshire County, MA",
+    "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3659,26.1901 ]
+    },
+    "properties": {
+    "FIELD1":506,
+    "city_cn":"Broward County, FL",
+    "province_cn":"美国",
+    "city":"Broward County, FL",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7848,32.7957 ]
+    },
+    "properties": {
+    "FIELD1":507,
+    "city_cn":"Charleston County, SC",
+    "province_cn":"美国",
+    "city":"Charleston County, SC",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1781,35.7211 ]
+    },
+    "properties": {
+    "FIELD1":508,
+    "city_cn":"Chatham County, NC",
+    "province_cn":"美国",
+    "city":"Chatham County, NC",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.094,36.0796 ]
+    },
+    "properties": {
+    "FIELD1":509,
+    "city_cn":"Clark County, NV",
+    "province_cn":"美国",
+    "city":"Clark County, NV",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5194,45.7466 ]
+    },
+    "properties": {
+    "FIELD1":510,
+    "city_cn":"Clark County, WA",
+    "province_cn":"美国",
+    "city":"Clark County, WA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5641,33.8999 ]
+    },
+    "properties": {
+    "FIELD1":511,
+    "city_cn":"Cobb County, GA",
+    "province_cn":"美国",
+    "city":"Cobb County, GA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9018,37.8534 ]
+    },
+    "properties": {
+    "FIELD1":512,
+    "city_cn":"Contra Costa County, CA",
+    "province_cn":"美国",
+    "city":"Contra Costa County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"12",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6976,41.7377 ]
+    },
+    "properties": {
+    "FIELD1":513,
+    "city_cn":"Cook County, IL",
+    "province_cn":"美国",
+    "city":"Cook County, IL",
+    "province":"US",
+    "cure":"2",
+    "death":"0",
+    "case":"7",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.822,36.1343 ]
+    },
+    "properties": {
+    "FIELD1":514,
+    "city_cn":"Davidson County, TN",
+    "province_cn":"美国",
+    "city":"Davidson County, TN",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0953,40.9629 ]
+    },
+    "properties": {
+    "FIELD1":515,
+    "city_cn":"Davis County, UT",
+    "province_cn":"美国",
+    "city":"Davis County, UT",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3879,39.9078 ]
+    },
+    "properties": {
+    "FIELD1":516,
+    "city_cn":"Delaware County, PA",
+    "province_cn":"美国",
+    "city":"Delaware County, PA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9903,39.7392 ]
+    },
+    "properties": {
+    "FIELD1":517,
+    "city_cn":"Denver County, CO",
+    "province_cn":"美国",
+    "city":"Denver County, CO",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9389,39.2587 ]
+    },
+    "properties": {
+    "FIELD1":518,
+    "city_cn":"Douglas County, CO",
+    "province_cn":"美国",
+    "city":"Douglas County, CO",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"3",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.1951,41.3148 ]
+    },
+    "properties": {
+    "FIELD1":519,
+    "city_cn":"Douglas County, NE",
+    "province_cn":"美国",
+    "city":"Douglas County, NE",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.2492,43.1261 ]
+    },
+    "properties": {
+    "FIELD1":520,
+    "city_cn":"Douglas County, OR",
+    "province_cn":"美国",
+    "city":"Douglas County, OR",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4723,38.9108 ]
+    },
+    "properties": {
+    "FIELD1":521,
+    "city_cn":"El Paso County, CO",
+    "province_cn":"美国",
+    "city":"El Paso County, CO",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2405,38.9085 ]
+    },
+    "properties": {
+    "FIELD1":522,
+    "city_cn":"Fairfax County, VA",
+    "province_cn":"美国",
+    "city":"Fairfax County, VA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.3709,41.256 ]
+    },
+    "properties": {
+    "FIELD1":523,
+    "city_cn":"Fairfield County, CT",
+    "province_cn":"美国",
+    "city":"Fairfield County, CT",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4803,38.0606 ]
+    },
+    "properties": {
+    "FIELD1":524,
+    "city_cn":"Fayette County, KY",
+    "province_cn":"美国",
+    "city":"Fayette County, KY",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.8143,29.5693 ]
+    },
+    "properties": {
+    "FIELD1":525,
+    "city_cn":"Fort Bend County, TX",
+    "province_cn":"美国",
+    "city":"Fort Bend County, TX",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"6",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2321,36.9859 ]
+    },
+    "properties": {
+    "FIELD1":526,
+    "city_cn":"Fresno County, CA",
+    "province_cn":"美国",
+    "city":"Fresno County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3963,33.8034 ]
+    },
+    "properties": {
+    "FIELD1":527,
+    "city_cn":"Fulton County, GA",
+    "province_cn":"美国",
+    "city":"Fulton County, GA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"3",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.826,43.9088 ]
+    },
+    "properties": {
+    "FIELD1":528,
+    "city_cn":"Grafton County, NH",
+    "province_cn":"美国",
+    "city":"Grafton County, NH",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"4",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6655,37.6489 ]
+    },
+    "properties": {
+    "FIELD1":529,
+    "city_cn":"Grand Princess Cruise Ship",
+    "province_cn":"美国",
+    "city":"Grand Princess Cruise Ship",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"21",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.3732,47.1981 ]
+    },
+    "properties": {
+    "FIELD1":530,
+    "city_cn":"Grant County, WA",
+    "province_cn":"美国",
+    "city":"Grant County, WA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.3637,39.5839 ]
+    },
+    "properties": {
+    "FIELD1":531,
+    "city_cn":"Harford County, MD",
+    "province_cn":"美国",
+    "city":"Harford County, MD",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3103,29.7752 ]
+    },
+    "properties": {
+    "FIELD1":532,
+    "city_cn":"Harris County, TX",
+    "province_cn":"美国",
+    "city":"Harris County, TX",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"5",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5401,39.8065 ]
+    },
+    "properties": {
+    "FIELD1":533,
+    "city_cn":"Hendricks County, IN",
+    "province_cn":"美国",
+    "city":"Hendricks County, IN",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3018,27.9904 ]
+    },
+    "properties": {
+    "FIELD1":534,
+    "city_cn":"Hillsborough, FL",
+    "province_cn":"美国",
+    "city":"Hillsborough, FL",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8584,21.307 ]
+    },
+    "properties": {
+    "FIELD1":535,
+    "city_cn":"Honolulu County, HI",
+    "province_cn":"美国",
+    "city":"Honolulu County, HI",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0535,40.7453 ]
+    },
+    "properties": {
+    "FIELD1":536,
+    "city_cn":"Hudson County, NJ",
+    "province_cn":"美国",
+    "city":"Hudson County, NJ",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.8695,40.745 ]
+    },
+    "properties": {
+    "FIELD1":537,
+    "city_cn":"Humboldt County, CA",
+    "province_cn":"美国",
+    "city":"Humboldt County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7647,42.3345 ]
+    },
+    "properties": {
+    "FIELD1":538,
+    "city_cn":"Jackson County, OR ",
+    "province_cn":"美国",
+    "city":"Jackson County, OR ",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.304,47.7425 ]
+    },
+    "properties": {
+    "FIELD1":539,
+    "city_cn":"Jefferson County, WA",
+    "province_cn":"美国",
+    "city":"Jefferson County, WA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.8521,38.8454 ]
+    },
+    "properties": {
+    "FIELD1":540,
+    "city_cn":"Johnson County, KS",
+    "province_cn":"美国",
+    "city":"Johnson County, KS",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5883,34.3672 ]
+    },
+    "properties": {
+    "FIELD1":541,
+    "city_cn":"Kershaw County, SC",
+    "province_cn":"美国",
+    "city":"Kershaw County, SC",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3321,47.6062 ]
+    },
+    "properties": {
+    "FIELD1":542,
+    "city_cn":"King County, WA",
+    "province_cn":"美国",
+    "city":"King County, WA",
+    "province":"US",
+    "cure":"1",
+    "death":"17",
+    "case":"83",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.9319,47.175 ]
+    },
+    "properties": {
+    "FIELD1":543,
+    "city_cn":"Kittitas County, WA",
+    "province_cn":"美国",
+    "city":"Kittitas County, WA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6142,42.6953 ]
+    },
+    "properties": {
+    "FIELD1":544,
+    "city_cn":"Klamath County, OR",
+    "province_cn":"美国",
+    "city":"Klamath County, OR",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.6134,29.3829 ]
+    },
+    "properties": {
+    "FIELD1":545,
+    "city_cn":"Lackland, TX (From Diamond Princess)",
+    "province_cn":"美国",
+    "city":"Lackland, TX (From Diamond Princess)",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"0",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9535,26.663 ]
+    },
+    "properties": {
+    "FIELD1":546,
+    "city_cn":"Lee County, FL",
+    "province_cn":"美国",
+    "city":"Lee County, FL",
+    "province":"US",
+    "cure":"0",
+    "death":"1",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2437,34.0522 ]
+    },
+    "properties": {
+    "FIELD1":547,
+    "city_cn":"Los Angeles, CA",
+    "province_cn":"美国",
+    "city":"Los Angeles, CA",
+    "province":"US",
+    "cure":"1",
+    "death":"0",
+    "case":"14",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.6963,37.2519 ]
+    },
+    "properties": {
+    "FIELD1":548,
+    "city_cn":"Madera County, CA",
+    "province_cn":"美国",
+    "city":"Madera County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4012,43.0731 ]
+    },
+    "properties": {
+    "FIELD1":549,
+    "city_cn":"Madison, WI",
+    "province_cn":"美国",
+    "city":"Madison, WI",
+    "province":"US",
+    "cure":"1",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3452,27.4799 ]
+    },
+    "properties": {
+    "FIELD1":550,
+    "city_cn":"Manatee County, FL",
+    "province_cn":"美国",
+    "city":"Manatee County, FL",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.4291,33.2918 ]
+    },
+    "properties": {
+    "FIELD1":551,
+    "city_cn":"Maricopa County, AZ",
+    "province_cn":"美国",
+    "city":"Maricopa County, AZ",
+    "province":"US",
+    "cure":"1",
+    "death":"0",
+    "case":"3",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1752,39.8362 ]
+    },
+    "properties": {
+    "FIELD1":552,
+    "city_cn":"Marion County, IN",
+    "province_cn":"美国",
+    "city":"Marion County, IN",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5927,44.8446 ]
+    },
+    "properties": {
+    "FIELD1":553,
+    "city_cn":"Marion County, OR",
+    "province_cn":"美国",
+    "city":"Marion County, OR",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2874,42.4672 ]
+    },
+    "properties": {
+    "FIELD1":554,
+    "city_cn":"Middlesex County, MA",
+    "province_cn":"美国",
+    "city":"Middlesex County, MA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"7",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2405,39.1547 ]
+    },
+    "properties": {
+    "FIELD1":555,
+    "city_cn":"Montgomery County, MD",
+    "province_cn":"美国",
+    "city":"Montgomery County, MD",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"4",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3879,40.229 ]
+    },
+    "properties": {
+    "FIELD1":556,
+    "city_cn":"Montgomery County, PA",
+    "province_cn":"美国",
+    "city":"Montgomery County, PA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"4",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4778,30.3213 ]
+    },
+    "properties": {
+    "FIELD1":557,
+    "city_cn":"Montgomery County, TX",
+    "province_cn":"美国",
+    "city":"Montgomery County, TX",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"0",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5594,40.6546 ]
+    },
+    "properties": {
+    "FIELD1":558,
+    "city_cn":"Nassau County, NY",
+    "province_cn":"美国",
+    "city":"Nassau County, NY",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"5",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.006,40.7128 ]
+    },
+    "properties": {
+    "FIELD1":559,
+    "city_cn":"New York County, NY",
+    "province_cn":"美国",
+    "city":"New York County, NY",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"12",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6611,30.5773 ]
+    },
+    "properties": {
+    "FIELD1":560,
+    "city_cn":"Okaloosa County, FL",
+    "province_cn":"美国",
+    "city":"Okaloosa County, FL",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9758,41.2545 ]
+    },
+    "properties": {
+    "FIELD1":561,
+    "city_cn":"Omaha, NE (From Diamond Princess)",
+    "province_cn":"美国",
+    "city":"Omaha, NE (From Diamond Princess)",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"0",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8531,33.7879 ]
+    },
+    "properties": {
+    "FIELD1":562,
+    "city_cn":"Orange County, CA",
+    "province_cn":"美国",
+    "city":"Orange County, CA",
+    "province":"US",
+    "cure":"1",
+    "death":"0",
+    "case":"3",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1295,47.0676 ]
+    },
+    "properties": {
+    "FIELD1":563,
+    "city_cn":"Pierce County, WA",
+    "province_cn":"美国",
+    "city":"Pierce County, WA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"4",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2845,32.8162 ]
+    },
+    "properties": {
+    "FIELD1":564,
+    "city_cn":"Pinal County, AZ",
+    "province_cn":"美国",
+    "city":"Pinal County, AZ",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.8039,39.0916 ]
+    },
+    "properties": {
+    "FIELD1":565,
+    "city_cn":"Placer County, CA",
+    "province_cn":"美国",
+    "city":"Placer County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"1",
+    "case":"5",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7928,42.1615 ]
+    },
+    "properties": {
+    "FIELD1":566,
+    "city_cn":"Plymouth County, MA",
+    "province_cn":"美国",
+    "city":"Plymouth County, MA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1479,34.0132 ]
+    },
+    "properties": {
+    "FIELD1":567,
+    "city_cn":"Polk County, GA",
+    "province_cn":"美国",
+    "city":"Polk County, GA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4774,41.8882 ]
+    },
+    "properties": {
+    "FIELD1":568,
+    "city_cn":"Providence County, RI",
+    "province_cn":"美国",
+    "city":"Providence County, RI",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"3",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0616,44.9964 ]
+    },
+    "properties": {
+    "FIELD1":569,
+    "city_cn":"Ramsey County, MN",
+    "province_cn":"美国",
+    "city":"Ramsey County, MN",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.3961,33.9533 ]
+    },
+    "properties": {
+    "FIELD1":570,
+    "city_cn":"Riverside County, CA",
+    "province_cn":"美国",
+    "city":"Riverside County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0498,42.9931 ]
+    },
+    "properties": {
+    "FIELD1":571,
+    "city_cn":"Rockingham County, NH",
+    "province_cn":"美国",
+    "city":"Rockingham County, NH",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.983,41.1489 ]
+    },
+    "properties": {
+    "FIELD1":572,
+    "city_cn":"Rockland County, NY",
+    "province_cn":"美国",
+    "city":"Rockland County, NY",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3542,38.4747 ]
+    },
+    "properties": {
+    "FIELD1":573,
+    "city_cn":"Sacramento County, CA",
+    "province_cn":"美国",
+    "city":"Sacramento County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4936,29.4241 ]
+    },
+    "properties": {
+    "FIELD1":574,
+    "city_cn":"San Antonio, TX",
+    "province_cn":"美国",
+    "city":"San Antonio, TX",
+    "province":"US",
+    "cure":"1",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.9876,36.5761 ]
+    },
+    "properties": {
+    "FIELD1":575,
+    "city_cn":"San Benito, CA",
+    "province_cn":"美国",
+    "city":"San Benito, CA",
+    "province":"US",
+    "cure":"2",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1611,32.7157 ]
+    },
+    "properties": {
+    "FIELD1":576,
+    "city_cn":"San Diego County, CA",
+    "province_cn":"美国",
+    "city":"San Diego County, CA",
+    "province":"US",
+    "cure":"2",
+    "death":"0",
+    "case":"3",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194,37.7749 ]
+    },
+    "properties": {
+    "FIELD1":577,
+    "city_cn":"San Francisco County, CA",
+    "province_cn":"美国",
+    "city":"San Francisco County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"9",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3255,37.563 ]
+    },
+    "properties": {
+    "FIELD1":578,
+    "city_cn":"San Mateo, CA",
+    "province_cn":"美国",
+    "city":"San Mateo, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9552,37.3541 ]
+    },
+    "properties": {
+    "FIELD1":579,
+    "city_cn":"Santa Clara County, CA",
+    "province_cn":"美国",
+    "city":"Santa Clara County, CA",
+    "province":"US",
+    "cure":"2",
+    "death":"0",
+    "case":"38",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.9824,30.769 ]
+    },
+    "properties": {
+    "FIELD1":580,
+    "city_cn":"Santa Rosa County, FL",
+    "province_cn":"美国",
+    "city":"Santa Rosa County, FL",
+    "province":"US",
+    "cure":"0",
+    "death":"1",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5307,27.3364 ]
+    },
+    "properties": {
+    "FIELD1":581,
+    "city_cn":"Sarasota, FL",
+    "province_cn":"美国",
+    "city":"Sarasota, FL",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.936,43.0324 ]
+    },
+    "properties": {
+    "FIELD1":582,
+    "city_cn":"Saratoga County, NY",
+    "province_cn":"美国",
+    "city":"Saratoga County, NY",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.9253,35.1269 ]
+    },
+    "properties": {
+    "FIELD1":583,
+    "city_cn":"Shelby County, TN",
+    "province_cn":"美国",
+    "city":"Shelby County, TN",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8339,48.033 ]
+    },
+    "properties": {
+    "FIELD1":584,
+    "city_cn":"Snohomish County, WA",
+    "province_cn":"美国",
+    "city":"Snohomish County, WA",
+    "province":"US",
+    "cure":"0",
+    "death":"1",
+    "case":"31",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9888,38.578 ]
+    },
+    "properties": {
+    "FIELD1":585,
+    "city_cn":"Sonoma County, CA",
+    "province_cn":"美国",
+    "city":"Sonoma County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.4225,47.6587 ]
+    },
+    "properties": {
+    "FIELD1":586,
+    "city_cn":"Spokane County, WA",
+    "province_cn":"美国",
+    "city":"Spokane County, WA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.4125,38.6103 ]
+    },
+    "properties": {
+    "FIELD1":587,
+    "city_cn":"St. Louis County, MO",
+    "province_cn":"美国",
+    "city":"St. Louis County, MO",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0589,42.3601 ]
+    },
+    "properties": {
+    "FIELD1":588,
+    "city_cn":"Suffolk County, MA",
+    "province_cn":"美国",
+    "city":"Suffolk County, MA",
+    "province":"US",
+    "cure":"1",
+    "death":"0",
+    "case":"8",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6151,40.9849 ]
+    },
+    "properties": {
+    "FIELD1":589,
+    "city_cn":"Suffolk County, NY",
+    "province_cn":"美国",
+    "city":"Suffolk County, NY",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.064,39.5912 ]
+    },
+    "properties": {
+    "FIELD1":590,
+    "city_cn":"Summit County, CO",
+    "province_cn":"美国",
+    "city":"Summit County, CO",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9399,38.2721 ]
+    },
+    "properties": {
+    "FIELD1":591,
+    "city_cn":"Travis, CA (From Diamond Princess)",
+    "province_cn":"美国",
+    "city":"Travis, CA (From Diamond Princess)",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"0",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.941,36.1593 ]
+    },
+    "properties": {
+    "FIELD1":592,
+    "city_cn":"Tulsa County, OK",
+    "province_cn":"美国",
+    "city":"Tulsa County, OK",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3118,41.8586 ]
+    },
+    "properties": {
+    "FIELD1":593,
+    "city_cn":"Ulster County, NY",
+    "province_cn":"美国",
+    "city":"Ulster County, NY",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.7606,45.775 ]
+    },
+    "properties": {
+    "FIELD1":594,
+    "city_cn":"Umatilla, OR",
+    "province_cn":"美国",
+    "city":"Umatilla, OR",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.638,35.4437 ]
+    },
+    "properties": {
+    "FIELD1":595,
+    "city_cn":"Unassigned Location (From Diamond Princess)",
+    "province_cn":"美国",
+    "city":"Unassigned Location (From Diamond Princess)",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"45",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7563,44.3378 ]
+    },
+    "properties": {
+    "FIELD1":596,
+    "city_cn":"Unassigned Location, VT",
+    "province_cn":"美国",
+    "city":"Unassigned Location, VT",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.7401,47.7511 ]
+    },
+    "properties": {
+    "FIELD1":597,
+    "city_cn":"Unassigned Location, WA",
+    "province_cn":"美国",
+    "city":"Unassigned Location, WA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"5",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3824,42.4072 ]
+    },
+    "properties": {
+    "FIELD1":598,
+    "city_cn":"Unknown Location, MA",
+    "province_cn":"美国",
+    "city":"Unknown Location, MA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0755,29.028 ]
+    },
+    "properties": {
+    "FIELD1":599,
+    "city_cn":"Volusia County, FL",
+    "province_cn":"美国",
+    "city":"Volusia County, FL",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.5661,35.8032 ]
+    },
+    "properties": {
+    "FIELD1":600,
+    "city_cn":"Wake County, NC",
+    "province_cn":"美国",
+    "city":"Wake County, NC",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1386,45.547 ]
+    },
+    "properties": {
+    "FIELD1":601,
+    "city_cn":"Washington County, OR",
+    "province_cn":"美国",
+    "city":"Washington County, OR",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"8",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0369,38.9072 ]
+    },
+    "properties": {
+    "FIELD1":602,
+    "city_cn":"Washington, D.C.",
+    "province_cn":"美国",
+    "city":"Washington, D.C.",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.6035,40.5608 ]
+    },
+    "properties": {
+    "FIELD1":603,
+    "city_cn":"Washoe County, NV",
+    "province_cn":"美国",
+    "city":"Washoe County, NV",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2479,41.6739 ]
+    },
+    "properties": {
+    "FIELD1":604,
+    "city_cn":"Wayne County, PA",
+    "province_cn":"美国",
+    "city":"Wayne County, PA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7949,41.122 ]
+    },
+    "properties": {
+    "FIELD1":605,
+    "city_cn":"Westchester County, NY",
+    "province_cn":"美国",
+    "city":"Westchester County, NY",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"83",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.8622,35.9179 ]
+    },
+    "properties": {
+    "FIELD1":606,
+    "city_cn":"Williamson County, TN",
+    "province_cn":"美国",
+    "city":"Williamson County, TN",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9018,38.7646 ]
+    },
+    "properties": {
+    "FIELD1":607,
+    "city_cn":"Yolo County, CA",
+    "province_cn":"美国",
+    "city":"Yolo County, CA",
+    "province":"US",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5673,45.5017 ]
+    },
+    "properties": {
+    "FIELD1":608,
+    "city_cn":"蒙特利尔",
+    "province_cn":"加拿大",
+    "city":" Montreal, QC",
+    "province":"Canada",
+    "cure":"0",
+    "death":"0",
+    "case":"4",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1207,49.2827 ]
+    },
+    "properties": {
+    "FIELD1":609,
+    "city_cn":"英属哥伦比亚",
+    "province_cn":"加拿大",
+    "city":"British Columbia",
+    "province":"Canada",
+    "cure":"5",
+    "death":"0",
+    "case":"27",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0719,51.0447 ]
+    },
+    "properties": {
+    "FIELD1":610,
+    "city_cn":"卡尔加里",
+    "province_cn":"加拿大",
+    "city":"Calgary, Alberta",
+    "province":"Canada",
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4938,53.5461 ]
+    },
+    "properties": {
+    "FIELD1":611,
+    "city_cn":"埃德蒙顿",
+    "province_cn":"加拿大",
+    "city":"Edmonton, Alberta",
+    "province":"Canada",
+    "cure":"0",
+    "death":"0",
+    "case":"3",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2453,42.9849 ]
+    },
+    "properties": {
+    "FIELD1":612,
+    "city_cn":"安大略省伦敦",
+    "province_cn":"加拿大",
+    "city":"London, ON",
+    "province":"Canada",
+    "cure":"1",
+    "death":"0",
+    "case":"1",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3832,43.6532 ]
+    },
+    "properties": {
+    "FIELD1":613,
+    "city_cn":"多伦多",
+    "province_cn":"加拿大",
+    "city":"Toronto, ON",
+    "province":"Canada",
+    "cure":"2",
+    "death":"0",
+    "case":"28",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2093,-33.8688 ]
+    },
+    "properties": {
+    "FIELD1":615,
+    "city_cn":"新南威尔士",
+    "province_cn":"澳大利亚",
+    "city":"New South Wales",
+    "province":"Australia",
+    "cure":"4",
+    "death":"3",
+    "case":"38",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8456,-12.4634 ]
+    },
+    "properties": {
+    "FIELD1":616,
+    "city_cn":"北部地区",
+    "province_cn":"澳大利亚",
+    "city":"Northern Territory",
+    "province":"Australia",
+    "cure":"0",
+    "death":"0",
+    "case":"0",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.4,-28.0167 ]
+    },
+    "properties": {
+    "FIELD1":617,
+    "city_cn":"昆士兰",
+    "province_cn":"澳大利亚",
+    "city":"Queensland",
+    "province":"Australia",
+    "cure":"5",
+    "death":"0",
+    "case":"15",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6007,-34.9285 ]
+    },
+    "properties": {
+    "FIELD1":618,
+    "city_cn":"南澳大利亚",
+    "province_cn":"澳大利亚",
+    "city":"South Australia",
+    "province":"Australia",
+    "cure":"2",
+    "death":"0",
+    "case":"7",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.9707,-41.4545 ]
+    },
+    "properties": {
+    "FIELD1":619,
+    "city_cn":"塔斯马尼亚",
+    "province_cn":"澳大利亚",
+    "city":"Tasmania",
+    "province":"Australia",
+    "cure":"0",
+    "death":"0",
+    "case":"2",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9631,-37.8136 ]
+    },
+    "properties": {
+    "FIELD1":620,
+    "city_cn":"维多利亚",
+    "province_cn":"澳大利亚",
+    "city":"Victoria",
+    "province":"Australia",
+    "cure":"4",
+    "death":"0",
+    "case":"11",
+    "remain":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8605,-31.9505 ]
+    },
+    "properties": {
+    "FIELD1":621,
+    "city_cn":"西澳大利亚",
+    "province_cn":"澳大利亚",
+    "city":"Western Australia",
+    "province":"Australia",
+    "cure":"0",
+    "death":"1",
+    "case":"3",
+    "remain":""
     }
   }
 ]
