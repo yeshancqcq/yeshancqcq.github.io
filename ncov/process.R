@@ -7,10 +7,11 @@ library(stringr)
 #cities <- read_csv("data/cities.csv")
 newdata <- read.csv("data/newdata.csv",encoding="UTF-8")
 data2 <- read.csv("data/data2.csv",encoding="UTF-8")
+placename <- read.csv("data/placename.csv",encoding="UTF-8")
 
 x <- str_detect("string", "t3r")
 
-data3 <- data.frame(city_cn=data2$city_cn,
+data3 <- data.frame(city_cn=NA,
                     province_cn=data2$province_cn,
                     city=data2$city,
                     province=data2$province,
@@ -22,6 +23,15 @@ data3 <- data.frame(city_cn=data2$city_cn,
                     remain=NA)
 
 newdata$check <- 0
+
+for(i in 1:nrow(data2)){
+  for(j in 1:nrow(data3)){
+    if(data2$city[i] == data3$city[j]){
+      data3$city_cn[j] <- toString(data2$city_cn[i])
+    }
+  }
+  cat("finishing", i, "\n")
+}
 
 for(i in 1:nrow(data3)){
   for(k in 1:nrow(newdata)){
@@ -87,6 +97,15 @@ for(k in 1:nrow(data3)){
     data3$remain[k] <- bj_remain
     data3$case[k] <- bj_case
   }
+}
+
+for(i in 1:nrow(data3)){
+  for(j in 1:nrow(placename)){
+    if(placename$english[j] == data3$city[i]){
+      data3$city_cn[i] <- toString(placename$chinese[j])
+    }
+  }
+  cat("finishing", i, "\n")
 }
 
 write.csv(data3, file="data/data4.csv",fileEncoding="UTF-8")

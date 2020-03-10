@@ -549,7 +549,7 @@
     },
     "properties": {
     "FIELD1":31,
-    "city_cn":"潜江",
+    "city_cn":"黔江",
     "province_cn":"湖北",
     "city":"Qianjiang",
     "province":"Hubei",
@@ -1269,7 +1269,7 @@
     },
     "properties": {
     "FIELD1":71,
-    "city_cn":"台州",
+    "city_cn":"泰州",
     "province_cn":"浙江",
     "city":"Taizhou",
     "province":"Zhejiang",
@@ -1665,7 +1665,7 @@
     },
     "properties": {
     "FIELD1":93,
-    "city_cn":"巫溪",
+    "city_cn":"无锡",
     "province_cn":"重庆",
     "city":"Wuxi",
     "province":"Chongqing",
@@ -2763,7 +2763,7 @@
     },
     "properties": {
     "FIELD1":154,
-    "city_cn":"宿州",
+    "city_cn":"苏州",
     "province_cn":"安徽",
     "city":"Suzhou",
     "province":"Anhui",
@@ -2817,7 +2817,7 @@
     },
     "properties": {
     "FIELD1":157,
-    "city_cn":"抚州",
+    "city_cn":"福州",
     "province_cn":"江西",
     "city":"Fuzhou",
     "province":"Jiangxi",
@@ -3159,7 +3159,7 @@
     },
     "properties": {
     "FIELD1":176,
-    "city_cn":"玉林",
+    "city_cn":"榆林",
     "province_cn":"广西",
     "city":"Yulin",
     "province":"Guangxi",
@@ -6974,7 +6974,7 @@
        "coordinates":  [ 85.32,27.69 ]
     },
     "properties": {
-    "FIELD1":406,
+    "FIELD1":388,
     "city_cn":"尼泊尔",
     "province_cn":"尼泊尔",
     "city":"Nepal",
@@ -6992,7 +6992,7 @@
        "coordinates":  [ 12.62,43 ]
     },
     "properties": {
-    "FIELD1":408,
+    "FIELD1":389,
     "city_cn":"意大利",
     "province_cn":"意大利",
     "city":"Italy",
@@ -7010,7 +7010,7 @@
        "coordinates":  [ 26.79,64.36 ]
     },
     "properties": {
-    "FIELD1":409,
+    "FIELD1":390,
     "city_cn":"芬兰",
     "province_cn":"芬兰",
     "city":"Finland",
@@ -7028,7 +7028,7 @@
        "coordinates":  [ 78.2,21.56 ]
     },
     "properties": {
-    "FIELD1":410,
+    "FIELD1":391,
     "city_cn":"印度",
     "province_cn":"印度",
     "city":"India",
@@ -7046,7 +7046,7 @@
        "coordinates":  [ 54.43,23.69 ]
     },
     "properties": {
-    "FIELD1":411,
+    "FIELD1":392,
     "city_cn":"阿联酋",
     "province_cn":"阿联酋",
     "city":"UAE",
@@ -7064,7 +7064,7 @@
        "coordinates":  [ 121.421,16.82048 ]
     },
     "properties": {
-    "FIELD1":412,
+    "FIELD1":393,
     "city_cn":"菲律宾",
     "province_cn":"菲律宾",
     "city":"Philippines",
@@ -7082,7 +7082,7 @@
        "coordinates":  [ 57.3898,62.267923 ]
     },
     "properties": {
-    "FIELD1":413,
+    "FIELD1":394,
     "city_cn":"俄罗斯",
     "province_cn":"俄罗斯",
     "city":"Russia",
@@ -7100,7 +7100,7 @@
        "coordinates":  [ -1.64,53.9 ]
     },
     "properties": {
-    "FIELD1":414,
+    "FIELD1":395,
     "city_cn":"英国",
     "province_cn":"英国",
     "city":"UK",
@@ -7118,7 +7118,7 @@
        "coordinates":  [ -3.7999,40.23 ]
     },
     "properties": {
-    "FIELD1":415,
+    "FIELD1":396,
     "city_cn":"西班牙",
     "province_cn":"西班牙",
     "city":"Spain",
@@ -7136,7 +7136,7 @@
        "coordinates":  [ 15.226,62.75 ]
     },
     "properties": {
-    "FIELD1":416,
+    "FIELD1":397,
     "city_cn":"瑞典",
     "province_cn":"瑞典",
     "city":"Sweden",
@@ -7154,7 +7154,7 @@
        "coordinates":  [ 4.42,50.814 ]
     },
     "properties": {
-    "FIELD1":417,
+    "FIELD1":398,
     "city_cn":"比利时",
     "province_cn":"比利时",
     "city":"Belgium",
@@ -7172,7 +7172,7 @@
        "coordinates":  [ 26.794042,29.882813 ]
     },
     "properties": {
-    "FIELD1":418,
+    "FIELD1":399,
     "city_cn":"埃及",
     "province_cn":"埃及",
     "city":"Egypt",
@@ -7190,7 +7190,7 @@
        "coordinates":  [ 143.085938,35.262441 ]
     },
     "properties": {
-    "FIELD1":419,
+    "FIELD1":400,
     "city_cn":"钻石公主号邮轮",
     "province_cn":"钻石公主号邮轮",
     "city":"Diamond Princess",
@@ -7208,7 +7208,7 @@
        "coordinates":  [ 54.207916,32.546813 ]
     },
     "properties": {
-    "FIELD1":420,
+    "FIELD1":401,
     "city_cn":"伊朗",
     "province_cn":"伊朗",
     "city":"Iran",
@@ -7226,7 +7226,7 @@
        "coordinates":  [ 119.118233,29.008326 ]
     },
     "properties": {
-    "FIELD1":421,
+    "FIELD1":402,
     "city_cn":"省十里丰监狱",
     "province_cn":"浙江",
     "city":"Shilifeng Prison",
@@ -7244,7 +7244,7 @@
        "coordinates":  [ 34.936523,31.470473 ]
     },
     "properties": {
-    "FIELD1":426,
+    "FIELD1":403,
     "city_cn":"以色列",
     "province_cn":"以色列",
     "city":"Israel",
@@ -7262,7 +7262,7 @@
        "coordinates":  [ 56.601,21.414719 ]
     },
     "properties": {
-    "FIELD1":427,
+    "FIELD1":404,
     "city_cn":"阿曼",
     "province_cn":"阿曼",
     "city":"Oman",
@@ -7280,7 +7280,7 @@
        "coordinates":  [ 35.765305,33.765092 ]
     },
     "properties": {
-    "FIELD1":428,
+    "FIELD1":405,
     "city_cn":"黎巴嫩",
     "province_cn":"黎巴嫩",
     "city":"Lebanon",
@@ -7298,7 +7298,7 @@
        "coordinates":  [ 43.730392,32.694866 ]
     },
     "properties": {
-    "FIELD1":429,
+    "FIELD1":406,
     "city_cn":"伊拉克",
     "province_cn":"伊拉克",
     "city":"Iraq",
@@ -7316,7 +7316,7 @@
        "coordinates":  [ 47.999153,29.142689 ]
     },
     "properties": {
-    "FIELD1":430,
+    "FIELD1":407,
     "city_cn":"科威特",
     "province_cn":"科威特",
     "city":"Kuwait",
@@ -7334,7 +7334,7 @@
        "coordinates":  [ 50.559082,26.091861 ]
     },
     "properties": {
-    "FIELD1":431,
+    "FIELD1":408,
     "city_cn":"巴林",
     "province_cn":"巴林",
     "city":"Barin",
@@ -7352,7 +7352,7 @@
        "coordinates":  [ 66.5,34 ]
     },
     "properties": {
-    "FIELD1":432,
+    "FIELD1":409,
     "city_cn":"阿富汗",
     "province_cn":"阿富汗",
     "city":"Afghanistan",
@@ -7370,7 +7370,7 @@
        "coordinates":  [ 21.6,41.52 ]
     },
     "properties": {
-    "FIELD1":433,
+    "FIELD1":410,
     "city_cn":"北马其顿",
     "province_cn":"北马其顿",
     "city":"North Marcedonia",
@@ -7388,7 +7388,7 @@
        "coordinates":  [ 3,29 ]
     },
     "properties": {
-    "FIELD1":434,
+    "FIELD1":411,
     "city_cn":"阿尔及利亚",
     "province_cn":"阿尔及利亚",
     "city":"Algeria",
@@ -7406,7 +7406,7 @@
        "coordinates":  [ 7.5,10 ]
     },
     "properties": {
-    "FIELD1":435,
+    "FIELD1":412,
     "city_cn":"尼日利亚",
     "province_cn":"尼日利亚",
     "city":"Nigeria",
@@ -7424,7 +7424,7 @@
        "coordinates":  [ 23.774414,55.038844 ]
     },
     "properties": {
-    "FIELD1":436,
+    "FIELD1":413,
     "city_cn":"立陶宛",
     "province_cn":"立陶宛",
     "city":"Lietuva",
@@ -7442,7 +7442,7 @@
        "coordinates":  [ -17.9,64.65 ]
     },
     "properties": {
-    "FIELD1":437,
+    "FIELD1":414,
     "city_cn":"冰岛",
     "province_cn":"冰岛",
     "city":"Iceland",
@@ -7460,7 +7460,7 @@
        "coordinates":  [ 7.425385,43.735996 ]
     },
     "properties": {
-    "FIELD1":438,
+    "FIELD1":415,
     "city_cn":"摩纳哥",
     "province_cn":"摩纳哥",
     "city":"Monaco",
@@ -7478,7 +7478,7 @@
        "coordinates":  [ -77.8438,0 ]
     },
     "properties": {
-    "FIELD1":439,
+    "FIELD1":416,
     "city_cn":"厄瓜多尔",
     "province_cn":"厄瓜多尔",
     "city":"Ecuador",
@@ -7496,7 +7496,7 @@
        "coordinates":  [ 6.106317,49.8074 ]
     },
     "properties": {
-    "FIELD1":440,
+    "FIELD1":417,
     "city_cn":"卢森堡",
     "province_cn":"卢森堡",
     "city":"Luxembourg",
@@ -7514,7 +7514,7 @@
        "coordinates":  [ -7.606702,53.120405 ]
     },
     "properties": {
-    "FIELD1":441,
+    "FIELD1":418,
     "city_cn":"爱尔兰",
     "province_cn":"爱尔兰",
     "city":"Ireland",
@@ -7532,7 +7532,7 @@
        "coordinates":  [ 12.47,43.94857 ]
     },
     "properties": {
-    "FIELD1":442,
+    "FIELD1":419,
     "city_cn":"圣马力诺",
     "province_cn":"圣马力诺",
     "city":"San Marino",
@@ -7550,7 +7550,7 @@
        "coordinates":  [ 47.801514,40.443746 ]
     },
     "properties": {
-    "FIELD1":443,
+    "FIELD1":420,
     "city_cn":"阿塞拜疆",
     "province_cn":"阿塞拜疆",
     "city":"Azerbaijan",
@@ -7568,7 +7568,7 @@
        "coordinates":  [ 43.471913,42.02832 ]
     },
     "properties": {
-    "FIELD1":444,
+    "FIELD1":421,
     "city_cn":"格鲁吉亚",
     "province_cn":"格鲁吉亚",
     "city":"Georgia",
@@ -7586,7 +7586,7 @@
        "coordinates":  [ 70.279198,30.221102 ]
     },
     "properties": {
-    "FIELD1":445,
+    "FIELD1":422,
     "city_cn":"巴基斯坦",
     "province_cn":"巴基斯坦",
     "city":"Pakistan",
@@ -7604,7 +7604,7 @@
        "coordinates":  [ 25.035267,45.444717 ]
     },
     "properties": {
-    "FIELD1":446,
+    "FIELD1":423,
     "city_cn":"罗马尼亚",
     "province_cn":"罗马尼亚",
     "city":"Romania",
@@ -7622,7 +7622,7 @@
        "coordinates":  [ -102.207184,23.885838 ]
     },
     "properties": {
-    "FIELD1":447,
+    "FIELD1":424,
     "city_cn":"墨西哥",
     "province_cn":"墨西哥",
     "city":"Mexico",
@@ -7640,7 +7640,7 @@
        "coordinates":  [ 25.603,58.64 ]
     },
     "properties": {
-    "FIELD1":448,
+    "FIELD1":425,
     "city_cn":"爱沙尼亚",
     "province_cn":"爱沙尼亚",
     "city":"Estonia",
@@ -7658,7 +7658,7 @@
        "coordinates":  [ -51.152344,-11.137982 ]
     },
     "properties": {
-    "FIELD1":449,
+    "FIELD1":426,
     "city_cn":"巴西",
     "province_cn":"巴西",
     "city":"Brazil",
@@ -7676,7 +7676,7 @@
        "coordinates":  [ 15.806751,45.460131 ]
     },
     "properties": {
-    "FIELD1":450,
+    "FIELD1":427,
     "city_cn":"克罗地亚",
     "province_cn":"克罗地亚",
     "city":"Crotia",
@@ -7694,7 +7694,7 @@
        "coordinates":  [ 175.78125,-39.452631 ]
     },
     "properties": {
-    "FIELD1":451,
+    "FIELD1":428,
     "city_cn":"新西兰",
     "province_cn":"新西兰",
     "city":"New Zealand",
@@ -7712,7 +7712,7 @@
        "coordinates":  [ 27.913685,53.524085 ]
     },
     "properties": {
-    "FIELD1":452,
+    "FIELD1":429,
     "city_cn":"白俄罗斯",
     "province_cn":"白俄罗斯",
     "city":"Belarus",
@@ -7730,7 +7730,7 @@
        "coordinates":  [ 14.315786,47.598061 ]
     },
     "properties": {
-    "FIELD1":453,
+    "FIELD1":430,
     "city_cn":"奥地利",
     "province_cn":"奥地利",
     "city":"Austria",
@@ -7748,7 +7748,7 @@
        "coordinates":  [ -70.224609,19.03031 ]
     },
     "properties": {
-    "FIELD1":454,
+    "FIELD1":431,
     "city_cn":"多米尼加",
     "province_cn":"多米尼加",
     "city":"Dominican Republic",
@@ -7766,7 +7766,7 @@
        "coordinates":  [ 1.5271,42.533793 ]
     },
     "properties": {
-    "FIELD1":455,
+    "FIELD1":432,
     "city_cn":"安道尔",
     "province_cn":"安道尔",
     "city":"Andorra",
@@ -7784,7 +7784,7 @@
        "coordinates":  [ 15.688477,49.474817 ]
     },
     "properties": {
-    "FIELD1":456,
+    "FIELD1":433,
     "city_cn":"捷克",
     "province_cn":"捷克",
     "city":"Czech",
@@ -7802,7 +7802,7 @@
        "coordinates":  [ 9.975586,56.428902 ]
     },
     "properties": {
-    "FIELD1":457,
+    "FIELD1":434,
     "city_cn":"丹麦",
     "province_cn":"丹麦",
     "city":"Denmark",
@@ -7820,7 +7820,7 @@
        "coordinates":  [ 22.631836,38.91 ]
     },
     "properties": {
-    "FIELD1":458,
+    "FIELD1":435,
     "city_cn":"希腊",
     "province_cn":"希腊",
     "city":"Greece",
@@ -7838,7 +7838,7 @@
        "coordinates":  [ 8.217773,46.818 ]
     },
     "properties": {
-    "FIELD1":459,
+    "FIELD1":436,
     "city_cn":"瑞士",
     "province_cn":"瑞士",
     "city":"Switzerland",
@@ -7856,7 +7856,7 @@
        "coordinates":  [ 44.530249,40.38 ]
     },
     "properties": {
-    "FIELD1":460,
+    "FIELD1":437,
     "city_cn":"亚美尼亚",
     "province_cn":"亚美尼亚",
     "city":"Armenia",
@@ -7874,7 +7874,7 @@
        "coordinates":  [ 44.5,25 ]
     },
     "properties": {
-    "FIELD1":461,
+    "FIELD1":438,
     "city_cn":"沙特阿拉伯",
     "province_cn":"沙特阿拉伯",
     "city":"Saudi",
@@ -7892,7 +7892,7 @@
        "coordinates":  [ -14.292526,14.9971 ]
     },
     "properties": {
-    "FIELD1":462,
+    "FIELD1":439,
     "city_cn":"塞内加尔",
     "province_cn":"塞内加尔",
     "city":"Senegal",
@@ -7910,7 +7910,7 @@
        "coordinates":  [ 8.931541,34.0162 ]
     },
     "properties": {
-    "FIELD1":463,
+    "FIELD1":440,
     "city_cn":"突尼斯",
     "province_cn":"突尼斯",
     "city":"Tunisia",
@@ -7928,7 +7928,7 @@
        "coordinates":  [ 9.553664,47.1217 ]
     },
     "properties": {
-    "FIELD1":464,
+    "FIELD1":441,
     "city_cn":"列支敦士登",
     "province_cn":"列支敦士登",
     "city":"Liechtenstein",
@@ -7946,7 +7946,7 @@
        "coordinates":  [ -71.048927,-33.358 ]
     },
     "properties": {
-    "FIELD1":465,
+    "FIELD1":442,
     "city_cn":"智利",
     "province_cn":"智利",
     "city":"Chile",
@@ -7964,7 +7964,7 @@
        "coordinates":  [ -64.326324,-36.21 ]
     },
     "properties": {
-    "FIELD1":466,
+    "FIELD1":443,
     "city_cn":"阿根廷",
     "province_cn":"阿根廷",
     "city":"Argentina",
@@ -7982,7 +7982,7 @@
        "coordinates":  [ -7.876511,31.503 ]
     },
     "properties": {
-    "FIELD1":467,
+    "FIELD1":444,
     "city_cn":"摩洛哥",
     "province_cn":"摩洛哥",
     "city":"Morocco",
@@ -8000,7 +8000,7 @@
        "coordinates":  [ 32.695313,48.026213 ]
     },
     "properties": {
-    "FIELD1":468,
+    "FIELD1":445,
     "city_cn":"乌克兰",
     "province_cn":"乌克兰",
     "city":"Ukraine",
@@ -8018,7 +8018,7 @@
        "coordinates":  [ 10.27874,63.1354 ]
     },
     "properties": {
-    "FIELD1":469,
+    "FIELD1":446,
     "city_cn":"挪威",
     "province_cn":"挪威",
     "city":"Norway",
@@ -8036,7 +8036,7 @@
        "coordinates":  [ -83.688526,9.8173 ]
     },
     "properties": {
-    "FIELD1":470,
+    "FIELD1":447,
     "city_cn":"哥斯达黎加",
     "province_cn":"哥斯达黎加",
     "city":"Costa Rica",
@@ -8054,7 +8054,7 @@
        "coordinates":  [ 17.591772,43.96718 ]
     },
     "properties": {
-    "FIELD1":471,
+    "FIELD1":448,
     "city_cn":"波黑",
     "province_cn":"波黑",
     "city":"Bosnia and Herzegovina",
@@ -8072,7 +8072,7 @@
        "coordinates":  [ -73.070412,2.723 ]
     },
     "properties": {
-    "FIELD1":472,
+    "FIELD1":449,
     "city_cn":"哥伦比亚",
     "province_cn":"哥伦比亚",
     "city":"Colombia",
@@ -8090,7 +8090,7 @@
        "coordinates":  [ 14.875488,45.9464 ]
     },
     "properties": {
-    "FIELD1":473,
+    "FIELD1":450,
     "city_cn":"斯洛文尼亚",
     "province_cn":"斯洛文尼亚",
     "city":"Slovenia",
@@ -8108,7 +8108,7 @@
        "coordinates":  [ 35.304565,32.0005 ]
     },
     "properties": {
-    "FIELD1":474,
+    "FIELD1":451,
     "city_cn":"巴勒斯坦",
     "province_cn":"巴勒斯坦",
     "city":"Palestine",
@@ -8126,7 +8126,7 @@
        "coordinates":  [ -8.596,39.571822 ]
     },
     "properties": {
-    "FIELD1":475,
+    "FIELD1":452,
     "city_cn":"葡萄牙",
     "province_cn":"葡萄牙",
     "city":"Portugal",
@@ -8141,28 +8141,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -123.371143,37.37 ]
-    },
-    "properties": {
-    "FIELD1":476,
-    "city_cn":"至尊公主邮轮",
-    "province_cn":"至尊公主邮轮",
-    "city":"Grand Princess",
-    "province":"Grand Princess",
-    "cure":"0",
-    "death":"0",
-    "case":"21",
-    "remain":"21"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -75.4,-10.43 ]
     },
     "properties": {
-    "FIELD1":477,
+    "FIELD1":454,
     "city_cn":"秘鲁",
     "province_cn":"秘鲁",
     "city":"Peru",
@@ -8180,7 +8162,7 @@
        "coordinates":  [ 23.7,-31.539 ]
     },
     "properties": {
-    "FIELD1":478,
+    "FIELD1":455,
     "city_cn":"南非",
     "province_cn":"南非",
     "city":"South Africa",
@@ -8198,7 +8180,7 @@
        "coordinates":  [ 20.755835,44.2137 ]
     },
     "properties": {
-    "FIELD1":479,
+    "FIELD1":456,
     "city_cn":"塞尔维亚",
     "province_cn":"塞尔维亚",
     "city":"Serbia",
@@ -8216,7 +8198,7 @@
        "coordinates":  [ 12.453003,41.903 ]
     },
     "properties": {
-    "FIELD1":480,
+    "FIELD1":457,
     "city_cn":"梵蒂冈",
     "province_cn":"梵蒂冈",
     "city":"Vatican",
@@ -8234,7 +8216,7 @@
        "coordinates":  [ 12.771,4.74 ]
     },
     "properties": {
-    "FIELD1":481,
+    "FIELD1":458,
     "city_cn":"喀麦隆",
     "province_cn":"喀麦隆",
     "city":"Cameroon",
@@ -8252,7 +8234,7 @@
        "coordinates":  [ 1.12592,8.015 ]
     },
     "properties": {
-    "FIELD1":482,
+    "FIELD1":459,
     "city_cn":"多哥",
     "province_cn":"多哥",
     "city":"Togo",
@@ -8270,7 +8252,7 @@
        "coordinates":  [ 19.254013,51.719 ]
     },
     "properties": {
-    "FIELD1":483,
+    "FIELD1":460,
     "city_cn":"波兰",
     "province_cn":"波兰",
     "city":"Poland",
@@ -8288,7 +8270,7 @@
        "coordinates":  [ 14.479,35.87 ]
     },
     "properties": {
-    "FIELD1":484,
+    "FIELD1":461,
     "city_cn":"马耳他",
     "province_cn":"马耳他",
     "city":"Malta",
@@ -8306,7 +8288,7 @@
        "coordinates":  [ 19.06394,46.93 ]
     },
     "properties": {
-    "FIELD1":485,
+    "FIELD1":462,
     "city_cn":"匈牙利",
     "province_cn":"匈牙利",
     "city":"Hungary",
@@ -8324,7 +8306,7 @@
        "coordinates":  [ 25.839844,57.07 ]
     },
     "properties": {
-    "FIELD1":486,
+    "FIELD1":463,
     "city_cn":"拉脱维亚",
     "province_cn":"拉脱维亚",
     "city":"Latvia",
@@ -8342,7 +8324,7 @@
        "coordinates":  [ 90.46,27.3327 ]
     },
     "properties": {
-    "FIELD1":487,
+    "FIELD1":464,
     "city_cn":"不丹",
     "province_cn":"不丹",
     "city":"Bhutan",
@@ -8360,7 +8342,7 @@
        "coordinates":  [ -58.183594,-23.774 ]
     },
     "properties": {
-    "FIELD1":488,
+    "FIELD1":465,
     "city_cn":"巴拉圭",
     "province_cn":"巴拉圭",
     "city":"Paraguay",
@@ -8378,7 +8360,7 @@
        "coordinates":  [ 73.517761,4.178 ]
     },
     "properties": {
-    "FIELD1":489,
+    "FIELD1":466,
     "city_cn":"马尔代夫",
     "province_cn":"马尔代夫",
     "city":"Maldives",
@@ -8396,7 +8378,7 @@
        "coordinates":  [ 19.5724,48.83 ]
     },
     "properties": {
-    "FIELD1":490,
+    "FIELD1":467,
     "city_cn":"斯洛伐克",
     "province_cn":"斯洛伐克",
     "city":"Slovakia",
@@ -8414,7 +8396,7 @@
        "coordinates":  [ 36.271,30.6 ]
     },
     "properties": {
-    "FIELD1":491,
+    "FIELD1":468,
     "city_cn":"约旦",
     "province_cn":"约旦",
     "city":"Jordan",
@@ -8432,7 +8414,7 @@
        "coordinates":  [ 25.4858,42.7339 ]
     },
     "properties": {
-    "FIELD1":492,
+    "FIELD1":469,
     "city_cn":"保加利亚",
     "province_cn":"保加利亚",
     "city":"Bulgaria",
@@ -8450,7 +8432,7 @@
        "coordinates":  [ 28.3699,47.4116 ]
     },
     "properties": {
-    "FIELD1":493,
+    "FIELD1":470,
     "city_cn":"摩尔多瓦",
     "province_cn":"摩尔多瓦",
     "city":"Moldova",
@@ -8468,7 +8450,7 @@
        "coordinates":  [ 114.598,4.61 ]
     },
     "properties": {
-    "FIELD1":494,
+    "FIELD1":471,
     "city_cn":"文莱",
     "province_cn":"文莱",
     "city":"Brunei",
@@ -8486,15 +8468,15 @@
        "coordinates":  [ 90.3563,23.685 ]
     },
     "properties": {
-    "FIELD1":null,
+    "FIELD1":472,
     "city_cn":"孟加拉国",
     "province_cn":"孟加拉国",
     "city":"Bangladesh",
     "province":"Bangladesh",
-    "cure":"",
-    "death":"",
-    "case":"",
-    "remain":""
+    "cure":"0",
+    "death":"0",
+    "case":"1",
+    "remain":"1"
     }
   },
   {
@@ -8504,7 +8486,7 @@
        "coordinates":  [ 20.17,40.626 ]
     },
     "properties": {
-    "FIELD1":495,
+    "FIELD1":473,
     "city_cn":"阿尔巴尼亚",
     "province_cn":"阿尔巴尼亚",
     "city":"Albania",
@@ -8522,7 +8504,7 @@
        "coordinates":  [ -5.3536,36.1408 ]
     },
     "properties": {
-    "FIELD1":496,
+    "FIELD1":474,
     "city_cn":"直布罗陀",
     "province_cn":"直布罗陀",
     "city":"Gibratar",
@@ -8540,7 +8522,7 @@
        "coordinates":  [ -63.06,18.05 ]
     },
     "properties": {
-    "FIELD1":497,
+    "FIELD1":475,
     "city_cn":"圣马丁",
     "province_cn":"圣马丁",
     "city":"St Martin",
@@ -8558,7 +8540,7 @@
        "coordinates":  [ -53.1258,3.9339 ]
     },
     "properties": {
-    "FIELD1":498,
+    "FIELD1":476,
     "city_cn":"法属圭亚那",
     "province_cn":"法属圭亚那",
     "city":"French Guyana",
@@ -8576,7 +8558,7 @@
        "coordinates":  [ -62.83,17.9 ]
     },
     "properties": {
-    "FIELD1":499,
+    "FIELD1":477,
     "city_cn":"圣巴泰勒米",
     "province_cn":"圣巴泰勒米",
     "city":"Saint Barthelemy",
@@ -8584,7 +8566,7 @@
     "cure":"0",
     "death":"0",
     "case":"3",
-    "remain":"NA"
+    "remain":"3"
     }
   },
   {
@@ -8594,7 +8576,7 @@
        "coordinates":  [ -6.981,62.1441 ]
     },
     "properties": {
-    "FIELD1":500,
+    "FIELD1":478,
     "city_cn":"法罗群岛",
     "province_cn":"法罗群岛",
     "city":"Faroe Islands",
@@ -8602,7 +8584,7 @@
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":"NA"
+    "remain":"1"
     }
   },
   {
@@ -8612,7 +8594,7 @@
        "coordinates":  [ -61.019,14.633 ]
     },
     "properties": {
-    "FIELD1":501,
+    "FIELD1":479,
     "city_cn":"马丁尼克",
     "province_cn":"马丁尼克",
     "city":"Martinique",
@@ -8620,7 +8602,7 @@
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":"NA"
+    "remain":"2"
     }
   },
   {
@@ -8630,15 +8612,15 @@
        "coordinates":  [ -71.1449,42.1767 ]
     },
     "properties": {
-    "FIELD1":502,
-    "city_cn":" Norfolk County, MA",
+    "FIELD1":480,
+    "city_cn":"马萨诸塞州诺福克县",
     "province_cn":"美国",
     "city":" Norfolk County, MA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"6",
-    "remain":""
+    "remain":"6"
     }
   },
   {
@@ -8648,15 +8630,15 @@
        "coordinates":  [ -121.7195,37.6017 ]
     },
     "properties": {
-    "FIELD1":503,
-    "city_cn":"Alameda County, CA",
+    "FIELD1":481,
+    "city_cn":"加利福尼亚州阿拉梅达县",
     "province_cn":"美国",
     "city":"Alameda County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -8666,15 +8648,15 @@
        "coordinates":  [ -74.077,40.9263 ]
     },
     "properties": {
-    "FIELD1":504,
-    "city_cn":"Bergen County, NJ",
+    "FIELD1":482,
+    "city_cn":"新泽西州贝尔金县",
     "province_cn":"美国",
     "city":"Bergen County, NJ",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"4",
-    "remain":""
+    "remain":"4"
     }
   },
   {
@@ -8684,15 +8666,15 @@
        "coordinates":  [ -73.1822,42.3118 ]
     },
     "properties": {
-    "FIELD1":505,
-    "city_cn":"Berkshire County, MA",
+    "FIELD1":483,
+    "city_cn":"马萨诸塞州伯克夏县",
     "province_cn":"美国",
     "city":"Berkshire County, MA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8702,15 +8684,15 @@
        "coordinates":  [ -80.3659,26.1901 ]
     },
     "properties": {
-    "FIELD1":506,
-    "city_cn":"Broward County, FL",
+    "FIELD1":484,
+    "city_cn":"佛罗里达州布罗沃德县",
     "province_cn":"美国",
     "city":"Broward County, FL",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -8720,15 +8702,15 @@
        "coordinates":  [ -79.7848,32.7957 ]
     },
     "properties": {
-    "FIELD1":507,
-    "city_cn":"Charleston County, SC",
+    "FIELD1":485,
+    "city_cn":"南卡罗来纳州查尔斯顿",
     "province_cn":"美国",
     "city":"Charleston County, SC",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8738,15 +8720,15 @@
        "coordinates":  [ -79.1781,35.7211 ]
     },
     "properties": {
-    "FIELD1":508,
-    "city_cn":"Chatham County, NC",
+    "FIELD1":486,
+    "city_cn":"北卡罗来纳州查特汉姆县",
     "province_cn":"美国",
     "city":"Chatham County, NC",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8756,15 +8738,15 @@
        "coordinates":  [ -115.094,36.0796 ]
     },
     "properties": {
-    "FIELD1":509,
-    "city_cn":"Clark County, NV",
+    "FIELD1":487,
+    "city_cn":"内华达州拉斯维加斯",
     "province_cn":"美国",
     "city":"Clark County, NV",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -8774,15 +8756,15 @@
        "coordinates":  [ -122.5194,45.7466 ]
     },
     "properties": {
-    "FIELD1":510,
-    "city_cn":"Clark County, WA",
+    "FIELD1":488,
+    "city_cn":"华盛顿州克拉克县",
     "province_cn":"美国",
     "city":"Clark County, WA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8792,15 +8774,15 @@
        "coordinates":  [ -84.5641,33.8999 ]
     },
     "properties": {
-    "FIELD1":511,
-    "city_cn":"Cobb County, GA",
+    "FIELD1":489,
+    "city_cn":"佐治亚州科布县",
     "province_cn":"美国",
     "city":"Cobb County, GA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8810,15 +8792,15 @@
        "coordinates":  [ -121.9018,37.8534 ]
     },
     "properties": {
-    "FIELD1":512,
-    "city_cn":"Contra Costa County, CA",
+    "FIELD1":490,
+    "city_cn":"加利福尼亚州康特拉科斯塔县",
     "province_cn":"美国",
     "city":"Contra Costa County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"12",
-    "remain":""
+    "remain":"12"
     }
   },
   {
@@ -8828,15 +8810,15 @@
        "coordinates":  [ -87.6976,41.7377 ]
     },
     "properties": {
-    "FIELD1":513,
-    "city_cn":"Cook County, IL",
+    "FIELD1":491,
+    "city_cn":"伊利诺伊州库克县",
     "province_cn":"美国",
     "city":"Cook County, IL",
     "province":"US",
     "cure":"2",
     "death":"0",
     "case":"7",
-    "remain":""
+    "remain":"5"
     }
   },
   {
@@ -8846,15 +8828,15 @@
        "coordinates":  [ -86.822,36.1343 ]
     },
     "properties": {
-    "FIELD1":514,
-    "city_cn":"Davidson County, TN",
+    "FIELD1":492,
+    "city_cn":"田纳西州戴维森县",
     "province_cn":"美国",
     "city":"Davidson County, TN",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8864,15 +8846,15 @@
        "coordinates":  [ -112.0953,40.9629 ]
     },
     "properties": {
-    "FIELD1":515,
-    "city_cn":"Davis County, UT",
+    "FIELD1":493,
+    "city_cn":"犹他州戴维县",
     "province_cn":"美国",
     "city":"Davis County, UT",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8882,15 +8864,15 @@
        "coordinates":  [ -75.3879,39.9078 ]
     },
     "properties": {
-    "FIELD1":516,
-    "city_cn":"Delaware County, PA",
+    "FIELD1":494,
+    "city_cn":"宾夕法尼亚州特拉华县",
     "province_cn":"美国",
     "city":"Delaware County, PA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8900,15 +8882,15 @@
        "coordinates":  [ -104.9903,39.7392 ]
     },
     "properties": {
-    "FIELD1":517,
-    "city_cn":"Denver County, CO",
+    "FIELD1":495,
+    "city_cn":"科罗拉多州丹佛",
     "province_cn":"美国",
     "city":"Denver County, CO",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -8918,15 +8900,15 @@
        "coordinates":  [ -104.9389,39.2587 ]
     },
     "properties": {
-    "FIELD1":518,
-    "city_cn":"Douglas County, CO",
+    "FIELD1":496,
+    "city_cn":"科罗拉刀子道格拉斯县",
     "province_cn":"美国",
     "city":"Douglas County, CO",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"3",
-    "remain":""
+    "remain":"3"
     }
   },
   {
@@ -8936,15 +8918,15 @@
        "coordinates":  [ -96.1951,41.3148 ]
     },
     "properties": {
-    "FIELD1":519,
-    "city_cn":"Douglas County, NE",
+    "FIELD1":497,
+    "city_cn":"内布拉斯加州道格拉斯县",
     "province_cn":"美国",
     "city":"Douglas County, NE",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8954,15 +8936,15 @@
        "coordinates":  [ -123.2492,43.1261 ]
     },
     "properties": {
-    "FIELD1":520,
-    "city_cn":"Douglas County, OR",
+    "FIELD1":498,
+    "city_cn":"俄勒冈州道格拉斯县",
     "province_cn":"美国",
     "city":"Douglas County, OR",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8972,15 +8954,15 @@
        "coordinates":  [ -104.4723,38.9108 ]
     },
     "properties": {
-    "FIELD1":521,
-    "city_cn":"El Paso County, CO",
+    "FIELD1":499,
+    "city_cn":"科罗拉多州厄尔帕索县",
     "province_cn":"美国",
     "city":"El Paso County, CO",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -8990,15 +8972,15 @@
        "coordinates":  [ -77.2405,38.9085 ]
     },
     "properties": {
-    "FIELD1":522,
-    "city_cn":"Fairfax County, VA",
+    "FIELD1":500,
+    "city_cn":"弗吉尼亚州费尔法克斯县",
     "province_cn":"美国",
     "city":"Fairfax County, VA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9008,15 +8990,15 @@
        "coordinates":  [ -73.3709,41.256 ]
     },
     "properties": {
-    "FIELD1":523,
-    "city_cn":"Fairfield County, CT",
+    "FIELD1":501,
+    "city_cn":"康涅狄格州费尔菲尔德县",
     "province_cn":"美国",
     "city":"Fairfield County, CT",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9026,15 +9008,15 @@
        "coordinates":  [ -84.4803,38.0606 ]
     },
     "properties": {
-    "FIELD1":524,
-    "city_cn":"Fayette County, KY",
+    "FIELD1":502,
+    "city_cn":"肯塔基州法耶特县",
     "province_cn":"美国",
     "city":"Fayette County, KY",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9044,15 +9026,15 @@
        "coordinates":  [ -95.8143,29.5693 ]
     },
     "properties": {
-    "FIELD1":525,
-    "city_cn":"Fort Bend County, TX",
+    "FIELD1":503,
+    "city_cn":"得克萨斯州本德堡县",
     "province_cn":"美国",
     "city":"Fort Bend County, TX",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"6",
-    "remain":""
+    "remain":"6"
     }
   },
   {
@@ -9062,15 +9044,15 @@
        "coordinates":  [ -119.2321,36.9859 ]
     },
     "properties": {
-    "FIELD1":526,
-    "city_cn":"Fresno County, CA",
+    "FIELD1":504,
+    "city_cn":"加利福尼亚州弗雷斯诺",
     "province_cn":"美国",
     "city":"Fresno County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9080,15 +9062,15 @@
        "coordinates":  [ -84.3963,33.8034 ]
     },
     "properties": {
-    "FIELD1":527,
-    "city_cn":"Fulton County, GA",
+    "FIELD1":505,
+    "city_cn":"佐治亚州富尔顿县",
     "province_cn":"美国",
     "city":"Fulton County, GA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"3",
-    "remain":""
+    "remain":"3"
     }
   },
   {
@@ -9098,15 +9080,15 @@
        "coordinates":  [ -71.826,43.9088 ]
     },
     "properties": {
-    "FIELD1":528,
-    "city_cn":"Grafton County, NH",
+    "FIELD1":506,
+    "city_cn":"新罕布夏州格拉夫顿县",
     "province_cn":"美国",
     "city":"Grafton County, NH",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"4",
-    "remain":""
+    "remain":"4"
     }
   },
   {
@@ -9116,15 +9098,15 @@
        "coordinates":  [ -122.6655,37.6489 ]
     },
     "properties": {
-    "FIELD1":529,
-    "city_cn":"Grand Princess Cruise Ship",
+    "FIELD1":507,
+    "city_cn":"至尊公主号游轮",
     "province_cn":"美国",
     "city":"Grand Princess Cruise Ship",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"21",
-    "remain":""
+    "remain":"21"
     }
   },
   {
@@ -9134,15 +9116,15 @@
        "coordinates":  [ -119.3732,47.1981 ]
     },
     "properties": {
-    "FIELD1":530,
-    "city_cn":"Grant County, WA",
+    "FIELD1":508,
+    "city_cn":"华盛顿州格兰特县",
     "province_cn":"美国",
     "city":"Grant County, WA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9152,15 +9134,15 @@
        "coordinates":  [ -76.3637,39.5839 ]
     },
     "properties": {
-    "FIELD1":531,
-    "city_cn":"Harford County, MD",
+    "FIELD1":509,
+    "city_cn":"马里兰州哈尔福德县",
     "province_cn":"美国",
     "city":"Harford County, MD",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9170,15 +9152,15 @@
        "coordinates":  [ -95.3103,29.7752 ]
     },
     "properties": {
-    "FIELD1":532,
-    "city_cn":"Harris County, TX",
+    "FIELD1":510,
+    "city_cn":"得克萨斯州哈里斯县",
     "province_cn":"美国",
     "city":"Harris County, TX",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"5",
-    "remain":""
+    "remain":"5"
     }
   },
   {
@@ -9188,15 +9170,15 @@
        "coordinates":  [ -86.5401,39.8065 ]
     },
     "properties": {
-    "FIELD1":533,
-    "city_cn":"Hendricks County, IN",
+    "FIELD1":511,
+    "city_cn":"印第安纳州亨德里克斯县",
     "province_cn":"美国",
     "city":"Hendricks County, IN",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9206,15 +9188,15 @@
        "coordinates":  [ -82.3018,27.9904 ]
     },
     "properties": {
-    "FIELD1":534,
-    "city_cn":"Hillsborough, FL",
+    "FIELD1":512,
+    "city_cn":"佛罗里达州希斯堡",
     "province_cn":"美国",
     "city":"Hillsborough, FL",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9224,15 +9206,15 @@
        "coordinates":  [ -157.8584,21.307 ]
     },
     "properties": {
-    "FIELD1":535,
-    "city_cn":"Honolulu County, HI",
+    "FIELD1":513,
+    "city_cn":"夏威夷州檀香山",
     "province_cn":"美国",
     "city":"Honolulu County, HI",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9242,15 +9224,15 @@
        "coordinates":  [ -74.0535,40.7453 ]
     },
     "properties": {
-    "FIELD1":536,
-    "city_cn":"Hudson County, NJ",
+    "FIELD1":514,
+    "city_cn":"新泽西州哈德逊县",
     "province_cn":"美国",
     "city":"Hudson County, NJ",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9260,15 +9242,15 @@
        "coordinates":  [ -123.8695,40.745 ]
     },
     "properties": {
-    "FIELD1":537,
-    "city_cn":"Humboldt County, CA",
+    "FIELD1":515,
+    "city_cn":"加利福尼亚州洪堡县",
     "province_cn":"美国",
     "city":"Humboldt County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9278,15 +9260,15 @@
        "coordinates":  [ -122.7647,42.3345 ]
     },
     "properties": {
-    "FIELD1":538,
-    "city_cn":"Jackson County, OR ",
+    "FIELD1":516,
+    "city_cn":"俄勒冈州杰克逊县",
     "province_cn":"美国",
     "city":"Jackson County, OR ",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9296,15 +9278,15 @@
        "coordinates":  [ -123.304,47.7425 ]
     },
     "properties": {
-    "FIELD1":539,
-    "city_cn":"Jefferson County, WA",
+    "FIELD1":517,
+    "city_cn":"华盛顿州杰斐逊县",
     "province_cn":"美国",
     "city":"Jefferson County, WA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9314,15 +9296,15 @@
        "coordinates":  [ -94.8521,38.8454 ]
     },
     "properties": {
-    "FIELD1":540,
-    "city_cn":"Johnson County, KS",
+    "FIELD1":518,
+    "city_cn":"堪萨斯州约翰逊县",
     "province_cn":"美国",
     "city":"Johnson County, KS",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9332,15 +9314,15 @@
        "coordinates":  [ -80.5883,34.3672 ]
     },
     "properties": {
-    "FIELD1":541,
-    "city_cn":"Kershaw County, SC",
+    "FIELD1":519,
+    "city_cn":"南卡罗来纳州克尔肖县",
     "province_cn":"美国",
     "city":"Kershaw County, SC",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9350,15 +9332,15 @@
        "coordinates":  [ -122.3321,47.6062 ]
     },
     "properties": {
-    "FIELD1":542,
-    "city_cn":"King County, WA",
+    "FIELD1":520,
+    "city_cn":"华盛顿州西雅图",
     "province_cn":"美国",
     "city":"King County, WA",
     "province":"US",
     "cure":"1",
     "death":"17",
     "case":"83",
-    "remain":""
+    "remain":"65"
     }
   },
   {
@@ -9368,15 +9350,15 @@
        "coordinates":  [ -120.9319,47.175 ]
     },
     "properties": {
-    "FIELD1":543,
-    "city_cn":"Kittitas County, WA",
+    "FIELD1":521,
+    "city_cn":"华盛顿州基提塔斯县",
     "province_cn":"美国",
     "city":"Kittitas County, WA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9386,15 +9368,15 @@
        "coordinates":  [ -121.6142,42.6953 ]
     },
     "properties": {
-    "FIELD1":544,
-    "city_cn":"Klamath County, OR",
+    "FIELD1":522,
+    "city_cn":"俄勒冈州克拉马斯县",
     "province_cn":"美国",
     "city":"Klamath County, OR",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9404,15 +9386,15 @@
        "coordinates":  [ -98.6134,29.3829 ]
     },
     "properties": {
-    "FIELD1":545,
-    "city_cn":"Lackland, TX (From Diamond Princess)",
+    "FIELD1":523,
+    "city_cn":"得克萨斯州拉克兰",
     "province_cn":"美国",
     "city":"Lackland, TX (From Diamond Princess)",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"0",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -9422,15 +9404,15 @@
        "coordinates":  [ -81.9535,26.663 ]
     },
     "properties": {
-    "FIELD1":546,
-    "city_cn":"Lee County, FL",
+    "FIELD1":524,
+    "city_cn":"佛罗里达州李县",
     "province_cn":"美国",
     "city":"Lee County, FL",
     "province":"US",
     "cure":"0",
     "death":"1",
     "case":"2",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9440,15 +9422,15 @@
        "coordinates":  [ -118.2437,34.0522 ]
     },
     "properties": {
-    "FIELD1":547,
-    "city_cn":"Los Angeles, CA",
+    "FIELD1":525,
+    "city_cn":"加利福尼亚州洛杉矶",
     "province_cn":"美国",
     "city":"Los Angeles, CA",
     "province":"US",
     "cure":"1",
     "death":"0",
     "case":"14",
-    "remain":""
+    "remain":"13"
     }
   },
   {
@@ -9458,15 +9440,15 @@
        "coordinates":  [ -119.6963,37.2519 ]
     },
     "properties": {
-    "FIELD1":548,
-    "city_cn":"Madera County, CA",
+    "FIELD1":526,
+    "city_cn":"加利福尼亚州马德拉县",
     "province_cn":"美国",
     "city":"Madera County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9476,15 +9458,15 @@
        "coordinates":  [ -89.4012,43.0731 ]
     },
     "properties": {
-    "FIELD1":549,
-    "city_cn":"Madison, WI",
+    "FIELD1":527,
+    "city_cn":"威斯康辛州麦迪逊",
     "province_cn":"美国",
     "city":"Madison, WI",
     "province":"US",
     "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -9494,15 +9476,15 @@
        "coordinates":  [ -82.3452,27.4799 ]
     },
     "properties": {
-    "FIELD1":550,
-    "city_cn":"Manatee County, FL",
+    "FIELD1":528,
+    "city_cn":"佛罗里达州马那提县",
     "province_cn":"美国",
     "city":"Manatee County, FL",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9512,15 +9494,15 @@
        "coordinates":  [ -112.4291,33.2918 ]
     },
     "properties": {
-    "FIELD1":551,
-    "city_cn":"Maricopa County, AZ",
+    "FIELD1":529,
+    "city_cn":"亚利桑那州马里科巴县",
     "province_cn":"美国",
     "city":"Maricopa County, AZ",
     "province":"US",
     "cure":"1",
     "death":"0",
     "case":"3",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9530,15 +9512,15 @@
        "coordinates":  [ -86.1752,39.8362 ]
     },
     "properties": {
-    "FIELD1":552,
-    "city_cn":"Marion County, IN",
+    "FIELD1":530,
+    "city_cn":"印第安纳州马里昂县",
     "province_cn":"美国",
     "city":"Marion County, IN",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9548,15 +9530,15 @@
        "coordinates":  [ -122.5927,44.8446 ]
     },
     "properties": {
-    "FIELD1":553,
-    "city_cn":"Marion County, OR",
+    "FIELD1":531,
+    "city_cn":"俄勒冈州马里昂县",
     "province_cn":"美国",
     "city":"Marion County, OR",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9566,15 +9548,15 @@
        "coordinates":  [ -71.2874,42.4672 ]
     },
     "properties": {
-    "FIELD1":554,
-    "city_cn":"Middlesex County, MA",
+    "FIELD1":532,
+    "city_cn":"马萨诸塞州中赛克斯县",
     "province_cn":"美国",
     "city":"Middlesex County, MA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"7",
-    "remain":""
+    "remain":"7"
     }
   },
   {
@@ -9584,15 +9566,15 @@
        "coordinates":  [ -77.2405,39.1547 ]
     },
     "properties": {
-    "FIELD1":555,
-    "city_cn":"Montgomery County, MD",
+    "FIELD1":533,
+    "city_cn":"马里兰州蒙哥马利县",
     "province_cn":"美国",
     "city":"Montgomery County, MD",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"4",
-    "remain":""
+    "remain":"4"
     }
   },
   {
@@ -9602,15 +9584,15 @@
        "coordinates":  [ -75.3879,40.229 ]
     },
     "properties": {
-    "FIELD1":556,
-    "city_cn":"Montgomery County, PA",
+    "FIELD1":534,
+    "city_cn":"宾夕法尼亚州蒙哥马利县",
     "province_cn":"美国",
     "city":"Montgomery County, PA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"4",
-    "remain":""
+    "remain":"4"
     }
   },
   {
@@ -9620,15 +9602,15 @@
        "coordinates":  [ -95.4778,30.3213 ]
     },
     "properties": {
-    "FIELD1":557,
-    "city_cn":"Montgomery County, TX",
+    "FIELD1":535,
+    "city_cn":"得克萨斯州蒙哥马利县",
     "province_cn":"美国",
     "city":"Montgomery County, TX",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"0",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -9638,15 +9620,15 @@
        "coordinates":  [ -73.5594,40.6546 ]
     },
     "properties": {
-    "FIELD1":558,
-    "city_cn":"Nassau County, NY",
+    "FIELD1":536,
+    "city_cn":"纽约州拿骚县",
     "province_cn":"美国",
     "city":"Nassau County, NY",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"5",
-    "remain":""
+    "remain":"5"
     }
   },
   {
@@ -9656,15 +9638,15 @@
        "coordinates":  [ -74.006,40.7128 ]
     },
     "properties": {
-    "FIELD1":559,
-    "city_cn":"New York County, NY",
+    "FIELD1":537,
+    "city_cn":"纽约州纽约城",
     "province_cn":"美国",
     "city":"New York County, NY",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"12",
-    "remain":""
+    "remain":"12"
     }
   },
   {
@@ -9674,15 +9656,15 @@
        "coordinates":  [ -86.6611,30.5773 ]
     },
     "properties": {
-    "FIELD1":560,
-    "city_cn":"Okaloosa County, FL",
+    "FIELD1":538,
+    "city_cn":"佛罗里达州奥卡卢萨县",
     "province_cn":"美国",
     "city":"Okaloosa County, FL",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9692,15 +9674,15 @@
        "coordinates":  [ -95.9758,41.2545 ]
     },
     "properties": {
-    "FIELD1":561,
-    "city_cn":"Omaha, NE (From Diamond Princess)",
+    "FIELD1":539,
+    "city_cn":"内布拉斯加州奥马哈",
     "province_cn":"美国",
     "city":"Omaha, NE (From Diamond Princess)",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"0",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -9710,15 +9692,15 @@
        "coordinates":  [ -117.8531,33.7879 ]
     },
     "properties": {
-    "FIELD1":562,
-    "city_cn":"Orange County, CA",
+    "FIELD1":540,
+    "city_cn":"加利福尼亚州奥兰治县",
     "province_cn":"美国",
     "city":"Orange County, CA",
     "province":"US",
     "cure":"1",
     "death":"0",
     "case":"3",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9728,15 +9710,15 @@
        "coordinates":  [ -122.1295,47.0676 ]
     },
     "properties": {
-    "FIELD1":563,
-    "city_cn":"Pierce County, WA",
+    "FIELD1":541,
+    "city_cn":"华盛顿州皮尔斯县",
     "province_cn":"美国",
     "city":"Pierce County, WA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"4",
-    "remain":""
+    "remain":"4"
     }
   },
   {
@@ -9746,15 +9728,15 @@
        "coordinates":  [ -111.2845,32.8162 ]
     },
     "properties": {
-    "FIELD1":564,
-    "city_cn":"Pinal County, AZ",
+    "FIELD1":542,
+    "city_cn":"压力三那种派纳尔县",
     "province_cn":"美国",
     "city":"Pinal County, AZ",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9764,15 +9746,15 @@
        "coordinates":  [ -120.8039,39.0916 ]
     },
     "properties": {
-    "FIELD1":565,
-    "city_cn":"Placer County, CA",
+    "FIELD1":543,
+    "city_cn":"加利福尼亚州普拉瑟尔县",
     "province_cn":"美国",
     "city":"Placer County, CA",
     "province":"US",
     "cure":"0",
     "death":"1",
     "case":"5",
-    "remain":""
+    "remain":"4"
     }
   },
   {
@@ -9782,15 +9764,15 @@
        "coordinates":  [ -70.7928,42.1615 ]
     },
     "properties": {
-    "FIELD1":566,
-    "city_cn":"Plymouth County, MA",
+    "FIELD1":544,
+    "city_cn":"马萨诸塞州普利茅斯县",
     "province_cn":"美国",
     "city":"Plymouth County, MA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9800,15 +9782,15 @@
        "coordinates":  [ -85.1479,34.0132 ]
     },
     "properties": {
-    "FIELD1":567,
-    "city_cn":"Polk County, GA",
+    "FIELD1":545,
+    "city_cn":"佐治亚州波尔克县",
     "province_cn":"美国",
     "city":"Polk County, GA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9818,15 +9800,15 @@
        "coordinates":  [ -71.4774,41.8882 ]
     },
     "properties": {
-    "FIELD1":568,
-    "city_cn":"Providence County, RI",
+    "FIELD1":546,
+    "city_cn":"罗德岛州普罗维登斯",
     "province_cn":"美国",
     "city":"Providence County, RI",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"3",
-    "remain":""
+    "remain":"3"
     }
   },
   {
@@ -9836,15 +9818,15 @@
        "coordinates":  [ -93.0616,44.9964 ]
     },
     "properties": {
-    "FIELD1":569,
-    "city_cn":"Ramsey County, MN",
+    "FIELD1":547,
+    "city_cn":"明尼苏达州明尼阿波利斯",
     "province_cn":"美国",
     "city":"Ramsey County, MN",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9854,15 +9836,15 @@
        "coordinates":  [ -117.3961,33.9533 ]
     },
     "properties": {
-    "FIELD1":570,
-    "city_cn":"Riverside County, CA",
+    "FIELD1":548,
+    "city_cn":"加利福尼亚州河滨",
     "province_cn":"美国",
     "city":"Riverside County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9872,15 +9854,15 @@
        "coordinates":  [ -71.0498,42.9931 ]
     },
     "properties": {
-    "FIELD1":571,
-    "city_cn":"Rockingham County, NH",
+    "FIELD1":549,
+    "city_cn":"新罕布夏州罗金汉姆县",
     "province_cn":"美国",
     "city":"Rockingham County, NH",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9890,15 +9872,15 @@
        "coordinates":  [ -73.983,41.1489 ]
     },
     "properties": {
-    "FIELD1":572,
-    "city_cn":"Rockland County, NY",
+    "FIELD1":550,
+    "city_cn":"纽约州洛克兰县",
     "province_cn":"美国",
     "city":"Rockland County, NY",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9908,15 +9890,15 @@
        "coordinates":  [ -121.3542,38.4747 ]
     },
     "properties": {
-    "FIELD1":573,
-    "city_cn":"Sacramento County, CA",
+    "FIELD1":551,
+    "city_cn":"加利福尼亚州萨克拉门托",
     "province_cn":"美国",
     "city":"Sacramento County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -9926,15 +9908,15 @@
        "coordinates":  [ -98.4936,29.4241 ]
     },
     "properties": {
-    "FIELD1":574,
-    "city_cn":"San Antonio, TX",
+    "FIELD1":552,
+    "city_cn":"得克萨斯州圣安东尼奥",
     "province_cn":"美国",
     "city":"San Antonio, TX",
     "province":"US",
     "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -9944,15 +9926,15 @@
        "coordinates":  [ -120.9876,36.5761 ]
     },
     "properties": {
-    "FIELD1":575,
-    "city_cn":"San Benito, CA",
+    "FIELD1":553,
+    "city_cn":"加利福尼亚州圣本尼托",
     "province_cn":"美国",
     "city":"San Benito, CA",
     "province":"US",
     "cure":"2",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -9962,15 +9944,15 @@
        "coordinates":  [ -117.1611,32.7157 ]
     },
     "properties": {
-    "FIELD1":576,
-    "city_cn":"San Diego County, CA",
+    "FIELD1":554,
+    "city_cn":"加利福尼亚州圣迭戈",
     "province_cn":"美国",
     "city":"San Diego County, CA",
     "province":"US",
     "cure":"2",
     "death":"0",
     "case":"3",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -9980,15 +9962,15 @@
        "coordinates":  [ -122.4194,37.7749 ]
     },
     "properties": {
-    "FIELD1":577,
-    "city_cn":"San Francisco County, CA",
+    "FIELD1":555,
+    "city_cn":"加利福尼亚州旧金山",
     "province_cn":"美国",
     "city":"San Francisco County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"9",
-    "remain":""
+    "remain":"9"
     }
   },
   {
@@ -9998,15 +9980,15 @@
        "coordinates":  [ -122.3255,37.563 ]
     },
     "properties": {
-    "FIELD1":578,
-    "city_cn":"San Mateo, CA",
+    "FIELD1":556,
+    "city_cn":"加利福尼亚州圣马迪奥",
     "province_cn":"美国",
     "city":"San Mateo, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -10016,15 +9998,15 @@
        "coordinates":  [ -121.9552,37.3541 ]
     },
     "properties": {
-    "FIELD1":579,
-    "city_cn":"Santa Clara County, CA",
+    "FIELD1":557,
+    "city_cn":"加利福尼亚州圣克拉拉",
     "province_cn":"美国",
     "city":"Santa Clara County, CA",
     "province":"US",
     "cure":"2",
     "death":"0",
     "case":"38",
-    "remain":""
+    "remain":"36"
     }
   },
   {
@@ -10034,15 +10016,15 @@
        "coordinates":  [ -86.9824,30.769 ]
     },
     "properties": {
-    "FIELD1":580,
-    "city_cn":"Santa Rosa County, FL",
+    "FIELD1":558,
+    "city_cn":"佛罗里达州圣塔罗萨县",
     "province_cn":"美国",
     "city":"Santa Rosa County, FL",
     "province":"US",
     "cure":"0",
     "death":"1",
     "case":"1",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -10052,15 +10034,15 @@
        "coordinates":  [ -82.5307,27.3364 ]
     },
     "properties": {
-    "FIELD1":581,
-    "city_cn":"Sarasota, FL",
+    "FIELD1":559,
+    "city_cn":"佛罗里达州萨拉索塔",
     "province_cn":"美国",
     "city":"Sarasota, FL",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10070,15 +10052,15 @@
        "coordinates":  [ -73.936,43.0324 ]
     },
     "properties": {
-    "FIELD1":582,
-    "city_cn":"Saratoga County, NY",
+    "FIELD1":560,
+    "city_cn":"纽约州萨拉托加县",
     "province_cn":"美国",
     "city":"Saratoga County, NY",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -10088,15 +10070,15 @@
        "coordinates":  [ -89.9253,35.1269 ]
     },
     "properties": {
-    "FIELD1":583,
-    "city_cn":"Shelby County, TN",
+    "FIELD1":561,
+    "city_cn":"田纳西州谢尔比县",
     "province_cn":"美国",
     "city":"Shelby County, TN",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10106,15 +10088,15 @@
        "coordinates":  [ -121.8339,48.033 ]
     },
     "properties": {
-    "FIELD1":584,
-    "city_cn":"Snohomish County, WA",
+    "FIELD1":562,
+    "city_cn":"华盛顿州斯诺霍米什县",
     "province_cn":"美国",
     "city":"Snohomish County, WA",
     "province":"US",
     "cure":"0",
     "death":"1",
     "case":"31",
-    "remain":""
+    "remain":"30"
     }
   },
   {
@@ -10124,15 +10106,15 @@
        "coordinates":  [ -122.9888,38.578 ]
     },
     "properties": {
-    "FIELD1":585,
-    "city_cn":"Sonoma County, CA",
+    "FIELD1":563,
+    "city_cn":"加利福尼亚州索诺玛县",
     "province_cn":"美国",
     "city":"Sonoma County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10142,15 +10124,15 @@
        "coordinates":  [ -117.4225,47.6587 ]
     },
     "properties": {
-    "FIELD1":586,
-    "city_cn":"Spokane County, WA",
+    "FIELD1":564,
+    "city_cn":"华盛顿州斯波坎县",
     "province_cn":"美国",
     "city":"Spokane County, WA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10160,15 +10142,15 @@
        "coordinates":  [ -90.4125,38.6103 ]
     },
     "properties": {
-    "FIELD1":587,
-    "city_cn":"St. Louis County, MO",
+    "FIELD1":565,
+    "city_cn":"密苏里州圣路易斯",
     "province_cn":"美国",
     "city":"St. Louis County, MO",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10178,15 +10160,15 @@
        "coordinates":  [ -71.0589,42.3601 ]
     },
     "properties": {
-    "FIELD1":588,
-    "city_cn":"Suffolk County, MA",
+    "FIELD1":566,
+    "city_cn":"马萨诸塞州萨佛克县",
     "province_cn":"美国",
     "city":"Suffolk County, MA",
     "province":"US",
     "cure":"1",
     "death":"0",
     "case":"8",
-    "remain":""
+    "remain":"7"
     }
   },
   {
@@ -10196,15 +10178,15 @@
        "coordinates":  [ -72.6151,40.9849 ]
     },
     "properties": {
-    "FIELD1":589,
-    "city_cn":"Suffolk County, NY",
+    "FIELD1":567,
+    "city_cn":"纽约州萨佛克县",
     "province_cn":"美国",
     "city":"Suffolk County, NY",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10214,15 +10196,15 @@
        "coordinates":  [ -106.064,39.5912 ]
     },
     "properties": {
-    "FIELD1":590,
-    "city_cn":"Summit County, CO",
+    "FIELD1":568,
+    "city_cn":"科罗拉多州萨米特县",
     "province_cn":"美国",
     "city":"Summit County, CO",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -10232,15 +10214,15 @@
        "coordinates":  [ -121.9399,38.2721 ]
     },
     "properties": {
-    "FIELD1":591,
-    "city_cn":"Travis, CA (From Diamond Princess)",
+    "FIELD1":569,
+    "city_cn":"加利福尼亚州特拉维斯",
     "province_cn":"美国",
     "city":"Travis, CA (From Diamond Princess)",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"0",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -10250,15 +10232,15 @@
        "coordinates":  [ -95.941,36.1593 ]
     },
     "properties": {
-    "FIELD1":592,
-    "city_cn":"Tulsa County, OK",
+    "FIELD1":570,
+    "city_cn":"俄克拉荷马州塔尔萨",
     "province_cn":"美国",
     "city":"Tulsa County, OK",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10268,15 +10250,15 @@
        "coordinates":  [ -74.3118,41.8586 ]
     },
     "properties": {
-    "FIELD1":593,
-    "city_cn":"Ulster County, NY",
+    "FIELD1":571,
+    "city_cn":"纽约州乌尔斯特县",
     "province_cn":"美国",
     "city":"Ulster County, NY",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10286,15 +10268,15 @@
        "coordinates":  [ -118.7606,45.775 ]
     },
     "properties": {
-    "FIELD1":594,
-    "city_cn":"Umatilla, OR",
+    "FIELD1":572,
+    "city_cn":"俄勒冈州巫马提拉",
     "province_cn":"美国",
     "city":"Umatilla, OR",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10304,15 +10286,15 @@
        "coordinates":  [ 139.638,35.4437 ]
     },
     "properties": {
-    "FIELD1":595,
-    "city_cn":"Unassigned Location (From Diamond Princess)",
+    "FIELD1":573,
+    "city_cn":"钻石公主号邮轮",
     "province_cn":"美国",
     "city":"Unassigned Location (From Diamond Princess)",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"45",
-    "remain":""
+    "remain":"45"
     }
   },
   {
@@ -10322,15 +10304,15 @@
        "coordinates":  [ -72.7563,44.3378 ]
     },
     "properties": {
-    "FIELD1":596,
-    "city_cn":"Unassigned Location, VT",
+    "FIELD1":574,
+    "city_cn":"佛蒙特州未知地点",
     "province_cn":"美国",
     "city":"Unassigned Location, VT",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10340,15 +10322,15 @@
        "coordinates":  [ -120.7401,47.7511 ]
     },
     "properties": {
-    "FIELD1":597,
-    "city_cn":"Unassigned Location, WA",
+    "FIELD1":575,
+    "city_cn":"华盛顿州未知地点",
     "province_cn":"美国",
     "city":"Unassigned Location, WA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"5",
-    "remain":""
+    "remain":"5"
     }
   },
   {
@@ -10358,15 +10340,15 @@
        "coordinates":  [ -71.3824,42.4072 ]
     },
     "properties": {
-    "FIELD1":598,
-    "city_cn":"Unknown Location, MA",
+    "FIELD1":576,
+    "city_cn":"马萨诸塞州未知地点",
     "province_cn":"美国",
     "city":"Unknown Location, MA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10376,15 +10358,15 @@
        "coordinates":  [ -81.0755,29.028 ]
     },
     "properties": {
-    "FIELD1":599,
-    "city_cn":"Volusia County, FL",
+    "FIELD1":577,
+    "city_cn":"佛罗里达州沃卢西亚县",
     "province_cn":"美国",
     "city":"Volusia County, FL",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10394,15 +10376,15 @@
        "coordinates":  [ -78.5661,35.8032 ]
     },
     "properties": {
-    "FIELD1":600,
-    "city_cn":"Wake County, NC",
+    "FIELD1":578,
+    "city_cn":"北卡罗来纳州威克县",
     "province_cn":"美国",
     "city":"Wake County, NC",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10412,15 +10394,15 @@
        "coordinates":  [ -123.1386,45.547 ]
     },
     "properties": {
-    "FIELD1":601,
-    "city_cn":"Washington County, OR",
+    "FIELD1":579,
+    "city_cn":"俄勒冈州华盛顿县",
     "province_cn":"美国",
     "city":"Washington County, OR",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"8",
-    "remain":""
+    "remain":"8"
     }
   },
   {
@@ -10430,15 +10412,15 @@
        "coordinates":  [ -77.0369,38.9072 ]
     },
     "properties": {
-    "FIELD1":602,
-    "city_cn":"Washington, D.C.",
+    "FIELD1":580,
+    "city_cn":"华盛顿特区",
     "province_cn":"美国",
     "city":"Washington, D.C.",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -10448,15 +10430,15 @@
        "coordinates":  [ -119.6035,40.5608 ]
     },
     "properties": {
-    "FIELD1":603,
-    "city_cn":"Washoe County, NV",
+    "FIELD1":581,
+    "city_cn":"内华达州沃休县",
     "province_cn":"美国",
     "city":"Washoe County, NV",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -10466,15 +10448,15 @@
        "coordinates":  [ -75.2479,41.6739 ]
     },
     "properties": {
-    "FIELD1":604,
-    "city_cn":"Wayne County, PA",
+    "FIELD1":582,
+    "city_cn":"宾夕法尼亚州韦恩县",
     "province_cn":"美国",
     "city":"Wayne County, PA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10484,15 +10466,15 @@
        "coordinates":  [ -73.7949,41.122 ]
     },
     "properties": {
-    "FIELD1":605,
-    "city_cn":"Westchester County, NY",
+    "FIELD1":583,
+    "city_cn":"纽约州西切斯特县",
     "province_cn":"美国",
     "city":"Westchester County, NY",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"83",
-    "remain":""
+    "remain":"83"
     }
   },
   {
@@ -10502,15 +10484,15 @@
        "coordinates":  [ -86.8622,35.9179 ]
     },
     "properties": {
-    "FIELD1":606,
-    "city_cn":"Williamson County, TN",
+    "FIELD1":584,
+    "city_cn":"田纳西州威廉姆森县",
     "province_cn":"美国",
     "city":"Williamson County, TN",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10520,15 +10502,15 @@
        "coordinates":  [ -121.9018,38.7646 ]
     },
     "properties": {
-    "FIELD1":607,
-    "city_cn":"Yolo County, CA",
+    "FIELD1":585,
+    "city_cn":"加利福尼亚州约洛县",
     "province_cn":"美国",
     "city":"Yolo County, CA",
     "province":"US",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10538,15 +10520,15 @@
        "coordinates":  [ -73.5673,45.5017 ]
     },
     "properties": {
-    "FIELD1":608,
-    "city_cn":"蒙特利尔",
+    "FIELD1":586,
+    "city_cn":"魁北克省蒙特利尔",
     "province_cn":"加拿大",
     "city":" Montreal, QC",
     "province":"Canada",
     "cure":"0",
     "death":"0",
     "case":"4",
-    "remain":""
+    "remain":"4"
     }
   },
   {
@@ -10556,15 +10538,15 @@
        "coordinates":  [ -123.1207,49.2827 ]
     },
     "properties": {
-    "FIELD1":609,
-    "city_cn":"英属哥伦比亚",
+    "FIELD1":587,
+    "city_cn":"英属哥伦比亚省温哥华",
     "province_cn":"加拿大",
     "city":"British Columbia",
     "province":"Canada",
     "cure":"5",
     "death":"0",
     "case":"27",
-    "remain":""
+    "remain":"22"
     }
   },
   {
@@ -10574,15 +10556,15 @@
        "coordinates":  [ -114.0719,51.0447 ]
     },
     "properties": {
-    "FIELD1":610,
-    "city_cn":"卡尔加里",
+    "FIELD1":588,
+    "city_cn":"艾伯塔省卡尔加里",
     "province_cn":"加拿大",
     "city":"Calgary, Alberta",
     "province":"Canada",
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"1"
     }
   },
   {
@@ -10592,15 +10574,15 @@
        "coordinates":  [ -113.4938,53.5461 ]
     },
     "properties": {
-    "FIELD1":611,
-    "city_cn":"埃德蒙顿",
+    "FIELD1":589,
+    "city_cn":"艾伯塔省埃德蒙顿",
     "province_cn":"加拿大",
     "city":"Edmonton, Alberta",
     "province":"Canada",
     "cure":"0",
     "death":"0",
     "case":"3",
-    "remain":""
+    "remain":"3"
     }
   },
   {
@@ -10610,7 +10592,7 @@
        "coordinates":  [ -81.2453,42.9849 ]
     },
     "properties": {
-    "FIELD1":612,
+    "FIELD1":590,
     "city_cn":"安大略省伦敦",
     "province_cn":"加拿大",
     "city":"London, ON",
@@ -10618,7 +10600,7 @@
     "cure":"1",
     "death":"0",
     "case":"1",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -10628,15 +10610,15 @@
        "coordinates":  [ -79.3832,43.6532 ]
     },
     "properties": {
-    "FIELD1":613,
-    "city_cn":"多伦多",
+    "FIELD1":591,
+    "city_cn":"安大略省多伦多",
     "province_cn":"加拿大",
     "city":"Toronto, ON",
     "province":"Canada",
     "cure":"2",
     "death":"0",
     "case":"28",
-    "remain":""
+    "remain":"26"
     }
   },
   {
@@ -10646,7 +10628,7 @@
        "coordinates":  [ 151.2093,-33.8688 ]
     },
     "properties": {
-    "FIELD1":615,
+    "FIELD1":593,
     "city_cn":"新南威尔士",
     "province_cn":"澳大利亚",
     "city":"New South Wales",
@@ -10654,7 +10636,7 @@
     "cure":"4",
     "death":"3",
     "case":"38",
-    "remain":""
+    "remain":"31"
     }
   },
   {
@@ -10664,7 +10646,7 @@
        "coordinates":  [ 130.8456,-12.4634 ]
     },
     "properties": {
-    "FIELD1":616,
+    "FIELD1":594,
     "city_cn":"北部地区",
     "province_cn":"澳大利亚",
     "city":"Northern Territory",
@@ -10672,7 +10654,7 @@
     "cure":"0",
     "death":"0",
     "case":"0",
-    "remain":""
+    "remain":"0"
     }
   },
   {
@@ -10682,7 +10664,7 @@
        "coordinates":  [ 153.4,-28.0167 ]
     },
     "properties": {
-    "FIELD1":617,
+    "FIELD1":595,
     "city_cn":"昆士兰",
     "province_cn":"澳大利亚",
     "city":"Queensland",
@@ -10690,7 +10672,7 @@
     "cure":"5",
     "death":"0",
     "case":"15",
-    "remain":""
+    "remain":"10"
     }
   },
   {
@@ -10700,7 +10682,7 @@
        "coordinates":  [ 138.6007,-34.9285 ]
     },
     "properties": {
-    "FIELD1":618,
+    "FIELD1":596,
     "city_cn":"南澳大利亚",
     "province_cn":"澳大利亚",
     "city":"South Australia",
@@ -10708,7 +10690,7 @@
     "cure":"2",
     "death":"0",
     "case":"7",
-    "remain":""
+    "remain":"5"
     }
   },
   {
@@ -10718,7 +10700,7 @@
        "coordinates":  [ 145.9707,-41.4545 ]
     },
     "properties": {
-    "FIELD1":619,
+    "FIELD1":597,
     "city_cn":"塔斯马尼亚",
     "province_cn":"澳大利亚",
     "city":"Tasmania",
@@ -10726,7 +10708,7 @@
     "cure":"0",
     "death":"0",
     "case":"2",
-    "remain":""
+    "remain":"2"
     }
   },
   {
@@ -10736,7 +10718,7 @@
        "coordinates":  [ 144.9631,-37.8136 ]
     },
     "properties": {
-    "FIELD1":620,
+    "FIELD1":598,
     "city_cn":"维多利亚",
     "province_cn":"澳大利亚",
     "city":"Victoria",
@@ -10744,7 +10726,7 @@
     "cure":"4",
     "death":"0",
     "case":"11",
-    "remain":""
+    "remain":"7"
     }
   },
   {
@@ -10754,7 +10736,7 @@
        "coordinates":  [ 115.8605,-31.9505 ]
     },
     "properties": {
-    "FIELD1":621,
+    "FIELD1":599,
     "city_cn":"西澳大利亚",
     "province_cn":"澳大利亚",
     "city":"Western Australia",
@@ -10762,7 +10744,7 @@
     "cure":"0",
     "death":"1",
     "case":"3",
-    "remain":""
+    "remain":"2"
     }
   }
 ]
