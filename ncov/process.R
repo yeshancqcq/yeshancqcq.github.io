@@ -17,10 +17,10 @@ data3 <- data.frame(city_cn=NA,
                     province=data2$province,
                     lat=data2$lat,
                     lon=data2$lon,
-                    cure=NA,
-                    death=NA,
-                    case=NA,
-                    remain=NA)
+                    cure=data2$cure,
+                    death=data2$death,
+                    case=data2$case,
+                    remain=data2$remain)
 
 newdata$check <- 0
 
@@ -46,6 +46,7 @@ for(i in 1:nrow(data3)){
   cat("finishing", i, "\n")
 }
 
+#===========
 for(i in 1:nrow(data3)){
   for(k in 1:nrow(newdata)){
     if(str_detect(toString(newdata$cityName[k]), toString(data3$city_cn[i])) &&
@@ -59,6 +60,7 @@ for(i in 1:nrow(data3)){
   }
   cat("finishing", i, "\n")
 }
+#==========
 
 chongqing_dist = c("渝中区","江北区","大渡口区","南岸区","九龙坡区","两江新区","高新区","沙坪坝区" )
 beijing_dist = c("西城区","海淀区","东城区","石景山区","朝阳区","丰台区","外地来京人员")
@@ -98,7 +100,7 @@ for(k in 1:nrow(data3)){
     data3$case[k] <- bj_case
   }
 }
-
+#========
 for(i in 1:nrow(data3)){
   for(j in 1:nrow(placename)){
     if(placename$english[j] == data3$city[i]){
