@@ -8511,8 +8511,8 @@
     "province":"Palestinian",
     "cure":"0",
     "death":"0",
-    "case":"0",
-    "remain":"0"
+    "case":"31",
+    "remain":"31"
     }
   },
   {
@@ -9988,7 +9988,7 @@
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":"0"
+    "remain":"1"
     }
   },
   {
@@ -10024,7 +10024,7 @@
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":"0"
+    "remain":"1"
     }
   },
   {
@@ -10042,7 +10042,7 @@
     "cure":"0",
     "death":"0",
     "case":"1",
-    "remain":"0"
+    "remain":"1"
     }
   },
   {
