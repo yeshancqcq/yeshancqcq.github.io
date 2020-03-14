@@ -1,67 +1,67 @@
-,city_cn,province_cn,city,province,lat,lon,cure,death,case,remain
-1,长沙,中国湖南,Changsha,Hunan China,28.322759,113.224946,236,2,242,4
-2,岳阳,中国湖南,Yueyang,Hunan China,29.178499,113.237527,153,1,156,2
+,city_cn,province_cn,city,province,lat,lon,case,death,cure,remain
+1,长沙,中国湖南,Changsha,Hunan China,28.322759,113.224946,242,2,240,0
+2,岳阳,中国湖南,Yueyang,Hunan China,29.178499,113.237527,156,1,155,0
 3,怀化,中国湖南,Huaihua,Hunan China,27.612024,109.945539,40,0,40,0
-4,娄底,中国湖南,Loudi,Hunan China,27.766945,112.004619,75,0,76,1
+4,娄底,中国湖南,Loudi,Hunan China,27.766945,112.004619,76,0,76,0
 5,永州,中国湖南,Yongzhou,Hunan China,26.560382,111.621586,44,0,44,0
 6,益阳,中国湖南,Yiyang,Hunan China,28.588088,112.366547,60,0,60,0
 7,衡阳,中国湖南,Hengyang,Hunan China,27.109626,112.351579,48,0,48,0
 8,常德,中国湖南,Changde,Hunan China,28.995243,111.747796,82,0,82,0
 9,湘潭,中国湖南,Xiangtan,Hunan China,27.669223,112.788805,36,0,36,0
-10,邵阳,中国湖南,Shaoyang,Hunan China,26.984977,111.332372,100,1,102,1
-11,株洲,中国湖南,Zhuzhou,Hunan China,27.535936,113.153348,78,0,80,2
+10,邵阳,中国湖南,Shaoyang,Hunan China,26.984977,111.332372,102,1,101,0
+11,株洲,中国湖南,Zhuzhou,Hunan China,27.535936,113.153348,80,0,80,0
 12,郴州,中国湖南,Chenzhou,Hunan China,25.773515,113.051002,39,0,39,0
 13,湘西自治州,中国湖南,Xiangxi,Hunan China,28.26,109.69,8,0,8,0
 14,张家界,中国湖南,Zhangjiajie,Hunan China,29.13,110.48,5,0,5,0
-15,武汉,中国湖北,Wuhan,Hubei China,30.581084,114.3162,35197,2436,49991,12358
-16,黄冈,中国湖北,Huanggang,Hubei China,30.518802,114.949569,2720,125,2907,62
-17,孝感,中国湖北,Xiaogan,Hubei China,30.944617,114.016142,3204,126,3518,188
-18,咸宁,中国湖北,Xianning,Hubei China,29.85465,114.391867,816,14,836,6
-19,荆门,中国湖北,Jingmen,Hubei China,30.932878,112.193923,839,39,928,50
-20,随州,中国湖北,Suizhou,Hubei China,31.890024,113.294246,1181,45,1307,81
-21,荆州,中国湖北,Jingzhou,Hubei China,30.396103,112.099857,1464,49,1580,67
-22,黄石,中国湖北,Huangshi,Hubei China,30.218698,114.903009,938,38,1015,39
-23,宜昌,中国湖北,Yichang,Hubei China,30.979971,111.310649,847,36,931,48
-24,十堰,中国湖北,Shiyan,Hubei China,32.66384,110.717401,626,8,672,38
-25,恩施,中国湖北,Enshi,Hubei China,32,109.5,233,6,252,13
-26,仙桃,中国湖北,Xiantao,Hubei China,30.293966,113.387448,520,22,575,33
-27,天门,中国湖北,Tianmen,Hubei China,30.649047,113.12623,476,15,496,5
-28,襄阳,中国湖北,Xiangyang,Hubei China,32.229169,112.250093,1112,38,1175,25
-29,鄂州,中国湖北,Ezhou,Hubei China,30.320603,114.901016,1184,55,1394,155
+15,武汉,中国湖北,Wuhan,Hubei China,30.581084,114.3162,49995,2446,36465,11084
+16,黄冈,中国湖北,Huanggang,Hubei China,30.518802,114.949569,2907,125,2730,52
+17,孝感,中国湖北,Xiaogan,Hubei China,30.944617,114.016142,3518,126,3237,155
+18,咸宁,中国湖北,Xianning,Hubei China,29.85465,114.391867,836,14,818,4
+19,荆门,中国湖北,Jingmen,Hubei China,30.932878,112.193923,928,39,860,29
+20,随州,中国湖北,Suizhou,Hubei China,31.890024,113.294246,1307,45,1192,70
+21,荆州,中国湖北,Jingzhou,Hubei China,30.396103,112.099857,1580,50,1474,56
+22,黄石,中国湖北,Huangshi,Hubei China,30.218698,114.903009,1015,38,943,34
+23,宜昌,中国湖北,Yichang,Hubei China,30.979971,111.310649,931,36,858,37
+24,十堰,中国湖北,Shiyan,Hubei China,32.66384,110.717401,672,8,629,35
+25,恩施,中国湖北,Enshi,Hubei China,32,109.5,252,6,233,13
+26,仙桃,中国湖北,Xiantao,Hubei China,30.293966,113.387448,575,22,520,33
+27,天门,中国湖北,Tianmen,Hubei China,30.649047,113.12623,496,15,476,5
+28,襄阳,中国湖北,Xiangyang,Hubei China,32.229169,112.250093,1175,38,1115,22
+29,鄂州,中国湖北,Ezhou,Hubei China,30.320603,114.901016,1394,57,1212,125
 30,神农架,中国湖北,Shennongjia,Hubei China,31.74,110.684,11,0,11,0
-31,黔江,中国湖北,Qianjiang,Hubei China,30.4,112.89,172,9,198,17
-32,信阳,中国河南,Xinyang,Henan China,32.30784,114.139086,271,2,274,1
-33,郑州,中国河南,Zhengzhou,Henan China,34.759791,113.62,152,5,157,0
-34,南阳,中国河南,Nanyang,Henan China,33.009839,112.484267,153,3,156,0
+31,黔江,中国湖北,Qianjiang,Hubei China,30.4,112.89,198,9,172,17
+32,信阳,中国河南,Xinyang,Henan China,32.30784,114.139086,274,2,272,0
+33,郑州,中国河南,Zhengzhou,Henan China,34.759791,113.62,157,5,152,0
+34,南阳,中国河南,Nanyang,Henan China,33.009839,112.484267,156,3,153,0
 35,驻马店,中国河南,Zhumadian,Henan China,32.968357,114.00829,139,0,139,0
-36,周口,中国河南,Zhoukou,Henan China,33.630876,114.65795,75,1,76,0
-37,新乡,中国河南,Xinxiang,Henan China,35.3,113.92,54,3,57,0
+36,周口,中国河南,Zhoukou,Henan China,33.630876,114.65795,76,1,75,0
+37,新乡,中国河南,Xinxiang,Henan China,35.3,113.92,57,3,54,0
 38,安阳,中国河南,Anyang,Henan China,36.056025,114.256604,53,0,53,0
 39,漯河,中国河南,Luohe,Henan China,33.534755,113.923601,35,0,35,0
-40,三门峡,中国河南,Sanmenxia,Henan China,34.771778,111.281295,6,1,7,0
+40,三门峡,中国河南,Sanmenxia,Henan China,34.771778,111.281295,7,1,6,0
 41,巩义,中国河南,Gongyi,Henan China,34.703799,113.03959,NA,NA,NA,NA
-42,平顶山,中国河南,Pingdingshan,Henan China,33.712341,113.278189,57,1,58,0
-43,洛阳,中国河南,Luoyang,Henan China,34.638792,112.467093,30,1,31,0
-44,商丘,中国河南,Shangqiu,Henan China,34.42,115.65,88,3,91,0
+42,平顶山,中国河南,Pingdingshan,Henan China,33.712341,113.278189,58,1,57,0
+43,洛阳,中国河南,Luoyang,Henan China,34.638792,112.467093,31,1,30,0
+44,商丘,中国河南,Shangqiu,Henan China,34.42,115.65,91,3,88,0
 45,开封,中国河南,Kaifeng,Henan China,34.798,114.346,26,0,26,0
 46,鹤壁,中国河南,Hebi,Henan China,35.74,114.295,19,0,19,0
-47,许昌,中国河南,Xuchang,Henan China,34,113.8,38,1,39,0
-48,焦作,中国河南,Jiaozuo,Henan China,35.2,113.257,31,1,32,0
+47,许昌,中国河南,Xuchang,Henan China,34,113.8,39,1,38,0
+48,焦作,中国河南,Jiaozuo,Henan China,35.2,113.257,32,1,31,0
 49,濮阳,中国河南,Puyang,Henan China,35.76,115.02,17,0,17,0
 50,济源,中国河南,Jiyuan,Henan China,35.1,112.58,5,0,5,0
-51,深圳,中国广东,Shenzhen,Guangdong China,22.606981,114.278483,392,3,420,25
-52,广州,中国广东,Guangzhou,Guangdong China,23.446661,113.220176,326,1,347,20
-53,珠海,中国广东,Zhuhai,Guangdong China,22.047215,113.41759,97,1,98,0
-54,佛山,中国广东,Foshan,Guangdong China,22.824523,112.683258,78,0,84,6
+51,深圳,中国广东,Shenzhen,Guangdong China,22.606981,114.278483,420,3,395,22
+52,广州,中国广东,Guangzhou,Guangdong China,23.446661,113.220176,347,1,330,16
+53,珠海,中国广东,Zhuhai,Guangdong China,22.047215,113.41759,98,1,97,0
+54,佛山,中国广东,Foshan,Guangdong China,22.824523,112.683258,84,0,78,6
 55,惠州,中国广东,Huizhou,Guangdong China,23.163063,114.485898,62,0,62,0
 56,阳江,中国广东,Yangjiang,Guangdong China,21.762804,111.930036,14,0,14,0
-57,韶关,中国广东,Shaoguan,Guangdong China,24.919162,113.57745,9,1,10,0
+57,韶关,中国广东,Shaoguan,Guangdong China,24.919162,113.57745,10,1,9,0
 58,湛江,中国广东,Zhanjiang,Guangdong China,21.0941,110.338022,22,0,22,0
-59,中山,中国广东,Zhongshan,Guangdong China,22.545178,113.42206,64,0,68,4
-60,肇庆,中国广东,Zhaoqing,Guangdong China,23.208968,112.625249,18,1,19,0
+59,中山,中国广东,Zhongshan,Guangdong China,22.545178,113.42206,68,0,64,4
+60,肇庆,中国广东,Zhaoqing,Guangdong China,23.208968,112.625249,19,1,18,0
 61,清远,中国广东,Qingyuan,Guangdong China,23.625856,113.114585,12,0,12,0
-62,东莞,中国广东,Dongguan,Guangdong China,23.043024,113.763434,96,1,100,3
-63,汕头,中国广东,Shantou,Guangdong China,23.532997,116.814808,24,0,25,1
+62,东莞,中国广东,Dongguan,Guangdong China,23.043024,113.763434,100,1,96,3
+63,汕头,中国广东,Shantou,Guangdong China,23.532997,116.814808,25,0,24,1
 64,汕尾,中国广东,Shanwei,Guangdong China,22.8,115.38,5,0,5,0
 65,梅州,中国广东,Meizhou,Guangdong China,24.3,116.119,16,0,16,0
 66,揭阳,中国广东,Jieyang,Guangdong China,23.53,116.34,8,0,8,0
@@ -70,28 +70,28 @@
 69,江门,中国广东,Jiangmen,Guangdong China,22.57,113.079,23,0,23,0
 70,潮州,中国广东,Chaozhou,Guangdong China,23.656,116.62,5,0,5,0
 71,泰州,中国浙江,Taizhou,Zhejiang China,28.548659,121.450242,37,0,37,0
-72,杭州,中国浙江,Hangzhou,Zhejiang China,30.38812,119.998089,167,0,169,2
-73,温州,中国浙江,Wenzhou,Zhejiang China,27.972177,120.558404,501,1,504,2
+72,杭州,中国浙江,Hangzhou,Zhejiang China,30.38812,119.998089,181,0,179,2
+73,温州,中国浙江,Wenzhou,Zhejiang China,27.972177,120.558404,504,1,501,2
 74,宁波,中国浙江,Ningbo,Zhejiang China,29.785459,121.537835,157,0,157,0
-75,嘉兴,中国浙江,Jiaxing,Zhejiang China,30.777679,120.691907,43,0,45,2
-76,绍兴,中国浙江,Shaoxing,Zhejiang China,29.968789,120.572451,41,0,42,1
+75,嘉兴,中国浙江,Jiaxing,Zhejiang China,30.777679,120.691907,45,0,44,1
+76,绍兴,中国浙江,Shaoxing,Zhejiang China,29.968789,120.572451,42,0,41,1
 77,舟山,中国浙江,Zhoushan,Zhejiang China,29.871101,122.278765,10,0,10,0
 78,金华,中国浙江,Jinhua,Zhejiang China,29.155526,119.809227,55,0,55,0
 79,衢州,中国浙江,Quzhou,Zhejiang China,28.941983,118.939044,14,0,14,0
-80,丽水,中国浙江,Lishui,Zhejiang China,28.48,119.921,17,0,25,8
-81,湖州,中国浙江,Huzhou,Zhejiang China,30.89,120.1,10,0,12,2
-82,万州,中国重庆,Wanzhou,Chongqing China,30.710054,108.413439,111,4,118,3
-83,长寿,中国重庆,Changshou,Chongqing China,29.960491,107.146615,18,0,22,4
-84,开州,中国重庆,Kaizhou,Chongqing China,31.2,108.4,20,1,21,0
+80,丽水,中国浙江,Lishui,Zhejiang China,28.48,119.921,25,0,18,7
+81,湖州,中国浙江,Huzhou,Zhejiang China,30.89,120.1,12,0,10,2
+82,万州,中国重庆,Wanzhou,Chongqing China,30.710054,108.413439,118,4,111,3
+83,长寿,中国重庆,Changshou,Chongqing China,29.960491,107.146615,22,0,18,4
+84,开州,中国重庆,Kaizhou,Chongqing China,31.2,108.4,21,1,20,0
 85,永川,中国重庆,Yongchuan,Chongqing China,29.296488,105.880358,5,0,5,0
 86,忠县,中国重庆,Zhongxian,Chongqing China,30.342003,107.921738,21,0,21,0
 87,巫山,中国重庆,Wushan,Chongqing China,31.121152,109.908611,10,0,10,0
 88,石柱,中国重庆,Shizhu,Chongqing China,29.9,108,15,0,15,0
-89,重庆市区,中国重庆,Chongqing,Chongqing China,29.59,106.54,240,2,242,0
+89,重庆市区,中国重庆,Chongqing,Chongqing China,29.59,106.54,363,3,360,0
 90,渝北,中国重庆,Yubei,Chongqing China,29.816264,106.753799,17,0,17,0
 91,垫江,中国重庆,Dianjiang,Chongqing China,30.259498,107.444445,20,0,20,0
 92,云阳,中国重庆,Yunyang,Chongqing China,31.042409,108.863186,25,0,25,0
-93,无锡,中国重庆,Wuxi,Chongqing China,31.509161,109.360531,54,0,55,1
+93,无锡,中国重庆,Wuxi,Chongqing China,31.509161,109.360531,55,0,54,1
 94,合川,中国重庆,Hechuan,Chongqing China,30.118708,106.318029,23,0,23,0
 95,璧山,中国重庆,Bishan,Chongqing China,29.5,106.17,9,0,9,0
 96,涪陵,中国重庆,Fuling,Chongqing China,29.664671,107.3408,5,0,5,0
@@ -99,46 +99,46 @@
 98,秀山,中国重庆,Xiushan,Chongqing China,28.38,109.06,1,0,1,0
 99,梁平,中国重庆,Liangping,Chongqing China,30.65,107.8,4,0,4,0
 100,城口,中国重庆,Chengkou,Chongqing China,31.888131,108.741855,2,0,2,0
-101,大足,中国重庆,Dazu,Chongqing China,29.714,105.72,13,0,14,1
-102,丰都,中国重庆,Fengdu,Chongqing China,29.890596,107.837517,8,0,10,2
+101,大足,中国重庆,Dazu,Chongqing China,29.714,105.72,14,0,13,1
+102,丰都,中国重庆,Fengdu,Chongqing China,29.890596,107.837517,10,0,8,2
 103,黔江,中国重庆,Qianjiang,Chongqing China,29.53,108.76,2,0,2,0
 104,万盛,中国重庆,Wansheng,Chongqing China,28.962248,106.924888,1,0,1,0
-105,潼南,中国重庆,Tongnan,Chongqing China,30.19,105.84,15,0,18,3
-106,铜梁,中国重庆,Tongliang,Chongqing China,29.85,106.05,9,0,10,1
-107,綦江,中国重庆,Qijiang,Chongqing China,29.03,106.64,20,0,23,3
+105,潼南,中国重庆,Tongnan,Chongqing China,30.19,105.84,18,0,15,3
+106,铜梁,中国重庆,Tongliang,Chongqing China,29.85,106.05,10,0,9,1
+107,綦江,中国重庆,Qijiang,Chongqing China,29.03,106.64,23,0,20,3
 108,江津,中国重庆,Jiangjin,Chongqing China,29.28,106.26,4,0,4,0
-109,巴南,中国重庆,Banan,Chongqing China,29.37,106.52,5,0,6,1
+109,巴南,中国重庆,Banan,Chongqing China,29.37,106.52,6,0,5,1
 110,武隆,中国重庆,Wulong,Chongqing China,29.33,107.75,1,0,1,0
 111,酉阳,中国重庆,Youyang,Chongqing China,28.844414,108.763426,1,0,1,0
-112,荣昌,中国重庆,Rongchang,Chongqing China,29.422,105.61,8,0,9,1
+112,荣昌,中国重庆,Rongchang,Chongqing China,29.422,105.61,9,0,8,1
 113,彭水,中国重庆,Pengshui,Chongqing China,29.293585,108.165373,2,0,2,0
-114,北京市区,中国北京,Beijing,Beijing China,39.92,116.46,14,0,568,554
-115,昌平,中国北京,Changping,Beijing China,40.221724,116.216456,10,0,29,19
-116,通州,中国北京,Tongzhou,Beijing China,32.081032,121.028859,1,0,19,18
-117,大兴,中国北京,Daxing,Beijing China,39.73,116.33,16,0,39,23
-118,顺义,中国北京,Shunyi,Beijing China,40.154951,116.728229,0,0,10,10
-119,门头沟,中国北京,Mentougou,Beijing China,39.94,116.1,2,0,3,1
-120,房山,中国北京,Fangshan,Beijing China,39.744,116.134254,3,0,16,13
-121,延庆,中国北京,Yanqing,Beijing China,40.4565,115.971,0,0,1,1
-122,密云,中国北京,Miyun,Beijing China,40.375043,116.83548,0,0,7,7
-123,怀柔,中国北京,Huairou,Beijing China,40.315,116.626,0,0,7,7
-124,上海,中国上海,Shanghai,Shanghai China,31.2,121.560642,315,3,342,24
-125,临沂,中国山东,Linyi,Shandong China,35.127031,118.517311,48,0,49,1
-126,青岛,中国山东,Tsingtao,Shandong China,36.284247,120.346326,59,1,61,1
-127,威海,中国山东,Weihai,Shandong China,37.399344,122.152075,37,1,38,0
+114,北京市区,中国北京,Beijing,Beijing China,39.92,116.46,852,0,21,831
+115,昌平,中国北京,Changping,Beijing China,40.221724,116.216456,29,0,10,19
+116,通州,中国北京,Tongzhou,Beijing China,32.081032,121.028859,19,0,1,18
+117,大兴,中国北京,Daxing,Beijing China,39.73,116.33,39,0,16,23
+118,顺义,中国北京,Shunyi,Beijing China,40.154951,116.728229,10,0,0,10
+119,门头沟,中国北京,Mentougou,Beijing China,39.94,116.1,3,0,2,1
+120,房山,中国北京,Fangshan,Beijing China,39.744,116.134254,16,0,3,13
+121,延庆,中国北京,Yanqing,Beijing China,40.4565,115.971,1,0,0,1
+122,密云,中国北京,Miyun,Beijing China,40.375043,116.83548,7,0,0,7
+123,怀柔,中国北京,Huairou,Beijing China,40.315,116.626,7,0,0,7
+124,上海,中国上海,Shanghai,Shanghai China,31.2,121.560642,352,3,324,25
+125,临沂,中国山东,Linyi,Shandong China,35.127031,118.517311,49,0,49,0
+126,青岛,中国山东,Tsingtao,Shandong China,36.284247,120.346326,61,1,59,1
+127,威海,中国山东,Weihai,Shandong China,37.399344,122.152075,38,1,37,0
 128,日照,中国山东,Rizhao,Shandong China,35.469377,119.377852,16,0,16,0
-129,济宁,中国山东,Jining,Shandong China,35.380135,116.572199,253,0,260,7
-130,济南,中国山东,Jinan,Shandong China,36.42857,116.803552,46,0,47,1
-131,德州,中国山东,Dezhou,Shandong China,37.457437,116.332912,33,2,37,2
+129,济宁,中国山东,Jining,Shandong China,35.380135,116.572199,260,0,254,6
+130,济南,中国山东,Jinan,Shandong China,36.42857,116.803552,47,0,46,1
+131,德州,中国山东,Dezhou,Shandong China,37.457437,116.332912,37,2,33,2
 132,潍坊,中国山东,Weifang,Shandong China,36.691227,119.196972,44,0,44,0
 133,烟台,中国山东,Yantai,Shandong China,37.407476,121.451535,47,0,47,0
 134,聊城,中国山东,Liaocheng,Shandong China,36.45583,115.907706,38,0,38,0
 135,滨州,中国山东,Binzhou,Shandong China,37.424891,117.981211,15,0,15,0
 136,菏泽,中国山东,Heze,Shandong China,35.26244,115.46336,18,0,18,0
-137,淄博,中国山东,Zibo,Shandong China,36.771219,117.875108,28,1,30,1
+137,淄博,中国山东,Zibo,Shandong China,36.771219,117.875108,30,1,28,1
 138,枣庄,中国山东,Zaozhuang,Shandong China,34.82,117.31,24,0,24,0
-139,泰安,中国山东,Tai An,Shandong China,36.189,117.1,33,2,35,0
-140,合肥,中国安徽,Hefei,Anhui China,31.790724,117.353913,173,1,174,0
+139,泰安,中国山东,Tai An,Shandong China,36.189,117.1,35,2,33,0
+140,合肥,中国安徽,Hefei,Anhui China,31.790724,117.353913,174,1,173,0
 141,阜阳,中国安徽,Fuyang,Anhui China,33.07351,115.734026,155,0,155,0
 142,亳州,中国安徽,Bozhou,Anhui China,33.782924,115.812814,108,0,108,0
 143,安庆,中国安徽,Anqing,Anhui China,31.859252,117.216005,83,0,83,0
@@ -147,15 +147,15 @@
 146,六安,中国安徽,Lu An,Anhui China,31.753039,116.302573,69,0,69,0
 147,滁州,中国安徽,Chuzhou,Anhui China,32.310209,118.270828,13,0,13,0
 148,池州,中国安徽,Chizhou,Anhui China,30.514086,117.508478,17,0,17,0
-149,蚌埠,中国安徽,Bengbu,Anhui China,33.023815,117.388184,155,5,160,0
+149,蚌埠,中国安徽,Bengbu,Anhui China,33.023815,117.388184,160,5,155,0
 150,芜湖,中国安徽,Wuhu,Anhui China,31.191699,118.532462,34,0,34,0
 151,黄山,中国安徽,Huangshan,Anhui China,29.7,118.314,9,0,9,0
 152,淮北,中国安徽,Huaibei,Anhui China,33.94,116.9,27,0,27,0
 153,淮南,中国安徽,Huainan,Anhui China,32.58,117,27,0,27,0
 154,苏州,中国安徽,Suzhou,Anhui China,33.639,116.96,87,0,87,0
 155,宣城,中国安徽,Xuancheng,Anhui China,30.92,118.8,6,0,6,0
-156,赣州,中国江西,Ganzhou,Jiangxi China,25.838711,114.937365,75,1,76,0
-157,福州,中国江西,Fuzhou,Jiangxi China,27.924732,116.362974,71,1,72,0
+156,赣州,中国江西,Ganzhou,Jiangxi China,25.838711,114.937365,76,1,75,0
+157,福州,中国江西,Fuzhou,Jiangxi China,27.924732,116.362974,72,1,71,0
 158,上饶,中国江西,Shangrao,Jiangxi China,28.40568,117.944367,123,0,123,0
 159,宜春,中国江西,Yichun,Jiangxi China,27.839383,114.290358,106,0,106,0
 160,南昌,中国江西,Nanchang,Jiangxi China,28.620772,116.071261,230,0,230,0
@@ -167,34 +167,34 @@
 166,鹰潭,中国江西,Yingtan,Jiangxi China,28.261751,117.023752,18,0,18,0
 167,赣江新区,中国江西,Gan River New District,Jiangxi China,28.815514,115.946982,1,0,1,0
 168,桂林,中国广西,Guilin,Guangxi China,25.112806,110.371485,32,0,32,0
-169,北海,中国广西,Beihai,Guangxi China,21.574915,109.422489,42,1,44,1
-170,柳州,中国广西,Liuzhou,Guangxi China,24.471743,109.413915,23,0,24,1
-171,河池,中国广西,Hechi,Guangxi China,24.660762,107.873444,27,1,28,0
+169,北海,中国广西,Beihai,Guangxi China,21.574915,109.422489,44,1,42,1
+170,柳州,中国广西,Liuzhou,Guangxi China,24.471743,109.413915,24,0,23,1
+171,河池,中国广西,Hechi,Guangxi China,24.660762,107.873444,28,1,27,0
 172,梧州,中国广西,Wuzhou,Guangxi China,23.5602,111.189914,5,0,5,0
 173,百色,中国广西,Baise,Guangxi China,23.941866,106.505596,3,0,3,0
-174,防城港,中国广西,Fangchenggang,Guangxi China,21.662036,108.449166,17,0,19,2
-175,南宁,中国广西,Nanning,Guangxi China,22.894927,108.573583,54,0,55,1
+174,防城港,中国广西,Fangchenggang,Guangxi China,21.662036,108.449166,19,0,17,2
+175,南宁,中国广西,Nanning,Guangxi China,22.894927,108.573583,55,0,54,1
 176,榆林,中国广西,Yulin,Guangxi China,22.557213,110.064534,3,0,3,0
 177,贺州,中国广西,Hezhou,Guangxi China,24.415,111.54,4,0,4,0
 178,钦州,中国广西,Qinzhou,Guangxi China,21.97,108.617,8,0,8,0
 179,贵港,中国广西,Guigang,Guangxi China,23.1,109.59,8,0,8,0
-180,来宾,中国广西,Laibin,Guangxi China,23.746383,109.218231,9,0,11,2
-181,三亚,中国海南,Sanya,Hainan China,18.397248,109.429348,53,1,54,0
+180,来宾,中国广西,Laibin,Guangxi China,23.746383,109.218231,11,0,9,2
+181,三亚,中国海南,Sanya,Hainan China,18.397248,109.429348,54,1,53,0
 182,万宁,中国海南,Wanning,Hainan China,18.839886,110.292505,13,0,13,0
-183,海口,中国海南,Haikou,Hainan China,19.942909,110.507269,38,0,39,1
-184,儋州,中国海南,Danzhou,Hainan China,19.571153,109.413973,13,1,15,1
+183,海口,中国海南,Haikou,Hainan China,19.942909,110.507269,39,0,38,1
+184,儋州,中国海南,Danzhou,Hainan China,19.571153,109.413973,15,1,13,1
 185,临高,中国海南,Lingao,Hainan China,19.805922,109.724102,6,0,6,0
 186,陵水,中国海南,Lingshui,Hainan China,18.506,110.0375,4,0,4,0
-187,澄迈,中国海南,Chengmai,Hainan China,19.7,110,8,1,9,0
+187,澄迈,中国海南,Chengmai,Hainan China,19.7,110,9,1,8,0
 188,琼中,中国海南,Qiongzhong,Hainan China,19.04,109.82,1,0,1,0
-189,东方,中国海南,Dongfang,Hainan China,19.09,108.66,2,1,3,0
-190,琼海,中国海南,Qionghai,Hainan China,19.256,110.468,5,1,6,0
-191,定安,中国海南,Ding An,Hainan China,19.68,110.36,2,1,3,0
+189,东方,中国海南,Dongfang,Hainan China,19.09,108.66,3,1,2,0
+190,琼海,中国海南,Qionghai,Hainan China,19.256,110.468,6,1,5,0
+191,定安,中国海南,Ding An,Hainan China,19.68,110.36,3,1,2,0
 192,昌江,中国海南,Changjiang,Hainan China,19.298,109.04,7,0,7,0
 193,乐东,中国海南,Ledong,Hainan China,18.75,109.168,2,0,2,0
 194,文昌,中国海南,Wenchang,Hainan China,19.539,110.787,3,0,3,0
 195,保亭,中国海南,Baoting,Hainan China,18.64104,109.694892,3,0,3,0
-196,福州,中国福建,Fuzhou,Fujian China,26.221752,119.314923,71,1,72,0
+196,福州,中国福建,Fuzhou,Fujian China,26.221752,119.314923,72,1,71,0
 197,厦门,中国福建,Xiamen,Fujian China,24.675485,118.280803,35,0,35,0
 198,泉州,中国福建,Quanzhou,Fujian China,25.173479,118.819017,47,0,47,0
 199,漳州,中国福建,Zhangzhou,Fujian China,24.575089,117.633366,20,0,20,0
@@ -207,7 +207,7 @@
 206,南京,中国江苏,Nanjing,Jiangsu China,32.40064,118.848166,93,0,93,0
 207,苏州,中国江苏,Suzhou,Jiangsu China,31.332306,120.630878,87,0,87,0
 208,连云港,中国江苏,Lianyungang,Jiangsu China,34.51416,119.162196,48,0,48,0
-209,无锡,中国江苏,Wuxi,Jiangsu China,31.466579,120.248502,54,0,55,1
+209,无锡,中国江苏,Wuxi,Jiangsu China,31.466579,120.248502,55,0,54,1
 210,南通,中国江苏,Nantong,Jiangsu China,32.071256,120.823875,40,0,40,0
 211,扬州,中国江苏,Yangzhou,Jiangsu China,32.408505,119.427778,23,0,23,0
 212,盐城,中国江苏,Yancheng,Jiangsu China,33.265898,119.968501,27,0,27,0
@@ -216,59 +216,59 @@
 215,淮安,中国江苏,Huai An,Jiangsu China,33.589,119.03,66,0,66,0
 216,泰州,中国江苏,Taizhou,Jiangsu China,32.45,119.91,37,0,37,0
 217,徐州,中国江苏,Xuzhou,Jiangsu China,34.27,117.186999,79,0,79,0
-218,沈阳,中国辽宁,Shenyang,Liaoning China,41.843551,123.242847,26,0,28,2
-219,大连,中国辽宁,Dalian,Liaoning China,38.92,121.62,16,0,19,3
-220,朝阳,中国辽宁,Chaoyang,Liaoning China,41.55,120.4,5,0,6,1
+218,沈阳,中国辽宁,Shenyang,Liaoning China,41.843551,123.242847,28,0,26,2
+219,大连,中国辽宁,Dalian,Liaoning China,38.92,121.62,19,0,17,2
+220,朝阳,中国辽宁,Chaoyang,Liaoning China,41.55,120.4,6,0,5,1
 221,铁岭,中国辽宁,Tieling,Liaoning China,42.222765,123.914529,7,0,7,0
-222,葫芦岛,中国辽宁,Huludao,Liaoning China,40.75,120.84,9,1,12,2
+222,葫芦岛,中国辽宁,Huludao,Liaoning China,40.75,120.84,12,1,9,2
 223,本溪,中国辽宁,Benxi,Liaoning China,41.19567,124.158564,3,0,3,0
 224,盘锦,中国辽宁,Panjin,Liaoning China,41.112,122.06,11,0,11,0
 225,营口,中国辽宁,Yingkou,Liaoning China,40.55,122.248,1,0,1,0
-226,丹东,中国辽宁,Dandong,Liaoning China,40.008,124.3545,7,0,11,4
+226,丹东,中国辽宁,Dandong,Liaoning China,40.008,124.3545,11,0,7,4
 227,辽阳,中国辽宁,Liaoyang,Liaoning China,41.26,123.164,3,0,3,0
 228,鞍山,中国辽宁,Anshan,Liaoning China,41.1,122.99,4,0,4,0
 229,锦州,中国辽宁,Jinzhou,Liaoning China,41.0959,121.11,12,0,12,0
 230,阜新,中国辽宁,Fuxin,Liaoning China,42.015173,121.645287,8,0,8,0
-231,西安,中国陕西,Xi An,Shaanxi China,34.066899,108.874256,110,2,120,8
-232,咸阳,中国陕西,Xianyang,Shaanxi China,34.423853,108.817312,16,0,17,1
+231,西安,中国陕西,Xi An,Shaanxi China,34.066899,108.874256,120,2,110,8
+232,咸阳,中国陕西,Xianyang,Shaanxi China,34.423853,108.817312,17,0,16,1
 233,安康,中国陕西,Ankang,Shaanxi China,32.814464,108.896243,26,0,26,0
 234,铜川,中国陕西,Tongchuan,Shaanxi China,35.032,108.8355,8,0,8,0
 235,延安,中国陕西,Yan An,Shaanxi China,36.575992,109.648602,8,0,8,0
 236,商洛,中国陕西,Shangluo,Shaanxi China,33.895485,109.873271,7,0,7,0
-237,渭南,中国陕西,Weinan,Shaanxi China,34.5,109.451,14,0,15,1
-238,汉中,中国陕西,Hanzhong,Shaanxi China,33.1,107,25,0,26,1
+237,渭南,中国陕西,Weinan,Shaanxi China,34.5,109.451,15,0,14,1
+238,汉中,中国陕西,Hanzhong,Shaanxi China,33.1,107,26,0,25,1
 239,宝鸡,中国陕西,Baoji,Shaanxi China,34.39,107.23,13,0,13,0
 240,韩城,中国陕西,Hancheng,Shaanxi China,35.474,110.447,1,0,1,0
 241,榆林,中国陕西,Yulin,Shaanxi China,38.23,109.75,3,0,3,0
 242,杨凌,中国陕西,Yangling,Shaanxi China,34.272,108.082123,1,0,1,0
 243,昆明,中国云南,Kunming,Yunnan China,26.139329,103.078562,53,0,53,0
 244,丽江,中国云南,Lijiang,Yunnan China,26.8593,100.328596,7,0,7,0
-245,西双版纳,中国云南,Xishuangbanna,Yunnan China,22.009433,100.803038,14,1,15,0
-246,曲靖,中国云南,Qujing,Yunnan China,25.360057,103.913326,12,0,13,1
-247,玉溪,中国云南,Yuxi,Yunnan China,24.369854,102.499895,13,1,14,0
+245,西双版纳,中国云南,Xishuangbanna,Yunnan China,22.009433,100.803038,15,1,14,0
+246,曲靖,中国云南,Qujing,Yunnan China,25.360057,103.913326,13,0,12,1
+247,玉溪,中国云南,Yuxi,Yunnan China,24.369854,102.499895,14,1,13,0
 248,红河,中国云南,Honghe,Yunnan China,23.250955,102.243348,9,0,9,0
 249,大理,中国云南,Dali,Yunnan China,25.693967,100.219209,13,0,13,0
 250,保山,中国云南,Baoshan,Yunnan China,25.16,99.176,9,0,9,0
-251,德宏,中国云南,Dehong,Yunnan China,24.43,98.596,4,0,5,1
+251,德宏,中国云南,Dehong,Yunnan China,24.43,98.596,5,0,4,1
 252,昭通,中国云南,Zhaotong,Yunnan China,27.32,103.72,25,0,25,0
 253,普洱,中国云南,Pu Er,Yunnan China,22.7,100.96,4,0,4,0
 254,临沧,中国云南,Lincang,Yunnan China,23.87,100.1,1,0,1,0
 255,文山,中国云南,Wenshan,Yunnan China,23.394,104.226,2,0,2,0
 256,楚雄,中国云南,Chuxiong,Yunnan China,25.025884,101.548734,4,0,4,0
-257,天津,中国天津,Tianjin,Tianjin China,39.13,117.2,132,3,136,1
-258,哈尔滨,中国黑龙江,Harbin,Heilongjiang China,45.995674,126.61077,186,4,198,8
-259,牡丹江,中国黑龙江,Mudanjiang,Heilongjiang China,44.491714,129.584924,13,0,15,2
-260,大庆,中国黑龙江,Daqing,Heilongjiang China,46.070051,124.699077,23,1,26,2
-261,绥化,中国黑龙江,Suihua,Heilongjiang China,46.747537,126.957863,41,4,47,2
-262,齐齐哈尔,中国黑龙江,Qiqihar,Heilongjiang China,47.28,123.94,40,1,43,2
+257,天津,中国天津,Tianjin,Tianjin China,39.13,117.2,136,3,132,1
+258,哈尔滨,中国黑龙江,Harbin,Heilongjiang China,45.995674,126.61077,198,4,186,8
+259,牡丹江,中国黑龙江,Mudanjiang,Heilongjiang China,44.491714,129.584924,15,0,14,1
+260,大庆,中国黑龙江,Daqing,Heilongjiang China,46.070051,124.699077,26,1,23,2
+261,绥化,中国黑龙江,Suihua,Heilongjiang China,46.747537,126.957863,47,4,41,2
+262,齐齐哈尔,中国黑龙江,Qiqihar,Heilongjiang China,47.28,123.94,43,1,40,2
 263,佳木斯,中国黑龙江,Jiamusi,Heilongjiang China,46.8,130.37,15,0,15,0
-264,双鸭山,中国黑龙江,Shuangyashan,Heilongjiang China,46.642,131.152,47,3,52,2
-265,七台河,中国黑龙江,Qitaihe,Heilongjiang China,45.6,131,16,0,17,1
-266,鸡西,中国黑龙江,Jixi,Heilongjiang China,45.3,130.96,45,0,46,1
-267,鹤岗,中国黑龙江,Hegang,Heilongjiang China,47.335,130.294,4,0,5,1
-268,大兴安岭,中国黑龙江,Greater Hinggan,Heilongjiang China,50.41,124.122,2,0,3,1
-269,黑河,中国黑龙江,Heihe,Heilongjiang China,50.235,127.51,13,0,14,1
-270,晋中,中国山西,Jinzhong,Shanxi China,37.650825,112.843737,36,0,37,1
+264,双鸭山,中国黑龙江,Shuangyashan,Heilongjiang China,46.642,131.152,52,3,47,2
+265,七台河,中国黑龙江,Qitaihe,Heilongjiang China,45.6,131,17,0,16,1
+266,鸡西,中国黑龙江,Jixi,Heilongjiang China,45.3,130.96,46,0,45,1
+267,鹤岗,中国黑龙江,Hegang,Heilongjiang China,47.335,130.294,5,0,4,1
+268,大兴安岭,中国黑龙江,Greater Hinggan,Heilongjiang China,50.41,124.122,3,0,2,1
+269,黑河,中国黑龙江,Heihe,Heilongjiang China,50.235,127.51,14,0,13,1
+270,晋中,中国山西,Jinzhong,Shanxi China,37.650825,112.843737,37,0,37,0
 271,太原,中国山西,Taiyuan,Shanxi China,37.748675,112.481587,20,0,20,0
 272,运城,中国山西,Yuncheng,Shanxi China,35.063677,110.961931,19,0,19,0
 273,阳泉,中国山西,Yangquan,Shanxi China,37.911504,113.568086,4,0,4,0
@@ -280,51 +280,51 @@
 279,忻州,中国山西,Xinzhou,Shanxi China,38.4,112.732,7,0,7,0
 280,晋城,中国山西,Jincheng,Shanxi China,35.498,112.857,10,0,10,0
 281,石家庄,中国河北,Shijiazhuang,Hebei China,38.014621,114.586383,29,0,29,0
-282,沧州,中国河北,Cangzhou,Hebei China,38.314446,116.844854,45,3,48,0
+282,沧州,中国河北,Cangzhou,Hebei China,38.314446,116.844854,48,3,45,0
 283,保定,中国河北,Baoding,Hebei China,38.821877,115.484784,32,0,32,0
 284,承德,中国河北,Chengde,Hebei China,40.973242,118.125718,7,0,7,0
 285,廊坊,中国河北,Langfang,Hebei China,39.47,116.7,30,0,30,0
-286,邢台,中国河北,Xingtai,Hebei China,37.04,114.57,22,1,23,0
+286,邢台,中国河北,Xingtai,Hebei China,37.04,114.57,23,1,22,0
 287,衡水,中国河北,Hengshui,Hebei China,37.73,115.699,8,0,8,0
-288,唐山,中国河北,Tangshan,Hebei China,39.59,118.2,55,1,58,2
+288,唐山,中国河北,Tangshan,Hebei China,39.59,118.2,58,1,55,2
 289,邯郸,中国河北,Handan,Hebei China,36.574,114.48,32,0,32,0
 290,张家口,中国河北,Zhangjiakou,Hebei China,40.81,114.89,41,0,41,0
-291,秦皇岛,中国河北,Qinhuangdao,Hebei China,39.95,119.59,9,1,10,0
+291,秦皇岛,中国河北,Qinhuangdao,Hebei China,39.95,119.59,10,1,9,0
 292,锡林郭勒盟,中国内蒙古,Xilingol - Xilinhot,Inner Mongolia China,43.468238,114.415868,9,0,9,0
 293,鄂尔多斯,中国内蒙古,Ordos,Inner Mongolia China,39.805586,109.764419,11,0,11,0
 294,赤峰,中国内蒙古,Chifeng,Inner Mongolia China,42.268753,118.757106,9,0,9,0
 295,呼伦贝尔,中国内蒙古,Hulun Buir,Inner Mongolia China,49.22,119.76,7,0,7,0
 296,兴安盟,中国内蒙古,Ulahot,Inner Mongolia China,46.05,122.1,1,0,1,0
 297,乌兰察布,中国内蒙古,Ulanqab,Inner Mongolia China,40.99,113.13,3,0,3,0
-298,包头,中国内蒙古,Baotou,Inner Mongolia China,40.65,109.8,9,0,11,2
-299,巴彦淖尔,中国内蒙古,Bayannur,Inner Mongolia China,40.75,107.38,7,1,8,0
+298,包头,中国内蒙古,Baotou,Inner Mongolia China,40.65,109.8,11,0,9,2
+299,巴彦淖尔,中国内蒙古,Bayannur,Inner Mongolia China,40.75,107.38,8,1,7,0
 300,通辽,中国内蒙古,Tongliao,Inner Mongolia China,43.626,122.25,7,0,7,0
-301,呼和浩特,中国内蒙古,Huhhot,Inner Mongolia China,40.83,111.69,6,0,7,1
+301,呼和浩特,中国内蒙古,Huhhot,Inner Mongolia China,40.83,111.69,7,0,6,1
 302,乌海,中国内蒙古,Wuhai,Inner Mongolia China,39.639,106.779,2,0,2,0
-303,香港,中国香港特别行政区,Hong Kong,Hong Kong SAR China,22.293586,114.186124,75,3,131,53
+303,香港,中国香港特别行政区,Hong Kong,Hong Kong SAR China,22.293586,114.186124,140,4,78,58
 304,铜仁,中国贵州,Tongren,Guizhou China,27.674903,109.168558,10,0,10,0
-305,贵阳,中国贵州,Guiyang,Guizhou China,26.496945,106.70098,33,1,36,2
+305,贵阳,中国贵州,Guiyang,Guizhou China,26.496945,106.70098,36,1,34,1
 306,黔南州,中国贵州,Qiannan,Guizhou China,26.254,107.522,17,0,17,0
 307,黔西南州,中国贵州,Qianxinan,Guizhou China,25.1,104.9,4,0,4,0
-308,六盘水,中国贵州,Liupanshui,Guizhou China,26.55,104.85,8,1,10,1
+308,六盘水,中国贵州,Liupanshui,Guizhou China,26.55,104.85,10,1,9,0
 309,黔东南州,中国贵州,Qiandongnan,Guizhou China,26.56,108,10,0,10,0
-310,遵义,中国贵州,Zunyi,Guizhou China,27.7478,106.91,31,0,32,1
+310,遵义,中国贵州,Zunyi,Guizhou China,27.7478,106.91,32,0,32,0
 311,毕节,中国贵州,Bijie,Guizhou China,27.31,105.29,23,0,23,0
 312,安顺,中国贵州,Anshun,Guizhou China,26.25,105.93,4,0,4,0
 313,吉林市,中国吉林,Jilin,Jilin China,43.87,126.57,5,0,5,0
 314,长春,中国吉林,Changchun,Jilin China,43.531747,125.712822,45,0,45,0
 315,松原,中国吉林,Songyuan,Jilin China,45.29271,124.867571,2,0,2,0
-316,四平,中国吉林,Siping,Jilin China,43.178,124.37,14,1,15,0
+316,四平,中国吉林,Siping,Jilin China,43.178,124.37,15,1,14,0
 317,公主岭,中国吉林,Gongzhuling,Jilin China,43.49,124.8,6,0,6,0
-318,通化,中国吉林,Tonghua,Jilin China,41.74,125.92,5,0,6,1
+318,通化,中国吉林,Tonghua,Jilin China,41.74,125.92,6,0,5,1
 319,延边,中国吉林,Yanbian,Jilin China,42.89,129.51,5,0,5,0
 320,辽源,中国吉林,Liaoyuan,Jilin China,42.895188,125.148648,7,0,7,0
 321,梅河口,中国吉林,Meihekou,Jilin China,42.537275,125.691833,1,0,1,0
 322,白城,中国吉林,Baicheng,Jilin China,45.614037,122.84704,1,0,1,0
-323,兰州,中国甘肃,Lanzhou,Gansu China,36.0637,103.831,34,2,36,0
+323,兰州,中国甘肃,Lanzhou,Gansu China,36.0637,103.831,36,2,34,0
 324,白银,中国甘肃,Baiyin,Gansu China,36.69035,104.945609,4,0,4,0
 325,临夏,中国甘肃,Linxia,Gansu China,35.518719,103.050791,3,0,3,0
-326,定西,中国甘肃,Dingxi,Gansu China,35.58,104.62,8,0,9,1
+326,定西,中国甘肃,Dingxi,Gansu China,35.58,104.62,9,0,9,0
 327,张掖,中国甘肃,Zhangye,Gansu China,38.93,100.46,2,0,2,0
 328,陇南,中国甘肃,Longnan,Gansu China,33.39,104.91,4,0,4,0
 329,金昌,中国甘肃,Jinchang,Gansu China,38.52,102.18,1,0,1,0
@@ -332,20 +332,20 @@
 331,平凉,中国甘肃,Pingliang,Gansu China,35.53,106.67,9,0,9,0
 332,甘南,中国甘肃,Gannan,Gansu China,34.981,102.91,8,0,8,0
 333,庆阳,中国甘肃,Qingyang,Gansu China,35.7,107.65,3,0,3,0
-334,银川,中国宁夏,Yinchuan,Ningxia China,38.478591,106.24265,34,0,36,2
-335,中卫,中国宁夏,Zhongwei,Ningxia China,37.360639,105.111278,3,0,4,1
+334,银川,中国宁夏,Yinchuan,Ningxia China,38.478591,106.24265,36,0,35,1
+335,中卫,中国宁夏,Zhongwei,Ningxia China,37.360639,105.111278,4,0,3,1
 336,固原,中国宁夏,Guyuan,Ningxia China,36.206829,106.254011,5,0,5,0
 337,吴忠,中国宁夏,Wuzhong,Ningxia China,37.97,106.2,28,0,28,0
 338,宁东,中国宁夏,Ningdong Energy Chemical Industry Base Admin Committee,Ningxia China,38.4,106.31,1,0,1,0
 339,石嘴山,中国宁夏,Shizuishan,Ningxia China,38.991988,106.37,1,0,1,0
-340,地区,中国 台湾,Taiwan,ROC,23.5,121,20,1,49,28
+340,地区,中国 台湾,Taiwan,ROC,23.5,121,53,1,20,32
 341,乌鲁木齐,中国新疆,Urumqi,Xinjiang China,43.419108,87.360244,23,0,23,0
 342,伊犁,中国新疆,Ili,Xinjiang China,43.9,81.32,18,0,18,0
 343,吐鲁番,中国新疆,Turpan,Xinjiang China,42.95,89.15,3,0,3,0
-344,第八师石河子,中国新疆,Shihezi (The 8th Division),Xinjiang China,44.26,86.05,3,1,4,0
+344,第八师石河子,中国新疆,Shihezi (The 8th Division),Xinjiang China,44.26,86.05,4,1,3,0
 345,阿克苏,中国新疆,Aksu,Xinjiang China,41.133,80.192,1,0,1,0
-346,第九师额敏县,中国新疆,Emin (The 9th Division),Xinjiang China,46.521076,83.620741,3,1,4,0
-347,第四师科克达拉,中国新疆,Cocodala (The 4th Division),Xinjiang China,43.9448,81.044,9,1,10,0
+346,第九师额敏县,中国新疆,Emin (The 9th Division),Xinjiang China,46.521076,83.620741,4,1,3,0
+347,第四师科克达拉,中国新疆,Cocodala (The 4th Division),Xinjiang China,43.9448,81.044,10,1,9,0
 348,昌吉,中国新疆,Changji,Xinjiang China,44,87.275,4,0,4,0
 349,第六师五家渠,中国新疆,Wujiaqu (The 6th Division),Xinjiang China,44.159797,87.538838,2,0,2,0
 350,第七师胡杨河,中国新疆,Huyanghe (The 7th Division),Xinjiang China,44.710398,84.8254,1,0,1,0
@@ -354,207 +354,228 @@
 353,澳门,中国澳门特别行政区,Macau,Macau SAR China,22.204118,113.557519,10,0,10,0
 354,西宁,中国青海,Xining,Qinghai China,36.686368,101.712664,15,0,15,0
 355,海北州,中国青海,Haibei,Qinghai China,36.899,100.997,3,0,3,0
-356,成都,中国四川,Chengdu,Sichuan China,30.67,104.06,115,3,144,26
-357,绵阳,中国四川,Mianyang,Sichuan China,31.46,104.73,20,0,22,2
-358,广安,中国四川,Guang An,Sichuan China,30.3,106,29,0,30,1
+356,成都,中国四川,Chengdu,Sichuan China,30.67,104.06,144,3,121,20
+357,绵阳,中国四川,Mianyang,Sichuan China,31.46,104.73,22,0,22,0
+358,广安,中国四川,Guang An,Sichuan China,30.3,106,30,0,30,0
 359,遂宁,中国四川,Suining,Sichuan China,30.501934,105.569333,17,0,17,0
 360,泸州,中国四川,Luzhou,Sichuan China,27.88,106.27,24,0,24,0
 361,南充,中国四川,Nanchong,Sichuan China,30.84,106.12,39,0,39,0
-362,甘孜,中国四川,Ganzi,Sichuan China,31.62,99.99,71,0,78,7
+362,甘孜,中国四川,Ganzi,Sichuan China,31.62,99.99,78,0,71,7
 363,德阳,中国四川,Deyang,Sichuan China,31.33,104.23,18,0,18,0
 364,雅安,中国四川,Ya An,Sichuan China,30,103,7,0,7,0
-365,达州,中国四川,Dazhou,Sichuan China,31.2,107.5,41,0,42,1
+365,达州,中国四川,Dazhou,Sichuan China,31.2,107.5,42,0,42,0
 366,自贡,中国四川,Zigong,Sichuan China,29.34,104.78,9,0,9,0
 367,内江,中国四川,Neijiang,Sichuan China,29.6,105,22,0,22,0
 368,乐山,中国四川,Leshan,Sichuan China,29.2,103.63,3,0,3,0
-369,眉山,中国四川,Meishan,Sichuan China,29.9,103.5,7,0,8,1
+369,眉山,中国四川,Meishan,Sichuan China,29.9,103.5,8,0,8,0
 370,宜宾,中国四川,Yibin,Sichuan China,28.76,104.63,12,0,12,0
 371,凉山,中国四川,Liangshan,Sichuan China,27.88,102.28,13,0,13,0
 372,资阳,中国四川,Ziyang,Sichuan China,30.1,104.67,4,0,4,0
 373,广元,中国四川,Guangyuan,Sichuan China,30.46,106.64,6,0,6,0
 374,阿坝,中国四川,Aba,Sichuan China,32.9,101.71,1,0,1,0
-375,巴中,中国四川,Bazhong,Sichuan China,31.86,106.75,21,0,24,3
+375,巴中,中国四川,Bazhong,Sichuan China,31.86,106.75,24,0,21,3
 376,攀枝花,中国四川,Panzhihua,Sichuan China,26.578,101.721,16,0,16,0
 377,拉萨,中国西藏,Lhasa,Tibet China,29.65,91.577,1,0,1,0
-378,,阿富汗,,Afghanistan,33,65,0,0,7,7
-379,,阿尔巴尼亚,,Albania,41.1533,20.1683,0,1,23,22
-380,,阿尔及利亚,,Algeria,28.0339,1.6596,8,1,24,15
-381,,安道尔,,Andorra,42.5063,1.5218,1,0,1,0
-382,,阿根廷,,Argentina,-38.4161,-63.6167,0,1,19,18
-383,,亚美尼亚,,Armenia,40.0691,45.0382,0,0,4,4
-384,新南威尔士州,澳大利亚,New South Wales,Australia,-33.8688,151.2093,4,2,65,59
-385,维多利亚州,澳大利亚,Victoria,Australia,-37.8136,144.9631,7,0,21,14
-386,昆士兰州,澳大利亚,Queensland,Australia,-28.0167,153.4,8,0,20,12
-387,南澳大利亚州,澳大利亚,South Australia,Australia,-34.9285,138.6007,2,0,9,7
-388,西澳大利亚州,澳大利亚,Western Australia,Australia,-31.9505,115.8605,0,1,9,8
-389,塔斯马尼亚岛,澳大利亚,Tasmania,Australia,-41.4545,145.9707,0,0,3,3
-390,北部地区,澳大利亚,Northern Territory,Australia,-12.4634,130.8456,0,0,1,1
-391,钻石公主号撤离,澳大利亚,From Diamond Princess,Australia,35.4437,139.638,0,0,0,0
-392,,奥地利,,Austria,47.5162,14.5501,4,1,302,297
-393,,阿塞拜疆,,Azerbaijan,40.1431,47.5769,3,0,11,8
-394,,巴林,,Bahrain,26.0275,50.55,35,0,195,160
-395,,孟加拉国,,Bangladesh,23.685,90.3563,0,0,3,3
-396,,白俄罗斯,,Belarus,53.7098,27.9534,3,0,12,9
-397,,比利时,,Belgium,50.8333,4,1,3,314,310
-398,,不丹,,Bhutan,27.5142,90.4336,0,0,1,1
-399,,玻利维亚,,Bolivia,-16.2902,-63.5887,0,0,2,2
-400,,波黑,,Bosnia and Herzegovina,43.9159,17.6791,0,0,11,11
-401,,巴西,,Brazil,-14.235,-51.9253,0,0,52,52
-402,,文莱,,Brunei,4.5353,114.7277,0,0,11,11
-403,,保加利亚,,Bulgaria,42.7339,25.4858,0,1,7,6
-404,,布基纳法索,,Burkina Faso,12.2383,-1.5616,0,0,2,2
-405,,柬埔寨,,Cambodia,12.5657,104.991,1,0,3,2
-406,,喀麦隆,,Cameroon,3.848,11.5021,0,0,2,2
-407,英属哥伦比亚,加拿大,British Columbia,Canada,53.7267,-127.6476,4,1,46,41
-408,安大略,加拿大,Ontario,Canada,51.2538,-85.3232,4,0,42,38
-409,艾伯塔,加拿大,Alberta,Canada,53.9333,-116.5765,0,0,19,19
-410,魁北克,加拿大,Quebec,Canada,52.9399,-73.5491,0,0,9,9
-411,新布朗士维克,加拿大,New Brunswick,Canada,46.5653,-66.4619,0,0,1,1
-412,,智利,,Chile,-35.6751,-71.543,0,0,23,23
-413,,哥伦比亚,,Colombia,4.5709,-74.2973,0,0,9,9
-414,,刚果 (金),,Congo (Kinshasa),-4.0383,21.7587,0,0,1,1
-415,,哥斯达黎加,,Costa Rica,9.7489,-83.7534,0,0,22,22
-416,,科特迪瓦,,Cote d'Ivoire,7.54,-5.5471,0,0,1,1
-417,,克罗地亚,,Croatia,45.1667,15.5,0,0,19,19
-418,钻石公主号撤离,钻石公主号,Diamond Princess,Cruise Ship,35.4437,139.638,325,7,696,364
-419,,古巴,,Cuba,22,-80,0,0,3,3
-420,,塞浦路斯,,Cyprus,35.1264,33.4299,0,0,6,6
-421,,捷克,,Czechia,49.8175,15.473,0,0,94,94
-422,,丹麦,,Denmark,56.2639,9.5018,1,0,615,614
-423,法罗群岛,丹麦,Faroe Islands,Denmark,61.8926,-6.9118,0,0,2,2
-424,,多米尼加,,Dominican Republic,18.7357,-70.1627,0,0,5,5
-425,,厄瓜多尔,,Ecuador,-1.8312,-78.1834,0,0,17,17
-426,,埃及,,Egypt,26,30,27,1,67,39
-427,,爱沙尼亚,,Estonia,58.5953,25.0136,0,0,16,16
-428,,芬兰,,Finland,64,26,1,0,59,58
-429,,法国,,France,46.2276,2.2137,12,48,2281,2221
-430,圣马丁,法国,St Martin,France,18.0708,-63.0501,0,0,2,2
-431,圣巴瑟勒米,法国,Saint Barthelemy,France,17.9,-62.8333,0,0,1,1
-432,,法属圭亚那,,French Guiana,3.9339,-53.1258,0,0,5,5
-433,,格鲁吉亚,,Georgia,42.3154,43.3569,0,0,24,24
-434,,德国,,Germany,51,9,25,3,2078,2050
-435,,希腊,,Greece,39.0742,21.8243,0,1,99,98
-436,,圭亚那,,Guyana,5,-58.75,0,1,1,0
-437,,梵蒂冈,,Vatican,41.9029,12.4534,0,0,1,1
-438,,洪都拉斯,,Honduras,15.2,-86.2419,0,0,2,2
-439,,匈牙利,,Hungary,47.1625,19.5033,0,0,13,13
-440,,冰岛,,Iceland,64.9631,-19.0208,1,0,103,102
-441,,印度,,India,21,78,4,1,73,68
-442,,印尼,,Indonesia,-0.7893,113.9213,2,1,34,31
-443,,伊朗,,Iran,32,53,2959,429,10075,6687
-444,,伊拉克,,Iraq,33,44,15,8,71,48
-445,,爱尔兰,,Ireland,53.1424,-7.6921,0,1,43,42
-446,,以色列,,Israel,31,35,4,0,131,127
-447,,意大利,,Italy,43,12,1045,827,12462,10590
-448,,牙买加,,Jamaica,18.1096,-77.2975,0,0,2,2
-449,,日本,,Japan,36,138,118,16,639,505
-450,,约旦,,Jordan,31.24,36.51,0,0,1,1
-451,,韩国,,South Korea,36,128,333,66,7869,7470
-452,,科威特,,Kuwait,29.5,47.75,5,0,80,75
-453,,拉脱维亚,,Latvia,56.8796,24.6032,1,0,10,9
-454,,黎巴嫩,,Lebanon,33.8547,35.8623,1,3,61,57
-455,,列支敦士登,,Liechtenstein,47.14,9.55,0,0,1,1
-456,,立陶宛,,Lithuania,55.1694,23.8813,0,0,3,3
-457,,卢森堡,,Luxembourg,49.8144,6.1317,0,0,19,19
-458,,马来西亚,,Malaysia,2.5,112.5,26,0,149,123
-459,,马尔代夫,,Maldives,3.2028,73.2207,0,0,8,8
-460,,马耳他,,Malta,35.9375,14.3754,0,0,6,6
-461,,马丁尼克,,Martinique,14.6415,-61.0242,0,0,3,3
-462,,墨西哥,,Mexico,23,-102,4,0,12,8
-463,,摩尔多瓦,,Moldova,47.4116,28.3699,0,0,3,3
-464,,摩纳哥,,Monaco,43.7333,7.4167,0,0,2,2
-465,,蒙古国,,Mongolia,46.8625,103.8467,0,0,1,1
-466,,摩洛哥,,Morocco,31.7917,-7.0926,0,1,6,5
-467,,尼泊尔,,Nepal,28.3949,84.124,1,0,1,0
-468,,荷兰,,Netherlands,52.1326,5.2913,0,5,503,498
-469,,新西兰,,New Zealand,-40.9006,174.886,0,0,5,5
-470,,尼日利亚,,Nigeria,9.082,8.6753,0,0,2,2
-471,,北马其顿,,North Macedonia,41.6086,21.7453,0,0,7,7
-472,,挪威,,Norway,60.472,8.4689,1,0,702,701
-473,,巴勒斯坦,,Palestinian,31.9522,35.2332,0,0,31,31
-474,,阿曼,,Oman,21,57,9,0,18,9
-475,,巴基斯坦,,Pakistan,30.3753,69.3451,2,0,20,18
-476,,巴拿马,,Panama,8.538,-80.7821,0,1,11,10
-477,,巴拉圭,,Paraguay,-23.4425,-58.4438,0,0,5,5
-478,,秘鲁,,Peru,-9.19,-75.0152,0,0,15,15
-479,,菲律宾,,Philippines,12.8797,121.774,2,2,52,48
-480,,波兰,,Poland,51.9194,19.1451,0,1,49,48
-481,,葡萄牙,,Portugal,39.3999,-8.2245,0,0,59,59
-482,,卡塔尔,,Qatar,25.3548,51.1839,0,0,262,262
-483,,留尼汪,,Reunion,-21.1151,55.5364,0,0,1,1
-484,,罗马尼亚,,Romania,46,25,6,0,49,43
-485,,俄罗斯,,Russia,60,90,3,0,28,25
-486,,圣马力诺,,San Marino,43.9424,12.4578,0,3,69,66
-487,,沙特,,Saudi Arabia,24,45,1,0,45,44
-488,,塞内加尔,,Senegal,14.4974,-14.4524,1,0,4,3
-489,,塞尔维亚,,Serbia,44.0165,21.0059,0,0,19,19
-490,,新加坡,,Singapore,1.2833,103.8333,96,0,178,82
-491,,斯洛伐克,,Slovakia,48.669,19.699,0,0,16,16
-492,,斯洛文尼亚,,Slovenia,46.1512,14.9955,0,0,89,89
-493,,南非,,South Africa,-30.5595,22.9375,0,0,17,17
-494,,西班牙,,Spain,40,-4,183,55,2277,2039
-495,,斯里兰卡,,Sri Lanka,7.8731,80.7718,1,0,2,1
-496,,瑞典,,Sweden,63,16,1,1,599,597
-497,,瑞士,,Switzerland,46.8182,8.2275,4,4,652,644
-498,,泰国,,Thailand,15.87,100.9925,34,1,70,35
-499,,多哥,,Togo,8.6195,0.8248,0,0,1,1
-500,,突尼斯,,Tunisia,33.8869,9.5375,0,0,7,7
-501,,土耳其,,Turkey,38.9637,35.2433,0,0,1,1
-502,,乌克兰,,Ukraine,48.3794,31.1656,0,0,1,1
-503,,阿联酋,,UAE,23.4241,53.8478,17,0,85,68
-504,,英国,,UK,55.3781,-3.436,18,8,456,430
-505,海峡群岛,英国,Channel Islands,UK,49.3723,-2.3644,0,0,2,2
-506,直布罗陀,英国,Gibraltar,UK,36.1408,-5.3536,1,0,1,0
-507,华盛顿州,美国,Washington,US,47.4009,-121.4905,1,31,442,410
-508,纽约州,美国,New York,US,42.1657,-74.9481,0,0,328,328
-509,加利福尼亚州,美国,California,US,36.1162,-119.6816,6,4,221,211
-510,马萨诸塞州,美国,Massachusetts,US,42.2302,-71.5301,1,0,108,107
-511,钻石公主号撤离,美国,Diamond Princess,US,35.4437,139.638,0,0,46,46
-512,科罗拉多州,美国,Colorado,US,39.0598,-105.3111,0,0,45,45
-513,佛罗里达州,美国,Florida,US,27.7663,-81.6868,0,2,35,33
-514,伊利诺伊州,美国,Illinois,US,40.3495,-88.9861,2,0,32,30
-515,佐治亚州,美国,Georgia,US,33.0406,-83.6431,0,1,31,30
-516,新泽西州,美国,New Jersey,US,40.2989,-74.521,0,1,29,28
-517,得克萨斯州,美国,Texas,US,31.0545,-97.5635,0,0,27,27
-518,俄勒冈州,美国,Oregon,US,44.572,-122.0709,0,0,24,24
-519,宾夕法尼亚州,美国,Pennsylvania,US,40.5908,-77.2098,0,0,22,22
-520,至尊公主号游轮,美国,Grand Princess,US,37.6489,-122.6655,0,0,21,21
-521,路易斯安那州,美国,Louisiana,US,31.1695,-91.8678,0,0,19,19
-522,田纳西州,美国,Tennessee,US,35.7478,-86.6923,0,0,18,18
-523,弗吉尼亚州,美国,Virginia,US,37.7693,-78.17,0,0,17,17
-524,艾奥瓦州,美国,Iowa,US,42.0115,-93.2105,0,0,16,16
-525,北卡罗来纳州,美国,North Carolina,US,35.6301,-79.8064,0,0,15,15
-526,内华达州,美国,Nevada,US,38.3135,-117.0554,0,0,14,14
-527,印第安纳州,美国,Indiana,US,39.8494,-86.2583,0,0,13,13
-528,马里兰州,美国,Maryland,US,39.0639,-76.8021,0,0,12,12
-529,南卡罗来纳州,美国,South Carolina,US,33.8569,-80.945,0,0,12,12
-530,华盛顿特区,美国,District of Columbia,US,38.8974,-77.0268,0,0,10,10
-531,肯塔基州,美国,Kentucky,US,37.6681,-84.6701,0,0,10,10
-532,内布拉斯加州,美国,Nebraska,US,41.1254,-98.2681,0,0,10,10
-533,亚利桑那州,美国,Arizona,US,33.7298,-111.4312,1,0,9,8
-534,明尼苏达州,美国,Minnesota,US,45.6945,-93.9002,0,0,9,9
-535,南达科他州,美国,South Dakota,US,44.2998,-99.4388,0,1,8,7
-536,威斯康辛州,美国,Wisconsin,US,44.2685,-89.6165,1,0,8,7
-537,阿肯色州,美国,Arkansas,US,34.9697,-92.3731,0,0,6,6
-538,新罕布夏州,美国,New Hampshire,US,43.4525,-71.5639,0,0,6,6
-539,康涅狄格州,美国,Connecticut,US,41.5978,-72.7554,0,0,5,5
-540,新墨西哥州,美国,New Mexico,US,34.8405,-106.2485,0,0,5,5
-541,俄亥俄州,美国,Ohio,US,40.3888,-82.7649,0,0,5,5
-542,罗德岛州,美国,Rhode Island,US,41.6809,-71.5118,0,0,5,5
-543,犹他州,美国,Utah,US,40.15,-111.8624,0,0,5,5
-544,夏威夷州,美国,Hawaii,US,21.0943,-157.4983,0,0,2,2
-545,密歇根州,美国,Michigan,US,43.3266,-84.5361,0,0,2,2
-546,俄克拉荷马州,美国,Oklahoma,US,35.5653,-96.9289,0,0,2,2
-547,维蒙特州,美国,Vermont,US,44.0459,-72.7107,0,0,2,2
-548,德拉瓦州,美国,Delaware,US,39.3185,-75.5071,0,0,1,1
-549,堪萨斯州,美国,Kansas,US,38.5266,-96.7265,0,0,1,1
-550,密西西比州,美国,Mississippi,US,32.7416,-89.6787,0,0,1,1
-551,密苏里州,美国,Missouri,US,38.4561,-92.2884,0,0,1,1
-552,蒙大拿州,美国,Montana,US,46.9219,-110.4544,0,0,1,1
-553,北达科他州,美国,North Dakota,US,47.5289,-99.784,0,0,1,1
-554,怀俄明州,美国,Wyoming,US,42.756,-107.3025,0,0,1,1
-555,阿拉斯加州,美国,Alaska,US,61.3707,-152.4044,0,0,0,0
-556,爱达荷州,美国,Idaho,US,44.2405,-114.4788,0,0,0,0
-557,缅因州,美国,Maine,US,44.6939,-69.3819,0,0,0,0
-558,西弗吉尼亚州,美国,West Virginia,US,38.4912,-80.9545,0,0,0,0
-559,,越南,,Vietnam,16,108,16,0,39,23
+378,,阿富汗,,Afghanistan,33,65,7,0,0,7
+379,,阿尔巴尼亚,,Albania,41.1533,20.1683,33,1,0,32
+380,,阿尔及利亚,,Algeria,28.0339,1.6596,26,2,8,16
+381,,安道尔,,Andorra,42.5063,1.5218,1,0,0,1
+382,,安提瓜和巴布达,,Antigua and Barbuda,17.0608,-61.7964,1,0,0,1
+383,,阿根廷,,Argentina,-38.4161,-63.6167,31,2,0,29
+384,,亚美尼亚,,Armenia,40.0691,45.0382,8,0,0,8
+385,阿鲁巴,荷兰,Aruba,Netherlands,12.5211,-69.9683,2,0,0,2
+386,塔斯马尼亚,澳大利亚,Tasmania,Australia,-41.4545,145.9707,5,0,0,5
+387,新南威尔士州,澳大利亚,New South Wales,Australia,-33.8688,151.2093,92,2,4,86
+388,维多利亚州,澳大利亚,Victoria,Australia,-37.8136,144.9631,36,0,8,28
+389,昆士兰州,澳大利亚,Queensland,Australia,-28.0167,153.4,35,0,8,27
+390,南澳大利亚州,澳大利亚,South Australia,Australia,-34.9285,138.6007,16,0,3,13
+391,堪培拉,澳大利亚,Australian Capital Territory,Australia,-35.4735,149.0124,1,0,0,1
+392,钻石公主号撤离,澳大利亚,From Diamond Princess,Australia,35.4437,139.638,0,0,0,0
+393,西澳大利亚州,澳大利亚,Western Australia,Australia,-31.9505,115.8605,14,1,0,13
+394,北部地区,澳大利亚,Northern Territory,Australia,-12.4634,130.8456,1,0,0,1
+395,,奥地利,,Austria,47.5162,14.5501,504,1,6,497
+396,,阿塞拜疆,,Azerbaijan,40.1431,47.5769,15,1,3,11
+397,,巴林,,Bahrain,26.0667,50.5577,189,0,44,145
+398,,孟加拉国,,Bangladesh,23.685,90.3563,3,0,0,3
+399,,白俄罗斯,,Belarus,53.7098,27.9534,27,0,3,24
+400,,比利时,,Belgium,50.5039,4.4699,559,3,1,555
+401,,不丹,,Bhutan,27.5142,90.4336,1,0,0,1
+402,,玻利维亚,,Bolivia,-16.2902,-63.5887,3,0,0,3
+403,,波黑,,Bosnia and Herzegovina,43.9159,17.6791,13,0,0,13
+404,,巴西,,Brazil,-14.235,-51.9253,151,0,0,151
+405,,文莱,,Brunei,4.5353,114.7277,37,0,0,37
+406,,保加利亚,,Bulgaria,42.7339,25.4858,23,1,0,22
+407,,布基纳法索,,Burkina Faso,12.2383,-1.5616,2,0,0,2
+408,,柬埔寨,,Cambodia,12.5657,104.991,5,0,1,4
+409,,喀麦隆,,Cameroon,3.848,11.5021,2,0,0,2
+410,英属哥伦比亚,加拿大,British Columbia,Canada,53.7267,-127.6476,64,1,4,59
+411,安大略,加拿大,Ontario,Canada,51.2538,-85.3232,74,0,4,70
+412,新布朗士维克,加拿大,New Brunswick,Canada,46.5653,-66.4619,1,0,0,1
+413,魁北克,加拿大,Quebec,Canada,52.9399,-73.5491,17,0,0,17
+414,马尼托巴,加拿大,Manitoba,Canada,53.7609,-98.8139,4,0,0,4
+415,萨斯卡彻万,加拿大,Saskatchewan,Canada,52.9399,-106.4509,2,0,0,2
+416,至尊公主号撤离,加拿大,Grand Princess,Canada,37.6489,-122.6655,2,0,0,2
+417,艾伯塔,加拿大,Alberta,Canada,53.9333,-116.5765,29,0,0,29
+418,开曼群岛,英国,Cayman Islands,UK,19.3133,-81.2546,1,0,0,1
+419,,智利,,Chile,-35.6751,-71.543,43,0,0,43
+420,,哥伦比亚,,Colombia,4.5709,-74.2973,13,0,0,13
+421,,刚果 (金),,Congo (Kinshasa),-4.0383,21.7587,2,0,0,2
+422,,哥斯达黎加,,Costa Rica,9.7489,-83.7534,23,0,0,23
+423,,科特迪瓦,,Cote d'Ivoire,7.54,-5.5471,1,0,0,1
+424,,克罗地亚,,Croatia,45.1,15.2,32,0,1,31
+425,钻石公主号撤离,钻石公主号,Diamond Princess,Cruise Ship,35.4498,139.6649,696,7,325,364
+426,,古巴,,Cuba,21.5218,-77.7812,4,0,0,4
+427,,塞浦路斯,,Cyprus,35.1264,33.4299,14,0,0,14
+428,,捷克,,Czechia,49.8175,15.473,141,0,0,141
+429,本土,丹麦,Denmark,Denmark,56.2639,9.5018,801,0,1,800
+430,法罗群岛,丹麦,Faroe Islands,Denmark,61.8926,-6.9118,3,0,0,3
+431,,多米尼加,,Dominican Republic,18.7357,-70.1627,5,0,0,5
+432,,厄瓜多尔,,Ecuador,-1.8312,-78.1834,17,0,0,17
+433,,埃及,,Egypt,26.8206,30.8025,80,2,27,51
+434,,爱沙尼亚,,Estonia,58.5953,25.0136,79,0,0,79
+435,,埃塞俄比亚,,Ethiopia,9.145,40.4897,1,0,0,1
+436,,芬兰,,Finland,61.9241,25.7482,155,0,1,154
+437,本土,法国,France,France,46.2276,2.2137,3661,79,12,3570
+438,法属波利尼西亚,法国,French Polynesia,France,-17.6797,149.4068,3,0,0,3
+439,圣巴瑟勒米,法国,Saint Barthelemy,France,17.9,-62.8333,1,0,0,1
+440,圣马丁,法国,St Martin,France,18.0708,-63.0501,2,0,0,2
+441,法属圭亚那,法国,,French Guiana,3.9339,-53.1258,5,0,0,5
+442,,格鲁吉亚,,Georgia,42.3154,43.3569,25,0,0,25
+443,,德国,,Germany,51.1657,10.4515,3675,7,46,3622
+444,,希腊,,Greece,39.0742,21.8243,190,1,0,189
+445,瓜达卢佩,法国,Guadeloupe,France,16.265,-61.551,1,0,0,1
+446,,几内亚,,Guinea,9.9456,-9.6966,1,0,0,1
+447,,圭亚那,,Guyana,5,-58.75,1,1,0,0
+448,,梵蒂冈,,Vatican,41.9029,12.4534,1,0,0,1
+449,,洪都拉斯,,Honduras,15.2,-86.2419,2,0,0,2
+450,,匈牙利,,Hungary,47.1625,19.5033,19,0,0,19
+451,,冰岛,,Iceland,64.9631,-19.0208,134,0,1,133
+452,,印度,,India,20.5937,78.9629,82,2,4,76
+453,,印尼,,Indonesia,-0.7893,113.9213,69,4,2,63
+454,,伊朗,,Iran,32.4279,53.688,11364,514,2959,7891
+455,,伊拉克,,Iraq,33.2232,43.6793,101,9,24,68
+456,,爱尔兰,,Ireland,53.1424,-7.6921,90,1,0,89
+457,,以色列,,Israel,31.0461,34.8516,161,0,4,157
+458,,意大利,,Italy,41.8719,12.5674,17660,1266,1439,14955
+459,,牙买加,,Jamaica,18.1096,-77.2975,8,0,0,8
+460,,日本,,Japan,36.2048,138.2529,701,19,118,564
+461,,约旦,,Jordan,31.24,36.51,1,0,1,0
+462,,哈萨克斯坦,,Kazakhstan,48.0196,66.9237,4,0,0,4
+463,,肯尼亚,,Kenya,-0.0236,37.9062,1,0,0,1
+464,,韩国,,"Korea, South",35.9078,127.7669,7979,66,510,7403
+465,,科威特,,Kuwait,29.3117,47.4818,80,0,5,75
+466,,拉脱维亚,,Latvia,56.8796,24.6032,17,0,1,16
+467,,黎巴嫩,,Lebanon,33.8547,35.8623,77,3,1,73
+468,,列支敦士登,,Liechtenstein,47.14,9.55,1,0,0,1
+469,,立陶宛,,Lithuania,55.1694,23.8813,6,0,0,6
+470,,卢森堡,,Luxembourg,49.8153,6.1296,34,0,0,34
+471,,马来西亚,,Malaysia,4.2105,101.9758,197,0,26,171
+472,,马尔代夫,,Maldives,3.2028,73.2207,9,0,0,9
+473,,马耳他,,Malta,35.9375,14.3754,12,0,1,11
+474,马丁尼克,法国,Martinique,France,14.6415,-61.0242,3,0,0,3
+475,,墨西哥,,Mexico,23.6345,-102.5528,12,0,4,8
+476,,摩尔多瓦,,Moldova,47.4116,28.3699,6,0,0,6
+477,,摩纳哥,,Monaco,43.7333,7.4167,2,0,0,2
+478,,蒙古国,,Mongolia,46.8625,103.8467,1,0,0,1
+479,,摩洛哥,,Morocco,31.7917,-7.0926,7,1,1,5
+480,,尼泊尔,,Nepal,28.3949,84.124,1,0,1,0
+481,本土,荷兰,,Netherlands,52.1326,5.2913,804,10,0,794
+482,,新西兰,,New Zealand,-40.9006,174.886,5,0,0,5
+483,,尼日利亚,,Nigeria,9.082,8.6753,2,0,0,2
+484,,北马其顿,,North Macedonia,41.6086,21.7453,14,0,1,13
+485,,挪威,,Norway,60.472,8.4689,996,0,1,995
+486,,阿曼,,Oman,21.4735,55.9754,19,0,9,10
+487,,巴基斯坦,,Pakistan,30.3753,69.3451,28,0,2,26
+488,,巴拿马,,Panama,8.538,-80.7821,27,1,0,26
+489,,巴拉圭,,Paraguay,-23.4425,-58.4438,6,0,0,6
+490,,秘鲁,,Peru,-9.19,-75.0152,28,0,0,28
+491,,菲律宾,,Philippines,12.8797,121.774,64,5,2,57
+492,,波兰,,Poland,51.9194,19.1451,68,2,0,66
+493,,葡萄牙,,Portugal,39.3999,-8.2245,112,0,1,111
+494,,卡塔尔,,Qatar,25.3548,51.1839,320,0,0,320
+495,,留尼汪,,Reunion,-21.1151,55.5364,5,0,0,5
+496,,罗马尼亚,,Romania,45.9432,24.9668,89,0,7,82
+497,,俄罗斯,,Russia,61.524,105.3188,45,0,3,42
+498,,圣马力诺,,San Marino,43.9424,12.4578,80,5,0,75
+499,,沙特,,Saudi Arabia,23.8859,45.0792,86,0,1,85
+500,,塞内加尔,,Senegal,14.4974,-14.4524,10,0,1,9
+501,,塞尔维亚,,Serbia,44.0165,21.0059,35,0,0,35
+502,,新加坡,,Singapore,1.3521,103.8198,200,0,97,103
+503,,斯洛伐克,,Slovakia,48.669,19.699,32,0,0,32
+504,,斯洛文尼亚,,Slovenia,46.1512,14.9955,141,0,0,141
+505,,南非,,South Africa,-30.5595,22.9375,24,0,0,24
+506,,西班牙,,Spain,40.4637,-3.7492,5232,133,193,4906
+507,,斯里兰卡,,Sri Lanka,7.8731,80.7718,6,0,1,5
+508,,苏丹,,Sudan,12.8628,30.2176,1,1,0,0
+509,,瑞典,,Sweden,60.1282,18.6435,814,1,1,812
+510,,瑞士,,Switzerland,46.8182,8.2275,1139,11,4,1124
+511,,泰国,,Thailand,15.87,100.9925,75,1,35,39
+512,,多哥,,Togo,8.6195,0.8248,1,0,0,1
+513,,突尼斯,,Tunisia,33.8869,9.5375,16,0,0,16
+514,,土耳其,,Turkey,38.9637,35.2433,5,0,0,5
+515,,乌克兰,,Ukraine,48.3794,31.1656,3,1,0,2
+516,,阿联酋,,United Arab Emirates,23.4241,53.8478,85,0,17,68
+517,本土,英国,Channel Islands,UK,49.372284,-2.364351,2,0,0,2
+518,海峡群岛,英国,United Kingdom,UK,55.3781,-3.436,798,8,18,772
+519,直布罗陀,英国,Gibraltar,UK,36.1408,-5.3536,1,0,1,0
+520,钻石公主号撤离,美国,Diamond Princess,US,35.4437,139.638,46,0,0,46
+521,亚拉巴马州,美国,Alabama,US,32.3182,-86.9023,5,0,0,5
+522,至尊公主号撤离,美国,Grand Princess,US,37.64894,-122.665479,21,0,0,21
+523,阿拉斯加州,美国,Alaska,US,61.370716,-152.404419,1,0,0,1
+524,亚利桑那州,美国,Arizona,US,33.729759,-111.431221,9,0,1,8
+525,阿肯色州,美国,Arkansas,US,34.969704,-92.373123,6,0,0,6
+526,加利福尼亚州,美国,California,US,36.116203,-119.681564,282,4,6,272
+527,科罗拉多州,美国,Colorado,US,39.059811,-105.311104,49,0,0,49
+528,康涅狄格州,美国,Connecticut,US,41.597782,-72.755371,11,0,0,11
+529,德拉瓦州,美国,Delaware,US,39.318523,-75.507141,4,0,0,4
+530,华盛顿哥伦比亚特区,美国,District of Columbia,US,38.897438,-77.026817,10,0,0,10
+531,佛罗里达州,美国,Florida,US,27.766279,-81.686783,50,2,0,48
+532,乔治亚州,美国,Georgia,US,33.040619,-83.643074,42,1,0,41
+533,夏威夷州,美国,Hawaii,US,21.094318,-157.498337,2,0,0,2
+534,爱达荷州,美国,Idaho,US,44.240459,-114.478828,1,0,0,1
+535,伊利诺伊州,美国,Illinois,US,40.349457,-88.986137,46,0,2,44
+536,印第安纳州,美国,Indiana,US,39.849426,-86.258278,13,0,0,13
+537,艾奥瓦州,美国,Iowa,US,42.011539,-93.210526,17,0,0,17
+538,堪萨斯州,美国,Kansas,US,38.5266,-96.726486,5,1,0,4
+539,肯塔基州,美国,Kentucky,US,37.66814,-84.670067,14,0,0,14
+540,路易斯安那州,美国,Louisiana,US,31.169546,-91.867805,36,0,0,36
+541,缅因州,美国,Maine,US,44.693947,-69.381927,1,0,0,1
+542,马里兰州,美国,Maryland,US,39.063946,-76.802101,18,0,0,18
+543,马萨诸塞州,美国,Massachusetts,US,42.230171,-71.530106,123,0,1,122
+544,密歇根州,美国,Michigan,US,43.326618,-84.536095,16,0,0,16
+545,明尼苏达在,美国,Minnesota,US,45.694454,-93.900192,14,0,0,14
+546,密西西比州,美国,Mississippi,US,32.741646,-89.678696,1,0,0,1
+547,密苏里州,美国,Missouri,US,38.456085,-92.288368,2,0,0,2
+548,蒙大拿州,美国,Montana,US,46.921925,-110.454353,1,0,0,1
+549,内布拉斯加州,美国,Nebraska,US,41.12537,-98.268082,13,0,0,13
+550,内华达州,美国,Nevada,US,38.313515,-117.055374,17,0,0,17
+551,新罕布夏州,美国,New Hampshire,US,43.452492,-71.563896,6,0,0,6
+552,新泽西州,美国,New Jersey,US,40.298904,-74.521011,29,1,0,28
+553,新墨西哥州,美国,New Mexico,US,34.840515,-106.248482,10,0,0,10
+554,纽约州,美国,New York,US,42.165726,-74.948051,421,0,0,421
+555,北卡罗来纳州,美国,North Carolina,US,35.630066,-79.806419,17,0,0,17
+556,北达科他州,美国,North Dakota,US,47.528912,-99.784012,1,0,0,1
+557,俄亥俄州,美国,Ohio,US,40.388783,-82.764915,13,0,0,13
+558,俄克拉荷马州,美国,Oklahoma,US,35.565342,-96.928917,2,0,0,2
+559,俄勒冈州,美国,Oregon,US,44.572021,-122.070938,30,0,0,30
+560,宾夕法尼亚州,美国,Pennsylvania,US,40.590752,-77.209755,41,0,0,41
+561,罗德岛州,美国,Rhode Island,US,41.680893,-71.51178,14,0,0,14
+562,南卡罗来纳州,美国,South Carolina,US,33.856892,-80.945007,13,0,0,13
+563,南达科他州,美国,South Dakota,US,44.299782,-99.438828,8,1,0,7
+564,田纳西州,美国,Tennessee,US,35.747845,-86.692345,26,0,0,26
+565,得克萨斯州,美国,Texas,US,31.054487,-97.563461,43,0,0,43
+566,犹他州,美国,Utah,US,40.150032,-111.862434,9,0,0,9
+567,维蒙特在,美国,Vermont,US,44.045876,-72.710686,2,0,0,2
+568,弗吉尼亚州,美国,Virginia,US,37.769337,-78.169968,30,0,0,30
+569,华盛顿州,美国,Washington,US,47.400902,-121.490494,568,37,1,530
+570,西弗吉尼亚州,美国,West Virginia,US,38.491226,-80.954453,0,0,0,0
+571,威斯康辛州,美国,Wisconsin,US,44.268543,-89.616508,19,0,1,18
+572,怀俄明州,美国,Wyoming,US,42.755966,-107.30249,1,0,0,1
+573,波多黎各,美国,Puerto Rico,US,18.19,-66.401,2,0,0,2
+574,美属维京群岛,美国,US Virgin Islands,US,18.34,-64.909,1,0,0,1
+575,,越南,,Vietnam,14.0583,108.2772,47,0,16,31
+576,,圣卢西亚,,St Lucia,13.88,-60.96,1,0,0,1
+577,,圣文森特和格林纳丁斯,,Saint Vincent and the Grenadines,13.229,-61.21,1,0,0,1
+578,,特立尼达和多巴格,,Trinidad and Tobago,10.547,-61.34,2,0,0,2
+579,库拉索,荷兰,Curacao,Netherlands,12.136,-68.94,1,0,0,1
+580,,苏里南,,Suriname,4,-56.195,1,0,0,1
