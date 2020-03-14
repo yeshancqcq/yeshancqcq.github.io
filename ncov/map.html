@@ -72,7 +72,7 @@
 	<div id ="intro"><p2>城市疫情数据/Data From:  <br>
 		<a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">丁香园</a> | <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">Esri/JHU Compilation</a>
 	</p2><br>
-		<p2>截止到/Last Updated: <br>  2020-03-12 22:30 (CST 芝加哥时间)</p2>
+		<p2>截止到/Last Updated: <br>  2020-03-14 12:00 (CST 芝加哥时间)</p2>
 		<div><center>右上角可添加地形、卫星和边界底图<br>Add topographic/satellite/boundary basemaps at the upper-right menu.</center></div>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Shan Ye's Homepage</a></center></div>
 </center>
@@ -119,8 +119,8 @@
 		//Initiating map layer groups
 
 		var sites = L.layerGroup();
-		var southWest = L.latLng(-85, -180),
-				northEast = L.latLng(85, 180),
+		var southWest = L.latLng(-85, -200),
+				northEast = L.latLng(85, 200),
 				mybounds = L.latLngBounds(southWest, northEast);
 
 
@@ -200,7 +200,7 @@
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng,4.5);
-					$("#paneltext").html('<h3> '+feature.properties.city+', '
+					$("#paneltext").html('<h3> '+feature.properties.city+' '
 										+feature.properties.province +'</h3> Confirmed: '
 										+feature.properties.case+'<br> Recovered: '
 										+feature.properties.cure+'<br> Remaining: '
