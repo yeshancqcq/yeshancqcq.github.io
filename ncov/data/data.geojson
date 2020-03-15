@@ -16,7 +16,9 @@
     "case":"242",
     "death":"2",
     "cure":"240",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0.826446281",
+    "cure_rate":"99.17355372"
     }
   },
   {
@@ -34,7 +36,9 @@
     "case":"156",
     "death":"1",
     "cure":"155",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0.641025641",
+    "cure_rate":"99.35897436"
     }
   },
   {
@@ -52,7 +56,9 @@
     "case":"40",
     "death":"0",
     "cure":"40",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -70,7 +76,9 @@
     "case":"76",
     "death":"0",
     "cure":"76",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -88,7 +96,9 @@
     "case":"44",
     "death":"0",
     "cure":"44",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -106,7 +116,9 @@
     "case":"60",
     "death":"0",
     "cure":"60",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -124,7 +136,9 @@
     "case":"48",
     "death":"0",
     "cure":"48",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -142,7 +156,9 @@
     "case":"82",
     "death":"0",
     "cure":"82",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -160,7 +176,9 @@
     "case":"36",
     "death":"0",
     "cure":"36",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -178,7 +196,9 @@
     "case":"102",
     "death":"1",
     "cure":"101",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0.980392157",
+    "cure_rate":"99.01960784"
     }
   },
   {
@@ -196,7 +216,9 @@
     "case":"80",
     "death":"0",
     "cure":"80",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -214,7 +236,9 @@
     "case":"39",
     "death":"0",
     "cure":"39",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -232,7 +256,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -250,7 +276,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -268,7 +296,9 @@
     "case":"49995",
     "death":"2446",
     "cure":"36465",
-    "remain":"11084"
+    "remain":"11084",
+    "death_rate":"4.892489249",
+    "cure_rate":"72.93729373"
     }
   },
   {
@@ -286,7 +316,9 @@
     "case":"2907",
     "death":"125",
     "cure":"2730",
-    "remain":"52"
+    "remain":"52",
+    "death_rate":"4.2999656",
+    "cure_rate":"93.91124871"
     }
   },
   {
@@ -304,7 +336,9 @@
     "case":"3518",
     "death":"126",
     "cure":"3237",
-    "remain":"155"
+    "remain":"155",
+    "death_rate":"3.581580443",
+    "cure_rate":"92.01250711"
     }
   },
   {
@@ -322,7 +356,9 @@
     "case":"836",
     "death":"14",
     "cure":"818",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"1.674641148",
+    "cure_rate":"97.84688995"
     }
   },
   {
@@ -340,7 +376,9 @@
     "case":"928",
     "death":"39",
     "cure":"860",
-    "remain":"29"
+    "remain":"29",
+    "death_rate":"4.202586207",
+    "cure_rate":"92.67241379"
     }
   },
   {
@@ -358,7 +396,9 @@
     "case":"1307",
     "death":"45",
     "cure":"1192",
-    "remain":"70"
+    "remain":"70",
+    "death_rate":"3.442999235",
+    "cure_rate":"91.20122418"
     }
   },
   {
@@ -376,7 +416,9 @@
     "case":"1580",
     "death":"50",
     "cure":"1474",
-    "remain":"56"
+    "remain":"56",
+    "death_rate":"3.164556962",
+    "cure_rate":"93.29113924"
     }
   },
   {
@@ -394,7 +436,9 @@
     "case":"1015",
     "death":"38",
     "cure":"943",
-    "remain":"34"
+    "remain":"34",
+    "death_rate":"3.743842365",
+    "cure_rate":"92.90640394"
     }
   },
   {
@@ -412,7 +456,9 @@
     "case":"931",
     "death":"36",
     "cure":"858",
-    "remain":"37"
+    "remain":"37",
+    "death_rate":"3.866809882",
+    "cure_rate":"92.15896885"
     }
   },
   {
@@ -430,7 +476,9 @@
     "case":"672",
     "death":"8",
     "cure":"629",
-    "remain":"35"
+    "remain":"35",
+    "death_rate":"1.19047619",
+    "cure_rate":"93.60119048"
     }
   },
   {
@@ -448,7 +496,9 @@
     "case":"252",
     "death":"6",
     "cure":"233",
-    "remain":"13"
+    "remain":"13",
+    "death_rate":"2.380952381",
+    "cure_rate":"92.46031746"
     }
   },
   {
@@ -466,7 +516,9 @@
     "case":"575",
     "death":"22",
     "cure":"520",
-    "remain":"33"
+    "remain":"33",
+    "death_rate":"3.826086957",
+    "cure_rate":"90.43478261"
     }
   },
   {
@@ -484,7 +536,9 @@
     "case":"496",
     "death":"15",
     "cure":"476",
-    "remain":"5"
+    "remain":"5",
+    "death_rate":"3.024193548",
+    "cure_rate":"95.96774194"
     }
   },
   {
@@ -502,7 +556,9 @@
     "case":"1175",
     "death":"38",
     "cure":"1115",
-    "remain":"22"
+    "remain":"22",
+    "death_rate":"3.234042553",
+    "cure_rate":"94.89361702"
     }
   },
   {
@@ -520,7 +576,9 @@
     "case":"1394",
     "death":"57",
     "cure":"1212",
-    "remain":"125"
+    "remain":"125",
+    "death_rate":"4.088952654",
+    "cure_rate":"86.94404591"
     }
   },
   {
@@ -538,7 +596,9 @@
     "case":"11",
     "death":"0",
     "cure":"11",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -556,7 +616,9 @@
     "case":"198",
     "death":"9",
     "cure":"172",
-    "remain":"17"
+    "remain":"17",
+    "death_rate":"4.545454545",
+    "cure_rate":"86.86868687"
     }
   },
   {
@@ -574,7 +636,9 @@
     "case":"274",
     "death":"2",
     "cure":"272",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0.729927007",
+    "cure_rate":"99.27007299"
     }
   },
   {
@@ -592,7 +656,9 @@
     "case":"157",
     "death":"5",
     "cure":"152",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"3.184713376",
+    "cure_rate":"96.81528662"
     }
   },
   {
@@ -610,7 +676,9 @@
     "case":"156",
     "death":"3",
     "cure":"153",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"1.923076923",
+    "cure_rate":"98.07692308"
     }
   },
   {
@@ -628,7 +696,9 @@
     "case":"139",
     "death":"0",
     "cure":"139",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -646,7 +716,9 @@
     "case":"76",
     "death":"1",
     "cure":"75",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"1.315789474",
+    "cure_rate":"98.68421053"
     }
   },
   {
@@ -664,7 +736,9 @@
     "case":"57",
     "death":"3",
     "cure":"54",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"5.263157895",
+    "cure_rate":"94.73684211"
     }
   },
   {
@@ -682,7 +756,9 @@
     "case":"53",
     "death":"0",
     "cure":"53",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -700,7 +776,9 @@
     "case":"35",
     "death":"0",
     "cure":"35",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -718,7 +796,9 @@
     "case":"7",
     "death":"1",
     "cure":"6",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"14.28571429",
+    "cure_rate":"85.71428571"
     }
   },
   {
@@ -736,7 +816,9 @@
     "case":"NA",
     "death":"NA",
     "cure":"NA",
-    "remain":"#VALUE!"
+    "remain":"#VALUE!",
+    "death_rate":"#VALUE!",
+    "cure_rate":"#VALUE!"
     }
   },
   {
@@ -754,7 +836,9 @@
     "case":"58",
     "death":"1",
     "cure":"57",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"1.724137931",
+    "cure_rate":"98.27586207"
     }
   },
   {
@@ -772,7 +856,9 @@
     "case":"31",
     "death":"1",
     "cure":"30",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"3.225806452",
+    "cure_rate":"96.77419355"
     }
   },
   {
@@ -790,7 +876,9 @@
     "case":"91",
     "death":"3",
     "cure":"88",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"3.296703297",
+    "cure_rate":"96.7032967"
     }
   },
   {
@@ -808,7 +896,9 @@
     "case":"26",
     "death":"0",
     "cure":"26",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -826,7 +916,9 @@
     "case":"19",
     "death":"0",
     "cure":"19",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -844,7 +936,9 @@
     "case":"39",
     "death":"1",
     "cure":"38",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"2.564102564",
+    "cure_rate":"97.43589744"
     }
   },
   {
@@ -862,7 +956,9 @@
     "case":"32",
     "death":"1",
     "cure":"31",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"3.125",
+    "cure_rate":"96.875"
     }
   },
   {
@@ -880,7 +976,9 @@
     "case":"17",
     "death":"0",
     "cure":"17",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -898,7 +996,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -916,7 +1016,9 @@
     "case":"420",
     "death":"3",
     "cure":"395",
-    "remain":"22"
+    "remain":"22",
+    "death_rate":"0.714285714",
+    "cure_rate":"94.04761905"
     }
   },
   {
@@ -934,7 +1036,9 @@
     "case":"347",
     "death":"1",
     "cure":"330",
-    "remain":"16"
+    "remain":"16",
+    "death_rate":"0.288184438",
+    "cure_rate":"95.10086455"
     }
   },
   {
@@ -952,7 +1056,9 @@
     "case":"98",
     "death":"1",
     "cure":"97",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"1.020408163",
+    "cure_rate":"98.97959184"
     }
   },
   {
@@ -970,7 +1076,9 @@
     "case":"84",
     "death":"0",
     "cure":"78",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"92.85714286"
     }
   },
   {
@@ -988,7 +1096,9 @@
     "case":"62",
     "death":"0",
     "cure":"62",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1006,7 +1116,9 @@
     "case":"14",
     "death":"0",
     "cure":"14",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1024,7 +1136,9 @@
     "case":"10",
     "death":"1",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"10",
+    "cure_rate":"90"
     }
   },
   {
@@ -1042,7 +1156,9 @@
     "case":"22",
     "death":"0",
     "cure":"22",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1060,7 +1176,9 @@
     "case":"68",
     "death":"0",
     "cure":"64",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"94.11764706"
     }
   },
   {
@@ -1078,7 +1196,9 @@
     "case":"19",
     "death":"1",
     "cure":"18",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"5.263157895",
+    "cure_rate":"94.73684211"
     }
   },
   {
@@ -1096,7 +1216,9 @@
     "case":"12",
     "death":"0",
     "cure":"12",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1114,7 +1236,9 @@
     "case":"100",
     "death":"1",
     "cure":"96",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"1",
+    "cure_rate":"96"
     }
   },
   {
@@ -1132,7 +1256,9 @@
     "case":"25",
     "death":"0",
     "cure":"24",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"96"
     }
   },
   {
@@ -1150,7 +1276,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1168,7 +1296,9 @@
     "case":"16",
     "death":"0",
     "cure":"16",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1186,7 +1316,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1204,7 +1336,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1222,7 +1356,9 @@
     "case":"14",
     "death":"0",
     "cure":"14",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1240,7 +1376,9 @@
     "case":"23",
     "death":"0",
     "cure":"23",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1258,7 +1396,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1276,7 +1416,9 @@
     "case":"37",
     "death":"0",
     "cure":"37",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1294,7 +1436,9 @@
     "case":"181",
     "death":"0",
     "cure":"179",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"98.89502762"
     }
   },
   {
@@ -1312,7 +1456,9 @@
     "case":"504",
     "death":"1",
     "cure":"501",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0.198412698",
+    "cure_rate":"99.4047619"
     }
   },
   {
@@ -1330,7 +1476,9 @@
     "case":"157",
     "death":"0",
     "cure":"157",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1348,7 +1496,9 @@
     "case":"45",
     "death":"0",
     "cure":"44",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"97.77777778"
     }
   },
   {
@@ -1366,7 +1516,9 @@
     "case":"42",
     "death":"0",
     "cure":"41",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"97.61904762"
     }
   },
   {
@@ -1384,7 +1536,9 @@
     "case":"10",
     "death":"0",
     "cure":"10",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1402,7 +1556,9 @@
     "case":"55",
     "death":"0",
     "cure":"55",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1420,7 +1576,9 @@
     "case":"14",
     "death":"0",
     "cure":"14",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1438,7 +1596,9 @@
     "case":"25",
     "death":"0",
     "cure":"18",
-    "remain":"7"
+    "remain":"7",
+    "death_rate":"0",
+    "cure_rate":"72"
     }
   },
   {
@@ -1456,7 +1616,9 @@
     "case":"12",
     "death":"0",
     "cure":"10",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"83.33333333"
     }
   },
   {
@@ -1474,7 +1636,9 @@
     "case":"118",
     "death":"4",
     "cure":"111",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"3.389830508",
+    "cure_rate":"94.06779661"
     }
   },
   {
@@ -1492,7 +1656,9 @@
     "case":"22",
     "death":"0",
     "cure":"18",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"81.81818182"
     }
   },
   {
@@ -1510,7 +1676,9 @@
     "case":"21",
     "death":"1",
     "cure":"20",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"4.761904762",
+    "cure_rate":"95.23809524"
     }
   },
   {
@@ -1528,7 +1696,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1546,7 +1716,9 @@
     "case":"21",
     "death":"0",
     "cure":"21",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1564,7 +1736,9 @@
     "case":"10",
     "death":"0",
     "cure":"10",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1582,7 +1756,9 @@
     "case":"15",
     "death":"0",
     "cure":"15",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1600,7 +1776,9 @@
     "case":"363",
     "death":"3",
     "cure":"360",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0.826446281",
+    "cure_rate":"99.17355372"
     }
   },
   {
@@ -1618,7 +1796,9 @@
     "case":"17",
     "death":"0",
     "cure":"17",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1636,7 +1816,9 @@
     "case":"20",
     "death":"0",
     "cure":"20",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1654,7 +1836,9 @@
     "case":"25",
     "death":"0",
     "cure":"25",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1672,7 +1856,9 @@
     "case":"55",
     "death":"0",
     "cure":"54",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"98.18181818"
     }
   },
   {
@@ -1690,7 +1876,9 @@
     "case":"23",
     "death":"0",
     "cure":"23",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1708,7 +1896,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1726,7 +1916,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1744,7 +1936,9 @@
     "case":"22",
     "death":"0",
     "cure":"22",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1762,7 +1956,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1780,7 +1976,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1798,7 +1996,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1816,7 +2016,9 @@
     "case":"14",
     "death":"0",
     "cure":"13",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"92.85714286"
     }
   },
   {
@@ -1834,7 +2036,9 @@
     "case":"10",
     "death":"0",
     "cure":"8",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"80"
     }
   },
   {
@@ -1852,7 +2056,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1870,7 +2076,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1888,7 +2096,9 @@
     "case":"18",
     "death":"0",
     "cure":"15",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"0",
+    "cure_rate":"83.33333333"
     }
   },
   {
@@ -1906,7 +2116,9 @@
     "case":"10",
     "death":"0",
     "cure":"9",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"90"
     }
   },
   {
@@ -1924,7 +2136,9 @@
     "case":"23",
     "death":"0",
     "cure":"20",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"0",
+    "cure_rate":"86.95652174"
     }
   },
   {
@@ -1942,7 +2156,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1960,7 +2176,9 @@
     "case":"6",
     "death":"0",
     "cure":"5",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"83.33333333"
     }
   },
   {
@@ -1978,7 +2196,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -1996,7 +2216,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2014,7 +2236,9 @@
     "case":"9",
     "death":"0",
     "cure":"8",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"88.88888889"
     }
   },
   {
@@ -2032,7 +2256,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2050,7 +2276,9 @@
     "case":"852",
     "death":"0",
     "cure":"21",
-    "remain":"831"
+    "remain":"831",
+    "death_rate":"0",
+    "cure_rate":"2.464788732"
     }
   },
   {
@@ -2068,7 +2296,9 @@
     "case":"29",
     "death":"0",
     "cure":"10",
-    "remain":"19"
+    "remain":"19",
+    "death_rate":"0",
+    "cure_rate":"34.48275862"
     }
   },
   {
@@ -2086,7 +2316,9 @@
     "case":"19",
     "death":"0",
     "cure":"1",
-    "remain":"18"
+    "remain":"18",
+    "death_rate":"0",
+    "cure_rate":"5.263157895"
     }
   },
   {
@@ -2104,7 +2336,9 @@
     "case":"39",
     "death":"0",
     "cure":"16",
-    "remain":"23"
+    "remain":"23",
+    "death_rate":"0",
+    "cure_rate":"41.02564103"
     }
   },
   {
@@ -2122,7 +2356,9 @@
     "case":"10",
     "death":"0",
     "cure":"0",
-    "remain":"10"
+    "remain":"10",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -2140,7 +2376,9 @@
     "case":"3",
     "death":"0",
     "cure":"2",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"66.66666667"
     }
   },
   {
@@ -2158,7 +2396,9 @@
     "case":"16",
     "death":"0",
     "cure":"3",
-    "remain":"13"
+    "remain":"13",
+    "death_rate":"0",
+    "cure_rate":"18.75"
     }
   },
   {
@@ -2176,7 +2416,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -2194,7 +2436,9 @@
     "case":"7",
     "death":"0",
     "cure":"0",
-    "remain":"7"
+    "remain":"7",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -2212,7 +2456,9 @@
     "case":"7",
     "death":"0",
     "cure":"0",
-    "remain":"7"
+    "remain":"7",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -2230,7 +2476,9 @@
     "case":"352",
     "death":"3",
     "cure":"324",
-    "remain":"25"
+    "remain":"25",
+    "death_rate":"0.852272727",
+    "cure_rate":"92.04545455"
     }
   },
   {
@@ -2248,7 +2496,9 @@
     "case":"49",
     "death":"0",
     "cure":"49",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2266,7 +2516,9 @@
     "case":"61",
     "death":"1",
     "cure":"59",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"1.639344262",
+    "cure_rate":"96.72131148"
     }
   },
   {
@@ -2284,7 +2536,9 @@
     "case":"38",
     "death":"1",
     "cure":"37",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"2.631578947",
+    "cure_rate":"97.36842105"
     }
   },
   {
@@ -2302,7 +2556,9 @@
     "case":"16",
     "death":"0",
     "cure":"16",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2320,7 +2576,9 @@
     "case":"260",
     "death":"0",
     "cure":"254",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"97.69230769"
     }
   },
   {
@@ -2338,7 +2596,9 @@
     "case":"47",
     "death":"0",
     "cure":"46",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"97.87234043"
     }
   },
   {
@@ -2356,7 +2616,9 @@
     "case":"37",
     "death":"2",
     "cure":"33",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"5.405405405",
+    "cure_rate":"89.18918919"
     }
   },
   {
@@ -2374,7 +2636,9 @@
     "case":"44",
     "death":"0",
     "cure":"44",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2392,7 +2656,9 @@
     "case":"47",
     "death":"0",
     "cure":"47",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2410,7 +2676,9 @@
     "case":"38",
     "death":"0",
     "cure":"38",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2428,7 +2696,9 @@
     "case":"15",
     "death":"0",
     "cure":"15",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2446,7 +2716,9 @@
     "case":"18",
     "death":"0",
     "cure":"18",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2464,7 +2736,9 @@
     "case":"30",
     "death":"1",
     "cure":"28",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"3.333333333",
+    "cure_rate":"93.33333333"
     }
   },
   {
@@ -2482,7 +2756,9 @@
     "case":"24",
     "death":"0",
     "cure":"24",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2500,7 +2776,9 @@
     "case":"35",
     "death":"2",
     "cure":"33",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"5.714285714",
+    "cure_rate":"94.28571429"
     }
   },
   {
@@ -2518,7 +2796,9 @@
     "case":"174",
     "death":"1",
     "cure":"173",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0.574712644",
+    "cure_rate":"99.42528736"
     }
   },
   {
@@ -2536,7 +2816,9 @@
     "case":"155",
     "death":"0",
     "cure":"155",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2554,7 +2836,9 @@
     "case":"108",
     "death":"0",
     "cure":"108",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2572,7 +2856,9 @@
     "case":"83",
     "death":"0",
     "cure":"83",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2590,7 +2876,9 @@
     "case":"38",
     "death":"0",
     "cure":"38",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2608,7 +2896,9 @@
     "case":"29",
     "death":"0",
     "cure":"29",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2626,7 +2916,9 @@
     "case":"69",
     "death":"0",
     "cure":"69",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2644,7 +2936,9 @@
     "case":"13",
     "death":"0",
     "cure":"13",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2662,7 +2956,9 @@
     "case":"17",
     "death":"0",
     "cure":"17",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2680,7 +2976,9 @@
     "case":"160",
     "death":"5",
     "cure":"155",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"3.125",
+    "cure_rate":"96.875"
     }
   },
   {
@@ -2698,7 +2996,9 @@
     "case":"34",
     "death":"0",
     "cure":"34",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2716,7 +3016,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2734,7 +3036,9 @@
     "case":"27",
     "death":"0",
     "cure":"27",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2752,7 +3056,9 @@
     "case":"27",
     "death":"0",
     "cure":"27",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2770,7 +3076,9 @@
     "case":"87",
     "death":"0",
     "cure":"87",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2788,7 +3096,9 @@
     "case":"6",
     "death":"0",
     "cure":"6",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2806,7 +3116,9 @@
     "case":"76",
     "death":"1",
     "cure":"75",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"1.315789474",
+    "cure_rate":"98.68421053"
     }
   },
   {
@@ -2824,7 +3136,9 @@
     "case":"72",
     "death":"1",
     "cure":"71",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"1.388888889",
+    "cure_rate":"98.61111111"
     }
   },
   {
@@ -2842,7 +3156,9 @@
     "case":"123",
     "death":"0",
     "cure":"123",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2860,7 +3176,9 @@
     "case":"106",
     "death":"0",
     "cure":"106",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2878,7 +3196,9 @@
     "case":"230",
     "death":"0",
     "cure":"230",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2896,7 +3216,9 @@
     "case":"33",
     "death":"0",
     "cure":"33",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2914,7 +3236,9 @@
     "case":"118",
     "death":"0",
     "cure":"118",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2932,7 +3256,9 @@
     "case":"22",
     "death":"0",
     "cure":"22",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2950,7 +3276,9 @@
     "case":"130",
     "death":"0",
     "cure":"130",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2968,7 +3296,9 @@
     "case":"6",
     "death":"0",
     "cure":"6",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -2986,7 +3316,9 @@
     "case":"18",
     "death":"0",
     "cure":"18",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3004,7 +3336,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3022,7 +3356,9 @@
     "case":"32",
     "death":"0",
     "cure":"32",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3040,7 +3376,9 @@
     "case":"44",
     "death":"1",
     "cure":"42",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"2.272727273",
+    "cure_rate":"95.45454545"
     }
   },
   {
@@ -3058,7 +3396,9 @@
     "case":"24",
     "death":"0",
     "cure":"23",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"95.83333333"
     }
   },
   {
@@ -3076,7 +3416,9 @@
     "case":"28",
     "death":"1",
     "cure":"27",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"3.571428571",
+    "cure_rate":"96.42857143"
     }
   },
   {
@@ -3094,7 +3436,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3112,7 +3456,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3130,7 +3476,9 @@
     "case":"19",
     "death":"0",
     "cure":"17",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"89.47368421"
     }
   },
   {
@@ -3148,7 +3496,9 @@
     "case":"55",
     "death":"0",
     "cure":"54",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"98.18181818"
     }
   },
   {
@@ -3166,7 +3516,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3184,7 +3536,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3202,7 +3556,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3220,7 +3576,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3238,7 +3596,9 @@
     "case":"11",
     "death":"0",
     "cure":"9",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"81.81818182"
     }
   },
   {
@@ -3256,7 +3616,9 @@
     "case":"54",
     "death":"1",
     "cure":"53",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"1.851851852",
+    "cure_rate":"98.14814815"
     }
   },
   {
@@ -3274,7 +3636,9 @@
     "case":"13",
     "death":"0",
     "cure":"13",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3292,7 +3656,9 @@
     "case":"39",
     "death":"0",
     "cure":"38",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"97.43589744"
     }
   },
   {
@@ -3310,7 +3676,9 @@
     "case":"15",
     "death":"1",
     "cure":"13",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"6.666666667",
+    "cure_rate":"86.66666667"
     }
   },
   {
@@ -3328,7 +3696,9 @@
     "case":"6",
     "death":"0",
     "cure":"6",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3346,7 +3716,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3364,7 +3736,9 @@
     "case":"9",
     "death":"1",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"11.11111111",
+    "cure_rate":"88.88888889"
     }
   },
   {
@@ -3382,7 +3756,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3400,7 +3776,9 @@
     "case":"3",
     "death":"1",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"33.33333333",
+    "cure_rate":"66.66666667"
     }
   },
   {
@@ -3418,7 +3796,9 @@
     "case":"6",
     "death":"1",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"16.66666667",
+    "cure_rate":"83.33333333"
     }
   },
   {
@@ -3436,7 +3816,9 @@
     "case":"3",
     "death":"1",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"33.33333333",
+    "cure_rate":"66.66666667"
     }
   },
   {
@@ -3454,7 +3836,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3472,7 +3856,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3490,7 +3876,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3508,7 +3896,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3526,7 +3916,9 @@
     "case":"72",
     "death":"1",
     "cure":"71",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"1.388888889",
+    "cure_rate":"98.61111111"
     }
   },
   {
@@ -3544,7 +3936,9 @@
     "case":"35",
     "death":"0",
     "cure":"35",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3562,7 +3956,9 @@
     "case":"47",
     "death":"0",
     "cure":"47",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3580,7 +3976,9 @@
     "case":"20",
     "death":"0",
     "cure":"20",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3598,7 +3996,9 @@
     "case":"26",
     "death":"0",
     "cure":"26",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3616,7 +4016,9 @@
     "case":"14",
     "death":"0",
     "cure":"14",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3634,7 +4036,9 @@
     "case":"56",
     "death":"0",
     "cure":"56",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3652,7 +4056,9 @@
     "case":"20",
     "death":"0",
     "cure":"20",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3670,7 +4076,9 @@
     "case":"6",
     "death":"0",
     "cure":"6",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3688,7 +4096,9 @@
     "case":"51",
     "death":"0",
     "cure":"51",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3706,7 +4116,9 @@
     "case":"93",
     "death":"0",
     "cure":"93",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3724,7 +4136,9 @@
     "case":"87",
     "death":"0",
     "cure":"87",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3742,7 +4156,9 @@
     "case":"48",
     "death":"0",
     "cure":"48",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3760,7 +4176,9 @@
     "case":"55",
     "death":"0",
     "cure":"54",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"98.18181818"
     }
   },
   {
@@ -3778,7 +4196,9 @@
     "case":"40",
     "death":"0",
     "cure":"40",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3796,7 +4216,9 @@
     "case":"23",
     "death":"0",
     "cure":"23",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3814,7 +4236,9 @@
     "case":"27",
     "death":"0",
     "cure":"27",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3832,7 +4256,9 @@
     "case":"13",
     "death":"0",
     "cure":"13",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3850,7 +4276,9 @@
     "case":"12",
     "death":"0",
     "cure":"12",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3868,7 +4296,9 @@
     "case":"66",
     "death":"0",
     "cure":"66",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3886,7 +4316,9 @@
     "case":"37",
     "death":"0",
     "cure":"37",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3904,7 +4336,9 @@
     "case":"79",
     "death":"0",
     "cure":"79",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3922,7 +4356,9 @@
     "case":"28",
     "death":"0",
     "cure":"26",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"92.85714286"
     }
   },
   {
@@ -3940,7 +4376,9 @@
     "case":"19",
     "death":"0",
     "cure":"17",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"89.47368421"
     }
   },
   {
@@ -3958,7 +4396,9 @@
     "case":"6",
     "death":"0",
     "cure":"5",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"83.33333333"
     }
   },
   {
@@ -3976,7 +4416,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -3994,7 +4436,9 @@
     "case":"12",
     "death":"1",
     "cure":"9",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"8.333333333",
+    "cure_rate":"75"
     }
   },
   {
@@ -4012,7 +4456,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4030,7 +4476,9 @@
     "case":"11",
     "death":"0",
     "cure":"11",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4048,7 +4496,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4066,7 +4516,9 @@
     "case":"11",
     "death":"0",
     "cure":"7",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"63.63636364"
     }
   },
   {
@@ -4084,7 +4536,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4102,7 +4556,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4120,7 +4576,9 @@
     "case":"12",
     "death":"0",
     "cure":"12",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4138,7 +4596,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4156,7 +4616,9 @@
     "case":"120",
     "death":"2",
     "cure":"110",
-    "remain":"8"
+    "remain":"8",
+    "death_rate":"1.666666667",
+    "cure_rate":"91.66666667"
     }
   },
   {
@@ -4174,7 +4636,9 @@
     "case":"17",
     "death":"0",
     "cure":"16",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"94.11764706"
     }
   },
   {
@@ -4192,7 +4656,9 @@
     "case":"26",
     "death":"0",
     "cure":"26",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4210,7 +4676,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4228,7 +4696,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4246,7 +4716,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4264,7 +4736,9 @@
     "case":"15",
     "death":"0",
     "cure":"14",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"93.33333333"
     }
   },
   {
@@ -4282,7 +4756,9 @@
     "case":"26",
     "death":"0",
     "cure":"25",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"96.15384615"
     }
   },
   {
@@ -4300,7 +4776,9 @@
     "case":"13",
     "death":"0",
     "cure":"13",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4318,7 +4796,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4336,7 +4816,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4354,7 +4836,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4372,7 +4856,9 @@
     "case":"53",
     "death":"0",
     "cure":"53",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4390,7 +4876,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4408,7 +4896,9 @@
     "case":"15",
     "death":"1",
     "cure":"14",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"6.666666667",
+    "cure_rate":"93.33333333"
     }
   },
   {
@@ -4426,7 +4916,9 @@
     "case":"13",
     "death":"0",
     "cure":"12",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"92.30769231"
     }
   },
   {
@@ -4444,7 +4936,9 @@
     "case":"14",
     "death":"1",
     "cure":"13",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"7.142857143",
+    "cure_rate":"92.85714286"
     }
   },
   {
@@ -4462,7 +4956,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4480,7 +4976,9 @@
     "case":"13",
     "death":"0",
     "cure":"13",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4498,7 +4996,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4516,7 +5016,9 @@
     "case":"5",
     "death":"0",
     "cure":"4",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"80"
     }
   },
   {
@@ -4534,7 +5036,9 @@
     "case":"25",
     "death":"0",
     "cure":"25",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4552,7 +5056,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4570,7 +5076,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4588,7 +5096,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4606,7 +5116,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4624,7 +5136,9 @@
     "case":"136",
     "death":"3",
     "cure":"132",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"2.205882353",
+    "cure_rate":"97.05882353"
     }
   },
   {
@@ -4642,7 +5156,9 @@
     "case":"198",
     "death":"4",
     "cure":"186",
-    "remain":"8"
+    "remain":"8",
+    "death_rate":"2.02020202",
+    "cure_rate":"93.93939394"
     }
   },
   {
@@ -4660,7 +5176,9 @@
     "case":"15",
     "death":"0",
     "cure":"14",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"93.33333333"
     }
   },
   {
@@ -4678,7 +5196,9 @@
     "case":"26",
     "death":"1",
     "cure":"23",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"3.846153846",
+    "cure_rate":"88.46153846"
     }
   },
   {
@@ -4696,7 +5216,9 @@
     "case":"47",
     "death":"4",
     "cure":"41",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"8.510638298",
+    "cure_rate":"87.23404255"
     }
   },
   {
@@ -4714,7 +5236,9 @@
     "case":"43",
     "death":"1",
     "cure":"40",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"2.325581395",
+    "cure_rate":"93.02325581"
     }
   },
   {
@@ -4732,7 +5256,9 @@
     "case":"15",
     "death":"0",
     "cure":"15",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4750,7 +5276,9 @@
     "case":"52",
     "death":"3",
     "cure":"47",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"5.769230769",
+    "cure_rate":"90.38461538"
     }
   },
   {
@@ -4768,7 +5296,9 @@
     "case":"17",
     "death":"0",
     "cure":"16",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"94.11764706"
     }
   },
   {
@@ -4786,7 +5316,9 @@
     "case":"46",
     "death":"0",
     "cure":"45",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"97.82608696"
     }
   },
   {
@@ -4804,7 +5336,9 @@
     "case":"5",
     "death":"0",
     "cure":"4",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"80"
     }
   },
   {
@@ -4822,7 +5356,9 @@
     "case":"3",
     "death":"0",
     "cure":"2",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"66.66666667"
     }
   },
   {
@@ -4840,7 +5376,9 @@
     "case":"14",
     "death":"0",
     "cure":"13",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"92.85714286"
     }
   },
   {
@@ -4858,7 +5396,9 @@
     "case":"37",
     "death":"0",
     "cure":"37",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4876,7 +5416,9 @@
     "case":"20",
     "death":"0",
     "cure":"20",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4894,7 +5436,9 @@
     "case":"19",
     "death":"0",
     "cure":"19",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4912,7 +5456,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4930,7 +5476,9 @@
     "case":"12",
     "death":"0",
     "cure":"12",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4948,7 +5496,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4966,7 +5516,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -4984,7 +5536,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5002,7 +5556,9 @@
     "case":"6",
     "death":"0",
     "cure":"6",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5020,7 +5576,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5038,7 +5596,9 @@
     "case":"10",
     "death":"0",
     "cure":"10",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5056,7 +5616,9 @@
     "case":"29",
     "death":"0",
     "cure":"29",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5074,7 +5636,9 @@
     "case":"48",
     "death":"3",
     "cure":"45",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"6.25",
+    "cure_rate":"93.75"
     }
   },
   {
@@ -5092,7 +5656,9 @@
     "case":"32",
     "death":"0",
     "cure":"32",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5110,7 +5676,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5128,7 +5696,9 @@
     "case":"30",
     "death":"0",
     "cure":"30",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5146,7 +5716,9 @@
     "case":"23",
     "death":"1",
     "cure":"22",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"4.347826087",
+    "cure_rate":"95.65217391"
     }
   },
   {
@@ -5164,7 +5736,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5182,7 +5756,9 @@
     "case":"58",
     "death":"1",
     "cure":"55",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"1.724137931",
+    "cure_rate":"94.82758621"
     }
   },
   {
@@ -5200,7 +5776,9 @@
     "case":"32",
     "death":"0",
     "cure":"32",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5218,7 +5796,9 @@
     "case":"41",
     "death":"0",
     "cure":"41",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5236,7 +5816,9 @@
     "case":"10",
     "death":"1",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"10",
+    "cure_rate":"90"
     }
   },
   {
@@ -5254,7 +5836,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5272,7 +5856,9 @@
     "case":"11",
     "death":"0",
     "cure":"11",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5290,7 +5876,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5308,7 +5896,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5326,7 +5916,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5344,7 +5936,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5362,7 +5956,9 @@
     "case":"11",
     "death":"0",
     "cure":"9",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"81.81818182"
     }
   },
   {
@@ -5380,7 +5976,9 @@
     "case":"8",
     "death":"1",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"12.5",
+    "cure_rate":"87.5"
     }
   },
   {
@@ -5398,7 +5996,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5416,7 +6016,9 @@
     "case":"7",
     "death":"0",
     "cure":"6",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"85.71428571"
     }
   },
   {
@@ -5434,7 +6036,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5452,7 +6056,9 @@
     "case":"140",
     "death":"4",
     "cure":"78",
-    "remain":"58"
+    "remain":"58",
+    "death_rate":"2.857142857",
+    "cure_rate":"55.71428571"
     }
   },
   {
@@ -5470,7 +6076,9 @@
     "case":"10",
     "death":"0",
     "cure":"10",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5488,7 +6096,9 @@
     "case":"36",
     "death":"1",
     "cure":"34",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"2.777777778",
+    "cure_rate":"94.44444444"
     }
   },
   {
@@ -5506,7 +6116,9 @@
     "case":"17",
     "death":"0",
     "cure":"17",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5524,7 +6136,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5542,7 +6156,9 @@
     "case":"10",
     "death":"1",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"10",
+    "cure_rate":"90"
     }
   },
   {
@@ -5560,7 +6176,9 @@
     "case":"10",
     "death":"0",
     "cure":"10",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5578,7 +6196,9 @@
     "case":"32",
     "death":"0",
     "cure":"32",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5596,7 +6216,9 @@
     "case":"23",
     "death":"0",
     "cure":"23",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5614,7 +6236,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5632,7 +6256,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5650,7 +6276,9 @@
     "case":"45",
     "death":"0",
     "cure":"45",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5668,7 +6296,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5686,7 +6316,9 @@
     "case":"15",
     "death":"1",
     "cure":"14",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"6.666666667",
+    "cure_rate":"93.33333333"
     }
   },
   {
@@ -5704,7 +6336,9 @@
     "case":"6",
     "death":"0",
     "cure":"6",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5722,7 +6356,9 @@
     "case":"6",
     "death":"0",
     "cure":"5",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"83.33333333"
     }
   },
   {
@@ -5740,7 +6376,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5758,7 +6396,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5776,7 +6416,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5794,7 +6436,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5812,7 +6456,9 @@
     "case":"36",
     "death":"2",
     "cure":"34",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"5.555555556",
+    "cure_rate":"94.44444444"
     }
   },
   {
@@ -5830,7 +6476,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5848,7 +6496,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5866,7 +6516,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5884,7 +6536,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5902,7 +6556,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5920,7 +6576,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5938,7 +6596,9 @@
     "case":"12",
     "death":"0",
     "cure":"12",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5956,7 +6616,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5974,7 +6636,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -5992,7 +6656,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6010,7 +6676,9 @@
     "case":"36",
     "death":"0",
     "cure":"35",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"97.22222222"
     }
   },
   {
@@ -6028,7 +6696,9 @@
     "case":"4",
     "death":"0",
     "cure":"3",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"75"
     }
   },
   {
@@ -6046,7 +6716,9 @@
     "case":"5",
     "death":"0",
     "cure":"5",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6064,7 +6736,9 @@
     "case":"28",
     "death":"0",
     "cure":"28",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6082,7 +6756,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6100,7 +6776,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6118,7 +6796,9 @@
     "case":"53",
     "death":"1",
     "cure":"20",
-    "remain":"32"
+    "remain":"32",
+    "death_rate":"1.886792453",
+    "cure_rate":"37.73584906"
     }
   },
   {
@@ -6136,7 +6816,9 @@
     "case":"23",
     "death":"0",
     "cure":"23",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6154,7 +6836,9 @@
     "case":"18",
     "death":"0",
     "cure":"18",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6172,7 +6856,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6190,7 +6876,9 @@
     "case":"4",
     "death":"1",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"25",
+    "cure_rate":"75"
     }
   },
   {
@@ -6208,7 +6896,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6226,7 +6916,9 @@
     "case":"4",
     "death":"1",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"25",
+    "cure_rate":"75"
     }
   },
   {
@@ -6244,7 +6936,9 @@
     "case":"10",
     "death":"1",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"10",
+    "cure_rate":"90"
     }
   },
   {
@@ -6262,7 +6956,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6280,7 +6976,9 @@
     "case":"2",
     "death":"0",
     "cure":"2",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6298,7 +6996,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6316,7 +7016,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6334,7 +7036,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6352,7 +7056,9 @@
     "case":"10",
     "death":"0",
     "cure":"10",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6370,7 +7076,9 @@
     "case":"15",
     "death":"0",
     "cure":"15",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6388,7 +7096,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6406,7 +7116,9 @@
     "case":"144",
     "death":"3",
     "cure":"121",
-    "remain":"20"
+    "remain":"20",
+    "death_rate":"2.083333333",
+    "cure_rate":"84.02777778"
     }
   },
   {
@@ -6424,7 +7136,9 @@
     "case":"22",
     "death":"0",
     "cure":"22",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6442,7 +7156,9 @@
     "case":"30",
     "death":"0",
     "cure":"30",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6460,7 +7176,9 @@
     "case":"17",
     "death":"0",
     "cure":"17",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6478,7 +7196,9 @@
     "case":"24",
     "death":"0",
     "cure":"24",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6496,7 +7216,9 @@
     "case":"39",
     "death":"0",
     "cure":"39",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6514,7 +7236,9 @@
     "case":"78",
     "death":"0",
     "cure":"71",
-    "remain":"7"
+    "remain":"7",
+    "death_rate":"0",
+    "cure_rate":"91.02564103"
     }
   },
   {
@@ -6532,7 +7256,9 @@
     "case":"18",
     "death":"0",
     "cure":"18",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6550,7 +7276,9 @@
     "case":"7",
     "death":"0",
     "cure":"7",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6568,7 +7296,9 @@
     "case":"42",
     "death":"0",
     "cure":"42",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6586,7 +7316,9 @@
     "case":"9",
     "death":"0",
     "cure":"9",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6604,7 +7336,9 @@
     "case":"22",
     "death":"0",
     "cure":"22",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6622,7 +7356,9 @@
     "case":"3",
     "death":"0",
     "cure":"3",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6640,7 +7376,9 @@
     "case":"8",
     "death":"0",
     "cure":"8",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6658,7 +7396,9 @@
     "case":"12",
     "death":"0",
     "cure":"12",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6676,7 +7416,9 @@
     "case":"13",
     "death":"0",
     "cure":"13",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6694,7 +7436,9 @@
     "case":"4",
     "death":"0",
     "cure":"4",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6712,7 +7456,9 @@
     "case":"6",
     "death":"0",
     "cure":"6",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6730,7 +7476,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6748,7 +7496,9 @@
     "case":"24",
     "death":"0",
     "cure":"21",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"0",
+    "cure_rate":"87.5"
     }
   },
   {
@@ -6766,7 +7516,9 @@
     "case":"16",
     "death":"0",
     "cure":"16",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6784,7 +7536,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6802,7 +7556,9 @@
     "case":"11",
     "death":"0",
     "cure":"0",
-    "remain":"11"
+    "remain":"11",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -6820,7 +7576,9 @@
     "case":"38",
     "death":"1",
     "cure":"0",
-    "remain":"37"
+    "remain":"37",
+    "death_rate":"2.631578947",
+    "cure_rate":"0"
     }
   },
   {
@@ -6838,7 +7596,9 @@
     "case":"37",
     "death":"3",
     "cure":"12",
-    "remain":"22"
+    "remain":"22",
+    "death_rate":"8.108108108",
+    "cure_rate":"32.43243243"
     }
   },
   {
@@ -6856,7 +7616,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -6874,7 +7636,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -6892,7 +7656,9 @@
     "case":"34",
     "death":"2",
     "cure":"1",
-    "remain":"31"
+    "remain":"31",
+    "death_rate":"5.882352941",
+    "cure_rate":"2.941176471"
     }
   },
   {
@@ -6910,7 +7676,9 @@
     "case":"18",
     "death":"0",
     "cure":"0",
-    "remain":"18"
+    "remain":"18",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -6928,7 +7696,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -6946,7 +7716,9 @@
     "case":"112",
     "death":"2",
     "cure":"4",
-    "remain":"106"
+    "remain":"106",
+    "death_rate":"1.785714286",
+    "cure_rate":"3.571428571"
     }
   },
   {
@@ -6964,7 +7736,9 @@
     "case":"49",
     "death":"0",
     "cure":"8",
-    "remain":"41"
+    "remain":"41",
+    "death_rate":"0",
+    "cure_rate":"16.32653061"
     }
   },
   {
@@ -6982,7 +7756,9 @@
     "case":"46",
     "death":"0",
     "cure":"8",
-    "remain":"38"
+    "remain":"38",
+    "death_rate":"0",
+    "cure_rate":"17.39130435"
     }
   },
   {
@@ -7000,7 +7776,9 @@
     "case":"19",
     "death":"0",
     "cure":"3",
-    "remain":"16"
+    "remain":"16",
+    "death_rate":"0",
+    "cure_rate":"15.78947368"
     }
   },
   {
@@ -7018,7 +7796,9 @@
     "case":"17",
     "death":"1",
     "cure":"0",
-    "remain":"16"
+    "remain":"16",
+    "death_rate":"5.882352941",
+    "cure_rate":"0"
     }
   },
   {
@@ -7036,7 +7816,9 @@
     "case":"5",
     "death":"0",
     "cure":"0",
-    "remain":"5"
+    "remain":"5",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7054,7 +7836,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7072,7 +7856,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7090,7 +7876,9 @@
     "case":"0",
     "death":"0",
     "cure":"0",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"#DIV/0!",
+    "cure_rate":"#DIV/0!"
     }
   },
   {
@@ -7108,7 +7896,9 @@
     "case":"655",
     "death":"1",
     "cure":"6",
-    "remain":"648"
+    "remain":"648",
+    "death_rate":"0.152671756",
+    "cure_rate":"0.916030534"
     }
   },
   {
@@ -7126,7 +7916,9 @@
     "case":"15",
     "death":"1",
     "cure":"3",
-    "remain":"11"
+    "remain":"11",
+    "death_rate":"6.666666667",
+    "cure_rate":"20"
     }
   },
   {
@@ -7144,7 +7936,9 @@
     "case":"210",
     "death":"0",
     "cure":"44",
-    "remain":"166"
+    "remain":"166",
+    "death_rate":"0",
+    "cure_rate":"20.95238095"
     }
   },
   {
@@ -7162,7 +7956,9 @@
     "case":"3",
     "death":"0",
     "cure":"0",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7180,7 +7976,9 @@
     "case":"27",
     "death":"0",
     "cure":"3",
-    "remain":"24"
+    "remain":"24",
+    "death_rate":"0",
+    "cure_rate":"11.11111111"
     }
   },
   {
@@ -7198,7 +7996,9 @@
     "case":"689",
     "death":"4",
     "cure":"1",
-    "remain":"684"
+    "remain":"684",
+    "death_rate":"0.580551524",
+    "cure_rate":"0.145137881"
     }
   },
   {
@@ -7216,7 +8016,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7234,7 +8036,9 @@
     "case":"10",
     "death":"0",
     "cure":"0",
-    "remain":"10"
+    "remain":"10",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7252,7 +8056,9 @@
     "case":"18",
     "death":"0",
     "cure":"0",
-    "remain":"18"
+    "remain":"18",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7270,7 +8076,9 @@
     "case":"151",
     "death":"0",
     "cure":"0",
-    "remain":"151"
+    "remain":"151",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7288,7 +8096,9 @@
     "case":"40",
     "death":"0",
     "cure":"0",
-    "remain":"40"
+    "remain":"40",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7306,7 +8116,9 @@
     "case":"41",
     "death":"2",
     "cure":"0",
-    "remain":"39"
+    "remain":"39",
+    "death_rate":"4.87804878",
+    "cure_rate":"0"
     }
   },
   {
@@ -7324,7 +8136,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7342,7 +8156,9 @@
     "case":"7",
     "death":"0",
     "cure":"1",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"14.28571429"
     }
   },
   {
@@ -7360,7 +8176,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7378,7 +8196,9 @@
     "case":"79",
     "death":"0",
     "cure":"4",
-    "remain":"75"
+    "remain":"75",
+    "death_rate":"0",
+    "cure_rate":"5.063291139"
     }
   },
   {
@@ -7396,7 +8216,9 @@
     "case":"64",
     "death":"1",
     "cure":"4",
-    "remain":"59"
+    "remain":"59",
+    "death_rate":"1.5625",
+    "cure_rate":"6.25"
     }
   },
   {
@@ -7414,7 +8236,9 @@
     "case":"29",
     "death":"0",
     "cure":"0",
-    "remain":"29"
+    "remain":"29",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7432,7 +8256,9 @@
     "case":"17",
     "death":"0",
     "cure":"0",
-    "remain":"17"
+    "remain":"17",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7450,7 +8276,9 @@
     "case":"4",
     "death":"0",
     "cure":"0",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7468,7 +8296,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7486,7 +8316,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7504,7 +8336,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7522,7 +8356,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7540,7 +8376,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7558,7 +8396,9 @@
     "case":"61",
     "death":"0",
     "cure":"0",
-    "remain":"61"
+    "remain":"61",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7576,7 +8416,9 @@
     "case":"22",
     "death":"0",
     "cure":"0",
-    "remain":"22"
+    "remain":"22",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7594,7 +8436,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7612,7 +8456,9 @@
     "case":"26",
     "death":"0",
     "cure":"0",
-    "remain":"26"
+    "remain":"26",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7630,7 +8476,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7648,7 +8496,9 @@
     "case":"38",
     "death":"0",
     "cure":"1",
-    "remain":"37"
+    "remain":"37",
+    "death_rate":"0",
+    "cure_rate":"2.631578947"
     }
   },
   {
@@ -7666,7 +8516,9 @@
     "case":"696",
     "death":"7",
     "cure":"325",
-    "remain":"364"
+    "remain":"364",
+    "death_rate":"1.005747126",
+    "cure_rate":"46.6954023"
     }
   },
   {
@@ -7684,7 +8536,9 @@
     "case":"4",
     "death":"0",
     "cure":"0",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7702,7 +8556,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7720,7 +8576,9 @@
     "case":"26",
     "death":"0",
     "cure":"0",
-    "remain":"26"
+    "remain":"26",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7738,7 +8596,9 @@
     "case":"189",
     "death":"0",
     "cure":"0",
-    "remain":"189"
+    "remain":"189",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7751,12 +8611,14 @@
     "FIELD1":431,
     "city_cn":"本土",
     "province_cn":"丹麦",
-    "city":"",
+    "city":"Denmark",
     "province":"Denmark",
     "case":"827",
     "death":"1",
     "cure":"1",
-    "remain":"825"
+    "remain":"825",
+    "death_rate":"0.120918984",
+    "cure_rate":"0.120918984"
     }
   },
   {
@@ -7774,7 +8636,9 @@
     "case":"9",
     "death":"0",
     "cure":"0",
-    "remain":"9"
+    "remain":"9",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7792,7 +8656,9 @@
     "case":"11",
     "death":"0",
     "cure":"0",
-    "remain":"11"
+    "remain":"11",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7810,7 +8676,9 @@
     "case":"28",
     "death":"2",
     "cure":"0",
-    "remain":"26"
+    "remain":"26",
+    "death_rate":"7.142857143",
+    "cure_rate":"0"
     }
   },
   {
@@ -7828,7 +8696,9 @@
     "case":"109",
     "death":"2",
     "cure":"27",
-    "remain":"80"
+    "remain":"80",
+    "death_rate":"1.834862385",
+    "cure_rate":"24.7706422"
     }
   },
   {
@@ -7846,7 +8716,9 @@
     "case":"115",
     "death":"0",
     "cure":"0",
-    "remain":"115"
+    "remain":"115",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7864,7 +8736,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7882,7 +8756,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7900,7 +8776,9 @@
     "case":"225",
     "death":"0",
     "cure":"1",
-    "remain":"224"
+    "remain":"224",
+    "death_rate":"0",
+    "cure_rate":"0.444444444"
     }
   },
   {
@@ -7913,12 +8791,14 @@
     "FIELD1":440,
     "city_cn":"本土",
     "province_cn":"法国",
-    "city":"",
+    "city":"France",
     "province":"France",
     "case":"4469",
     "death":"91",
     "cure":"12",
-    "remain":"4366"
+    "remain":"4366",
+    "death_rate":"2.03624972",
+    "cure_rate":"0.268516447"
     }
   },
   {
@@ -7936,7 +8816,9 @@
     "case":"5",
     "death":"0",
     "cure":"0",
-    "remain":"5"
+    "remain":"5",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7954,7 +8836,9 @@
     "case":"3",
     "death":"0",
     "cure":"0",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7972,7 +8856,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -7990,7 +8876,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8008,7 +8896,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8026,7 +8916,9 @@
     "case":"30",
     "death":"0",
     "cure":"0",
-    "remain":"30"
+    "remain":"30",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8044,7 +8936,9 @@
     "case":"4585",
     "death":"9",
     "cure":"46",
-    "remain":"4530"
+    "remain":"4530",
+    "death_rate":"0.196292257",
+    "cure_rate":"1.003271538"
     }
   },
   {
@@ -8062,7 +8956,9 @@
     "case":"3",
     "death":"0",
     "cure":"0",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8080,7 +8976,9 @@
     "case":"228",
     "death":"3",
     "cure":"8",
-    "remain":"217"
+    "remain":"217",
+    "death_rate":"1.315789474",
+    "cure_rate":"3.50877193"
     }
   },
   {
@@ -8098,7 +8996,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8116,7 +9016,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8134,7 +9036,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8152,7 +9056,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8170,7 +9076,9 @@
     "case":"1",
     "death":"1",
     "cure":"0",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"100",
+    "cure_rate":"0"
     }
   },
   {
@@ -8188,7 +9096,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8206,7 +9116,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8224,7 +9136,9 @@
     "case":"30",
     "death":"0",
     "cure":"1",
-    "remain":"29"
+    "remain":"29",
+    "death_rate":"0",
+    "cure_rate":"3.333333333"
     }
   },
   {
@@ -8242,7 +9156,9 @@
     "case":"156",
     "death":"0",
     "cure":"1",
-    "remain":"155"
+    "remain":"155",
+    "death_rate":"0",
+    "cure_rate":"0.641025641"
     }
   },
   {
@@ -8260,7 +9176,9 @@
     "case":"102",
     "death":"2",
     "cure":"4",
-    "remain":"96"
+    "remain":"96",
+    "death_rate":"1.960784314",
+    "cure_rate":"3.921568627"
     }
   },
   {
@@ -8278,7 +9196,9 @@
     "case":"96",
     "death":"5",
     "cure":"8",
-    "remain":"83"
+    "remain":"83",
+    "death_rate":"5.208333333",
+    "cure_rate":"8.333333333"
     }
   },
   {
@@ -8296,7 +9216,9 @@
     "case":"12729",
     "death":"611",
     "cure":"2959",
-    "remain":"9159"
+    "remain":"9159",
+    "death_rate":"4.800062849",
+    "cure_rate":"23.24613088"
     }
   },
   {
@@ -8314,7 +9236,9 @@
     "case":"110",
     "death":"10",
     "cure":"26",
-    "remain":"74"
+    "remain":"74",
+    "death_rate":"9.090909091",
+    "cure_rate":"23.63636364"
     }
   },
   {
@@ -8332,7 +9256,9 @@
     "case":"129",
     "death":"2",
     "cure":"0",
-    "remain":"127"
+    "remain":"127",
+    "death_rate":"1.550387597",
+    "cure_rate":"0"
     }
   },
   {
@@ -8350,7 +9276,9 @@
     "case":"193",
     "death":"0",
     "cure":"4",
-    "remain":"189"
+    "remain":"189",
+    "death_rate":"0",
+    "cure_rate":"2.07253886"
     }
   },
   {
@@ -8368,7 +9296,9 @@
     "case":"21157",
     "death":"1441",
     "cure":"1966",
-    "remain":"17750"
+    "remain":"17750",
+    "death_rate":"6.810984544",
+    "cure_rate":"9.292432765"
     }
   },
   {
@@ -8386,7 +9316,9 @@
     "case":"8",
     "death":"0",
     "cure":"0",
-    "remain":"8"
+    "remain":"8",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8404,7 +9336,9 @@
     "case":"773",
     "death":"22",
     "cure":"118",
-    "remain":"633"
+    "remain":"633",
+    "death_rate":"2.846054334",
+    "cure_rate":"15.26520052"
     }
   },
   {
@@ -8422,7 +9356,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8440,7 +9376,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -8458,7 +9396,9 @@
     "case":"6",
     "death":"0",
     "cure":"0",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8476,7 +9416,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8494,7 +9436,9 @@
     "case":"8086",
     "death":"72",
     "cure":"510",
-    "remain":"7504"
+    "remain":"7504",
+    "death_rate":"0.8904279",
+    "cure_rate":"6.307197626"
     }
   },
   {
@@ -8512,7 +9456,9 @@
     "case":"104",
     "death":"0",
     "cure":"5",
-    "remain":"99"
+    "remain":"99",
+    "death_rate":"0",
+    "cure_rate":"4.807692308"
     }
   },
   {
@@ -8530,7 +9476,9 @@
     "case":"26",
     "death":"0",
     "cure":"1",
-    "remain":"25"
+    "remain":"25",
+    "death_rate":"0",
+    "cure_rate":"3.846153846"
     }
   },
   {
@@ -8548,7 +9496,9 @@
     "case":"93",
     "death":"3",
     "cure":"1",
-    "remain":"89"
+    "remain":"89",
+    "death_rate":"3.225806452",
+    "cure_rate":"1.075268817"
     }
   },
   {
@@ -8566,7 +9516,9 @@
     "case":"4",
     "death":"0",
     "cure":"0",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8584,7 +9536,9 @@
     "case":"8",
     "death":"0",
     "cure":"0",
-    "remain":"8"
+    "remain":"8",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8602,7 +9556,9 @@
     "case":"51",
     "death":"1",
     "cure":"0",
-    "remain":"50"
+    "remain":"50",
+    "death_rate":"1.960784314",
+    "cure_rate":"0"
     }
   },
   {
@@ -8620,7 +9576,9 @@
     "case":"238",
     "death":"0",
     "cure":"35",
-    "remain":"203"
+    "remain":"203",
+    "death_rate":"0",
+    "cure_rate":"14.70588235"
     }
   },
   {
@@ -8638,7 +9596,9 @@
     "case":"10",
     "death":"0",
     "cure":"0",
-    "remain":"10"
+    "remain":"10",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8656,7 +9616,9 @@
     "case":"18",
     "death":"0",
     "cure":"1",
-    "remain":"17"
+    "remain":"17",
+    "death_rate":"0",
+    "cure_rate":"5.555555556"
     }
   },
   {
@@ -8674,7 +9636,9 @@
     "case":"9",
     "death":"0",
     "cure":"0",
-    "remain":"9"
+    "remain":"9",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8692,7 +9656,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8710,7 +9676,9 @@
     "case":"26",
     "death":"0",
     "cure":"4",
-    "remain":"22"
+    "remain":"22",
+    "death_rate":"0",
+    "cure_rate":"15.38461538"
     }
   },
   {
@@ -8728,7 +9696,9 @@
     "case":"12",
     "death":"0",
     "cure":"0",
-    "remain":"12"
+    "remain":"12",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8746,7 +9716,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8764,7 +9736,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8782,7 +9756,9 @@
     "case":"17",
     "death":"1",
     "cure":"1",
-    "remain":"15"
+    "remain":"15",
+    "death_rate":"5.882352941",
+    "cure_rate":"5.882352941"
     }
   },
   {
@@ -8800,7 +9776,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8818,7 +9796,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -8836,7 +9816,9 @@
     "case":"959",
     "death":"12",
     "cure":"2",
-    "remain":"945"
+    "remain":"945",
+    "death_rate":"1.251303441",
+    "cure_rate":"0.208550574"
     }
   },
   {
@@ -8854,7 +9836,9 @@
     "case":"6",
     "death":"0",
     "cure":"0",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8872,7 +9856,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8890,7 +9876,9 @@
     "case":"14",
     "death":"0",
     "cure":"1",
-    "remain":"13"
+    "remain":"13",
+    "death_rate":"0",
+    "cure_rate":"7.142857143"
     }
   },
   {
@@ -8908,7 +9896,9 @@
     "case":"1090",
     "death":"3",
     "cure":"1",
-    "remain":"1086"
+    "remain":"1086",
+    "death_rate":"0.275229358",
+    "cure_rate":"0.091743119"
     }
   },
   {
@@ -8926,7 +9916,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -8944,7 +9936,9 @@
     "case":"19",
     "death":"0",
     "cure":"9",
-    "remain":"10"
+    "remain":"10",
+    "death_rate":"0",
+    "cure_rate":"47.36842105"
     }
   },
   {
@@ -8962,7 +9956,9 @@
     "case":"31",
     "death":"0",
     "cure":"2",
-    "remain":"29"
+    "remain":"29",
+    "death_rate":"0",
+    "cure_rate":"6.451612903"
     }
   },
   {
@@ -8980,7 +9976,9 @@
     "case":"36",
     "death":"1",
     "cure":"0",
-    "remain":"35"
+    "remain":"35",
+    "death_rate":"2.777777778",
+    "cure_rate":"0"
     }
   },
   {
@@ -8998,7 +9996,9 @@
     "case":"6",
     "death":"0",
     "cure":"0",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9016,7 +10016,9 @@
     "case":"38",
     "death":"0",
     "cure":"0",
-    "remain":"38"
+    "remain":"38",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9034,7 +10036,9 @@
     "case":"111",
     "death":"8",
     "cure":"2",
-    "remain":"101"
+    "remain":"101",
+    "death_rate":"7.207207207",
+    "cure_rate":"1.801801802"
     }
   },
   {
@@ -9052,7 +10056,9 @@
     "case":"103",
     "death":"3",
     "cure":"0",
-    "remain":"100"
+    "remain":"100",
+    "death_rate":"2.912621359",
+    "cure_rate":"0"
     }
   },
   {
@@ -9070,7 +10076,9 @@
     "case":"169",
     "death":"0",
     "cure":"2",
-    "remain":"167"
+    "remain":"167",
+    "death_rate":"0",
+    "cure_rate":"1.183431953"
     }
   },
   {
@@ -9088,7 +10096,9 @@
     "case":"337",
     "death":"0",
     "cure":"4",
-    "remain":"333"
+    "remain":"333",
+    "death_rate":"0",
+    "cure_rate":"1.18694362"
     }
   },
   {
@@ -9106,7 +10116,9 @@
     "case":"6",
     "death":"0",
     "cure":"0",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9124,7 +10136,9 @@
     "case":"123",
     "death":"0",
     "cure":"9",
-    "remain":"114"
+    "remain":"114",
+    "death_rate":"0",
+    "cure_rate":"7.317073171"
     }
   },
   {
@@ -9142,7 +10156,9 @@
     "case":"59",
     "death":"0",
     "cure":"8",
-    "remain":"51"
+    "remain":"51",
+    "death_rate":"0",
+    "cure_rate":"13.55932203"
     }
   },
   {
@@ -9160,7 +10176,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9178,7 +10196,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9196,7 +10216,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9214,7 +10236,9 @@
     "case":"80",
     "death":"5",
     "cure":"4",
-    "remain":"71"
+    "remain":"71",
+    "death_rate":"6.25",
+    "cure_rate":"5"
     }
   },
   {
@@ -9232,7 +10256,9 @@
     "case":"103",
     "death":"0",
     "cure":"1",
-    "remain":"102"
+    "remain":"102",
+    "death_rate":"0",
+    "cure_rate":"0.970873786"
     }
   },
   {
@@ -9250,7 +10276,9 @@
     "case":"10",
     "death":"0",
     "cure":"1",
-    "remain":"9"
+    "remain":"9",
+    "death_rate":"0",
+    "cure_rate":"10"
     }
   },
   {
@@ -9268,7 +10296,9 @@
     "case":"46",
     "death":"0",
     "cure":"0",
-    "remain":"46"
+    "remain":"46",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9286,7 +10316,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9304,7 +10336,9 @@
     "case":"212",
     "death":"0",
     "cure":"105",
-    "remain":"107"
+    "remain":"107",
+    "death_rate":"0",
+    "cure_rate":"49.52830189"
     }
   },
   {
@@ -9322,7 +10356,9 @@
     "case":"44",
     "death":"0",
     "cure":"0",
-    "remain":"44"
+    "remain":"44",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9340,7 +10376,9 @@
     "case":"181",
     "death":"1",
     "cure":"0",
-    "remain":"180"
+    "remain":"180",
+    "death_rate":"0.552486188",
+    "cure_rate":"0"
     }
   },
   {
@@ -9358,7 +10396,9 @@
     "case":"38",
     "death":"0",
     "cure":"0",
-    "remain":"38"
+    "remain":"38",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9376,7 +10416,9 @@
     "case":"6391",
     "death":"195",
     "cure":"517",
-    "remain":"5679"
+    "remain":"5679",
+    "death_rate":"3.051165702",
+    "cure_rate":"8.089500861"
     }
   },
   {
@@ -9394,7 +10436,9 @@
     "case":"10",
     "death":"0",
     "cure":"1",
-    "remain":"9"
+    "remain":"9",
+    "death_rate":"0",
+    "cure_rate":"10"
     }
   },
   {
@@ -9412,7 +10456,9 @@
     "case":"1",
     "death":"1",
     "cure":"0",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"100",
+    "cure_rate":"0"
     }
   },
   {
@@ -9430,7 +10476,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9448,7 +10496,9 @@
     "case":"961",
     "death":"2",
     "cure":"1",
-    "remain":"958"
+    "remain":"958",
+    "death_rate":"0.208116545",
+    "cure_rate":"0.104058273"
     }
   },
   {
@@ -9466,7 +10516,9 @@
     "case":"1359",
     "death":"13",
     "cure":"4",
-    "remain":"1342"
+    "remain":"1342",
+    "death_rate":"0.956585725",
+    "cure_rate":"0.294334069"
     }
   },
   {
@@ -9484,7 +10536,9 @@
     "case":"82",
     "death":"1",
     "cure":"35",
-    "remain":"46"
+    "remain":"46",
+    "death_rate":"1.219512195",
+    "cure_rate":"42.68292683"
     }
   },
   {
@@ -9502,7 +10556,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9520,7 +10576,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9538,7 +10596,9 @@
     "case":"18",
     "death":"0",
     "cure":"0",
-    "remain":"18"
+    "remain":"18",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9556,7 +10616,9 @@
     "case":"5",
     "death":"0",
     "cure":"0",
-    "remain":"5"
+    "remain":"5",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9574,7 +10636,9 @@
     "case":"3",
     "death":"1",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"33.33333333",
+    "cure_rate":"0"
     }
   },
   {
@@ -9592,7 +10656,9 @@
     "case":"85",
     "death":"0",
     "cure":"17",
-    "remain":"68"
+    "remain":"68",
+    "death_rate":"0",
+    "cure_rate":"20"
     }
   },
   {
@@ -9610,7 +10676,9 @@
     "case":"1140",
     "death":"21",
     "cure":"18",
-    "remain":"1101"
+    "remain":"1101",
+    "death_rate":"1.842105263",
+    "cure_rate":"1.578947368"
     }
   },
   {
@@ -9628,7 +10696,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9646,7 +10716,9 @@
     "case":"1",
     "death":"0",
     "cure":"1",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"0",
+    "cure_rate":"100"
     }
   },
   {
@@ -9664,7 +10736,9 @@
     "case":"4",
     "death":"0",
     "cure":"0",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9682,7 +10756,9 @@
     "case":"572",
     "death":"37",
     "cure":"1",
-    "remain":"534"
+    "remain":"534",
+    "death_rate":"6.468531469",
+    "cure_rate":"0.174825175"
     }
   },
   {
@@ -9700,7 +10776,9 @@
     "case":"525",
     "death":"2",
     "cure":"0",
-    "remain":"523"
+    "remain":"523",
+    "death_rate":"0.380952381",
+    "cure_rate":"0"
     }
   },
   {
@@ -9718,7 +10796,9 @@
     "case":"340",
     "death":"5",
     "cure":"6",
-    "remain":"329"
+    "remain":"329",
+    "death_rate":"1.470588235",
+    "cure_rate":"1.764705882"
     }
   },
   {
@@ -9736,7 +10816,9 @@
     "case":"138",
     "death":"0",
     "cure":"1",
-    "remain":"137"
+    "remain":"137",
+    "death_rate":"0",
+    "cure_rate":"0.724637681"
     }
   },
   {
@@ -9754,7 +10836,9 @@
     "case":"101",
     "death":"1",
     "cure":"0",
-    "remain":"100"
+    "remain":"100",
+    "death_rate":"0.99009901",
+    "cure_rate":"0"
     }
   },
   {
@@ -9772,7 +10856,9 @@
     "case":"77",
     "death":"1",
     "cure":"0",
-    "remain":"76"
+    "remain":"76",
+    "death_rate":"1.298701299",
+    "cure_rate":"0"
     }
   },
   {
@@ -9790,7 +10876,9 @@
     "case":"76",
     "death":"3",
     "cure":"0",
-    "remain":"73"
+    "remain":"73",
+    "death_rate":"3.947368421",
+    "cure_rate":"0"
     }
   },
   {
@@ -9808,7 +10896,9 @@
     "case":"69",
     "death":"1",
     "cure":"0",
-    "remain":"68"
+    "remain":"68",
+    "death_rate":"1.449275362",
+    "cure_rate":"0"
     }
   },
   {
@@ -9826,7 +10916,9 @@
     "case":"66",
     "death":"1",
     "cure":"0",
-    "remain":"65"
+    "remain":"65",
+    "death_rate":"1.515151515",
+    "cure_rate":"0"
     }
   },
   {
@@ -9844,7 +10936,9 @@
     "case":"64",
     "death":"0",
     "cure":"2",
-    "remain":"62"
+    "remain":"62",
+    "death_rate":"0",
+    "cure_rate":"3.125"
     }
   },
   {
@@ -9862,7 +10956,9 @@
     "case":"57",
     "death":"0",
     "cure":"0",
-    "remain":"57"
+    "remain":"57",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9880,7 +10976,9 @@
     "case":"47",
     "death":"0",
     "cure":"0",
-    "remain":"47"
+    "remain":"47",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9898,7 +10996,9 @@
     "case":"46",
     "death":"0",
     "cure":"0",
-    "remain":"46"
+    "remain":"46",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9916,7 +11016,9 @@
     "case":"41",
     "death":"1",
     "cure":"0",
-    "remain":"40"
+    "remain":"40",
+    "death_rate":"2.43902439",
+    "cure_rate":"0"
     }
   },
   {
@@ -9934,7 +11036,9 @@
     "case":"32",
     "death":"0",
     "cure":"0",
-    "remain":"32"
+    "remain":"32",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9952,7 +11056,9 @@
     "case":"32",
     "death":"0",
     "cure":"0",
-    "remain":"32"
+    "remain":"32",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -9970,7 +11076,9 @@
     "case":"27",
     "death":"0",
     "cure":"1",
-    "remain":"26"
+    "remain":"26",
+    "death_rate":"0",
+    "cure_rate":"3.703703704"
     }
   },
   {
@@ -9988,7 +11096,9 @@
     "case":"26",
     "death":"0",
     "cure":"0",
-    "remain":"26"
+    "remain":"26",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10006,7 +11116,9 @@
     "case":"26",
     "death":"0",
     "cure":"0",
-    "remain":"26"
+    "remain":"26",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10024,7 +11136,9 @@
     "case":"25",
     "death":"0",
     "cure":"0",
-    "remain":"25"
+    "remain":"25",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10042,7 +11156,9 @@
     "case":"24",
     "death":"0",
     "cure":"0",
-    "remain":"24"
+    "remain":"24",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10060,7 +11176,9 @@
     "case":"22",
     "death":"0",
     "cure":"0",
-    "remain":"22"
+    "remain":"22",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10078,7 +11196,9 @@
     "case":"21",
     "death":"0",
     "cure":"0",
-    "remain":"21"
+    "remain":"21",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10096,7 +11216,9 @@
     "case":"21",
     "death":"0",
     "cure":"0",
-    "remain":"21"
+    "remain":"21",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10114,7 +11236,9 @@
     "case":"21",
     "death":"0",
     "cure":"0",
-    "remain":"21"
+    "remain":"21",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10132,7 +11256,9 @@
     "case":"20",
     "death":"0",
     "cure":"0",
-    "remain":"20"
+    "remain":"20",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10150,7 +11276,9 @@
     "case":"19",
     "death":"0",
     "cure":"0",
-    "remain":"19"
+    "remain":"19",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10168,7 +11296,9 @@
     "case":"17",
     "death":"0",
     "cure":"0",
-    "remain":"17"
+    "remain":"17",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10186,7 +11316,9 @@
     "case":"16",
     "death":"0",
     "cure":"0",
-    "remain":"16"
+    "remain":"16",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10204,7 +11336,9 @@
     "case":"14",
     "death":"0",
     "cure":"0",
-    "remain":"14"
+    "remain":"14",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10222,7 +11356,9 @@
     "case":"14",
     "death":"0",
     "cure":"0",
-    "remain":"14"
+    "remain":"14",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10240,7 +11376,9 @@
     "case":"12",
     "death":"0",
     "cure":"1",
-    "remain":"11"
+    "remain":"11",
+    "death_rate":"0",
+    "cure_rate":"8.333333333"
     }
   },
   {
@@ -10258,7 +11396,9 @@
     "case":"12",
     "death":"0",
     "cure":"0",
-    "remain":"12"
+    "remain":"12",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10276,7 +11416,9 @@
     "case":"10",
     "death":"0",
     "cure":"0",
-    "remain":"10"
+    "remain":"10",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10294,7 +11436,9 @@
     "case":"10",
     "death":"0",
     "cure":"0",
-    "remain":"10"
+    "remain":"10",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10312,7 +11456,9 @@
     "case":"10",
     "death":"0",
     "cure":"0",
-    "remain":"10"
+    "remain":"10",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10330,7 +11476,9 @@
     "case":"9",
     "death":"1",
     "cure":"0",
-    "remain":"8"
+    "remain":"8",
+    "death_rate":"11.11111111",
+    "cure_rate":"0"
     }
   },
   {
@@ -10348,7 +11496,9 @@
     "case":"8",
     "death":"1",
     "cure":"0",
-    "remain":"7"
+    "remain":"7",
+    "death_rate":"12.5",
+    "cure_rate":"0"
     }
   },
   {
@@ -10366,7 +11516,9 @@
     "case":"7",
     "death":"0",
     "cure":"0",
-    "remain":"7"
+    "remain":"7",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10384,7 +11536,9 @@
     "case":"6",
     "death":"0",
     "cure":"0",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10402,7 +11556,9 @@
     "case":"6",
     "death":"0",
     "cure":"0",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10420,7 +11576,9 @@
     "case":"6",
     "death":"0",
     "cure":"0",
-    "remain":"6"
+    "remain":"6",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10438,7 +11596,9 @@
     "case":"5",
     "death":"0",
     "cure":"0",
-    "remain":"5"
+    "remain":"5",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10456,7 +11616,9 @@
     "case":"5",
     "death":"0",
     "cure":"0",
-    "remain":"5"
+    "remain":"5",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10474,7 +11636,9 @@
     "case":"4",
     "death":"0",
     "cure":"0",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10492,7 +11656,9 @@
     "case":"4",
     "death":"0",
     "cure":"0",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10510,7 +11676,9 @@
     "case":"4",
     "death":"0",
     "cure":"0",
-    "remain":"4"
+    "remain":"4",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10528,7 +11696,9 @@
     "case":"3",
     "death":"0",
     "cure":"0",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10546,7 +11716,9 @@
     "case":"3",
     "death":"0",
     "cure":"0",
-    "remain":"3"
+    "remain":"3",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10564,7 +11736,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10582,7 +11756,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10600,7 +11776,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10618,7 +11796,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10636,7 +11816,9 @@
     "case":"0",
     "death":"0",
     "cure":"0",
-    "remain":"0"
+    "remain":"0",
+    "death_rate":"#DIV/0!",
+    "cure_rate":"#DIV/0!"
     }
   },
   {
@@ -10654,7 +11836,9 @@
     "case":"1",
     "death":"0",
     "cure":"0",
-    "remain":"1"
+    "remain":"1",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10672,7 +11856,9 @@
     "case":"2",
     "death":"0",
     "cure":"0",
-    "remain":"2"
+    "remain":"2",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
@@ -10690,7 +11876,9 @@
     "case":"53",
     "death":"0",
     "cure":"16",
-    "remain":"37"
+    "remain":"37",
+    "death_rate":"0",
+    "cure_rate":"30.18867925"
     }
   }
 ]

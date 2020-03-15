@@ -19,30 +19,34 @@
 			width: 100%;
 		}
 		.leaflet-popup-content-wrapper {
-			border-radius: 0;
-	    background: #9c1309;
-	    color: #9c1309;
-	    font-size: 20px;
-			font-family: Georgia;
-			opacity: 0.7
+	    background: #2ca25f;
+			color: white;
+			font-family:  Georgia;
+		  font-size: 16px;
+		  line-height: 24px;
+		  border-radius: 0;
+			opacity: 0.7;
 		}
 		.leaflet-popup-content {
 			margin: 5px;
 		}
 		.leaflet-popup-tip {
-			background: #9c1309;
-			opacity: 0.7
+			background: #2ca25f;
+			opacity: 0.7;
+			border: none;
+			box-shadow: none;
 		}
-		.leaflet-popup-close-button {
-			display: none;
-			opacity: 0.7
+		.leaflet-popup-tip-container {
+		  width: 50px;
+		  height: 15px;
 		}
 
 		/*another-popop style*/
 .another-popup .leaflet-popup-content-wrapper {
   background: #9c1309;
   color: white;
-	font-family: : Georgia;
+	font-family:  Georgia;
+	opacity: 0.7;
   font-size: 16px;
   line-height: 24px;
   border-radius: 0;
@@ -56,9 +60,83 @@
 }
 .another-popup .leaflet-popup-tip {
   background: #9c1309;
+	opacity: 0.7;
   border: none;
   box-shadow: none;
 }
+
+/*another-popop style*/
+.another-popup2 .leaflet-popup-content-wrapper {
+background: #756bb1;
+color: white;
+font-family: : Georgia;
+opacity: 0.7;
+font-size: 16px;
+line-height: 24px;
+border-radius: 0;
+}
+.another-popup2.leaflet-popup-content {
+margin: 5px;
+}
+.another-popup2 .leaflet-popup-tip-container {
+width: 50px;
+height: 15px;
+}
+.another-popup2 .leaflet-popup-tip {
+background: #756bb1;
+opacity: 0.7;
+border: none;
+box-shadow: none;
+}
+
+/*another-popop style*/
+.another-popup3 .leaflet-popup-content-wrapper {
+background: #3182bd;
+color: white;
+font-family:  Georgia;
+opacity: 0.7;
+font-size: 16px;
+line-height: 24px;
+border-radius: 0;
+}
+.another-popup3.leaflet-popup-content {
+margin: 5px;
+}
+.another-popup3 .leaflet-popup-tip-container {
+width: 50px;
+height: 15px;
+}
+.another-popup3 .leaflet-popup-tip {
+background: #3182bd;
+opacity: 0.7;
+border: none;
+box-shadow: none;
+}
+
+/*leaflet layer control*/
+.leaflet-control-layers-toggle{
+    width:auto;
+		background-color: #e3cea8;
+		background-size: 20px 20px;
+    text-decoration:none;
+    line-height:36px;
+		font-family:  Georgia;
+}
+.leaflet-control-layers-expanded {
+  color: white;
+	background-color: black;
+	text-align: left;
+	font-family:  Georgia;
+	font-size: 10pt;
+}
+
+.leaflet-control-zoomControl-toggle {
+	color: black;
+	background-size: 20px 20px;
+  }
+
+
+
 		</style>
 
 
@@ -73,7 +151,7 @@
 		<a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">丁香园</a> | <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">Esri/JHU Compilation</a>
 	</p2><br>
 		<p2>截止到/Last Updated: <br>  2020-03-14 23:00 (CST 芝加哥时间)</p2>
-		<div><center>右上角可添加地形、卫星和边界底图<br>Add topographic/satellite/boundary basemaps at the upper-right menu.</center></div>
+		<div><center>右上角可切换底图和数据类型<br>Add or change basemaps and data types at the upper-right menu.</center></div>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Shan Ye's Homepage</a></center></div>
 </center>
 </center></div>
@@ -119,20 +197,34 @@
 		//Initiating map layer groups
 
 		var sites = L.layerGroup();
+		var remain = L.layerGroup();
+		var recover = L.layerGroup();
+		var death = L.layerGroup();
 		var southWest = L.latLng(-85, -200),
 				northEast = L.latLng(85, 200),
 				mybounds = L.latLngBounds(southWest, northEast);
 
 
 		//Initiating 2 different popups
-		var popup1 = L.popup({
-			maxWidth : 1800
-		});
+		var popup1 = {
+      'minWidth': '100',
+      'className' : 'popup' // classname for another popup
+    };
 		var popup2 =
     {
       'minWidth': '100',
       'className' : 'another-popup' // classname for another popup
-    }
+    };
+		var popup3 =
+		{
+			'minWidth': '100',
+			'className' : 'another-popup2' // classname for another popup
+		};
+		var popup4 =
+		{
+			'minWidth': '100',
+			'className' : 'another-popup3' // classname for another popup
+		}
 
 		var datacircles = {
     radius: 5,
@@ -167,7 +259,7 @@
 				else if (field < 100) color="#ef3b2c";
 				else if (field < 1000) color="#fb6a4a";
 				else if (field < 2000) color="#fc9272";
-				else if (isNaN(field)) color = "black";
+				else if (isNaN(field)) color = "none";
 				else color="#fcbba1";
 
 
@@ -201,26 +293,177 @@
 				layer.on('click',function(e) {
 					map.setView(e.latlng,4.5);
 					$("#paneltext").html('<h3> '+feature.properties.city+' '
-										+feature.properties.province +'</h3> Confirmed: '
-										+feature.properties.case+'<br> Recovered: '
-										+feature.properties.cure+'<br> Remaining: '
-										+feature.properties.remain+'<br> Death: '
-										+feature.properties.death+'</p>');
+										+feature.properties.province +'</h3> 死亡率/Death Rate: '
+										+feature.properties.death_rate+'%<br> 治愈率/Cure Rate: '
+										+feature.properties.cure_rate+'%</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.province_cn+' '
-									+feature.properties.city_cn +'</h3> 确诊: '
-									+feature.properties.case+'<br> 剩余: '
-									+feature.properties.remain+'<br> 治愈: '
-									+feature.properties.cure+'<br> 死亡: '
-									+feature.properties.death+'<br> See panel below for data in English</p>', popup2)
+									+feature.properties.city_cn +'</h3> 确诊/Confirmed: '
+									+feature.properties.case+'<br> 剩余/Remaining: '
+									+feature.properties.remain+'<br> 治愈/Recoverd: '
+									+feature.properties.cure+'<br> 死亡/Death: '
+									+feature.properties.death+'</p>', popup2)
 			}
 		}).addTo(sites);
+
+// remains
+
+
+function getColor2(i){
+	var color
+	var field = i
+	if (field == 0) color = "none";
+	else if (field < 10) color="#2ca25f";
+	else if (field < 100) color="#66c2a4";
+	else if (field < 1000) color="#99d8c9";
+	else if (field < 2000) color="#ccece6";
+	else if (isNaN(field)) color = "none";
+	else color="#edf8fb";
+	return color
+}
+
+function getColor3(i){
+	var color
+	var field = i
+	if (field == 0) color = "none";
+	else if (field < 10) color="#756bb1";
+	else if (field < 100) color="#9e9ac8";
+	else if (field < 1000) color="#bcbddc";
+	else if (field < 2000) color="#dadaeb";
+	else if (isNaN(field)) color = "none";
+	else color="#f2f0f7";
+	return color
+}
+
+function getColor4(i){
+	var color
+	var field = i
+	if (field == 0) color = "none";
+	else if (field < 10) color="#3182bd";
+	else if (field < 100) color="#6baed6";
+	else if (field < 1000) color="#9ecae1";
+	else if (field < 2000) color="#c6dbef";
+	else if (isNaN(field)) color = "none";
+	else color="#eff3ff";
+	return color
+}
+
+
+		var remain = new L.GeoJSON.AJAX("data/data.geojson",{
+			style : function(feature) {
+				return {
+					color: getColor2(feature.properties.remain),
+					fillColor: getColor2(feature.properties.remain),
+					weight: 0.5,
+					radius: getR(feature.properties.remain)
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+			return L.circleMarker(latlng,
+				{
+		    color: "#000",
+		    weight: 5,
+		    opacity: 0.5,
+		    fillOpacity: 0.6}
+
+			)
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng,4.5);
+					$("#paneltext").html('<h3> '+feature.properties.city+' '
+										+feature.properties.province +'</h3> 死亡率/Death Rate: '
+										+feature.properties.death_rate+'%<br> 治愈率/Cure Rate: '
+										+feature.properties.cure_rate+'%</p>');
+				}),
+				layer.bindPopup('<h3> '+feature.properties.province_cn+' '
+									+feature.properties.city_cn +'</h3> 确诊/Confirmed: '
+									+feature.properties.case+'<br> 剩余/Remaining: '
+									+feature.properties.remain+'<br> 治愈/Recoverd: '
+									+feature.properties.cure+'<br> 死亡/Death: '
+									+feature.properties.death+'</p>', popup1)
+			}
+		}).addTo(remain);
+
+		var death = new L.GeoJSON.AJAX("data/data.geojson",{
+			style : function(feature) {
+				return {
+					color: getColor3(feature.properties.death),
+					fillColor: getColor3(feature.properties.death),
+					weight: 0.5,
+					radius: getR(feature.properties.death)
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+			return L.circleMarker(latlng,
+				{
+				color: "#000",
+				weight: 5,
+				opacity: 0.5,
+				fillOpacity: 0.6}
+
+			)
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng,4.5);
+					$("#paneltext").html('<h3> '+feature.properties.city+' '
+										+feature.properties.province +'</h3> 死亡率/Death Rate: '
+										+feature.properties.death_rate+'%<br> 治愈率/Cure Rate: '
+										+feature.properties.cure_rate+'%</p>');
+				}),
+				layer.bindPopup('<h3> '+feature.properties.province_cn+' '
+									+feature.properties.city_cn +'</h3> 确诊/Confirmed: '
+									+feature.properties.case+'<br> 剩余/Remaining: '
+									+feature.properties.remain+'<br> 治愈/Recoverd: '
+									+feature.properties.cure+'<br> 死亡/Death: '
+									+feature.properties.death+'</p>', popup3)
+			}
+		}).addTo(death);
+
+		var recover = new L.GeoJSON.AJAX("data/data.geojson",{
+			style : function(feature) {
+				return {
+					color: getColor4(feature.properties.cure),
+					fillColor: getColor4(feature.properties.cure),
+					weight: 0.5,
+					radius: getR(feature.properties.cure)
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+			return L.circleMarker(latlng,
+				{
+				color: "#000",
+				weight: 5,
+				opacity: 0.5,
+				fillOpacity: 0.6}
+
+			)
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng,4.5);
+					$("#paneltext").html('<h3> '+feature.properties.city+' '
+										+feature.properties.province +'</h3> 死亡率/Death Rate: '
+										+feature.properties.death_rate+'%<br> 治愈率/Cure Rate: '
+										+feature.properties.cure_rate+'%</p>');
+				}),
+				layer.bindPopup('<h3> '+feature.properties.province_cn+' '
+									+feature.properties.city_cn +'</h3> 确诊/Confirmed: '
+									+feature.properties.case+'<br> 剩余/Remaining: '
+									+feature.properties.remain+'<br> 治愈/Recoverd: '
+									+feature.properties.cure+'<br> 死亡/Death: '
+									+feature.properties.death+'</p>', popup4)
+			}
+		}).addTo(recover);
+
 
 
 	//Add map
 	var map = L.map('map', {
 			center: [30,114],
 		  zoom:3.2,
+			zoomControl: true,
 			maxBounds: [
         //south west
         [-89,-180],
@@ -241,11 +484,15 @@
 	};
 
 	var overlays = {
-		"疫情/Cases": sites
+		"<span style='color:#fcbba1'>累计/Cumulative</span>": sites,
+		"<span style='color:#c7e9c0'>剩余/Remaining": remain,
+		"<span style='color:#9ecae1'>治愈/Recovered</span>": recover,
+		"<span style='color:#9e9ac8'>死亡/Death</span>": death
 	};
 
 //Add layer control
 L.control.layers(baseLayers, overlays).addTo(map);
+map.zoomControl.setPosition('bottomright');
 
 
 //	});
