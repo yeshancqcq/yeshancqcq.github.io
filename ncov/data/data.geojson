@@ -15,10 +15,7 @@
     "province":"Hunan China",
     "case":"242",
     "death":"2",
-    "cure":"240",
-    "remain":"0",
-    "death_rate":"0.826446281",
-    "cure_rate":"99.17355372"
+    "cure":"240"
     }
   },
   {
@@ -35,10 +32,7 @@
     "province":"Hunan China",
     "case":"156",
     "death":"1",
-    "cure":"155",
-    "remain":"0",
-    "death_rate":"0.641025641",
-    "cure_rate":"99.35897436"
+    "cure":"155"
     }
   },
   {
@@ -55,10 +49,7 @@
     "province":"Hunan China",
     "case":"40",
     "death":"0",
-    "cure":"40",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"40"
     }
   },
   {
@@ -75,10 +66,7 @@
     "province":"Hunan China",
     "case":"76",
     "death":"0",
-    "cure":"76",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"76"
     }
   },
   {
@@ -95,10 +83,7 @@
     "province":"Hunan China",
     "case":"44",
     "death":"0",
-    "cure":"44",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"44"
     }
   },
   {
@@ -115,10 +100,7 @@
     "province":"Hunan China",
     "case":"60",
     "death":"0",
-    "cure":"60",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"60"
     }
   },
   {
@@ -135,10 +117,7 @@
     "province":"Hunan China",
     "case":"48",
     "death":"0",
-    "cure":"48",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"48"
     }
   },
   {
@@ -155,10 +134,7 @@
     "province":"Hunan China",
     "case":"82",
     "death":"0",
-    "cure":"82",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"82"
     }
   },
   {
@@ -175,10 +151,7 @@
     "province":"Hunan China",
     "case":"36",
     "death":"0",
-    "cure":"36",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"36"
     }
   },
   {
@@ -195,10 +168,7 @@
     "province":"Hunan China",
     "case":"102",
     "death":"1",
-    "cure":"101",
-    "remain":"0",
-    "death_rate":"0.980392157",
-    "cure_rate":"99.01960784"
+    "cure":"101"
     }
   },
   {
@@ -215,10 +185,7 @@
     "province":"Hunan China",
     "case":"80",
     "death":"0",
-    "cure":"80",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"80"
     }
   },
   {
@@ -235,10 +202,7 @@
     "province":"Hunan China",
     "case":"39",
     "death":"0",
-    "cure":"39",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"39"
     }
   },
   {
@@ -255,10 +219,7 @@
     "province":"Hunan China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -275,10 +236,7 @@
     "province":"Hunan China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -293,12 +251,9 @@
     "province_cn":"中国湖北",
     "city":"Wuhan",
     "province":"Hubei China",
-    "case":"49999",
-    "death":"2456",
-    "cure":"37642",
-    "remain":"9901",
-    "death_rate":"4.912098242",
-    "cure_rate":"75.28550571"
+    "case":"50004",
+    "death":"2480",
+    "cure":"39220"
     }
   },
   {
@@ -315,10 +270,7 @@
     "province":"Hubei China",
     "case":"2907",
     "death":"125",
-    "cure":"2738",
-    "remain":"44",
-    "death_rate":"4.2999656",
-    "cure_rate":"94.18644651"
+    "cure":"2756"
     }
   },
   {
@@ -334,11 +286,8 @@
     "city":"Xiaogan",
     "province":"Hubei China",
     "case":"3518",
-    "death":"126",
-    "cure":"3253",
-    "remain":"139",
-    "death_rate":"3.581580443",
-    "cure_rate":"92.46731097"
+    "death":"127",
+    "cure":"3278"
     }
   },
   {
@@ -354,11 +303,8 @@
     "city":"Xianning",
     "province":"Hubei China",
     "case":"836",
-    "death":"14",
-    "cure":"819",
-    "remain":"3",
-    "death_rate":"1.674641148",
-    "cure_rate":"97.96650718"
+    "death":"15",
+    "cure":"820"
     }
   },
   {
@@ -375,10 +321,7 @@
     "province":"Hubei China",
     "case":"928",
     "death":"39",
-    "cure":"864",
-    "remain":"25",
-    "death_rate":"4.202586207",
-    "cure_rate":"93.10344828"
+    "cure":"868"
     }
   },
   {
@@ -395,10 +338,7 @@
     "province":"Hubei China",
     "case":"1307",
     "death":"45",
-    "cure":"1213",
-    "remain":"49",
-    "death_rate":"3.442999235",
-    "cure_rate":"92.80795715"
+    "cure":"1221"
     }
   },
   {
@@ -415,10 +355,7 @@
     "province":"Hubei China",
     "case":"1580",
     "death":"50",
-    "cure":"1483",
-    "remain":"47",
-    "death_rate":"3.164556962",
-    "cure_rate":"93.86075949"
+    "cure":"1498"
     }
   },
   {
@@ -435,10 +372,7 @@
     "province":"Hubei China",
     "case":"1015",
     "death":"38",
-    "cure":"948",
-    "remain":"29",
-    "death_rate":"3.743842365",
-    "cure_rate":"93.39901478"
+    "cure":"960"
     }
   },
   {
@@ -455,10 +389,7 @@
     "province":"Hubei China",
     "case":"931",
     "death":"36",
-    "cure":"864",
-    "remain":"31",
-    "death_rate":"3.866809882",
-    "cure_rate":"92.80343716"
+    "cure":"873"
     }
   },
   {
@@ -475,10 +406,7 @@
     "province":"Hubei China",
     "case":"672",
     "death":"8",
-    "cure":"630",
-    "remain":"34",
-    "death_rate":"1.19047619",
-    "cure_rate":"93.75"
+    "cure":"638"
     }
   },
   {
@@ -495,10 +423,7 @@
     "province":"Hubei China",
     "case":"252",
     "death":"6",
-    "cure":"233",
-    "remain":"13",
-    "death_rate":"2.380952381",
-    "cure_rate":"92.46031746"
+    "cure":"233"
     }
   },
   {
@@ -515,10 +440,7 @@
     "province":"Hubei China",
     "case":"575",
     "death":"22",
-    "cure":"526",
-    "remain":"27",
-    "death_rate":"3.826086957",
-    "cure_rate":"91.47826087"
+    "cure":"531"
     }
   },
   {
@@ -535,10 +457,7 @@
     "province":"Hubei China",
     "case":"496",
     "death":"15",
-    "cure":"477",
-    "remain":"4",
-    "death_rate":"3.024193548",
-    "cure_rate":"96.16935484"
+    "cure":"477"
     }
   },
   {
@@ -555,10 +474,7 @@
     "province":"Hubei China",
     "case":"1175",
     "death":"38",
-    "cure":"1125",
-    "remain":"12",
-    "death_rate":"3.234042553",
-    "cure_rate":"95.74468085"
+    "cure":"1129"
     }
   },
   {
@@ -575,10 +491,7 @@
     "province":"Hubei China",
     "case":"1394",
     "death":"57",
-    "cure":"1272",
-    "remain":"65",
-    "death_rate":"4.088952654",
-    "cure_rate":"91.2482066"
+    "cure":"1280"
     }
   },
   {
@@ -595,10 +508,7 @@
     "province":"Hubei China",
     "case":"11",
     "death":"0",
-    "cure":"11",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"11"
     }
   },
   {
@@ -615,10 +525,7 @@
     "province":"Hubei China",
     "case":"198",
     "death":"9",
-    "cure":"172",
-    "remain":"17",
-    "death_rate":"4.545454545",
-    "cure_rate":"86.86868687"
+    "cure":"172"
     }
   },
   {
@@ -635,10 +542,7 @@
     "province":"Henan China",
     "case":"274",
     "death":"2",
-    "cure":"272",
-    "remain":"0",
-    "death_rate":"0.729927007",
-    "cure_rate":"99.27007299"
+    "cure":"272"
     }
   },
   {
@@ -655,10 +559,7 @@
     "province":"Henan China",
     "case":"157",
     "death":"5",
-    "cure":"152",
-    "remain":"0",
-    "death_rate":"3.184713376",
-    "cure_rate":"96.81528662"
+    "cure":"152"
     }
   },
   {
@@ -675,10 +576,7 @@
     "province":"Henan China",
     "case":"156",
     "death":"3",
-    "cure":"153",
-    "remain":"0",
-    "death_rate":"1.923076923",
-    "cure_rate":"98.07692308"
+    "cure":"153"
     }
   },
   {
@@ -695,10 +593,7 @@
     "province":"Henan China",
     "case":"139",
     "death":"0",
-    "cure":"139",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"139"
     }
   },
   {
@@ -715,10 +610,7 @@
     "province":"Henan China",
     "case":"76",
     "death":"1",
-    "cure":"75",
-    "remain":"0",
-    "death_rate":"1.315789474",
-    "cure_rate":"98.68421053"
+    "cure":"75"
     }
   },
   {
@@ -735,10 +627,7 @@
     "province":"Henan China",
     "case":"57",
     "death":"3",
-    "cure":"54",
-    "remain":"0",
-    "death_rate":"5.263157895",
-    "cure_rate":"94.73684211"
+    "cure":"54"
     }
   },
   {
@@ -755,10 +644,7 @@
     "province":"Henan China",
     "case":"53",
     "death":"0",
-    "cure":"53",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"53"
     }
   },
   {
@@ -775,10 +661,7 @@
     "province":"Henan China",
     "case":"35",
     "death":"0",
-    "cure":"35",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"35"
     }
   },
   {
@@ -795,10 +678,7 @@
     "province":"Henan China",
     "case":"7",
     "death":"1",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"14.28571429",
-    "cure_rate":"85.71428571"
+    "cure":"6"
     }
   },
   {
@@ -815,10 +695,7 @@
     "province":"Henan China",
     "case":"NA",
     "death":"NA",
-    "cure":"NA",
-    "remain":"#VALUE!",
-    "death_rate":"#VALUE!",
-    "cure_rate":"#VALUE!"
+    "cure":"NA"
     }
   },
   {
@@ -835,10 +712,7 @@
     "province":"Henan China",
     "case":"58",
     "death":"1",
-    "cure":"57",
-    "remain":"0",
-    "death_rate":"1.724137931",
-    "cure_rate":"98.27586207"
+    "cure":"57"
     }
   },
   {
@@ -855,10 +729,7 @@
     "province":"Henan China",
     "case":"31",
     "death":"1",
-    "cure":"30",
-    "remain":"0",
-    "death_rate":"3.225806452",
-    "cure_rate":"96.77419355"
+    "cure":"30"
     }
   },
   {
@@ -875,10 +746,7 @@
     "province":"Henan China",
     "case":"91",
     "death":"3",
-    "cure":"88",
-    "remain":"0",
-    "death_rate":"3.296703297",
-    "cure_rate":"96.7032967"
+    "cure":"88"
     }
   },
   {
@@ -895,10 +763,7 @@
     "province":"Henan China",
     "case":"26",
     "death":"0",
-    "cure":"26",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"26"
     }
   },
   {
@@ -915,10 +780,7 @@
     "province":"Henan China",
     "case":"19",
     "death":"0",
-    "cure":"19",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"19"
     }
   },
   {
@@ -935,10 +797,7 @@
     "province":"Henan China",
     "case":"39",
     "death":"1",
-    "cure":"38",
-    "remain":"0",
-    "death_rate":"2.564102564",
-    "cure_rate":"97.43589744"
+    "cure":"38"
     }
   },
   {
@@ -955,10 +814,7 @@
     "province":"Henan China",
     "case":"32",
     "death":"1",
-    "cure":"31",
-    "remain":"0",
-    "death_rate":"3.125",
-    "cure_rate":"96.875"
+    "cure":"31"
     }
   },
   {
@@ -975,10 +831,7 @@
     "province":"Henan China",
     "case":"17",
     "death":"0",
-    "cure":"17",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"17"
     }
   },
   {
@@ -995,10 +848,7 @@
     "province":"Henan China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -1013,12 +863,9 @@
     "province_cn":"中国广东",
     "city":"Shenzhen",
     "province":"Guangdong China",
-    "case":"422",
+    "case":"423",
     "death":"3",
-    "cure":"399",
-    "remain":"20",
-    "death_rate":"0.710900474",
-    "cure_rate":"94.54976303"
+    "cure":"401"
     }
   },
   {
@@ -1033,12 +880,9 @@
     "province_cn":"中国广东",
     "city":"Guangzhou",
     "province":"Guangdong China",
-    "case":"348",
+    "case":"351",
     "death":"1",
-    "cure":"330",
-    "remain":"17",
-    "death_rate":"0.287356322",
-    "cure_rate":"94.82758621"
+    "cure":"330"
     }
   },
   {
@@ -1055,10 +899,7 @@
     "province":"Guangdong China",
     "case":"98",
     "death":"1",
-    "cure":"97",
-    "remain":"0",
-    "death_rate":"1.020408163",
-    "cure_rate":"98.97959184"
+    "cure":"97"
     }
   },
   {
@@ -1075,10 +916,7 @@
     "province":"Guangdong China",
     "case":"85",
     "death":"0",
-    "cure":"81",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"95.29411765"
+    "cure":"81"
     }
   },
   {
@@ -1095,10 +933,7 @@
     "province":"Guangdong China",
     "case":"62",
     "death":"0",
-    "cure":"62",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"62"
     }
   },
   {
@@ -1115,10 +950,7 @@
     "province":"Guangdong China",
     "case":"14",
     "death":"0",
-    "cure":"14",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"14"
     }
   },
   {
@@ -1135,10 +967,7 @@
     "province":"Guangdong China",
     "case":"10",
     "death":"1",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"10",
-    "cure_rate":"90"
+    "cure":"9"
     }
   },
   {
@@ -1155,10 +984,7 @@
     "province":"Guangdong China",
     "case":"22",
     "death":"0",
-    "cure":"22",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"22"
     }
   },
   {
@@ -1175,10 +1001,7 @@
     "province":"Guangdong China",
     "case":"68",
     "death":"0",
-    "cure":"64",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"94.11764706"
+    "cure":"64"
     }
   },
   {
@@ -1195,10 +1018,7 @@
     "province":"Guangdong China",
     "case":"19",
     "death":"1",
-    "cure":"18",
-    "remain":"0",
-    "death_rate":"5.263157895",
-    "cure_rate":"94.73684211"
+    "cure":"18"
     }
   },
   {
@@ -1215,10 +1035,7 @@
     "province":"Guangdong China",
     "case":"12",
     "death":"0",
-    "cure":"12",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"12"
     }
   },
   {
@@ -1235,10 +1052,7 @@
     "province":"Guangdong China",
     "case":"100",
     "death":"1",
-    "cure":"97",
-    "remain":"2",
-    "death_rate":"1",
-    "cure_rate":"97"
+    "cure":"97"
     }
   },
   {
@@ -1255,10 +1069,7 @@
     "province":"Guangdong China",
     "case":"25",
     "death":"0",
-    "cure":"24",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"96"
+    "cure":"24"
     }
   },
   {
@@ -1275,10 +1086,7 @@
     "province":"Guangdong China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -1295,10 +1103,7 @@
     "province":"Guangdong China",
     "case":"16",
     "death":"0",
-    "cure":"16",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"16"
     }
   },
   {
@@ -1315,10 +1120,7 @@
     "province":"Guangdong China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -1335,10 +1137,7 @@
     "province":"Guangdong China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -1355,10 +1154,7 @@
     "province":"Guangdong China",
     "case":"14",
     "death":"0",
-    "cure":"14",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"14"
     }
   },
   {
@@ -1375,10 +1171,7 @@
     "province":"Guangdong China",
     "case":"23",
     "death":"0",
-    "cure":"23",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"23"
     }
   },
   {
@@ -1395,10 +1188,7 @@
     "province":"Guangdong China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -1415,10 +1205,7 @@
     "province":"Zhejiang China",
     "case":"37",
     "death":"0",
-    "cure":"37",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"37"
     }
   },
   {
@@ -1433,12 +1220,9 @@
     "province_cn":"中国浙江",
     "city":"Hangzhou",
     "province":"Zhejiang China",
-    "case":"182",
+    "case":"183",
     "death":"0",
-    "cure":"179",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"98.35164835"
+    "cure":"181"
     }
   },
   {
@@ -1455,10 +1239,7 @@
     "province":"Zhejiang China",
     "case":"504",
     "death":"1",
-    "cure":"501",
-    "remain":"2",
-    "death_rate":"0.198412698",
-    "cure_rate":"99.4047619"
+    "cure":"503"
     }
   },
   {
@@ -1475,10 +1256,7 @@
     "province":"Zhejiang China",
     "case":"157",
     "death":"0",
-    "cure":"157",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"157"
     }
   },
   {
@@ -1495,10 +1273,7 @@
     "province":"Zhejiang China",
     "case":"45",
     "death":"0",
-    "cure":"44",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"97.77777778"
+    "cure":"44"
     }
   },
   {
@@ -1515,10 +1290,7 @@
     "province":"Zhejiang China",
     "case":"42",
     "death":"0",
-    "cure":"41",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"97.61904762"
+    "cure":"42"
     }
   },
   {
@@ -1535,10 +1307,7 @@
     "province":"Zhejiang China",
     "case":"10",
     "death":"0",
-    "cure":"10",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"10"
     }
   },
   {
@@ -1555,10 +1324,7 @@
     "province":"Zhejiang China",
     "case":"55",
     "death":"0",
-    "cure":"55",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"55"
     }
   },
   {
@@ -1575,10 +1341,7 @@
     "province":"Zhejiang China",
     "case":"14",
     "death":"0",
-    "cure":"14",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"14"
     }
   },
   {
@@ -1595,10 +1358,7 @@
     "province":"Zhejiang China",
     "case":"28",
     "death":"0",
-    "cure":"18",
-    "remain":"10",
-    "death_rate":"0",
-    "cure_rate":"64.28571429"
+    "cure":"18"
     }
   },
   {
@@ -1615,10 +1375,7 @@
     "province":"Zhejiang China",
     "case":"12",
     "death":"0",
-    "cure":"10",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"83.33333333"
+    "cure":"10"
     }
   },
   {
@@ -1635,10 +1392,7 @@
     "province":"Chongqing China",
     "case":"118",
     "death":"4",
-    "cure":"111",
-    "remain":"3",
-    "death_rate":"3.389830508",
-    "cure_rate":"94.06779661"
+    "cure":"111"
     }
   },
   {
@@ -1655,10 +1409,7 @@
     "province":"Chongqing China",
     "case":"22",
     "death":"0",
-    "cure":"18",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"81.81818182"
+    "cure":"18"
     }
   },
   {
@@ -1675,10 +1426,7 @@
     "province":"Chongqing China",
     "case":"21",
     "death":"1",
-    "cure":"20",
-    "remain":"0",
-    "death_rate":"4.761904762",
-    "cure_rate":"95.23809524"
+    "cure":"20"
     }
   },
   {
@@ -1695,10 +1443,7 @@
     "province":"Chongqing China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -1715,10 +1460,7 @@
     "province":"Chongqing China",
     "case":"21",
     "death":"0",
-    "cure":"21",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"21"
     }
   },
   {
@@ -1735,10 +1477,7 @@
     "province":"Chongqing China",
     "case":"10",
     "death":"0",
-    "cure":"10",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"10"
     }
   },
   {
@@ -1755,10 +1494,7 @@
     "province":"Chongqing China",
     "case":"15",
     "death":"0",
-    "cure":"15",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"15"
     }
   },
   {
@@ -1773,12 +1509,9 @@
     "province_cn":"中国重庆",
     "city":"Chongqing",
     "province":"Chongqing China",
-    "case":"484",
-    "death":"4",
-    "cure":"480",
-    "remain":"0",
-    "death_rate":"0.826446281",
-    "cure_rate":"99.17355372"
+    "case":"605",
+    "death":"5",
+    "cure":"600"
     }
   },
   {
@@ -1795,10 +1528,7 @@
     "province":"Chongqing China",
     "case":"17",
     "death":"0",
-    "cure":"17",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"17"
     }
   },
   {
@@ -1815,10 +1545,7 @@
     "province":"Chongqing China",
     "case":"20",
     "death":"0",
-    "cure":"20",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"20"
     }
   },
   {
@@ -1835,10 +1562,7 @@
     "province":"Chongqing China",
     "case":"25",
     "death":"0",
-    "cure":"25",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"25"
     }
   },
   {
@@ -1855,10 +1579,7 @@
     "province":"Chongqing China",
     "case":"55",
     "death":"0",
-    "cure":"55",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"55"
     }
   },
   {
@@ -1875,10 +1596,7 @@
     "province":"Chongqing China",
     "case":"23",
     "death":"0",
-    "cure":"23",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"23"
     }
   },
   {
@@ -1895,10 +1613,7 @@
     "province":"Chongqing China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -1915,10 +1630,7 @@
     "province":"Chongqing China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -1935,10 +1647,7 @@
     "province":"Chongqing China",
     "case":"22",
     "death":"0",
-    "cure":"22",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"22"
     }
   },
   {
@@ -1955,10 +1664,7 @@
     "province":"Chongqing China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -1975,10 +1681,7 @@
     "province":"Chongqing China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -1995,10 +1698,7 @@
     "province":"Chongqing China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -2015,10 +1715,7 @@
     "province":"Chongqing China",
     "case":"14",
     "death":"0",
-    "cure":"13",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"92.85714286"
+    "cure":"13"
     }
   },
   {
@@ -2035,10 +1732,7 @@
     "province":"Chongqing China",
     "case":"10",
     "death":"0",
-    "cure":"8",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"80"
+    "cure":"8"
     }
   },
   {
@@ -2055,10 +1749,7 @@
     "province":"Chongqing China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -2075,10 +1766,7 @@
     "province":"Chongqing China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -2095,10 +1783,7 @@
     "province":"Chongqing China",
     "case":"18",
     "death":"0",
-    "cure":"15",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"83.33333333"
+    "cure":"15"
     }
   },
   {
@@ -2115,10 +1800,7 @@
     "province":"Chongqing China",
     "case":"10",
     "death":"0",
-    "cure":"9",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"90"
+    "cure":"9"
     }
   },
   {
@@ -2135,10 +1817,7 @@
     "province":"Chongqing China",
     "case":"23",
     "death":"0",
-    "cure":"20",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"86.95652174"
+    "cure":"20"
     }
   },
   {
@@ -2155,10 +1834,7 @@
     "province":"Chongqing China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -2175,10 +1851,7 @@
     "province":"Chongqing China",
     "case":"6",
     "death":"0",
-    "cure":"5",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"83.33333333"
+    "cure":"5"
     }
   },
   {
@@ -2195,10 +1868,7 @@
     "province":"Chongqing China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -2215,10 +1885,7 @@
     "province":"Chongqing China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -2235,10 +1902,7 @@
     "province":"Chongqing China",
     "case":"9",
     "death":"0",
-    "cure":"8",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"88.88888889"
+    "cure":"8"
     }
   },
   {
@@ -2255,10 +1919,7 @@
     "province":"Chongqing China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -2273,12 +1934,9 @@
     "province_cn":"中国北京",
     "city":"Beijing",
     "province":"Beijing China",
-    "case":"1136",
+    "case":"1420",
     "death":"0",
-    "cure":"28",
-    "remain":"1108",
-    "death_rate":"0",
-    "cure_rate":"2.464788732"
+    "cure":"35"
     }
   },
   {
@@ -2295,10 +1953,7 @@
     "province":"Beijing China",
     "case":"29",
     "death":"0",
-    "cure":"10",
-    "remain":"19",
-    "death_rate":"0",
-    "cure_rate":"34.48275862"
+    "cure":"10"
     }
   },
   {
@@ -2315,10 +1970,7 @@
     "province":"Beijing China",
     "case":"19",
     "death":"0",
-    "cure":"1",
-    "remain":"18",
-    "death_rate":"0",
-    "cure_rate":"5.263157895"
+    "cure":"1"
     }
   },
   {
@@ -2335,10 +1987,7 @@
     "province":"Beijing China",
     "case":"39",
     "death":"0",
-    "cure":"16",
-    "remain":"23",
-    "death_rate":"0",
-    "cure_rate":"41.02564103"
+    "cure":"16"
     }
   },
   {
@@ -2355,10 +2004,7 @@
     "province":"Beijing China",
     "case":"10",
     "death":"0",
-    "cure":"0",
-    "remain":"10",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -2375,10 +2021,7 @@
     "province":"Beijing China",
     "case":"3",
     "death":"0",
-    "cure":"2",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"66.66666667"
+    "cure":"2"
     }
   },
   {
@@ -2395,10 +2038,7 @@
     "province":"Beijing China",
     "case":"16",
     "death":"0",
-    "cure":"3",
-    "remain":"13",
-    "death_rate":"0",
-    "cure_rate":"18.75"
+    "cure":"3"
     }
   },
   {
@@ -2415,10 +2055,7 @@
     "province":"Beijing China",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -2435,10 +2072,7 @@
     "province":"Beijing China",
     "case":"7",
     "death":"0",
-    "cure":"0",
-    "remain":"7",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -2455,10 +2089,7 @@
     "province":"Beijing China",
     "case":"7",
     "death":"0",
-    "cure":"0",
-    "remain":"7",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -2473,12 +2104,9 @@
     "province_cn":"中国上海",
     "city":"Shanghai",
     "province":"Shanghai China",
-    "case":"355",
+    "case":"358",
     "death":"3",
-    "cure":"324",
-    "remain":"28",
-    "death_rate":"0.845070423",
-    "cure_rate":"91.26760563"
+    "cure":"325"
     }
   },
   {
@@ -2495,10 +2123,7 @@
     "province":"Shandong China",
     "case":"49",
     "death":"0",
-    "cure":"49",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"49"
     }
   },
   {
@@ -2515,10 +2140,7 @@
     "province":"Shandong China",
     "case":"61",
     "death":"1",
-    "cure":"59",
-    "remain":"1",
-    "death_rate":"1.639344262",
-    "cure_rate":"96.72131148"
+    "cure":"59"
     }
   },
   {
@@ -2535,10 +2157,7 @@
     "province":"Shandong China",
     "case":"38",
     "death":"1",
-    "cure":"37",
-    "remain":"0",
-    "death_rate":"2.631578947",
-    "cure_rate":"97.36842105"
+    "cure":"37"
     }
   },
   {
@@ -2555,10 +2174,7 @@
     "province":"Shandong China",
     "case":"16",
     "death":"0",
-    "cure":"16",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"16"
     }
   },
   {
@@ -2575,10 +2191,7 @@
     "province":"Shandong China",
     "case":"260",
     "death":"0",
-    "cure":"256",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"98.46153846"
+    "cure":"256"
     }
   },
   {
@@ -2595,10 +2208,7 @@
     "province":"Shandong China",
     "case":"47",
     "death":"0",
-    "cure":"46",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"97.87234043"
+    "cure":"46"
     }
   },
   {
@@ -2615,10 +2225,7 @@
     "province":"Shandong China",
     "case":"37",
     "death":"2",
-    "cure":"33",
-    "remain":"2",
-    "death_rate":"5.405405405",
-    "cure_rate":"89.18918919"
+    "cure":"35"
     }
   },
   {
@@ -2635,10 +2242,7 @@
     "province":"Shandong China",
     "case":"44",
     "death":"0",
-    "cure":"44",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"44"
     }
   },
   {
@@ -2655,10 +2259,7 @@
     "province":"Shandong China",
     "case":"47",
     "death":"0",
-    "cure":"47",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"47"
     }
   },
   {
@@ -2675,10 +2276,7 @@
     "province":"Shandong China",
     "case":"38",
     "death":"0",
-    "cure":"38",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"38"
     }
   },
   {
@@ -2695,10 +2293,7 @@
     "province":"Shandong China",
     "case":"15",
     "death":"0",
-    "cure":"15",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"15"
     }
   },
   {
@@ -2715,10 +2310,7 @@
     "province":"Shandong China",
     "case":"18",
     "death":"0",
-    "cure":"18",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"18"
     }
   },
   {
@@ -2735,10 +2327,7 @@
     "province":"Shandong China",
     "case":"30",
     "death":"1",
-    "cure":"28",
-    "remain":"1",
-    "death_rate":"3.333333333",
-    "cure_rate":"93.33333333"
+    "cure":"29"
     }
   },
   {
@@ -2755,10 +2344,7 @@
     "province":"Shandong China",
     "case":"24",
     "death":"0",
-    "cure":"24",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"24"
     }
   },
   {
@@ -2775,10 +2361,7 @@
     "province":"Shandong China",
     "case":"35",
     "death":"2",
-    "cure":"33",
-    "remain":"0",
-    "death_rate":"5.714285714",
-    "cure_rate":"94.28571429"
+    "cure":"33"
     }
   },
   {
@@ -2795,10 +2378,7 @@
     "province":"Anhui China",
     "case":"174",
     "death":"1",
-    "cure":"173",
-    "remain":"0",
-    "death_rate":"0.574712644",
-    "cure_rate":"99.42528736"
+    "cure":"173"
     }
   },
   {
@@ -2815,10 +2395,7 @@
     "province":"Anhui China",
     "case":"155",
     "death":"0",
-    "cure":"155",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"155"
     }
   },
   {
@@ -2835,10 +2412,7 @@
     "province":"Anhui China",
     "case":"108",
     "death":"0",
-    "cure":"108",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"108"
     }
   },
   {
@@ -2855,10 +2429,7 @@
     "province":"Anhui China",
     "case":"83",
     "death":"0",
-    "cure":"83",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"83"
     }
   },
   {
@@ -2875,10 +2446,7 @@
     "province":"Anhui China",
     "case":"38",
     "death":"0",
-    "cure":"38",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"38"
     }
   },
   {
@@ -2895,10 +2463,7 @@
     "province":"Anhui China",
     "case":"29",
     "death":"0",
-    "cure":"29",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"29"
     }
   },
   {
@@ -2915,10 +2480,7 @@
     "province":"Anhui China",
     "case":"69",
     "death":"0",
-    "cure":"69",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"69"
     }
   },
   {
@@ -2935,10 +2497,7 @@
     "province":"Anhui China",
     "case":"13",
     "death":"0",
-    "cure":"13",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"13"
     }
   },
   {
@@ -2955,10 +2514,7 @@
     "province":"Anhui China",
     "case":"17",
     "death":"0",
-    "cure":"17",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"17"
     }
   },
   {
@@ -2975,10 +2531,7 @@
     "province":"Anhui China",
     "case":"160",
     "death":"5",
-    "cure":"155",
-    "remain":"0",
-    "death_rate":"3.125",
-    "cure_rate":"96.875"
+    "cure":"155"
     }
   },
   {
@@ -2995,10 +2548,7 @@
     "province":"Anhui China",
     "case":"34",
     "death":"0",
-    "cure":"34",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"34"
     }
   },
   {
@@ -3015,10 +2565,7 @@
     "province":"Anhui China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -3035,10 +2582,7 @@
     "province":"Anhui China",
     "case":"27",
     "death":"0",
-    "cure":"27",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"27"
     }
   },
   {
@@ -3055,10 +2599,7 @@
     "province":"Anhui China",
     "case":"27",
     "death":"0",
-    "cure":"27",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"27"
     }
   },
   {
@@ -3075,10 +2616,7 @@
     "province":"Anhui China",
     "case":"87",
     "death":"0",
-    "cure":"87",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"87"
     }
   },
   {
@@ -3095,10 +2633,7 @@
     "province":"Anhui China",
     "case":"6",
     "death":"0",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"6"
     }
   },
   {
@@ -3115,10 +2650,7 @@
     "province":"Jiangxi China",
     "case":"76",
     "death":"1",
-    "cure":"75",
-    "remain":"0",
-    "death_rate":"1.315789474",
-    "cure_rate":"98.68421053"
+    "cure":"75"
     }
   },
   {
@@ -3135,10 +2667,7 @@
     "province":"Jiangxi China",
     "case":"72",
     "death":"1",
-    "cure":"71",
-    "remain":"0",
-    "death_rate":"1.388888889",
-    "cure_rate":"98.61111111"
+    "cure":"71"
     }
   },
   {
@@ -3155,10 +2684,7 @@
     "province":"Jiangxi China",
     "case":"123",
     "death":"0",
-    "cure":"123",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"123"
     }
   },
   {
@@ -3175,10 +2701,7 @@
     "province":"Jiangxi China",
     "case":"106",
     "death":"0",
-    "cure":"106",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"106"
     }
   },
   {
@@ -3195,10 +2718,7 @@
     "province":"Jiangxi China",
     "case":"230",
     "death":"0",
-    "cure":"230",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"230"
     }
   },
   {
@@ -3215,10 +2735,7 @@
     "province":"Jiangxi China",
     "case":"33",
     "death":"0",
-    "cure":"33",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"33"
     }
   },
   {
@@ -3235,10 +2752,7 @@
     "province":"Jiangxi China",
     "case":"118",
     "death":"0",
-    "cure":"118",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"118"
     }
   },
   {
@@ -3255,10 +2769,7 @@
     "province":"Jiangxi China",
     "case":"22",
     "death":"0",
-    "cure":"22",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"22"
     }
   },
   {
@@ -3275,10 +2786,7 @@
     "province":"Jiangxi China",
     "case":"130",
     "death":"0",
-    "cure":"130",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"130"
     }
   },
   {
@@ -3295,10 +2803,7 @@
     "province":"Jiangxi China",
     "case":"6",
     "death":"0",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"6"
     }
   },
   {
@@ -3315,10 +2820,7 @@
     "province":"Jiangxi China",
     "case":"18",
     "death":"0",
-    "cure":"18",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"18"
     }
   },
   {
@@ -3335,10 +2837,7 @@
     "province":"Jiangxi China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -3355,10 +2854,7 @@
     "province":"Guangxi China",
     "case":"32",
     "death":"0",
-    "cure":"32",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"32"
     }
   },
   {
@@ -3375,10 +2871,7 @@
     "province":"Guangxi China",
     "case":"44",
     "death":"1",
-    "cure":"42",
-    "remain":"1",
-    "death_rate":"2.272727273",
-    "cure_rate":"95.45454545"
+    "cure":"41"
     }
   },
   {
@@ -3395,10 +2888,7 @@
     "province":"Guangxi China",
     "case":"24",
     "death":"0",
-    "cure":"23",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"95.83333333"
+    "cure":"24"
     }
   },
   {
@@ -3415,10 +2905,7 @@
     "province":"Guangxi China",
     "case":"28",
     "death":"1",
-    "cure":"27",
-    "remain":"0",
-    "death_rate":"3.571428571",
-    "cure_rate":"96.42857143"
+    "cure":"27"
     }
   },
   {
@@ -3435,10 +2922,7 @@
     "province":"Guangxi China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -3455,10 +2939,7 @@
     "province":"Guangxi China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -3475,10 +2956,7 @@
     "province":"Guangxi China",
     "case":"19",
     "death":"0",
-    "cure":"17",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"89.47368421"
+    "cure":"19"
     }
   },
   {
@@ -3495,10 +2973,7 @@
     "province":"Guangxi China",
     "case":"55",
     "death":"0",
-    "cure":"54",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"98.18181818"
+    "cure":"55"
     }
   },
   {
@@ -3515,10 +2990,7 @@
     "province":"Guangxi China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -3535,10 +3007,7 @@
     "province":"Guangxi China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -3555,10 +3024,7 @@
     "province":"Guangxi China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -3575,10 +3041,7 @@
     "province":"Guangxi China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -3595,10 +3058,7 @@
     "province":"Guangxi China",
     "case":"11",
     "death":"0",
-    "cure":"9",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"81.81818182"
+    "cure":"11"
     }
   },
   {
@@ -3615,10 +3075,7 @@
     "province":"Hainan China",
     "case":"54",
     "death":"1",
-    "cure":"53",
-    "remain":"0",
-    "death_rate":"1.851851852",
-    "cure_rate":"98.14814815"
+    "cure":"53"
     }
   },
   {
@@ -3635,10 +3092,7 @@
     "province":"Hainan China",
     "case":"13",
     "death":"0",
-    "cure":"13",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"13"
     }
   },
   {
@@ -3655,10 +3109,7 @@
     "province":"Hainan China",
     "case":"39",
     "death":"0",
-    "cure":"38",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"97.43589744"
+    "cure":"38"
     }
   },
   {
@@ -3675,10 +3126,7 @@
     "province":"Hainan China",
     "case":"15",
     "death":"1",
-    "cure":"13",
-    "remain":"1",
-    "death_rate":"6.666666667",
-    "cure_rate":"86.66666667"
+    "cure":"13"
     }
   },
   {
@@ -3695,10 +3143,7 @@
     "province":"Hainan China",
     "case":"6",
     "death":"0",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"6"
     }
   },
   {
@@ -3715,10 +3160,7 @@
     "province":"Hainan China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -3735,10 +3177,7 @@
     "province":"Hainan China",
     "case":"9",
     "death":"1",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"11.11111111",
-    "cure_rate":"88.88888889"
+    "cure":"8"
     }
   },
   {
@@ -3755,10 +3194,7 @@
     "province":"Hainan China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -3775,10 +3211,7 @@
     "province":"Hainan China",
     "case":"3",
     "death":"1",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"33.33333333",
-    "cure_rate":"66.66666667"
+    "cure":"2"
     }
   },
   {
@@ -3795,10 +3228,7 @@
     "province":"Hainan China",
     "case":"6",
     "death":"1",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"16.66666667",
-    "cure_rate":"83.33333333"
+    "cure":"5"
     }
   },
   {
@@ -3815,10 +3245,7 @@
     "province":"Hainan China",
     "case":"3",
     "death":"1",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"33.33333333",
-    "cure_rate":"66.66666667"
+    "cure":"2"
     }
   },
   {
@@ -3835,10 +3262,7 @@
     "province":"Hainan China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -3855,10 +3279,7 @@
     "province":"Hainan China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -3875,10 +3296,7 @@
     "province":"Hainan China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -3895,10 +3313,7 @@
     "province":"Hainan China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -3915,10 +3330,7 @@
     "province":"Fujian China",
     "case":"72",
     "death":"1",
-    "cure":"71",
-    "remain":"0",
-    "death_rate":"1.388888889",
-    "cure_rate":"98.61111111"
+    "cure":"71"
     }
   },
   {
@@ -3935,10 +3347,7 @@
     "province":"Fujian China",
     "case":"35",
     "death":"0",
-    "cure":"35",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"35"
     }
   },
   {
@@ -3955,10 +3364,7 @@
     "province":"Fujian China",
     "case":"47",
     "death":"0",
-    "cure":"47",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"47"
     }
   },
   {
@@ -3975,10 +3381,7 @@
     "province":"Fujian China",
     "case":"20",
     "death":"0",
-    "cure":"20",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"20"
     }
   },
   {
@@ -3995,10 +3398,7 @@
     "province":"Fujian China",
     "case":"26",
     "death":"0",
-    "cure":"26",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"26"
     }
   },
   {
@@ -4015,10 +3415,7 @@
     "province":"Fujian China",
     "case":"14",
     "death":"0",
-    "cure":"14",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"14"
     }
   },
   {
@@ -4035,10 +3432,7 @@
     "province":"Fujian China",
     "case":"56",
     "death":"0",
-    "cure":"56",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"56"
     }
   },
   {
@@ -4055,10 +3449,7 @@
     "province":"Fujian China",
     "case":"20",
     "death":"0",
-    "cure":"20",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"20"
     }
   },
   {
@@ -4075,10 +3466,7 @@
     "province":"Fujian China",
     "case":"6",
     "death":"0",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"6"
     }
   },
   {
@@ -4095,10 +3483,7 @@
     "province":"Jiangsu China",
     "case":"51",
     "death":"0",
-    "cure":"51",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"51"
     }
   },
   {
@@ -4115,10 +3500,7 @@
     "province":"Jiangsu China",
     "case":"93",
     "death":"0",
-    "cure":"93",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"93"
     }
   },
   {
@@ -4135,10 +3517,7 @@
     "province":"Jiangsu China",
     "case":"87",
     "death":"0",
-    "cure":"87",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"87"
     }
   },
   {
@@ -4155,10 +3534,7 @@
     "province":"Jiangsu China",
     "case":"48",
     "death":"0",
-    "cure":"48",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"48"
     }
   },
   {
@@ -4175,10 +3551,7 @@
     "province":"Jiangsu China",
     "case":"55",
     "death":"0",
-    "cure":"55",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"55"
     }
   },
   {
@@ -4195,10 +3568,7 @@
     "province":"Jiangsu China",
     "case":"40",
     "death":"0",
-    "cure":"40",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"40"
     }
   },
   {
@@ -4215,10 +3585,7 @@
     "province":"Jiangsu China",
     "case":"23",
     "death":"0",
-    "cure":"23",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"23"
     }
   },
   {
@@ -4235,10 +3602,7 @@
     "province":"Jiangsu China",
     "case":"27",
     "death":"0",
-    "cure":"27",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"27"
     }
   },
   {
@@ -4255,10 +3619,7 @@
     "province":"Jiangsu China",
     "case":"13",
     "death":"0",
-    "cure":"13",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"13"
     }
   },
   {
@@ -4275,10 +3636,7 @@
     "province":"Jiangsu China",
     "case":"12",
     "death":"0",
-    "cure":"12",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"12"
     }
   },
   {
@@ -4295,10 +3653,7 @@
     "province":"Jiangsu China",
     "case":"66",
     "death":"0",
-    "cure":"66",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"66"
     }
   },
   {
@@ -4315,10 +3670,7 @@
     "province":"Jiangsu China",
     "case":"37",
     "death":"0",
-    "cure":"37",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"37"
     }
   },
   {
@@ -4335,10 +3687,7 @@
     "province":"Jiangsu China",
     "case":"79",
     "death":"0",
-    "cure":"79",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"79"
     }
   },
   {
@@ -4355,10 +3704,7 @@
     "province":"Liaoning China",
     "case":"28",
     "death":"0",
-    "cure":"26",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"92.85714286"
+    "cure":"26"
     }
   },
   {
@@ -4375,10 +3721,7 @@
     "province":"Liaoning China",
     "case":"19",
     "death":"0",
-    "cure":"18",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"94.73684211"
+    "cure":"19"
     }
   },
   {
@@ -4395,10 +3738,7 @@
     "province":"Liaoning China",
     "case":"6",
     "death":"0",
-    "cure":"5",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"83.33333333"
+    "cure":"5"
     }
   },
   {
@@ -4415,10 +3755,7 @@
     "province":"Liaoning China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -4435,10 +3772,7 @@
     "province":"Liaoning China",
     "case":"12",
     "death":"1",
-    "cure":"9",
-    "remain":"2",
-    "death_rate":"8.333333333",
-    "cure_rate":"75"
+    "cure":"11"
     }
   },
   {
@@ -4455,10 +3789,7 @@
     "province":"Liaoning China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -4475,10 +3806,7 @@
     "province":"Liaoning China",
     "case":"11",
     "death":"0",
-    "cure":"11",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"11"
     }
   },
   {
@@ -4495,10 +3823,7 @@
     "province":"Liaoning China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -4515,10 +3840,7 @@
     "province":"Liaoning China",
     "case":"11",
     "death":"0",
-    "cure":"7",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"63.63636364"
+    "cure":"9"
     }
   },
   {
@@ -4535,10 +3857,7 @@
     "province":"Liaoning China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -4555,10 +3874,7 @@
     "province":"Liaoning China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -4575,10 +3891,7 @@
     "province":"Liaoning China",
     "case":"12",
     "death":"0",
-    "cure":"12",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"12"
     }
   },
   {
@@ -4595,10 +3908,7 @@
     "province":"Liaoning China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -4614,11 +3924,8 @@
     "city":"Xi An",
     "province":"Shaanxi China",
     "case":"120",
-    "death":"2",
-    "cure":"110",
-    "remain":"8",
-    "death_rate":"1.666666667",
-    "cure_rate":"91.66666667"
+    "death":"3",
+    "cure":"110"
     }
   },
   {
@@ -4635,10 +3942,7 @@
     "province":"Shaanxi China",
     "case":"17",
     "death":"0",
-    "cure":"16",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"94.11764706"
+    "cure":"16"
     }
   },
   {
@@ -4655,10 +3959,7 @@
     "province":"Shaanxi China",
     "case":"26",
     "death":"0",
-    "cure":"26",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"26"
     }
   },
   {
@@ -4675,10 +3976,7 @@
     "province":"Shaanxi China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -4695,10 +3993,7 @@
     "province":"Shaanxi China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -4715,10 +4010,7 @@
     "province":"Shaanxi China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -4735,10 +4027,7 @@
     "province":"Shaanxi China",
     "case":"15",
     "death":"0",
-    "cure":"14",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"93.33333333"
+    "cure":"14"
     }
   },
   {
@@ -4755,10 +4044,7 @@
     "province":"Shaanxi China",
     "case":"26",
     "death":"0",
-    "cure":"25",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"96.15384615"
+    "cure":"26"
     }
   },
   {
@@ -4775,10 +4061,7 @@
     "province":"Shaanxi China",
     "case":"13",
     "death":"0",
-    "cure":"13",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"13"
     }
   },
   {
@@ -4795,10 +4078,7 @@
     "province":"Shaanxi China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -4815,10 +4095,7 @@
     "province":"Shaanxi China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -4835,10 +4112,7 @@
     "province":"Shaanxi China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -4855,10 +4129,7 @@
     "province":"Yunnan China",
     "case":"53",
     "death":"0",
-    "cure":"53",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"53"
     }
   },
   {
@@ -4875,10 +4146,7 @@
     "province":"Yunnan China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -4895,10 +4163,7 @@
     "province":"Yunnan China",
     "case":"15",
     "death":"1",
-    "cure":"14",
-    "remain":"0",
-    "death_rate":"6.666666667",
-    "cure_rate":"93.33333333"
+    "cure":"14"
     }
   },
   {
@@ -4915,10 +4180,7 @@
     "province":"Yunnan China",
     "case":"13",
     "death":"0",
-    "cure":"13",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"13"
     }
   },
   {
@@ -4935,10 +4197,7 @@
     "province":"Yunnan China",
     "case":"14",
     "death":"1",
-    "cure":"13",
-    "remain":"0",
-    "death_rate":"7.142857143",
-    "cure_rate":"92.85714286"
+    "cure":"13"
     }
   },
   {
@@ -4955,10 +4214,7 @@
     "province":"Yunnan China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -4975,10 +4231,7 @@
     "province":"Yunnan China",
     "case":"13",
     "death":"0",
-    "cure":"13",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"13"
     }
   },
   {
@@ -4995,10 +4248,7 @@
     "province":"Yunnan China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -5015,10 +4265,7 @@
     "province":"Yunnan China",
     "case":"5",
     "death":"0",
-    "cure":"4",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"80"
+    "cure":"4"
     }
   },
   {
@@ -5035,10 +4282,7 @@
     "province":"Yunnan China",
     "case":"25",
     "death":"0",
-    "cure":"25",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"25"
     }
   },
   {
@@ -5055,10 +4299,7 @@
     "province":"Yunnan China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -5075,10 +4316,7 @@
     "province":"Yunnan China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -5095,10 +4333,7 @@
     "province":"Yunnan China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -5115,10 +4350,7 @@
     "province":"Yunnan China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -5135,10 +4367,7 @@
     "province":"Tianjin China",
     "case":"136",
     "death":"3",
-    "cure":"133",
-    "remain":"0",
-    "death_rate":"2.205882353",
-    "cure_rate":"97.79411765"
+    "cure":"133"
     }
   },
   {
@@ -5155,10 +4384,7 @@
     "province":"Heilongjiang China",
     "case":"198",
     "death":"4",
-    "cure":"188",
-    "remain":"6",
-    "death_rate":"2.02020202",
-    "cure_rate":"94.94949495"
+    "cure":"189"
     }
   },
   {
@@ -5175,10 +4401,7 @@
     "province":"Heilongjiang China",
     "case":"15",
     "death":"0",
-    "cure":"15",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"15"
     }
   },
   {
@@ -5195,10 +4418,7 @@
     "province":"Heilongjiang China",
     "case":"26",
     "death":"1",
-    "cure":"23",
-    "remain":"2",
-    "death_rate":"3.846153846",
-    "cure_rate":"88.46153846"
+    "cure":"23"
     }
   },
   {
@@ -5215,10 +4435,7 @@
     "province":"Heilongjiang China",
     "case":"47",
     "death":"4",
-    "cure":"41",
-    "remain":"2",
-    "death_rate":"8.510638298",
-    "cure_rate":"87.23404255"
+    "cure":"42"
     }
   },
   {
@@ -5235,10 +4452,7 @@
     "province":"Heilongjiang China",
     "case":"43",
     "death":"1",
-    "cure":"40",
-    "remain":"2",
-    "death_rate":"2.325581395",
-    "cure_rate":"93.02325581"
+    "cure":"40"
     }
   },
   {
@@ -5255,10 +4469,7 @@
     "province":"Heilongjiang China",
     "case":"15",
     "death":"0",
-    "cure":"15",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"15"
     }
   },
   {
@@ -5275,10 +4486,7 @@
     "province":"Heilongjiang China",
     "case":"52",
     "death":"3",
-    "cure":"48",
-    "remain":"1",
-    "death_rate":"5.769230769",
-    "cure_rate":"92.30769231"
+    "cure":"48"
     }
   },
   {
@@ -5295,10 +4503,7 @@
     "province":"Heilongjiang China",
     "case":"17",
     "death":"0",
-    "cure":"17",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"17"
     }
   },
   {
@@ -5315,10 +4520,7 @@
     "province":"Heilongjiang China",
     "case":"46",
     "death":"0",
-    "cure":"46",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"46"
     }
   },
   {
@@ -5335,10 +4537,7 @@
     "province":"Heilongjiang China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -5355,10 +4554,7 @@
     "province":"Heilongjiang China",
     "case":"3",
     "death":"0",
-    "cure":"2",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"66.66666667"
+    "cure":"2"
     }
   },
   {
@@ -5375,10 +4571,7 @@
     "province":"Heilongjiang China",
     "case":"14",
     "death":"0",
-    "cure":"13",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"92.85714286"
+    "cure":"13"
     }
   },
   {
@@ -5395,10 +4588,7 @@
     "province":"Shanxi China",
     "case":"37",
     "death":"0",
-    "cure":"37",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"37"
     }
   },
   {
@@ -5415,10 +4605,7 @@
     "province":"Shanxi China",
     "case":"20",
     "death":"0",
-    "cure":"20",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"20"
     }
   },
   {
@@ -5435,10 +4622,7 @@
     "province":"Shanxi China",
     "case":"19",
     "death":"0",
-    "cure":"19",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"19"
     }
   },
   {
@@ -5455,10 +4639,7 @@
     "province":"Shanxi China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -5475,10 +4656,7 @@
     "province":"Shanxi China",
     "case":"12",
     "death":"0",
-    "cure":"12",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"12"
     }
   },
   {
@@ -5495,10 +4673,7 @@
     "province":"Shanxi China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -5515,10 +4690,7 @@
     "province":"Shanxi China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -5535,10 +4707,7 @@
     "province":"Shanxi China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -5555,10 +4724,7 @@
     "province":"Shanxi China",
     "case":"6",
     "death":"0",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"6"
     }
   },
   {
@@ -5575,10 +4741,7 @@
     "province":"Shanxi China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -5595,10 +4758,7 @@
     "province":"Shanxi China",
     "case":"10",
     "death":"0",
-    "cure":"10",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"10"
     }
   },
   {
@@ -5615,10 +4775,7 @@
     "province":"Hebei China",
     "case":"29",
     "death":"0",
-    "cure":"29",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"29"
     }
   },
   {
@@ -5635,10 +4792,7 @@
     "province":"Hebei China",
     "case":"48",
     "death":"3",
-    "cure":"45",
-    "remain":"0",
-    "death_rate":"6.25",
-    "cure_rate":"93.75"
+    "cure":"45"
     }
   },
   {
@@ -5655,10 +4809,7 @@
     "province":"Hebei China",
     "case":"32",
     "death":"0",
-    "cure":"32",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"32"
     }
   },
   {
@@ -5675,10 +4826,7 @@
     "province":"Hebei China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -5695,10 +4843,7 @@
     "province":"Hebei China",
     "case":"30",
     "death":"0",
-    "cure":"30",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"30"
     }
   },
   {
@@ -5715,10 +4860,7 @@
     "province":"Hebei China",
     "case":"23",
     "death":"1",
-    "cure":"22",
-    "remain":"0",
-    "death_rate":"4.347826087",
-    "cure_rate":"95.65217391"
+    "cure":"22"
     }
   },
   {
@@ -5735,10 +4877,7 @@
     "province":"Hebei China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -5755,10 +4894,7 @@
     "province":"Hebei China",
     "case":"58",
     "death":"1",
-    "cure":"55",
-    "remain":"2",
-    "death_rate":"1.724137931",
-    "cure_rate":"94.82758621"
+    "cure":"55"
     }
   },
   {
@@ -5775,10 +4911,7 @@
     "province":"Hebei China",
     "case":"32",
     "death":"0",
-    "cure":"32",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"32"
     }
   },
   {
@@ -5795,10 +4928,7 @@
     "province":"Hebei China",
     "case":"41",
     "death":"0",
-    "cure":"41",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"41"
     }
   },
   {
@@ -5815,10 +4945,7 @@
     "province":"Hebei China",
     "case":"10",
     "death":"1",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"10",
-    "cure_rate":"90"
+    "cure":"9"
     }
   },
   {
@@ -5835,10 +4962,7 @@
     "province":"Inner Mongolia China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -5855,10 +4979,7 @@
     "province":"Inner Mongolia China",
     "case":"11",
     "death":"0",
-    "cure":"11",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"11"
     }
   },
   {
@@ -5875,10 +4996,7 @@
     "province":"Inner Mongolia China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -5895,10 +5013,7 @@
     "province":"Inner Mongolia China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -5915,10 +5030,7 @@
     "province":"Inner Mongolia China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -5935,10 +5047,7 @@
     "province":"Inner Mongolia China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -5955,10 +5064,7 @@
     "province":"Inner Mongolia China",
     "case":"11",
     "death":"0",
-    "cure":"9",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"81.81818182"
+    "cure":"10"
     }
   },
   {
@@ -5975,10 +5081,7 @@
     "province":"Inner Mongolia China",
     "case":"8",
     "death":"1",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"12.5",
-    "cure_rate":"87.5"
+    "cure":"7"
     }
   },
   {
@@ -5995,10 +5098,7 @@
     "province":"Inner Mongolia China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -6015,10 +5115,7 @@
     "province":"Inner Mongolia China",
     "case":"7",
     "death":"0",
-    "cure":"6",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"85.71428571"
+    "cure":"7"
     }
   },
   {
@@ -6035,10 +5132,7 @@
     "province":"Inner Mongolia China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -6053,12 +5147,9 @@
     "province_cn":"中国香港特别行政区",
     "city":"Hong Kong",
     "province":"Hong Kong SAR China",
-    "case":"149",
+    "case":"157",
     "death":"4",
-    "cure":"84",
-    "remain":"61",
-    "death_rate":"2.684563758",
-    "cure_rate":"56.37583893"
+    "cure":"88"
     }
   },
   {
@@ -6075,10 +5166,7 @@
     "province":"Guizhou China",
     "case":"10",
     "death":"0",
-    "cure":"10",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"10"
     }
   },
   {
@@ -6095,10 +5183,7 @@
     "province":"Guizhou China",
     "case":"36",
     "death":"1",
-    "cure":"34",
-    "remain":"1",
-    "death_rate":"2.777777778",
-    "cure_rate":"94.44444444"
+    "cure":"35"
     }
   },
   {
@@ -6115,10 +5200,7 @@
     "province":"Guizhou China",
     "case":"17",
     "death":"0",
-    "cure":"17",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"17"
     }
   },
   {
@@ -6135,10 +5217,7 @@
     "province":"Guizhou China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -6155,10 +5234,7 @@
     "province":"Guizhou China",
     "case":"10",
     "death":"1",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"10",
-    "cure_rate":"90"
+    "cure":"9"
     }
   },
   {
@@ -6175,10 +5251,7 @@
     "province":"Guizhou China",
     "case":"10",
     "death":"0",
-    "cure":"10",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"10"
     }
   },
   {
@@ -6195,10 +5268,7 @@
     "province":"Guizhou China",
     "case":"32",
     "death":"0",
-    "cure":"32",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"32"
     }
   },
   {
@@ -6215,10 +5285,7 @@
     "province":"Guizhou China",
     "case":"23",
     "death":"0",
-    "cure":"23",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"23"
     }
   },
   {
@@ -6235,10 +5302,7 @@
     "province":"Guizhou China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -6255,10 +5319,7 @@
     "province":"Jilin China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -6275,10 +5336,7 @@
     "province":"Jilin China",
     "case":"45",
     "death":"0",
-    "cure":"45",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"45"
     }
   },
   {
@@ -6295,10 +5353,7 @@
     "province":"Jilin China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -6315,10 +5370,7 @@
     "province":"Jilin China",
     "case":"15",
     "death":"1",
-    "cure":"14",
-    "remain":"0",
-    "death_rate":"6.666666667",
-    "cure_rate":"93.33333333"
+    "cure":"14"
     }
   },
   {
@@ -6335,10 +5387,7 @@
     "province":"Jilin China",
     "case":"6",
     "death":"0",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"6"
     }
   },
   {
@@ -6355,10 +5404,7 @@
     "province":"Jilin China",
     "case":"6",
     "death":"0",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"6"
     }
   },
   {
@@ -6375,10 +5421,7 @@
     "province":"Jilin China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -6395,10 +5438,7 @@
     "province":"Jilin China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -6415,10 +5455,7 @@
     "province":"Jilin China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -6435,10 +5472,7 @@
     "province":"Jilin China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -6455,10 +5489,7 @@
     "province":"Gansu China",
     "case":"36",
     "death":"2",
-    "cure":"34",
-    "remain":"0",
-    "death_rate":"5.555555556",
-    "cure_rate":"94.44444444"
+    "cure":"34"
     }
   },
   {
@@ -6475,10 +5506,7 @@
     "province":"Gansu China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -6495,10 +5523,7 @@
     "province":"Gansu China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -6515,10 +5540,7 @@
     "province":"Gansu China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -6535,10 +5557,7 @@
     "province":"Gansu China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -6555,10 +5574,7 @@
     "province":"Gansu China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -6575,10 +5591,7 @@
     "province":"Gansu China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -6595,10 +5608,7 @@
     "province":"Gansu China",
     "case":"12",
     "death":"0",
-    "cure":"12",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"12"
     }
   },
   {
@@ -6615,10 +5625,7 @@
     "province":"Gansu China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -6635,10 +5642,7 @@
     "province":"Gansu China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -6655,10 +5659,7 @@
     "province":"Gansu China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -6675,10 +5676,7 @@
     "province":"Ningxia China",
     "case":"36",
     "death":"0",
-    "cure":"35",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"97.22222222"
+    "cure":"36"
     }
   },
   {
@@ -6695,10 +5693,7 @@
     "province":"Ningxia China",
     "case":"4",
     "death":"0",
-    "cure":"3",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"75"
+    "cure":"4"
     }
   },
   {
@@ -6715,10 +5710,7 @@
     "province":"Ningxia China",
     "case":"5",
     "death":"0",
-    "cure":"5",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"5"
     }
   },
   {
@@ -6735,10 +5727,7 @@
     "province":"Ningxia China",
     "case":"28",
     "death":"0",
-    "cure":"28",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"28"
     }
   },
   {
@@ -6755,10 +5744,7 @@
     "province":"Ningxia China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -6775,10 +5761,7 @@
     "province":"Ningxia China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -6793,12 +5776,9 @@
     "province_cn":"中国 台湾",
     "city":"Taiwan",
     "province":"A Chinese Territory",
-    "case":"59",
+    "case":"67",
     "death":"1",
-    "cure":"20",
-    "remain":"38",
-    "death_rate":"1.694915254",
-    "cure_rate":"33.89830508"
+    "cure":"22"
     }
   },
   {
@@ -6815,10 +5795,7 @@
     "province":"Xinjiang China",
     "case":"23",
     "death":"0",
-    "cure":"23",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"23"
     }
   },
   {
@@ -6835,10 +5812,7 @@
     "province":"Xinjiang China",
     "case":"18",
     "death":"0",
-    "cure":"18",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"18"
     }
   },
   {
@@ -6855,10 +5829,7 @@
     "province":"Xinjiang China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -6875,10 +5846,7 @@
     "province":"Xinjiang China",
     "case":"4",
     "death":"1",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"25",
-    "cure_rate":"75"
+    "cure":"3"
     }
   },
   {
@@ -6895,10 +5863,7 @@
     "province":"Xinjiang China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -6915,10 +5880,7 @@
     "province":"Xinjiang China",
     "case":"4",
     "death":"1",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"25",
-    "cure_rate":"75"
+    "cure":"3"
     }
   },
   {
@@ -6935,10 +5897,7 @@
     "province":"Xinjiang China",
     "case":"10",
     "death":"1",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"10",
-    "cure_rate":"90"
+    "cure":"9"
     }
   },
   {
@@ -6955,10 +5914,7 @@
     "province":"Xinjiang China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -6975,10 +5931,7 @@
     "province":"Xinjiang China",
     "case":"2",
     "death":"0",
-    "cure":"2",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"2"
     }
   },
   {
@@ -6995,10 +5948,7 @@
     "province":"Xinjiang China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -7015,10 +5965,7 @@
     "province":"Xinjiang China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -7035,10 +5982,7 @@
     "province":"Xinjiang China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -7055,10 +5999,7 @@
     "province":"Macau SAR China",
     "case":"11",
     "death":"0",
-    "cure":"10",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"90.90909091"
+    "cure":"10"
     }
   },
   {
@@ -7075,10 +6016,7 @@
     "province":"Qinghai China",
     "case":"15",
     "death":"0",
-    "cure":"15",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"15"
     }
   },
   {
@@ -7095,10 +6033,7 @@
     "province":"Qinghai China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -7115,10 +6050,7 @@
     "province":"Sichuan China",
     "case":"144",
     "death":"3",
-    "cure":"122",
-    "remain":"19",
-    "death_rate":"2.083333333",
-    "cure_rate":"84.72222222"
+    "cure":"126"
     }
   },
   {
@@ -7135,10 +6067,7 @@
     "province":"Sichuan China",
     "case":"22",
     "death":"0",
-    "cure":"22",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"22"
     }
   },
   {
@@ -7155,10 +6084,7 @@
     "province":"Sichuan China",
     "case":"30",
     "death":"0",
-    "cure":"30",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"30"
     }
   },
   {
@@ -7175,10 +6101,7 @@
     "province":"Sichuan China",
     "case":"17",
     "death":"0",
-    "cure":"17",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"17"
     }
   },
   {
@@ -7195,10 +6118,7 @@
     "province":"Sichuan China",
     "case":"24",
     "death":"0",
-    "cure":"24",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"24"
     }
   },
   {
@@ -7215,10 +6135,7 @@
     "province":"Sichuan China",
     "case":"39",
     "death":"0",
-    "cure":"39",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"39"
     }
   },
   {
@@ -7235,10 +6152,7 @@
     "province":"Sichuan China",
     "case":"78",
     "death":"0",
-    "cure":"71",
-    "remain":"7",
-    "death_rate":"0",
-    "cure_rate":"91.02564103"
+    "cure":"71"
     }
   },
   {
@@ -7255,10 +6169,7 @@
     "province":"Sichuan China",
     "case":"18",
     "death":"0",
-    "cure":"18",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"18"
     }
   },
   {
@@ -7275,10 +6186,7 @@
     "province":"Sichuan China",
     "case":"7",
     "death":"0",
-    "cure":"7",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"7"
     }
   },
   {
@@ -7295,10 +6203,7 @@
     "province":"Sichuan China",
     "case":"42",
     "death":"0",
-    "cure":"42",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"42"
     }
   },
   {
@@ -7315,10 +6220,7 @@
     "province":"Sichuan China",
     "case":"9",
     "death":"0",
-    "cure":"9",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"9"
     }
   },
   {
@@ -7335,10 +6237,7 @@
     "province":"Sichuan China",
     "case":"22",
     "death":"0",
-    "cure":"22",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"22"
     }
   },
   {
@@ -7355,10 +6254,7 @@
     "province":"Sichuan China",
     "case":"3",
     "death":"0",
-    "cure":"3",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"3"
     }
   },
   {
@@ -7375,10 +6271,7 @@
     "province":"Sichuan China",
     "case":"8",
     "death":"0",
-    "cure":"8",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"8"
     }
   },
   {
@@ -7395,10 +6288,7 @@
     "province":"Sichuan China",
     "case":"12",
     "death":"0",
-    "cure":"12",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"12"
     }
   },
   {
@@ -7415,10 +6305,7 @@
     "province":"Sichuan China",
     "case":"13",
     "death":"0",
-    "cure":"13",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"13"
     }
   },
   {
@@ -7435,10 +6322,7 @@
     "province":"Sichuan China",
     "case":"4",
     "death":"0",
-    "cure":"4",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"4"
     }
   },
   {
@@ -7455,10 +6339,7 @@
     "province":"Sichuan China",
     "case":"6",
     "death":"0",
-    "cure":"6",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"6"
     }
   },
   {
@@ -7475,10 +6356,7 @@
     "province":"Sichuan China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -7495,10 +6373,7 @@
     "province":"Sichuan China",
     "case":"24",
     "death":"0",
-    "cure":"24",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"24"
     }
   },
   {
@@ -7515,10 +6390,7 @@
     "province":"Sichuan China",
     "case":"16",
     "death":"0",
-    "cure":"16",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"16"
     }
   },
   {
@@ -7535,10 +6407,7 @@
     "province":"Tibet China",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -7553,12 +6422,9 @@
     "province_cn":"阿富汗",
     "city":"",
     "province":"Afghanistan",
-    "case":"16",
+    "case":"21",
     "death":"0",
-    "cure":"0",
-    "remain":"16",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"1"
     }
   },
   {
@@ -7573,12 +6439,9 @@
     "province_cn":"阿尔巴尼亚",
     "city":"",
     "province":"Albania",
-    "case":"42",
+    "case":"51",
     "death":"1",
-    "cure":"0",
-    "remain":"41",
-    "death_rate":"2.380952381",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -7593,12 +6456,9 @@
     "province_cn":"阿尔及利亚",
     "city":"",
     "province":"Algeria",
-    "case":"48",
+    "case":"54",
     "death":"4",
-    "cure":"12",
-    "remain":"32",
-    "death_rate":"8.333333333",
-    "cure_rate":"25"
+    "cure":"12"
     }
   },
   {
@@ -7613,12 +6473,9 @@
     "province_cn":"安道尔",
     "city":"",
     "province":"Andorra",
-    "case":"1",
+    "case":"2",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -7635,10 +6492,7 @@
     "province":"Antigua and Barbuda",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -7653,12 +6507,9 @@
     "province_cn":"阿根廷",
     "city":"",
     "province":"Argentina",
-    "case":"45",
+    "case":"56",
     "death":"2",
-    "cure":"1",
-    "remain":"42",
-    "death_rate":"4.444444444",
-    "cure_rate":"2.222222222"
+    "cure":"1"
     }
   },
   {
@@ -7673,12 +6524,9 @@
     "province_cn":"亚美尼亚",
     "city":"",
     "province":"Armenia",
-    "case":"23",
+    "case":"52",
     "death":"0",
-    "cure":"0",
-    "remain":"23",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -7689,16 +6537,13 @@
     },
     "properties": {
     "FIELD1":385,
-    "city_cn":"",
+    "city_cn":"阿鲁巴",
     "province_cn":"荷兰",
-    "city":"",
-    "province":"Aruba",
+    "city":"Aruba",
+    "province":"Netherlands",
     "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -7713,32 +6558,9 @@
     "province_cn":"澳大利亚",
     "city":"New South Wales",
     "province":"Australia",
-    "case":"134",
+    "case":"171",
     "death":"2",
-    "cure":"4",
-    "remain":"128",
-    "death_rate":"1.492537313",
-    "cure_rate":"2.985074627"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 153.4,-28.0167 ]
-    },
-    "properties": {
-    "FIELD1":387,
-    "city_cn":"维多利亚州",
-    "province_cn":"澳大利亚",
-    "city":"Queensland",
-    "province":"Australia",
-    "case":"61",
-    "death":"0",
-    "cure":"8",
-    "remain":"53",
-    "death_rate":"0",
-    "cure_rate":"13.1147541"
+    "cure":"4"
     }
   },
   {
@@ -7748,17 +6570,31 @@
        "coordinates":  [ 144.9631,-37.8136 ]
     },
     "properties": {
-    "FIELD1":388,
-    "city_cn":"昆士兰州",
+    "FIELD1":387,
+    "city_cn":"维多利亚州",
     "province_cn":"澳大利亚",
     "city":"Victoria",
     "province":"Australia",
-    "case":"57",
+    "case":"71",
     "death":"0",
-    "cure":"8",
-    "remain":"49",
-    "death_rate":"0",
-    "cure_rate":"14.03508772"
+    "cure":"8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.4,-28.0167 ]
+    },
+    "properties": {
+    "FIELD1":388,
+    "city_cn":"昆士兰州",
+    "province_cn":"澳大利亚",
+    "city":"Queensland",
+    "province":"Australia",
+    "case":"68",
+    "death":"0",
+    "cure":"8"
     }
   },
   {
@@ -7773,12 +6609,9 @@
     "province_cn":"澳大利亚",
     "city":"South Australia",
     "province":"Australia",
-    "case":"20",
+    "case":"29",
     "death":"0",
-    "cure":"3",
-    "remain":"17",
-    "death_rate":"0",
-    "cure_rate":"15"
+    "cure":"3"
     }
   },
   {
@@ -7793,12 +6626,9 @@
     "province_cn":"澳大利亚",
     "city":"Western Australia",
     "province":"Australia",
-    "case":"17",
+    "case":"28",
     "death":"1",
-    "cure":"0",
-    "remain":"16",
-    "death_rate":"5.882352941",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -7813,12 +6643,9 @@
     "province_cn":"澳大利亚",
     "city":"Tasmania",
     "province":"Australia",
-    "case":"6",
+    "case":"7",
     "death":"0",
-    "cure":"0",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -7833,12 +6660,9 @@
     "province_cn":"澳大利亚",
     "city":"Australian Capital Territory",
     "province":"Australia",
-    "case":"1",
+    "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -7855,10 +6679,7 @@
     "province":"Australia",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -7875,10 +6696,7 @@
     "province":"Australia",
     "case":"0",
     "death":"0",
-    "cure":"0",
-    "remain":"0",
-    "death_rate":"#DIV/0!",
-    "cure_rate":"#DIV/0!"
+    "cure":"0"
     }
   },
   {
@@ -7893,12 +6711,9 @@
     "province_cn":"奥地利",
     "city":"",
     "province":"Austria",
-    "case":"800",
-    "death":"1",
-    "cure":"6",
-    "remain":"793",
-    "death_rate":"0.125",
-    "cure_rate":"0.75"
+    "case":"1018",
+    "death":"3",
+    "cure":"6"
     }
   },
   {
@@ -7915,10 +6730,7 @@
     "province":"Azerbaijan",
     "case":"15",
     "death":"1",
-    "cure":"3",
-    "remain":"11",
-    "death_rate":"6.666666667",
-    "cure_rate":"20"
+    "cure":"6"
     }
   },
   {
@@ -7933,12 +6745,9 @@
     "province_cn":"巴林",
     "city":"",
     "province":"Bahrain",
-    "case":"210",
-    "death":"0",
-    "cure":"44",
-    "remain":"166",
-    "death_rate":"0",
-    "cure_rate":"20.95238095"
+    "case":"214",
+    "death":"1",
+    "cure":"77"
     }
   },
   {
@@ -7953,12 +6762,9 @@
     "province_cn":"孟加拉国",
     "city":"",
     "province":"Bangladesh",
-    "case":"5",
+    "case":"8",
     "death":"0",
-    "cure":"0",
-    "remain":"5",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"2"
     }
   },
   {
@@ -7973,12 +6779,9 @@
     "province_cn":"白俄罗斯",
     "city":"",
     "province":"Belarus",
-    "case":"27",
+    "case":"36",
     "death":"0",
-    "cure":"3",
-    "remain":"24",
-    "death_rate":"0",
-    "cure_rate":"11.11111111"
+    "cure":"3"
     }
   },
   {
@@ -7993,12 +6796,26 @@
     "province_cn":"比利时",
     "city":"",
     "province":"Belgium",
-    "case":"886",
-    "death":"4",
-    "cure":"1",
-    "remain":"881",
-    "death_rate":"0.451467269",
-    "cure_rate":"0.112866817"
+    "case":"1058",
+    "death":"5",
+    "cure":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3158,9.3077 ]
+    },
+    "properties": {
+    "FIELD1":401,
+    "city_cn":"",
+    "province_cn":"贝宁",
+    "city":"",
+    "province":"Benin",
+    "case":"1",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -8008,17 +6825,14 @@
        "coordinates":  [ 90.4336,27.5142 ]
     },
     "properties": {
-    "FIELD1":401,
+    "FIELD1":402,
     "city_cn":"",
     "province_cn":"不丹",
     "city":"",
     "province":"Bhutan",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8028,17 +6842,14 @@
        "coordinates":  [ -63.5887,-16.2902 ]
     },
     "properties": {
-    "FIELD1":402,
+    "FIELD1":403,
     "city_cn":"",
     "province_cn":"玻利维亚",
     "city":"",
     "province":"Bolivia",
-    "case":"10",
+    "case":"11",
     "death":"0",
-    "cure":"0",
-    "remain":"10",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8048,17 +6859,14 @@
        "coordinates":  [ 17.6791,43.9159 ]
     },
     "properties": {
-    "FIELD1":403,
+    "FIELD1":404,
     "city_cn":"",
     "province_cn":"波黑",
     "city":"",
     "province":"Bosnia and Herzegovina",
-    "case":"21",
+    "case":"25",
     "death":"0",
-    "cure":"0",
-    "remain":"21",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8068,17 +6876,14 @@
        "coordinates":  [ -51.9253,-14.235 ]
     },
     "properties": {
-    "FIELD1":404,
+    "FIELD1":405,
     "city_cn":"",
     "province_cn":"巴西",
     "city":"",
     "province":"Brazil",
-    "case":"162",
+    "case":"200",
     "death":"0",
-    "cure":"0",
-    "remain":"162",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"1"
     }
   },
   {
@@ -8088,17 +6893,14 @@
        "coordinates":  [ 114.7277,4.5353 ]
     },
     "properties": {
-    "FIELD1":405,
+    "FIELD1":406,
     "city_cn":"",
     "province_cn":"文莱",
     "city":"",
     "province":"Brunei",
-    "case":"50",
+    "case":"54",
     "death":"0",
-    "cure":"0",
-    "remain":"50",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8108,17 +6910,14 @@
        "coordinates":  [ 25.4858,42.7339 ]
     },
     "properties": {
-    "FIELD1":406,
+    "FIELD1":407,
     "city_cn":"",
     "province_cn":"保加利亚",
     "city":"",
     "province":"Bulgaria",
-    "case":"43",
+    "case":"52",
     "death":"2",
-    "cure":"0",
-    "remain":"41",
-    "death_rate":"4.651162791",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8128,17 +6927,14 @@
        "coordinates":  [ -1.5616,12.2383 ]
     },
     "properties": {
-    "FIELD1":407,
+    "FIELD1":408,
     "city_cn":"",
     "province_cn":"布基纳法索",
     "city":"",
     "province":"Burkina Faso",
-    "case":"2",
+    "case":"15",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8148,17 +6944,14 @@
        "coordinates":  [ 104.991,12.5657 ]
     },
     "properties": {
-    "FIELD1":408,
+    "FIELD1":409,
     "city_cn":"",
     "province_cn":"柬埔寨",
     "city":"",
     "province":"Cambodia",
     "case":"7",
     "death":"0",
-    "cure":"1",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"14.28571429"
+    "cure":"1"
     }
   },
   {
@@ -8168,17 +6961,14 @@
        "coordinates":  [ 11.5021,3.848 ]
     },
     "properties": {
-    "FIELD1":409,
+    "FIELD1":410,
     "city_cn":"",
     "province_cn":"喀麦隆",
     "city":"",
     "province":"Cameroon",
-    "case":"2",
+    "case":"4",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8188,17 +6978,14 @@
        "coordinates":  [ -85.3232,51.2538 ]
     },
     "properties": {
-    "FIELD1":410,
+    "FIELD1":411,
     "city_cn":"安大略",
     "province_cn":"加拿大",
     "city":"Ontario",
     "province":"Canada",
-    "case":"104",
+    "case":"177",
     "death":"0",
-    "cure":"4",
-    "remain":"100",
-    "death_rate":"0",
-    "cure_rate":"3.846153846"
+    "cure":"5"
     }
   },
   {
@@ -8208,17 +6995,14 @@
        "coordinates":  [ -127.6476,53.7267 ]
     },
     "properties": {
-    "FIELD1":411,
+    "FIELD1":412,
     "city_cn":"英属哥伦比亚",
     "province_cn":"加拿大",
     "city":"British Columbia",
     "province":"Canada",
-    "case":"73",
-    "death":"1",
-    "cure":"4",
-    "remain":"68",
-    "death_rate":"1.369863014",
-    "cure_rate":"5.479452055"
+    "case":"103",
+    "death":"4",
+    "cure":"4"
     }
   },
   {
@@ -8228,17 +7012,14 @@
        "coordinates":  [ -116.5765,53.9333 ]
     },
     "properties": {
-    "FIELD1":412,
+    "FIELD1":413,
     "city_cn":"艾伯塔",
     "province_cn":"加拿大",
     "city":"Alberta",
     "province":"Canada",
-    "case":"39",
+    "case":"56",
     "death":"0",
-    "cure":"0",
-    "remain":"39",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8248,17 +7029,14 @@
        "coordinates":  [ -73.5491,52.9399 ]
     },
     "properties": {
-    "FIELD1":413,
+    "FIELD1":414,
     "city_cn":"魁北克",
     "province_cn":"加拿大",
     "city":"Quebec",
     "province":"Canada",
-    "case":"24",
+    "case":"50",
     "death":"0",
-    "cure":"0",
-    "remain":"24",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8268,37 +7046,14 @@
        "coordinates":  [ -98.8139,53.7609 ]
     },
     "properties": {
-    "FIELD1":414,
+    "FIELD1":415,
     "city_cn":"马尼托巴",
     "province_cn":"加拿大",
     "city":"Manitoba",
     "province":"Canada",
-    "case":"4",
+    "case":"7",
     "death":"0",
-    "cure":"0",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -66.4619,46.5653 ]
-    },
-    "properties": {
-    "FIELD1":415,
-    "city_cn":"萨斯卡彻万",
-    "province_cn":"加拿大",
-    "city":"New Brunswick",
-    "province":"Canada",
-    "case":"2",
-    "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8309,16 +7064,64 @@
     },
     "properties": {
     "FIELD1":416,
-    "city_cn":"新布拉姆那个是威克",
+    "city_cn":"萨斯卡彻万",
     "province_cn":"加拿大",
     "city":"Saskatchewan",
     "province":"Canada",
+    "case":"7",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.4619,46.5653 ]
+    },
+    "properties": {
+    "FIELD1":417,
+    "city_cn":"新布拉姆那个是威克",
+    "province_cn":"加拿大",
+    "city":"New Brunswick",
+    "province":"Canada",
+    "case":"6",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.7443,44.682 ]
+    },
+    "properties": {
+    "FIELD1":418,
+    "city_cn":"爱德华王子岛",
+    "province_cn":"加拿大",
+    "city":"Nova Scotia",
+    "province":"Canada",
+    "case":"5",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6655,37.6489 ]
+    },
+    "properties": {
+    "FIELD1":419,
+    "city_cn":"纽芬兰和拉布拉多",
+    "province_cn":"加拿大",
+    "city":"Grand Princess",
+    "province":"Canada",
     "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8328,17 +7131,14 @@
        "coordinates":  [ -57.6604,53.1355 ]
     },
     "properties": {
-    "FIELD1":417,
-    "city_cn":"爱德华王子岛",
+    "FIELD1":420,
+    "city_cn":"",
     "province_cn":"加拿大",
     "city":"Newfoundland and Labrador",
     "province":"Canada",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8348,37 +7148,14 @@
        "coordinates":  [ -63.4168,46.5107 ]
     },
     "properties": {
-    "FIELD1":418,
-    "city_cn":"纽芬兰和拉布拉多",
+    "FIELD1":421,
+    "city_cn":"",
     "province_cn":"加拿大",
     "city":"Prince Edward Island",
     "province":"Canada",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.2546,19.3133 ]
-    },
-    "properties": {
-    "FIELD1":419,
-    "city_cn":"开曼群岛",
-    "province_cn":"英国",
-    "city":"",
-    "province":"Cayman Islands",
-    "case":"1",
-    "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8388,17 +7165,14 @@
        "coordinates":  [ 20.9394,6.6111 ]
     },
     "properties": {
-    "FIELD1":420,
+    "FIELD1":422,
     "city_cn":"",
     "province_cn":"中非",
     "city":"",
     "province":"Central African Republic",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8408,17 +7182,14 @@
        "coordinates":  [ -71.543,-35.6751 ]
     },
     "properties": {
-    "FIELD1":421,
+    "FIELD1":423,
     "city_cn":"",
     "province_cn":"智利",
     "city":"",
     "province":"Chile",
-    "case":"61",
+    "case":"155",
     "death":"0",
-    "cure":"0",
-    "remain":"61",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8428,37 +7199,31 @@
        "coordinates":  [ -74.2973,4.5709 ]
     },
     "properties": {
-    "FIELD1":422,
+    "FIELD1":424,
     "city_cn":"",
     "province_cn":"哥伦比亚",
     "city":"",
     "province":"Colombia",
-    "case":"34",
+    "case":"54",
     "death":"0",
-    "cure":"0",
-    "remain":"34",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 21.7587,-4.0383 ]
+       "coordinates":  [ 15.8277,-0.228 ]
     },
     "properties": {
-    "FIELD1":423,
+    "FIELD1":425,
     "city_cn":"",
     "province_cn":"刚果 (布)",
     "city":"",
     "province":"Congo (Brazzaville)",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8468,17 +7233,14 @@
        "coordinates":  [ 21.7587,-4.0383 ]
     },
     "properties": {
-    "FIELD1":424,
+    "FIELD1":426,
     "city_cn":"",
     "province_cn":"刚果 (金)",
     "city":"",
     "province":"Congo (Kinshasa)",
     "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8488,17 +7250,14 @@
        "coordinates":  [ -83.7534,9.7489 ]
     },
     "properties": {
-    "FIELD1":425,
+    "FIELD1":427,
     "city_cn":"",
     "province_cn":"哥斯达黎加",
     "city":"",
     "province":"Costa Rica",
-    "case":"27",
+    "case":"35",
     "death":"0",
-    "cure":"0",
-    "remain":"27",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8508,17 +7267,14 @@
        "coordinates":  [ -5.5471,7.54 ]
     },
     "properties": {
-    "FIELD1":426,
+    "FIELD1":428,
     "city_cn":"",
     "province_cn":"科特迪瓦",
     "city":"",
     "province":"Cote d'Ivoire",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8528,17 +7284,14 @@
        "coordinates":  [ 15.2,45.1 ]
     },
     "properties": {
-    "FIELD1":427,
+    "FIELD1":429,
     "city_cn":"",
     "province_cn":"克罗地亚",
     "city":"",
     "province":"Croatia",
-    "case":"49",
+    "case":"57",
     "death":"0",
-    "cure":"1",
-    "remain":"48",
-    "death_rate":"0",
-    "cure_rate":"2.040816327"
+    "cure":"2"
     }
   },
   {
@@ -8548,17 +7301,14 @@
        "coordinates":  [ 139.6649,35.4498 ]
     },
     "properties": {
-    "FIELD1":428,
-    "city_cn":"钻石公主号撤离",
+    "FIELD1":430,
+    "city_cn":"",
     "province_cn":"钻石公主号",
-    "city":"Diamond Princess",
-    "province":"Cruise Ship",
+    "city":"",
+    "province":"Diamond Princess",
     "case":"696",
     "death":"7",
-    "cure":"325",
-    "remain":"364",
-    "death_rate":"1.005747126",
-    "cure_rate":"46.6954023"
+    "cure":"325"
     }
   },
   {
@@ -8568,37 +7318,14 @@
        "coordinates":  [ -77.7812,21.5218 ]
     },
     "properties": {
-    "FIELD1":429,
+    "FIELD1":431,
     "city_cn":"",
     "province_cn":"古巴",
     "city":"",
     "province":"Cuba",
     "case":"4",
     "death":"0",
-    "cure":"0",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -68.99,12.1696 ]
-    },
-    "properties": {
-    "FIELD1":430,
-    "city_cn":"库拉索",
-    "province_cn":"荷兰",
-    "city":"",
-    "province":"Curacao",
-    "case":"1",
-    "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8608,17 +7335,14 @@
        "coordinates":  [ 33.4299,35.1264 ]
     },
     "properties": {
-    "FIELD1":431,
+    "FIELD1":432,
     "city_cn":"",
     "province_cn":"塞浦路斯",
     "city":"",
     "province":"Cyprus",
-    "case":"26",
+    "case":"33",
     "death":"0",
-    "cure":"0",
-    "remain":"26",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8628,17 +7352,14 @@
        "coordinates":  [ 15.473,49.8175 ]
     },
     "properties": {
-    "FIELD1":432,
+    "FIELD1":433,
     "city_cn":"",
     "province_cn":"捷克",
     "city":"",
     "province":"Czechia",
-    "case":"231",
+    "case":"298",
     "death":"0",
-    "cure":"0",
-    "remain":"231",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"3"
     }
   },
   {
@@ -8648,17 +7369,14 @@
        "coordinates":  [ 9.5018,56.2639 ]
     },
     "properties": {
-    "FIELD1":433,
+    "FIELD1":434,
     "city_cn":"本土",
     "province_cn":"丹麦",
     "city":"Denmark",
     "province":"Denmark",
-    "case":"864",
-    "death":"1",
-    "cure":"1",
-    "remain":"862",
-    "death_rate":"0.115740741",
-    "cure_rate":"0.115740741"
+    "case":"914",
+    "death":"3",
+    "cure":"1"
     }
   },
   {
@@ -8668,17 +7386,14 @@
        "coordinates":  [ -6.9118,61.8926 ]
     },
     "properties": {
-    "FIELD1":434,
+    "FIELD1":435,
     "city_cn":"法罗群岛",
     "province_cn":"丹麦",
     "city":"Faroe Islands",
     "province":"Denmark",
-    "case":"11",
+    "case":"18",
     "death":"0",
-    "cure":"0",
-    "remain":"11",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8688,17 +7403,14 @@
        "coordinates":  [ -70.1627,18.7357 ]
     },
     "properties": {
-    "FIELD1":435,
+    "FIELD1":436,
     "city_cn":"",
     "province_cn":"多米尼加",
     "city":"",
     "province":"Dominican Republic",
     "case":"11",
     "death":"0",
-    "cure":"0",
-    "remain":"11",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8708,17 +7420,14 @@
        "coordinates":  [ -78.1834,-1.8312 ]
     },
     "properties": {
-    "FIELD1":436,
+    "FIELD1":437,
     "city_cn":"",
     "province_cn":"厄瓜多尔",
     "city":"",
     "province":"Ecuador",
-    "case":"28",
+    "case":"37",
     "death":"2",
-    "cure":"0",
-    "remain":"26",
-    "death_rate":"7.142857143",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8728,17 +7437,14 @@
        "coordinates":  [ 30.8025,26.8206 ]
     },
     "properties": {
-    "FIELD1":437,
+    "FIELD1":438,
     "city_cn":"",
     "province_cn":"埃及",
     "city":"",
     "province":"Egypt",
-    "case":"110",
+    "case":"150",
     "death":"2",
-    "cure":"21",
-    "remain":"87",
-    "death_rate":"1.818181818",
-    "cure_rate":"19.09090909"
+    "cure":"27"
     }
   },
   {
@@ -8748,17 +7454,14 @@
        "coordinates":  [ 10,1.5 ]
     },
     "properties": {
-    "FIELD1":438,
+    "FIELD1":439,
     "city_cn":"",
     "province_cn":"赤道几内亚",
     "city":"",
     "province":"Equatorial Guinea",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8768,17 +7471,14 @@
        "coordinates":  [ 25.0136,58.5953 ]
     },
     "properties": {
-    "FIELD1":439,
+    "FIELD1":440,
     "city_cn":"",
     "province_cn":"爱沙尼亚",
     "city":"",
     "province":"Estonia",
-    "case":"135",
+    "case":"205",
     "death":"0",
-    "cure":"0",
-    "remain":"135",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"1"
     }
   },
   {
@@ -8788,17 +7488,14 @@
        "coordinates":  [ 31.4659,-26.5225 ]
     },
     "properties": {
-    "FIELD1":440,
+    "FIELD1":441,
     "city_cn":"",
     "province_cn":"斯威士兰",
     "city":"",
     "province":"Eswatini",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8808,17 +7505,14 @@
        "coordinates":  [ 40.4897,9.145 ]
     },
     "properties": {
-    "FIELD1":441,
+    "FIELD1":442,
     "city_cn":"",
     "province_cn":"埃塞俄比亚",
     "city":"",
     "province":"Ethiopia",
-    "case":"1",
+    "case":"5",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8828,17 +7522,14 @@
        "coordinates":  [ 25.7482,61.9241 ]
     },
     "properties": {
-    "FIELD1":442,
+    "FIELD1":443,
     "city_cn":"",
     "province_cn":"芬兰",
     "city":"",
     "province":"Finland",
-    "case":"243",
+    "case":"277",
     "death":"0",
-    "cure":"1",
-    "remain":"242",
-    "death_rate":"0",
-    "cure_rate":"0.411522634"
+    "cure":"10"
     }
   },
   {
@@ -8848,37 +7539,31 @@
        "coordinates":  [ 2.2137,46.2276 ]
     },
     "properties": {
-    "FIELD1":443,
+    "FIELD1":444,
     "city_cn":"本土",
     "province_cn":"法国",
     "city":"France",
     "province":"France",
-    "case":"4499",
-    "death":"91",
-    "cure":"12",
-    "remain":"4396",
-    "death_rate":"2.022671705",
-    "cure_rate":"0.266725939"
+    "case":"6633",
+    "death":"148",
+    "cure":"12"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -53.1258,3.9339 ]
+       "coordinates":  [ -53,4 ]
     },
     "properties": {
-    "FIELD1":444,
+    "FIELD1":445,
     "city_cn":"法属圭亚那",
     "province_cn":"法国",
     "city":"French Guiana",
     "province":"France",
     "case":"5",
     "death":"0",
-    "cure":"0",
-    "remain":"5",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8888,57 +7573,31 @@
        "coordinates":  [ -149.4068,-17.6797 ]
     },
     "properties": {
-    "FIELD1":445,
+    "FIELD1":446,
     "city_cn":"法属波利尼西亚",
     "province_cn":"法国",
     "city":"French Polynesia",
     "province":"France",
     "case":"3",
     "death":"0",
-    "cure":"0",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -63.0501,18.0708 ]
-    },
-    "properties": {
-    "FIELD1":446,
-    "city_cn":"圣马丁",
-    "province_cn":"法国",
-    "city":"St Martin",
-    "province":"France",
-    "case":"2",
-    "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 45.1662,-12.8275 ]
+       "coordinates":  [ -61.5833,16.25 ]
     },
     "properties": {
     "FIELD1":447,
-    "city_cn":"马约特",
+    "city_cn":"瓜达卢佩",
     "province_cn":"法国",
-    "city":"Mayotte",
+    "city":"Guadeloupe",
     "province":"France",
-    "case":"1",
+    "case":"6",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8950,15 +7609,46 @@
     "properties": {
     "FIELD1":448,
     "city_cn":"圣巴瑟勒米",
-    "province_cn":"加蓬",
+    "province_cn":"法国",
     "city":"Saint Barthelemy",
+    "province":"France",
+    "case":"3",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.0501,18.0708 ]
+    },
+    "properties": {
+    "FIELD1":449,
+    "city_cn":"圣马丁",
+    "province_cn":"法国",
+    "city":"St Martin",
+    "province":"France",
+    "case":"2",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.1383,-12.8431 ]
+    },
+    "properties": {
+    "FIELD1":450,
+    "city_cn":"马约特",
+    "province_cn":"法国",
+    "city":"Mayotte",
     "province":"France",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8968,17 +7658,14 @@
        "coordinates":  [ 11.6094,-0.8037 ]
     },
     "properties": {
-    "FIELD1":449,
+    "FIELD1":451,
     "city_cn":"",
     "province_cn":"加蓬",
     "city":"",
     "province":"Gabon",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -8988,17 +7675,14 @@
        "coordinates":  [ 43.3569,42.3154 ]
     },
     "properties": {
-    "FIELD1":450,
+    "FIELD1":452,
     "city_cn":"",
     "province_cn":"格鲁吉亚",
     "city":"",
     "province":"Georgia",
-    "case":"30",
+    "case":"33",
     "death":"0",
-    "cure":"0",
-    "remain":"30",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"1"
     }
   },
   {
@@ -9008,17 +7692,14 @@
        "coordinates":  [ 10.4515,51.1657 ]
     },
     "properties": {
-    "FIELD1":451,
+    "FIELD1":453,
     "city_cn":"",
     "province_cn":"德国",
     "city":"",
     "province":"Germany",
-    "case":"5426",
-    "death":"11",
-    "cure":"46",
-    "remain":"5369",
-    "death_rate":"0.202727608",
-    "cure_rate":"0.847769996"
+    "case":"7272",
+    "death":"17",
+    "cure":"67"
     }
   },
   {
@@ -9028,17 +7709,14 @@
        "coordinates":  [ -1.0232,7.9465 ]
     },
     "properties": {
-    "FIELD1":452,
+    "FIELD1":454,
     "city_cn":"",
     "province_cn":"加纳",
     "city":"",
     "province":"Ghana",
     "case":"6",
     "death":"0",
-    "cure":"0",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9048,37 +7726,31 @@
        "coordinates":  [ 21.8243,39.0742 ]
     },
     "properties": {
-    "FIELD1":453,
+    "FIELD1":455,
     "city_cn":"",
     "province_cn":"希腊",
     "city":"",
     "province":"Greece",
-    "case":"228",
+    "case":"331",
     "death":"4",
-    "cure":"8",
-    "remain":"216",
-    "death_rate":"1.754385965",
-    "cure_rate":"3.50877193"
+    "cure":"8"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -61.551,16.265 ]
+       "coordinates":  [ -42.6043,71.7069 ]
     },
     "properties": {
-    "FIELD1":454,
-    "city_cn":"瓜达卢佩",
-    "province_cn":"法国",
-    "city":"",
-    "province":"Guadeloupe",
+    "FIELD1":456,
+    "city_cn":"格陵兰岛",
+    "province_cn":"丹麦",
+    "city":"Greenland",
+    "province":"Denmark",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9088,17 +7760,14 @@
        "coordinates":  [ -90.2308,15.7835 ]
     },
     "properties": {
-    "FIELD1":455,
+    "FIELD1":457,
     "city_cn":"",
     "province_cn":"危地马拉",
     "city":"",
     "province":"Guatemala",
-    "case":"1",
-    "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "case":"2",
+    "death":"1",
+    "cure":"0"
     }
   },
   {
@@ -9108,17 +7777,14 @@
        "coordinates":  [ -2.58,49.45 ]
     },
     "properties": {
-    "FIELD1":456,
+    "FIELD1":458,
     "city_cn":"根西岛",
     "province_cn":"英国皇室私人领地",
     "city":"Guernsey",
     "province":"UK",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9128,17 +7794,14 @@
        "coordinates":  [ -9.6966,9.9456 ]
     },
     "properties": {
-    "FIELD1":457,
+    "FIELD1":459,
     "city_cn":"",
     "province_cn":"几内亚",
     "city":"",
     "province":"Guinea",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9148,17 +7811,14 @@
        "coordinates":  [ -58.9302,4.8604 ]
     },
     "properties": {
-    "FIELD1":458,
+    "FIELD1":460,
     "city_cn":"",
     "province_cn":"圭亚那",
     "city":"",
     "province":"Guyana",
     "case":"4",
     "death":"1",
-    "cure":"0",
-    "remain":"3",
-    "death_rate":"25",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9168,17 +7828,14 @@
        "coordinates":  [ 12.4534,41.9029 ]
     },
     "properties": {
-    "FIELD1":459,
+    "FIELD1":461,
     "city_cn":"",
     "province_cn":"梵蒂冈",
     "city":"",
     "province":"Vatican",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9188,17 +7845,14 @@
        "coordinates":  [ -86.2419,15.2 ]
     },
     "properties": {
-    "FIELD1":460,
+    "FIELD1":462,
     "city_cn":"",
     "province_cn":"洪都拉斯",
     "city":"",
     "province":"Honduras",
-    "case":"3",
+    "case":"6",
     "death":"0",
-    "cure":"0",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9208,17 +7862,14 @@
        "coordinates":  [ 19.5033,47.1625 ]
     },
     "properties": {
-    "FIELD1":461,
+    "FIELD1":463,
     "city_cn":"",
     "province_cn":"匈牙利",
     "city":"",
     "province":"Hungary",
-    "case":"32",
+    "case":"39",
     "death":"1",
-    "cure":"1",
-    "remain":"30",
-    "death_rate":"3.125",
-    "cure_rate":"3.125"
+    "cure":"1"
     }
   },
   {
@@ -9228,17 +7879,14 @@
        "coordinates":  [ -19.0208,64.9631 ]
     },
     "properties": {
-    "FIELD1":462,
+    "FIELD1":464,
     "city_cn":"",
     "province_cn":"冰岛",
     "city":"",
     "province":"Iceland",
-    "case":"161",
+    "case":"180",
     "death":"0",
-    "cure":"1",
-    "remain":"160",
-    "death_rate":"0",
-    "cure_rate":"0.621118012"
+    "cure":"0"
     }
   },
   {
@@ -9248,17 +7896,14 @@
        "coordinates":  [ 78.9629,20.5937 ]
     },
     "properties": {
-    "FIELD1":463,
+    "FIELD1":465,
     "city_cn":"",
     "province_cn":"印度",
     "city":"",
     "province":"India",
-    "case":"113",
+    "case":"119",
     "death":"2",
-    "cure":"4",
-    "remain":"107",
-    "death_rate":"1.769911504",
-    "cure_rate":"3.539823009"
+    "cure":"13"
     }
   },
   {
@@ -9268,17 +7913,14 @@
        "coordinates":  [ 113.9213,-0.7893 ]
     },
     "properties": {
-    "FIELD1":464,
+    "FIELD1":466,
     "city_cn":"",
     "province_cn":"印尼",
     "city":"",
     "province":"Indonesia",
-    "case":"117",
+    "case":"134",
     "death":"5",
-    "cure":"8",
-    "remain":"104",
-    "death_rate":"4.273504274",
-    "cure_rate":"6.837606838"
+    "cure":"8"
     }
   },
   {
@@ -9288,17 +7930,14 @@
        "coordinates":  [ 53.688,32.4279 ]
     },
     "properties": {
-    "FIELD1":465,
+    "FIELD1":467,
     "city_cn":"",
     "province_cn":"伊朗",
     "city":"",
     "province":"Iran",
-    "case":"13938",
-    "death":"724",
-    "cure":"4590",
-    "remain":"8624",
-    "death_rate":"5.194432487",
-    "cure_rate":"32.93155402"
+    "case":"14991",
+    "death":"853",
+    "cure":"4590"
     }
   },
   {
@@ -9308,17 +7947,14 @@
        "coordinates":  [ 43.6793,33.2232 ]
     },
     "properties": {
-    "FIELD1":466,
+    "FIELD1":468,
     "city_cn":"",
     "province_cn":"伊拉克",
     "city":"",
     "province":"Iraq",
-    "case":"110",
+    "case":"124",
     "death":"10",
-    "cure":"26",
-    "remain":"74",
-    "death_rate":"9.090909091",
-    "cure_rate":"23.63636364"
+    "cure":"26"
     }
   },
   {
@@ -9328,17 +7964,14 @@
        "coordinates":  [ -7.6921,53.1424 ]
     },
     "properties": {
-    "FIELD1":467,
+    "FIELD1":469,
     "city_cn":"",
     "province_cn":"爱尔兰",
     "city":"",
     "province":"Ireland",
-    "case":"129",
+    "case":"169",
     "death":"2",
-    "cure":"0",
-    "remain":"127",
-    "death_rate":"1.550387597",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9348,17 +7981,14 @@
        "coordinates":  [ 34.8516,31.0461 ]
     },
     "properties": {
-    "FIELD1":468,
+    "FIELD1":470,
     "city_cn":"",
     "province_cn":"以色列",
     "city":"",
     "province":"Israel",
-    "case":"200",
+    "case":"255",
     "death":"0",
-    "cure":"4",
-    "remain":"196",
-    "death_rate":"0",
-    "cure_rate":"2"
+    "cure":"4"
     }
   },
   {
@@ -9368,17 +7998,14 @@
        "coordinates":  [ 12.5674,41.8719 ]
     },
     "properties": {
-    "FIELD1":469,
+    "FIELD1":471,
     "city_cn":"",
     "province_cn":"意大利",
     "city":"",
     "province":"Italy",
-    "case":"21157",
-    "death":"1441",
-    "cure":"1966",
-    "remain":"17750",
-    "death_rate":"6.810984544",
-    "cure_rate":"9.292432765"
+    "case":"27980",
+    "death":"2158",
+    "cure":"2749"
     }
   },
   {
@@ -9388,17 +8015,14 @@
        "coordinates":  [ -77.2975,18.1096 ]
     },
     "properties": {
-    "FIELD1":470,
+    "FIELD1":472,
     "city_cn":"",
     "province_cn":"牙买加",
     "city":"",
     "province":"Jamaica",
-    "case":"8",
+    "case":"10",
     "death":"0",
-    "cure":"0",
-    "remain":"8",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"2"
     }
   },
   {
@@ -9408,17 +8032,14 @@
        "coordinates":  [ 138.2529,36.2048 ]
     },
     "properties": {
-    "FIELD1":471,
+    "FIELD1":473,
     "city_cn":"",
     "province_cn":"日本",
     "city":"",
     "province":"Japan",
-    "case":"773",
-    "death":"22",
-    "cure":"118",
-    "remain":"633",
-    "death_rate":"2.846054334",
-    "cure_rate":"15.26520052"
+    "case":"825",
+    "death":"27",
+    "cure":"144"
     }
   },
   {
@@ -9428,17 +8049,14 @@
        "coordinates":  [ -2.11,49.19 ]
     },
     "properties": {
-    "FIELD1":472,
+    "FIELD1":474,
     "city_cn":"泽西岛",
     "province_cn":"英国皇室私人领地",
     "city":"Jersey",
     "province":"UK",
     "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9448,17 +8066,14 @@
        "coordinates":  [ 36.2384,30.5852 ]
     },
     "properties": {
-    "FIELD1":473,
+    "FIELD1":475,
     "city_cn":"",
     "province_cn":"约旦",
     "city":"",
     "province":"Jordan",
-    "case":"7",
+    "case":"17",
     "death":"0",
-    "cure":"1",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"14.28571429"
+    "cure":"1"
     }
   },
   {
@@ -9468,17 +8083,14 @@
        "coordinates":  [ 66.9237,48.0196 ]
     },
     "properties": {
-    "FIELD1":474,
+    "FIELD1":476,
     "city_cn":"",
     "province_cn":"哈萨克斯坦",
     "city":"",
     "province":"Kazakhstan",
-    "case":"8",
+    "case":"10",
     "death":"0",
-    "cure":"0",
-    "remain":"8",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9488,17 +8100,14 @@
        "coordinates":  [ 37.9062,-0.0236 ]
     },
     "properties": {
-    "FIELD1":475,
+    "FIELD1":477,
     "city_cn":"",
     "province_cn":"肯尼亚",
     "city":"",
     "province":"Kenya",
-    "case":"1",
+    "case":"3",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9508,17 +8117,14 @@
        "coordinates":  [ 127.7669,35.9078 ]
     },
     "properties": {
-    "FIELD1":476,
+    "FIELD1":478,
     "city_cn":"",
     "province_cn":"韩国",
     "city":"",
     "province":"South Korea",
-    "case":"8162",
+    "case":"8236",
     "death":"75",
-    "cure":"510",
-    "remain":"7577",
-    "death_rate":"0.918892428",
-    "cure_rate":"6.248468513"
+    "cure":"1137"
     }
   },
   {
@@ -9528,17 +8134,14 @@
        "coordinates":  [ 20.903,42.6026 ]
     },
     "properties": {
-    "FIELD1":477,
+    "FIELD1":479,
     "city_cn":"",
     "province_cn":"科索沃地区",
     "city":"",
     "province":"Kosovo",
     "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9548,17 +8151,14 @@
        "coordinates":  [ 47.4818,29.3117 ]
     },
     "properties": {
-    "FIELD1":478,
+    "FIELD1":480,
     "city_cn":"",
     "province_cn":"科威特",
     "city":"",
     "province":"Kuwait",
-    "case":"112",
+    "case":"123",
     "death":"0",
-    "cure":"5",
-    "remain":"107",
-    "death_rate":"0",
-    "cure_rate":"4.464285714"
+    "cure":"9"
     }
   },
   {
@@ -9568,17 +8168,14 @@
        "coordinates":  [ 24.6032,56.8796 ]
     },
     "properties": {
-    "FIELD1":479,
+    "FIELD1":481,
     "city_cn":"",
     "province_cn":"拉脱维亚",
     "city":"",
     "province":"Latvia",
-    "case":"30",
+    "case":"34",
     "death":"0",
-    "cure":"1",
-    "remain":"29",
-    "death_rate":"0",
-    "cure_rate":"3.333333333"
+    "cure":"1"
     }
   },
   {
@@ -9588,17 +8185,31 @@
        "coordinates":  [ 35.8623,33.8547 ]
     },
     "properties": {
-    "FIELD1":480,
+    "FIELD1":482,
     "city_cn":"",
     "province_cn":"黎巴嫩",
     "city":"",
     "province":"Lebanon",
-    "case":"110",
+    "case":"99",
     "death":"3",
-    "cure":"1",
-    "remain":"106",
-    "death_rate":"2.727272727",
-    "cure_rate":"0.909090909"
+    "cure":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4295,6.4281 ]
+    },
+    "properties": {
+    "FIELD1":483,
+    "city_cn":"",
+    "province_cn":"利比里亚",
+    "city":"",
+    "province":"Liberia",
+    "case":"1",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -9608,17 +8219,14 @@
        "coordinates":  [ 9.5554,47.166 ]
     },
     "properties": {
-    "FIELD1":481,
+    "FIELD1":484,
     "city_cn":"",
     "province_cn":"列支敦士登",
     "city":"",
     "province":"Liechtenstein",
     "case":"4",
     "death":"0",
-    "cure":"0",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9628,17 +8236,14 @@
        "coordinates":  [ 23.8813,55.1694 ]
     },
     "properties": {
-    "FIELD1":482,
+    "FIELD1":485,
     "city_cn":"",
     "province_cn":"立陶宛",
     "city":"",
     "province":"Lithuania",
-    "case":"12",
+    "case":"17",
     "death":"0",
-    "cure":"1",
-    "remain":"11",
-    "death_rate":"0",
-    "cure_rate":"8.333333333"
+    "cure":"1"
     }
   },
   {
@@ -9648,17 +8253,14 @@
        "coordinates":  [ 6.1296,49.8153 ]
     },
     "properties": {
-    "FIELD1":483,
+    "FIELD1":486,
     "city_cn":"",
     "province_cn":"卢森堡",
     "city":"",
     "province":"Luxembourg",
-    "case":"59",
+    "case":"77",
     "death":"1",
-    "cure":"0",
-    "remain":"58",
-    "death_rate":"1.694915254",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9668,17 +8270,14 @@
        "coordinates":  [ 101.9758,4.2105 ]
     },
     "properties": {
-    "FIELD1":484,
+    "FIELD1":487,
     "city_cn":"",
     "province_cn":"马来西亚",
     "city":"",
     "province":"Malaysia",
-    "case":"428",
+    "case":"566",
     "death":"0",
-    "cure":"42",
-    "remain":"386",
-    "death_rate":"0",
-    "cure_rate":"9.813084112"
+    "cure":"42"
     }
   },
   {
@@ -9688,17 +8287,14 @@
        "coordinates":  [ 73.2207,3.2028 ]
     },
     "properties": {
-    "FIELD1":485,
+    "FIELD1":488,
     "city_cn":"",
     "province_cn":"马尔代夫",
     "city":"",
     "province":"Maldives",
     "case":"13",
     "death":"0",
-    "cure":"0",
-    "remain":"13",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9708,17 +8304,14 @@
        "coordinates":  [ 14.3754,35.9375 ]
     },
     "properties": {
-    "FIELD1":486,
+    "FIELD1":489,
     "city_cn":"",
     "province_cn":"马耳他",
     "city":"",
     "province":"Malta",
-    "case":"21",
+    "case":"30",
     "death":"0",
-    "cure":"1",
-    "remain":"20",
-    "death_rate":"0",
-    "cure_rate":"4.761904762"
+    "cure":"2"
     }
   },
   {
@@ -9728,17 +8321,14 @@
        "coordinates":  [ -61.0242,14.6415 ]
     },
     "properties": {
-    "FIELD1":487,
+    "FIELD1":490,
     "city_cn":"马丁尼克",
     "province_cn":"法国",
-    "city":"",
-    "province":"Martinique",
-    "case":"9",
-    "death":"0",
-    "cure":"0",
-    "remain":"9",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "city":"Martinique",
+    "province":"France",
+    "case":"15",
+    "death":"1",
+    "cure":"0"
     }
   },
   {
@@ -9748,17 +8338,14 @@
        "coordinates":  [ -10.9408,21.0079 ]
     },
     "properties": {
-    "FIELD1":488,
+    "FIELD1":491,
     "city_cn":"",
     "province_cn":"毛里塔尼亚",
     "city":"",
     "province":"Mauritania",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9768,17 +8355,14 @@
        "coordinates":  [ -102.5528,23.6345 ]
     },
     "properties": {
-    "FIELD1":489,
+    "FIELD1":492,
     "city_cn":"",
     "province_cn":"墨西哥",
     "city":"",
     "province":"Mexico",
-    "case":"41",
+    "case":"53",
     "death":"0",
-    "cure":"4",
-    "remain":"37",
-    "death_rate":"0",
-    "cure_rate":"9.756097561"
+    "cure":"4"
     }
   },
   {
@@ -9788,17 +8372,14 @@
        "coordinates":  [ 28.3699,47.4116 ]
     },
     "properties": {
-    "FIELD1":490,
+    "FIELD1":493,
     "city_cn":"",
     "province_cn":"摩尔多瓦",
     "city":"",
     "province":"Moldova",
-    "case":"12",
+    "case":"23",
     "death":"0",
-    "cure":"0",
-    "remain":"12",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9808,17 +8389,14 @@
        "coordinates":  [ 7.4246,43.7384 ]
     },
     "properties": {
-    "FIELD1":491,
+    "FIELD1":494,
     "city_cn":"",
     "province_cn":"摩纳哥",
     "city":"",
     "province":"Monaco",
-    "case":"2",
+    "case":"7",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9828,17 +8406,14 @@
        "coordinates":  [ 103.8467,46.8625 ]
     },
     "properties": {
-    "FIELD1":492,
+    "FIELD1":495,
     "city_cn":"",
     "province_cn":"蒙古国",
     "city":"",
     "province":"Mongolia",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9848,17 +8423,14 @@
        "coordinates":  [ -7.0926,31.7917 ]
     },
     "properties": {
-    "FIELD1":493,
+    "FIELD1":496,
     "city_cn":"",
     "province_cn":"摩洛哥",
     "city":"",
     "province":"Morocco",
-    "case":"28",
+    "case":"29",
     "death":"1",
-    "cure":"1",
-    "remain":"26",
-    "death_rate":"3.571428571",
-    "cure_rate":"3.571428571"
+    "cure":"1"
     }
   },
   {
@@ -9868,17 +8440,14 @@
        "coordinates":  [ 18.4904,-22.9576 ]
     },
     "properties": {
-    "FIELD1":494,
+    "FIELD1":497,
     "city_cn":"",
     "province_cn":"纳米比亚",
     "city":"",
     "province":"Namibia",
     "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9888,17 +8457,14 @@
        "coordinates":  [ 84.124,28.3949 ]
     },
     "properties": {
-    "FIELD1":495,
+    "FIELD1":498,
     "city_cn":"",
     "province_cn":"尼泊尔",
     "city":"",
     "province":"Nepal",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -9908,17 +8474,31 @@
        "coordinates":  [ 5.2913,52.1326 ]
     },
     "properties": {
-    "FIELD1":496,
-    "city_cn":"",
+    "FIELD1":499,
+    "city_cn":"本土",
     "province_cn":"荷兰",
     "city":"",
     "province":"Netherlands",
-    "case":"1135",
-    "death":"20",
-    "cure":"2",
-    "remain":"1113",
-    "death_rate":"1.762114537",
-    "cure_rate":"0.176211454"
+    "case":"1413",
+    "death":"24",
+    "cure":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.99,12.1696 ]
+    },
+    "properties": {
+    "FIELD1":500,
+    "city_cn":"库拉索",
+    "province_cn":"荷兰",
+    "city":"Curacao",
+    "province":"Netherlands",
+    "case":"1",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -9928,17 +8508,14 @@
        "coordinates":  [ 174.886,-40.9006 ]
     },
     "properties": {
-    "FIELD1":497,
+    "FIELD1":501,
     "city_cn":"",
     "province_cn":"新西兰",
     "city":"",
     "province":"New Zealand",
     "case":"8",
     "death":"0",
-    "cure":"0",
-    "remain":"8",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9948,17 +8525,14 @@
        "coordinates":  [ 8.6753,9.082 ]
     },
     "properties": {
-    "FIELD1":498,
+    "FIELD1":502,
     "city_cn":"",
     "province_cn":"尼日利亚",
     "city":"",
     "province":"Nigeria",
     "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -9968,17 +8542,14 @@
        "coordinates":  [ 21.7453,41.6086 ]
     },
     "properties": {
-    "FIELD1":499,
+    "FIELD1":503,
     "city_cn":"",
     "province_cn":"北马其顿",
     "city":"",
     "province":"North Macedonia",
-    "case":"14",
+    "case":"18",
     "death":"0",
-    "cure":"1",
-    "remain":"13",
-    "death_rate":"0",
-    "cure_rate":"7.142857143"
+    "cure":"1"
     }
   },
   {
@@ -9988,17 +8559,14 @@
        "coordinates":  [ 8.4689,60.472 ]
     },
     "properties": {
-    "FIELD1":500,
+    "FIELD1":504,
     "city_cn":"",
     "province_cn":"挪威",
     "city":"",
     "province":"Norway",
-    "case":"1207",
+    "case":"1333",
     "death":"3",
-    "cure":"1",
-    "remain":"1203",
-    "death_rate":"0.248550124",
-    "cure_rate":"0.082850041"
+    "cure":"1"
     }
   },
   {
@@ -10008,17 +8576,14 @@
        "coordinates":  [ 35.2332,31.9522 ]
     },
     "properties": {
-    "FIELD1":501,
+    "FIELD1":505,
     "city_cn":"",
     "province_cn":"巴勒斯坦",
     "city":"",
     "province":"Palestine",
     "case":"0",
     "death":"0",
-    "cure":"0",
-    "remain":"0",
-    "death_rate":"#DIV/0!",
-    "cure_rate":"#DIV/0!"
+    "cure":"0"
     }
   },
   {
@@ -10028,17 +8593,14 @@
        "coordinates":  [ 55.9754,21.4735 ]
     },
     "properties": {
-    "FIELD1":502,
+    "FIELD1":506,
     "city_cn":"",
     "province_cn":"阿曼",
     "city":"",
     "province":"Oman",
-    "case":"20",
+    "case":"22",
     "death":"0",
-    "cure":"9",
-    "remain":"11",
-    "death_rate":"0",
-    "cure_rate":"45"
+    "cure":"9"
     }
   },
   {
@@ -10048,17 +8610,14 @@
        "coordinates":  [ 69.3451,30.3753 ]
     },
     "properties": {
-    "FIELD1":503,
+    "FIELD1":507,
     "city_cn":"",
     "province_cn":"巴基斯坦",
     "city":"",
     "province":"Pakistan",
-    "case":"53",
+    "case":"136",
     "death":"0",
-    "cure":"2",
-    "remain":"51",
-    "death_rate":"0",
-    "cure_rate":"3.773584906"
+    "cure":"2"
     }
   },
   {
@@ -10068,17 +8627,14 @@
        "coordinates":  [ -80.7821,8.538 ]
     },
     "properties": {
-    "FIELD1":504,
+    "FIELD1":508,
     "city_cn":"",
     "province_cn":"巴拿马",
     "city":"",
     "province":"Panama",
-    "case":"43",
+    "case":"55",
     "death":"1",
-    "cure":"0",
-    "remain":"42",
-    "death_rate":"2.325581395",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10088,17 +8644,14 @@
        "coordinates":  [ -58.4438,-23.4425 ]
     },
     "properties": {
-    "FIELD1":505,
+    "FIELD1":509,
     "city_cn":"",
     "province_cn":"巴拉圭",
     "city":"",
     "province":"Paraguay",
-    "case":"6",
+    "case":"8",
     "death":"0",
-    "cure":"0",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10108,17 +8661,14 @@
        "coordinates":  [ -75.0152,-9.19 ]
     },
     "properties": {
-    "FIELD1":506,
+    "FIELD1":510,
     "city_cn":"",
     "province_cn":"秘鲁",
     "city":"",
     "province":"Peru",
-    "case":"43",
+    "case":"86",
     "death":"0",
-    "cure":"0",
-    "remain":"43",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10128,17 +8678,14 @@
        "coordinates":  [ 121.774,12.8797 ]
     },
     "properties": {
-    "FIELD1":507,
+    "FIELD1":511,
     "city_cn":"",
     "province_cn":"菲律宾",
     "city":"",
     "province":"Philippines",
-    "case":"140",
-    "death":"11",
-    "cure":"2",
-    "remain":"127",
-    "death_rate":"7.857142857",
-    "cure_rate":"1.428571429"
+    "case":"142",
+    "death":"12",
+    "cure":"2"
     }
   },
   {
@@ -10148,17 +8695,14 @@
        "coordinates":  [ 19.1451,51.9194 ]
     },
     "properties": {
-    "FIELD1":508,
+    "FIELD1":512,
     "city_cn":"",
     "province_cn":"波兰",
     "city":"",
     "province":"Poland",
-    "case":"119",
-    "death":"3",
-    "cure":"0",
-    "remain":"116",
-    "death_rate":"2.521008403",
-    "cure_rate":"0"
+    "case":"177",
+    "death":"4",
+    "cure":"13"
     }
   },
   {
@@ -10168,17 +8712,14 @@
        "coordinates":  [ -8.2245,39.3999 ]
     },
     "properties": {
-    "FIELD1":509,
+    "FIELD1":513,
     "city_cn":"",
     "province_cn":"葡萄牙",
     "city":"",
     "province":"Portugal",
-    "case":"245",
+    "case":"331",
     "death":"0",
-    "cure":"2",
-    "remain":"243",
-    "death_rate":"0",
-    "cure_rate":"0.816326531"
+    "cure":"3"
     }
   },
   {
@@ -10188,17 +8729,14 @@
        "coordinates":  [ 51.1839,25.3548 ]
     },
     "properties": {
-    "FIELD1":510,
+    "FIELD1":514,
     "city_cn":"",
     "province_cn":"卡塔尔",
     "city":"",
     "province":"Qatar",
-    "case":"337",
+    "case":"439",
     "death":"0",
-    "cure":"4",
-    "remain":"333",
-    "death_rate":"0",
-    "cure_rate":"1.18694362"
+    "cure":"4"
     }
   },
   {
@@ -10208,17 +8746,14 @@
        "coordinates":  [ 55.5364,-21.1151 ]
     },
     "properties": {
-    "FIELD1":511,
+    "FIELD1":515,
     "city_cn":"",
     "province_cn":"留尼汪",
     "city":"",
     "province":"Reunion",
-    "case":"7",
+    "case":"9",
     "death":"0",
-    "cure":"0",
-    "remain":"7",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10228,17 +8763,14 @@
        "coordinates":  [ 24.9668,45.9432 ]
     },
     "properties": {
-    "FIELD1":512,
+    "FIELD1":516,
     "city_cn":"",
     "province_cn":"罗马尼亚",
     "city":"",
     "province":"Romania",
-    "case":"131",
+    "case":"158",
     "death":"0",
-    "cure":"9",
-    "remain":"122",
-    "death_rate":"0",
-    "cure_rate":"6.870229008"
+    "cure":"9"
     }
   },
   {
@@ -10248,17 +8780,14 @@
        "coordinates":  [ 105.3188,61.524 ]
     },
     "properties": {
-    "FIELD1":513,
+    "FIELD1":517,
     "city_cn":"",
     "province_cn":"俄罗斯",
     "city":"",
     "province":"Russia",
-    "case":"63",
+    "case":"90",
     "death":"0",
-    "cure":"8",
-    "remain":"55",
-    "death_rate":"0",
-    "cure_rate":"12.6984127"
+    "cure":"8"
     }
   },
   {
@@ -10268,17 +8797,14 @@
        "coordinates":  [ 29.8739,-1.9403 ]
     },
     "properties": {
-    "FIELD1":514,
+    "FIELD1":518,
     "city_cn":"",
     "province_cn":"卢旺达",
     "city":"",
     "province":"Rwanda",
-    "case":"1",
+    "case":"5",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10288,17 +8814,14 @@
        "coordinates":  [ -60.9789,13.9094 ]
     },
     "properties": {
-    "FIELD1":515,
+    "FIELD1":519,
     "city_cn":"",
     "province_cn":"圣卢西亚",
     "city":"",
     "province":"Saint Lucia",
-    "case":"1",
+    "case":"2",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10308,17 +8831,14 @@
        "coordinates":  [ -61.2872,12.9843 ]
     },
     "properties": {
-    "FIELD1":516,
+    "FIELD1":520,
     "city_cn":"",
     "province_cn":"圣文森特和格林纳丁斯",
     "city":"",
     "province":"Saint Vincent and the Grenadines",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10328,17 +8848,14 @@
        "coordinates":  [ 12.4578,43.9424 ]
     },
     "properties": {
-    "FIELD1":517,
+    "FIELD1":521,
     "city_cn":"",
     "province_cn":"圣马力诺",
     "city":"",
     "province":"San Marino",
-    "case":"92",
-    "death":"5",
-    "cure":"4",
-    "remain":"83",
-    "death_rate":"5.434782609",
-    "cure_rate":"4.347826087"
+    "case":"109",
+    "death":"7",
+    "cure":"4"
     }
   },
   {
@@ -10348,17 +8865,14 @@
        "coordinates":  [ 45.0792,23.8859 ]
     },
     "properties": {
-    "FIELD1":518,
+    "FIELD1":522,
     "city_cn":"",
     "province_cn":"沙特",
     "city":"",
     "province":"Saudi Arabia",
-    "case":"103",
+    "case":"118",
     "death":"0",
-    "cure":"1",
-    "remain":"102",
-    "death_rate":"0",
-    "cure_rate":"0.970873786"
+    "cure":"2"
     }
   },
   {
@@ -10368,17 +8882,14 @@
        "coordinates":  [ -14.4524,14.4974 ]
     },
     "properties": {
-    "FIELD1":519,
+    "FIELD1":523,
     "city_cn":"",
     "province_cn":"塞内加尔",
     "city":"",
     "province":"Senegal",
-    "case":"10",
+    "case":"24",
     "death":"0",
-    "cure":"1",
-    "remain":"9",
-    "death_rate":"0",
-    "cure_rate":"10"
+    "cure":"2"
     }
   },
   {
@@ -10388,17 +8899,14 @@
        "coordinates":  [ 21.0059,44.0165 ]
     },
     "properties": {
-    "FIELD1":520,
+    "FIELD1":524,
     "city_cn":"",
     "province_cn":"塞尔维亚",
     "city":"",
     "province":"Serbia",
-    "case":"46",
+    "case":"55",
     "death":"0",
-    "cure":"0",
-    "remain":"46",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"1"
     }
   },
   {
@@ -10408,17 +8916,14 @@
        "coordinates":  [ 55.492,-4.6796 ]
     },
     "properties": {
-    "FIELD1":521,
+    "FIELD1":525,
     "city_cn":"",
     "province_cn":"塞舌尔",
     "city":"",
     "province":"Seychelles",
-    "case":"2",
+    "case":"3",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10428,17 +8933,14 @@
        "coordinates":  [ 103.8198,1.3521 ]
     },
     "properties": {
-    "FIELD1":522,
+    "FIELD1":526,
     "city_cn":"",
     "province_cn":"新加坡",
     "city":"",
     "province":"Singapore",
-    "case":"226",
+    "case":"243",
     "death":"0",
-    "cure":"105",
-    "remain":"121",
-    "death_rate":"0",
-    "cure_rate":"46.46017699"
+    "cure":"109"
     }
   },
   {
@@ -10448,17 +8950,14 @@
        "coordinates":  [ 19.699,48.669 ]
     },
     "properties": {
-    "FIELD1":523,
+    "FIELD1":527,
     "city_cn":"",
     "province_cn":"斯洛伐克",
     "city":"",
     "province":"Slovakia",
-    "case":"54",
+    "case":"63",
     "death":"0",
-    "cure":"0",
-    "remain":"54",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10468,17 +8967,31 @@
        "coordinates":  [ 14.9955,46.1512 ]
     },
     "properties": {
-    "FIELD1":524,
+    "FIELD1":528,
     "city_cn":"",
     "province_cn":"斯洛文尼亚",
     "city":"",
     "province":"Slovenia",
-    "case":"219",
+    "case":"253",
     "death":"1",
-    "cure":"0",
-    "remain":"218",
-    "death_rate":"0.456621005",
-    "cure_rate":"0"
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.1996,5.1521 ]
+    },
+    "properties": {
+    "FIELD1":529,
+    "city_cn":"",
+    "province_cn":"索马里",
+    "city":"",
+    "province":"Somalia",
+    "case":"1",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -10488,17 +9001,14 @@
        "coordinates":  [ 22.9375,-30.5595 ]
     },
     "properties": {
-    "FIELD1":525,
+    "FIELD1":530,
     "city_cn":"",
     "province_cn":"南非",
     "city":"",
     "province":"South Africa",
-    "case":"51",
+    "case":"62",
     "death":"0",
-    "cure":"0",
-    "remain":"51",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10508,17 +9018,14 @@
        "coordinates":  [ -3.7492,40.4637 ]
     },
     "properties": {
-    "FIELD1":526,
+    "FIELD1":531,
     "city_cn":"",
     "province_cn":"西班牙",
     "city":"",
     "province":"Spain",
-    "case":"7798",
-    "death":"289",
-    "cure":"517",
-    "remain":"6992",
-    "death_rate":"3.706078482",
-    "cure_rate":"6.629905104"
+    "case":"9942",
+    "death":"342",
+    "cure":"530"
     }
   },
   {
@@ -10528,17 +9035,14 @@
        "coordinates":  [ 80.7718,7.8731 ]
     },
     "properties": {
-    "FIELD1":527,
+    "FIELD1":532,
     "city_cn":"",
     "province_cn":"斯里兰卡",
     "city":"",
     "province":"Sri Lanka",
-    "case":"11",
+    "case":"28",
     "death":"0",
-    "cure":"1",
-    "remain":"10",
-    "death_rate":"0",
-    "cure_rate":"9.090909091"
+    "cure":"1"
     }
   },
   {
@@ -10548,17 +9052,14 @@
        "coordinates":  [ 30.2176,12.8628 ]
     },
     "properties": {
-    "FIELD1":528,
+    "FIELD1":533,
     "city_cn":"",
     "province_cn":"苏丹",
     "city":"",
     "province":"Sudan",
     "case":"1",
     "death":"1",
-    "cure":"0",
-    "remain":"0",
-    "death_rate":"100",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10568,17 +9069,14 @@
        "coordinates":  [ -56.0278,3.9193 ]
     },
     "properties": {
-    "FIELD1":529,
+    "FIELD1":534,
     "city_cn":"",
     "province_cn":"苏里南",
     "city":"",
     "province":"Suriname",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10588,17 +9086,14 @@
        "coordinates":  [ 18.6435,60.1282 ]
     },
     "properties": {
-    "FIELD1":530,
+    "FIELD1":535,
     "city_cn":"",
     "province_cn":"瑞典",
     "city":"",
     "province":"Sweden",
-    "case":"1022",
-    "death":"3",
-    "cure":"1",
-    "remain":"1018",
-    "death_rate":"0.293542074",
-    "cure_rate":"0.097847358"
+    "case":"1103",
+    "death":"6",
+    "cure":"1"
     }
   },
   {
@@ -10608,17 +9103,31 @@
        "coordinates":  [ 8.2275,46.8182 ]
     },
     "properties": {
-    "FIELD1":531,
+    "FIELD1":536,
     "city_cn":"",
     "province_cn":"瑞士",
     "city":"",
     "province":"Switzerland",
     "case":"2200",
     "death":"14",
-    "cure":"4",
-    "remain":"2182",
-    "death_rate":"0.636363636",
-    "cure_rate":"0.181818182"
+    "cure":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8888,-6.369 ]
+    },
+    "properties": {
+    "FIELD1":537,
+    "city_cn":"",
+    "province_cn":"坦桑尼亚",
+    "city":"",
+    "province":"Tanzania",
+    "case":"1",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -10628,17 +9137,31 @@
        "coordinates":  [ 100.9925,15.87 ]
     },
     "properties": {
-    "FIELD1":532,
+    "FIELD1":538,
     "city_cn":"",
     "province_cn":"泰国",
     "city":"",
     "province":"Thailand",
-    "case":"114",
+    "case":"147",
     "death":"1",
-    "cure":"35",
-    "remain":"78",
-    "death_rate":"0.877192982",
-    "cure_rate":"30.70175439"
+    "cure":"35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,24.25 ]
+    },
+    "properties": {
+    "FIELD1":539,
+    "city_cn":"",
+    "province_cn":"巴哈马",
+    "city":"",
+    "province":"The Bahamas",
+    "case":"1",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -10648,17 +9171,14 @@
        "coordinates":  [ 0.8248,8.6195 ]
     },
     "properties": {
-    "FIELD1":533,
+    "FIELD1":540,
     "city_cn":"",
     "province_cn":"多哥",
     "city":"",
     "province":"Togo",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10668,17 +9188,14 @@
        "coordinates":  [ -61.2225,10.6918 ]
     },
     "properties": {
-    "FIELD1":534,
+    "FIELD1":541,
     "city_cn":"",
     "province_cn":"特立尼达和多巴哥",
     "city":"",
     "province":"Trinidad and Tobago",
-    "case":"2",
+    "case":"4",
     "death":"0",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10688,17 +9205,14 @@
        "coordinates":  [ 9.5375,33.8869 ]
     },
     "properties": {
-    "FIELD1":535,
+    "FIELD1":542,
     "city_cn":"",
     "province_cn":"突尼斯",
     "city":"",
     "province":"Tunisia",
-    "case":"18",
+    "case":"20",
     "death":"0",
-    "cure":"0",
-    "remain":"18",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10708,17 +9222,14 @@
        "coordinates":  [ 35.2433,38.9637 ]
     },
     "properties": {
-    "FIELD1":536,
+    "FIELD1":543,
     "city_cn":"",
     "province_cn":"土耳其",
     "city":"",
     "province":"Turkey",
-    "case":"6",
+    "case":"18",
     "death":"0",
-    "cure":"0",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10728,17 +9239,14 @@
        "coordinates":  [ 31.1656,48.3794 ]
     },
     "properties": {
-    "FIELD1":537,
+    "FIELD1":544,
     "city_cn":"",
     "province_cn":"乌克兰",
     "city":"",
     "province":"Ukraine",
-    "case":"3",
+    "case":"7",
     "death":"1",
-    "cure":"0",
-    "remain":"2",
-    "death_rate":"33.33333333",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10748,17 +9256,14 @@
        "coordinates":  [ 53.8478,23.4241 ]
     },
     "properties": {
-    "FIELD1":538,
+    "FIELD1":545,
     "city_cn":"",
     "province_cn":"阿联酋",
     "city":"",
     "province":"UAE",
-    "case":"86",
+    "case":"98",
     "death":"0",
-    "cure":"23",
-    "remain":"63",
-    "death_rate":"0",
-    "cure_rate":"26.74418605"
+    "cure":"23"
     }
   },
   {
@@ -10768,17 +9273,14 @@
        "coordinates":  [ -3.436,55.3781 ]
     },
     "properties": {
-    "FIELD1":539,
-    "city_cn":"",
+    "FIELD1":546,
+    "city_cn":"本土",
     "province_cn":"英国",
     "city":"",
     "province":"UK",
-    "case":"1140",
-    "death":"21",
-    "cure":"18",
-    "remain":"1101",
-    "death_rate":"1.842105263",
-    "cure_rate":"1.578947368"
+    "case":"1543",
+    "death":"55",
+    "cure":"20"
     }
   },
   {
@@ -10788,17 +9290,31 @@
        "coordinates":  [ -2.3644,49.3723 ]
     },
     "properties": {
-    "FIELD1":540,
+    "FIELD1":547,
     "city_cn":"海峡群岛",
     "province_cn":"英国",
     "city":"Channel Islands",
     "province":"UK",
-    "case":"3",
+    "case":"6",
     "death":"0",
-    "cure":"0",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2546,19.3133 ]
+    },
+    "properties": {
+    "FIELD1":548,
+    "city_cn":"开曼群岛",
+    "province_cn":"英国",
+    "city":"Cayman Islands",
+    "province":"UK",
+    "case":"1",
+    "death":"1",
+    "cure":"0"
     }
   },
   {
@@ -10808,17 +9324,14 @@
        "coordinates":  [ -5.3536,36.1408 ]
     },
     "properties": {
-    "FIELD1":541,
+    "FIELD1":549,
     "city_cn":"直布罗陀",
     "province_cn":"英国",
     "city":"Gibraltar",
     "province":"UK",
     "case":"1",
     "death":"0",
-    "cure":"1",
-    "remain":"0",
-    "death_rate":"0",
-    "cure_rate":"100"
+    "cure":"1"
     }
   },
   {
@@ -10828,17 +9341,14 @@
        "coordinates":  [ -55.7658,-32.5228 ]
     },
     "properties": {
-    "FIELD1":542,
+    "FIELD1":550,
     "city_cn":"",
     "province_cn":"乌拉圭",
     "city":"",
     "province":"Uruguay",
-    "case":"4",
+    "case":"8",
     "death":"0",
-    "cure":"0",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -10848,17 +9358,14 @@
        "coordinates":  [ -74.9481,42.1657 ]
     },
     "properties": {
-    "FIELD1":543,
+    "FIELD1":551,
     "city_cn":"纽约州",
     "province_cn":"美国",
     "city":"New York",
     "province":"US",
-    "case":"729",
-    "death":"3",
-    "cure":"0",
-    "remain":"726",
-    "death_rate":"0.411522634",
-    "cure_rate":"0"
+    "case":"967",
+    "death":"10",
+    "cure":"0"
     }
   },
   {
@@ -10868,17 +9375,14 @@
        "coordinates":  [ -121.4905,47.4009 ]
     },
     "properties": {
-    "FIELD1":544,
+    "FIELD1":552,
     "city_cn":"华盛顿州",
     "province_cn":"美国",
     "city":"Washington",
     "province":"US",
-    "case":"642",
-    "death":"40",
-    "cure":"1",
-    "remain":"601",
-    "death_rate":"6.230529595",
-    "cure_rate":"0.15576324"
+    "case":"904",
+    "death":"48",
+    "cure":"1"
     }
   },
   {
@@ -10888,17 +9392,14 @@
        "coordinates":  [ -119.6816,36.1162 ]
     },
     "properties": {
-    "FIELD1":545,
+    "FIELD1":553,
     "city_cn":"加利福尼亚州",
     "province_cn":"美国",
     "city":"California",
     "province":"US",
-    "case":"406",
-    "death":"6",
-    "cure":"6",
-    "remain":"394",
-    "death_rate":"1.477832512",
-    "cure_rate":"1.477832512"
+    "case":"557",
+    "death":"7",
+    "cure":"6"
     }
   },
   {
@@ -10908,97 +9409,14 @@
        "coordinates":  [ -71.5301,42.2302 ]
     },
     "properties": {
-    "FIELD1":546,
+    "FIELD1":554,
     "city_cn":"马萨诸塞州",
     "province_cn":"美国",
     "city":"Massachusetts",
     "province":"US",
-    "case":"138",
+    "case":"197",
     "death":"0",
-    "cure":"1",
-    "remain":"137",
-    "death_rate":"0",
-    "cure_rate":"0.724637681"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.6868,27.7663 ]
-    },
-    "properties": {
-    "FIELD1":547,
-    "city_cn":"佛罗里达州",
-    "province_cn":"美国",
-    "city":"Florida",
-    "province":"US",
-    "case":"115",
-    "death":"4",
-    "cure":"0",
-    "remain":"111",
-    "death_rate":"3.47826087",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -105.3111,39.0598 ]
-    },
-    "properties": {
-    "FIELD1":548,
-    "city_cn":"科罗拉多州",
-    "province_cn":"美国",
-    "city":"Colorado",
-    "province":"US",
-    "case":"101",
-    "death":"1",
-    "cure":"0",
-    "remain":"100",
-    "death_rate":"0.99009901",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -83.6431,33.0406 ]
-    },
-    "properties": {
-    "FIELD1":549,
-    "city_cn":"乔治亚洲",
-    "province_cn":"美国",
-    "city":"Georgia",
-    "province":"US",
-    "case":"99",
-    "death":"1",
-    "cure":"0",
-    "remain":"98",
-    "death_rate":"1.01010101",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -91.8678,31.1695 ]
-    },
-    "properties": {
-    "FIELD1":550,
-    "city_cn":"路易斯安那州",
-    "province_cn":"美国",
-    "city":"Louisiana",
-    "province":"US",
-    "case":"91",
-    "death":"2",
-    "cure":"0",
-    "remain":"89",
-    "death_rate":"2.197802198",
-    "cure_rate":"0"
+    "cure":"1"
     }
   },
   {
@@ -11008,17 +9426,82 @@
        "coordinates":  [ -74.521,40.2989 ]
     },
     "properties": {
-    "FIELD1":551,
+    "FIELD1":555,
     "city_cn":"新泽西州",
     "province_cn":"美国",
     "city":"New Jersey",
     "province":"US",
-    "case":"74",
+    "case":"178",
     "death":"2",
-    "cure":"0",
-    "remain":"72",
-    "death_rate":"2.702702703",
-    "cure_rate":"0"
+    "cure":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.3111,39.0598 ]
+    },
+    "properties": {
+    "FIELD1":556,
+    "city_cn":"科罗拉多州",
+    "province_cn":"美国",
+    "city":"Colorado",
+    "province":"US",
+    "case":"160",
+    "death":"1",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6868,27.7663 ]
+    },
+    "properties": {
+    "FIELD1":557,
+    "city_cn":"佛罗里达州",
+    "province_cn":"美国",
+    "city":"Florida",
+    "province":"US",
+    "case":"155",
+    "death":"5",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.8678,31.1695 ]
+    },
+    "properties": {
+    "FIELD1":558,
+    "city_cn":"路易斯安那州",
+    "province_cn":"美国",
+    "city":"Louisiana",
+    "province":"US",
+    "case":"136",
+    "death":"3",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6431,33.0406 ]
+    },
+    "properties": {
+    "FIELD1":559,
+    "city_cn":"乔治亚州",
+    "province_cn":"美国",
+    "city":"Georgia",
+    "province":"US",
+    "case":"121",
+    "death":"1",
+    "cure":"0"
     }
   },
   {
@@ -11028,17 +9511,14 @@
        "coordinates":  [ -88.9861,40.3495 ]
     },
     "properties": {
-    "FIELD1":552,
+    "FIELD1":560,
     "city_cn":"伊利诺伊州",
     "province_cn":"美国",
     "city":"Illinois",
     "province":"US",
-    "case":"66",
+    "case":"105",
     "death":"0",
-    "cure":"2",
-    "remain":"64",
-    "death_rate":"0",
-    "cure_rate":"3.03030303"
+    "cure":"2"
     }
   },
   {
@@ -11048,17 +9528,14 @@
        "coordinates":  [ -97.5635,31.0545 ]
     },
     "properties": {
-    "FIELD1":553,
+    "FIELD1":561,
     "city_cn":"得克萨斯州",
     "province_cn":"美国",
     "city":"Texas",
     "province":"US",
-    "case":"63",
+    "case":"85",
     "death":"0",
-    "cure":"0",
-    "remain":"63",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11068,77 +9545,14 @@
        "coordinates":  [ -77.2098,40.5908 ]
     },
     "properties": {
-    "FIELD1":554,
+    "FIELD1":562,
     "city_cn":"宾夕法尼亚州",
     "province_cn":"美国",
     "city":"Pennsylvania",
     "province":"US",
-    "case":"47",
+    "case":"77",
     "death":"0",
-    "cure":"0",
-    "remain":"47",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 139.638,35.4437 ]
-    },
-    "properties": {
-    "FIELD1":555,
-    "city_cn":"钻石公主号撤离",
-    "province_cn":"美国",
-    "city":"Diamond Princess",
-    "province":"US",
-    "case":"46",
-    "death":"0",
-    "cure":"0",
-    "remain":"46",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -78.17,37.7693 ]
-    },
-    "properties": {
-    "FIELD1":556,
-    "city_cn":"弗吉尼亚州",
-    "province_cn":"美国",
-    "city":"Virginia",
-    "province":"US",
-    "case":"45",
-    "death":"1",
-    "cure":"0",
-    "remain":"44",
-    "death_rate":"2.222222222",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.0709,44.572 ]
-    },
-    "properties": {
-    "FIELD1":557,
-    "city_cn":"俄勒冈州",
-    "province_cn":"美国",
-    "city":"Oregon",
-    "province":"US",
-    "case":"36",
-    "death":"1",
-    "cure":"0",
-    "remain":"35",
-    "death_rate":"2.777777778",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11148,17 +9562,14 @@
        "coordinates":  [ -93.9002,45.6945 ]
     },
     "properties": {
-    "FIELD1":558,
+    "FIELD1":563,
     "city_cn":"明尼苏达在",
     "province_cn":"美国",
     "city":"Minnesota",
     "province":"US",
-    "case":"35",
+    "case":"54",
     "death":"0",
-    "cure":"0",
-    "remain":"35",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11168,37 +9579,14 @@
        "coordinates":  [ -84.5361,43.3266 ]
     },
     "properties": {
-    "FIELD1":559,
+    "FIELD1":564,
     "city_cn":"密歇根州",
     "province_cn":"美国",
     "city":"Michigan",
     "province":"US",
-    "case":"33",
+    "case":"53",
     "death":"0",
-    "cure":"0",
-    "remain":"33",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -79.8064,35.6301 ]
-    },
-    "properties": {
-    "FIELD1":560,
-    "city_cn":"北卡罗来纳州",
-    "province_cn":"美国",
-    "city":"North Carolina",
-    "province":"US",
-    "case":"32",
-    "death":"0",
-    "cure":"0",
-    "remain":"32",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11208,37 +9596,14 @@
        "coordinates":  [ -86.6923,35.7478 ]
     },
     "properties": {
-    "FIELD1":561,
+    "FIELD1":565,
     "city_cn":"田纳西州",
     "province_cn":"美国",
     "city":"Tennessee",
     "province":"US",
-    "case":"32",
+    "case":"52",
     "death":"0",
-    "cure":"0",
-    "remain":"32",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -76.8021,39.0639 ]
-    },
-    "properties": {
-    "FIELD1":562,
-    "city_cn":"马里兰州",
-    "province_cn":"美国",
-    "city":"Maryland",
-    "province":"US",
-    "case":"31",
-    "death":"0",
-    "cure":"0",
-    "remain":"31",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11248,17 +9613,48 @@
        "coordinates":  [ -82.7649,40.3888 ]
     },
     "properties": {
-    "FIELD1":563,
+    "FIELD1":566,
     "city_cn":"俄亥俄州",
     "province_cn":"美国",
     "city":"Ohio",
     "province":"US",
-    "case":"30",
+    "case":"50",
     "death":"0",
-    "cure":"0",
-    "remain":"30",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.17,37.7693 ]
+    },
+    "properties": {
+    "FIELD1":567,
+    "city_cn":"弗吉尼亚州",
+    "province_cn":"美国",
+    "city":"Virginia",
+    "province":"US",
+    "case":"49",
+    "death":"1",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.638,35.4437 ]
+    },
+    "properties": {
+    "FIELD1":568,
+    "city_cn":"钻石公主号撤离",
+    "province_cn":"美国",
+    "city":"Diamond Princess",
+    "province":"US",
+    "case":"47",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -11268,77 +9664,14 @@
        "coordinates":  [ -89.6165,44.2685 ]
     },
     "properties": {
-    "FIELD1":564,
+    "FIELD1":569,
     "city_cn":"威斯康辛州",
     "province_cn":"美国",
     "city":"Wisconsin",
     "province":"US",
-    "case":"28",
+    "case":"47",
     "death":"0",
-    "cure":"1",
-    "remain":"27",
-    "death_rate":"0",
-    "cure_rate":"3.571428571"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -72.7554,41.5978 ]
-    },
-    "properties": {
-    "FIELD1":565,
-    "city_cn":"康涅狄格州",
-    "province_cn":"至尊公主号",
-    "city":"Connecticut",
-    "province":"US",
-    "case":"24",
-    "death":"0",
-    "cure":"0",
-    "remain":"24",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.8624,40.15 ]
-    },
-    "properties": {
-    "FIELD1":566,
-    "city_cn":"犹他州",
-    "province_cn":"美国",
-    "city":"Utah",
-    "province":"US",
-    "case":"24",
-    "death":"0",
-    "cure":"0",
-    "remain":"24",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.6655,37.6489 ]
-    },
-    "properties": {
-    "FIELD1":567,
-    "city_cn":"",
-    "province_cn":"至尊公主号",
-    "city":"",
-    "province":"Grand Princess",
-    "case":"21",
-    "death":"0",
-    "cure":"0",
-    "remain":"21",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"1"
     }
   },
   {
@@ -11348,57 +9681,82 @@
        "coordinates":  [ -117.0554,38.3135 ]
     },
     "properties": {
-    "FIELD1":568,
+    "FIELD1":570,
     "city_cn":"内华达州",
     "province_cn":"美国",
     "city":"Nevada",
     "province":"US",
-    "case":"21",
-    "death":"0",
-    "cure":"0",
-    "remain":"21",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "case":"45",
+    "death":"1",
+    "cure":"0"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -86.2583,39.8494 ]
+       "coordinates":  [ -76.8021,39.0639 ]
     },
     "properties": {
-    "FIELD1":569,
-    "city_cn":"印第安纳州",
+    "FIELD1":571,
+    "city_cn":"马里兰州",
     "province_cn":"美国",
-    "city":"Indiana",
+    "city":"Maryland",
     "province":"US",
-    "case":"20",
+    "case":"41",
     "death":"0",
-    "cure":"0",
-    "remain":"20",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"3"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -71.5118,41.6809 ]
+       "coordinates":  [ -122.0709,44.572 ]
     },
     "properties": {
-    "FIELD1":570,
-    "city_cn":"罗德岛州",
+    "FIELD1":572,
+    "city_cn":"俄勒冈州",
     "province_cn":"美国",
-    "city":"Rhode Island",
+    "city":"Oregon",
     "province":"US",
-    "case":"20",
+    "case":"39",
+    "death":"1",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8624,40.15 ]
+    },
+    "properties": {
+    "FIELD1":573,
+    "city_cn":"犹他州",
+    "province_cn":"美国",
+    "city":"Utah",
+    "province":"US",
+    "case":"39",
     "death":"0",
-    "cure":"0",
-    "remain":"20",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8064,35.6301 ]
+    },
+    "properties": {
+    "FIELD1":574,
+    "city_cn":"北卡罗来纳州",
+    "province_cn":"美国",
+    "city":"North Carolina",
+    "province":"US",
+    "case":"38",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -11408,137 +9766,31 @@
        "coordinates":  [ -80.945,33.8569 ]
     },
     "properties": {
-    "FIELD1":571,
+    "FIELD1":575,
     "city_cn":"南卡罗来纳州",
     "province_cn":"美国",
     "city":"South Carolina",
     "province":"US",
-    "case":"19",
-    "death":"0",
-    "cure":"0",
-    "remain":"19",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "case":"33",
+    "death":"1",
+    "cure":"0"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -93.2105,42.0115 ]
-    },
-    "properties": {
-    "FIELD1":572,
-    "city_cn":"艾奥瓦州",
-    "province_cn":"美国",
-    "city":"Iowa",
-    "province":"US",
-    "case":"18",
-    "death":"0",
-    "cure":"0",
-    "remain":"18",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -84.6701,37.6681 ]
-    },
-    "properties": {
-    "FIELD1":573,
-    "city_cn":"肯塔基州",
-    "province_cn":"美国",
-    "city":"Kentucky",
-    "province":"US",
-    "case":"18",
-    "death":"0",
-    "cure":"0",
-    "remain":"18",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -98.2681,41.1254 ]
-    },
-    "properties": {
-    "FIELD1":574,
-    "city_cn":"内布拉斯加州",
-    "province_cn":"美国",
-    "city":"Nebraska",
-    "province":"US",
-    "case":"17",
-    "death":"0",
-    "cure":"0",
-    "remain":"17",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -92.3731,34.9697 ]
-    },
-    "properties": {
-    "FIELD1":575,
-    "city_cn":"阿肯色州",
-    "province_cn":"美国",
-    "city":"Arkansas",
-    "province":"US",
-    "case":"16",
-    "death":"0",
-    "cure":"0",
-    "remain":"16",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.0268,38.8974 ]
+       "coordinates":  [ -72.7554,41.5978 ]
     },
     "properties": {
     "FIELD1":576,
-    "city_cn":"华盛顿哥伦比亚特区",
+    "city_cn":"康涅狄格州",
     "province_cn":"美国",
-    "city":"District of Columbia",
+    "city":"Connecticut",
     "province":"US",
-    "case":"16",
+    "case":"30",
     "death":"0",
-    "cure":"0",
-    "remain":"16",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -106.2485,34.8405 ]
-    },
-    "properties": {
-    "FIELD1":577,
-    "city_cn":"新墨西哥州",
-    "province_cn":"美国",
-    "city":"New Mexico",
-    "province":"US",
-    "case":"13",
-    "death":"0",
-    "cure":"0",
-    "remain":"13",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11548,17 +9800,133 @@
        "coordinates":  [ -86.9023,32.3182 ]
     },
     "properties": {
-    "FIELD1":578,
+    "FIELD1":577,
     "city_cn":"亚拉巴马州",
     "province_cn":"美国",
     "city":"Alabama",
     "province":"US",
-    "case":"12",
+    "case":"29",
     "death":"0",
-    "cure":"0",
-    "remain":"12",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2583,39.8494 ]
+    },
+    "properties": {
+    "FIELD1":578,
+    "city_cn":"印第安纳州",
+    "province_cn":"美国",
+    "city":"Indiana",
+    "province":"US",
+    "case":"25",
+    "death":"1",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2105,42.0115 ]
+    },
+    "properties": {
+    "FIELD1":579,
+    "city_cn":"艾奥瓦州",
+    "province_cn":"美国",
+    "city":"Iowa",
+    "province":"US",
+    "case":"23",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.3731,34.9697 ]
+    },
+    "properties": {
+    "FIELD1":580,
+    "city_cn":"阿肯色州",
+    "province_cn":"美国",
+    "city":"Arkansas",
+    "province":"US",
+    "case":"22",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0268,38.8974 ]
+    },
+    "properties": {
+    "FIELD1":581,
+    "city_cn":"哥伦比亚特区",
+    "province_cn":"美国",
+    "city":"District of Columbia",
+    "province":"US",
+    "case":"22",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6701,37.6681 ]
+    },
+    "properties": {
+    "FIELD1":582,
+    "city_cn":"肯塔基州",
+    "province_cn":"美国",
+    "city":"Kentucky",
+    "province":"US",
+    "case":"21",
+    "death":"1",
+    "cure":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5118,41.6809 ]
+    },
+    "properties": {
+    "FIELD1":583,
+    "city_cn":"罗德岛州",
+    "province_cn":"美国",
+    "city":"Rhode Island",
+    "province":"US",
+    "case":"21",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6655,37.6489 ]
+    },
+    "properties": {
+    "FIELD1":584,
+    "city_cn":"",
+    "province_cn":"至尊公主号",
+    "city":"Grand Princess",
+    "province":"",
+    "case":"20",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -11568,137 +9936,31 @@
        "coordinates":  [ -111.4312,33.7298 ]
     },
     "properties": {
-    "FIELD1":579,
+    "FIELD1":585,
     "city_cn":"亚利桑那州",
     "province_cn":"美国",
     "city":"Arizona",
     "province":"US",
-    "case":"12",
+    "case":"18",
     "death":"0",
-    "cure":"1",
-    "remain":"11",
-    "death_rate":"0",
-    "cure_rate":"8.333333333"
+    "cure":"1"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -99.4388,44.2998 ]
+       "coordinates":  [ -98.2681,41.1254 ]
     },
     "properties": {
-    "FIELD1":580,
-    "city_cn":"南达科他州",
+    "FIELD1":586,
+    "city_cn":"内布拉斯加州",
     "province_cn":"美国",
-    "city":"South Dakota",
+    "city":"Nebraska",
     "province":"US",
-    "case":"9",
-    "death":"1",
-    "cure":"0",
-    "remain":"8",
-    "death_rate":"11.11111111",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.7265,38.5266 ]
-    },
-    "properties": {
-    "FIELD1":581,
-    "city_cn":"堪萨斯州",
-    "province_cn":"美国",
-    "city":"Kansas",
-    "province":"US",
-    "case":"8",
-    "death":"1",
-    "cure":"0",
-    "remain":"7",
-    "death_rate":"12.5",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -110.4544,46.9219 ]
-    },
-    "properties": {
-    "FIELD1":582,
-    "city_cn":"蒙大拿州",
-    "province_cn":"美国",
-    "city":"Montana",
-    "province":"US",
-    "case":"7",
+    "case":"18",
     "death":"0",
-    "cure":"0",
-    "remain":"7",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -71.5639,43.4525 ]
-    },
-    "properties": {
-    "FIELD1":583,
-    "city_cn":"新罕布夏州",
-    "province_cn":"美国",
-    "city":"New Hampshire",
-    "province":"US",
-    "case":"7",
-    "death":"0",
-    "cure":"0",
-    "remain":"7",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.5071,39.3185 ]
-    },
-    "properties": {
-    "FIELD1":584,
-    "city_cn":"德拉瓦州",
-    "province_cn":"美国",
-    "city":"Delaware",
-    "province":"US",
-    "case":"6",
-    "death":"0",
-    "cure":"0",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -157.4983,21.0943 ]
-    },
-    "properties": {
-    "FIELD1":585,
-    "city_cn":"夏威夷州",
-    "province_cn":"美国",
-    "city":"Hawaii",
-    "province":"US",
-    "case":"6",
-    "death":"0",
-    "cure":"0",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11708,17 +9970,48 @@
        "coordinates":  [ -69.3819,44.6939 ]
     },
     "properties": {
-    "FIELD1":586,
+    "FIELD1":587,
     "city_cn":"缅因州",
     "province_cn":"美国",
     "city":"Maine",
     "province":"US",
-    "case":"6",
+    "case":"17",
     "death":"0",
-    "cure":"0",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5639,43.4525 ]
+    },
+    "properties": {
+    "FIELD1":588,
+    "city_cn":"新罕布夏州",
+    "province_cn":"美国",
+    "city":"New Hampshire",
+    "province":"US",
+    "case":"17",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2485,34.8405 ]
+    },
+    "properties": {
+    "FIELD1":589,
+    "city_cn":"新墨西哥州",
+    "province_cn":"美国",
+    "city":"New Mexico",
+    "province":"US",
+    "case":"17",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -11728,57 +10021,14 @@
        "coordinates":  [ -89.6787,32.7416 ]
     },
     "properties": {
-    "FIELD1":587,
+    "FIELD1":590,
     "city_cn":"密西西比州",
     "province_cn":"美国",
     "city":"Mississippi",
     "province":"US",
-    "case":"6",
+    "case":"13",
     "death":"0",
-    "cure":"0",
-    "remain":"6",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.4788,44.2405 ]
-    },
-    "properties": {
-    "FIELD1":588,
-    "city_cn":"爱达荷州",
-    "province_cn":"美国",
-    "city":"Idaho",
-    "province":"US",
-    "case":"5",
-    "death":"0",
-    "cure":"0",
-    "remain":"5",
-    "death_rate":"0",
-    "cure_rate":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -92.2884,38.4561 ]
-    },
-    "properties": {
-    "FIELD1":589,
-    "city_cn":"密苏里州",
-    "province_cn":"美国",
-    "city":"Missouri",
-    "province":"US",
-    "case":"5",
-    "death":"0",
-    "cure":"0",
-    "remain":"5",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11788,17 +10038,31 @@
        "coordinates":  [ -72.7107,44.0459 ]
     },
     "properties": {
-    "FIELD1":590,
+    "FIELD1":591,
     "city_cn":"维蒙特州",
     "province_cn":"美国",
     "city":"Vermont",
     "province":"US",
-    "case":"5",
+    "case":"12",
     "death":"0",
-    "cure":"0",
-    "remain":"5",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7265,38.5266 ]
+    },
+    "properties": {
+    "FIELD1":592,
+    "city_cn":"堪萨斯州",
+    "province_cn":"美国",
+    "city":"Kansas",
+    "province":"US",
+    "case":"11",
+    "death":"1",
+    "cure":"0"
     }
   },
   {
@@ -11808,37 +10072,116 @@
        "coordinates":  [ -96.9289,35.5653 ]
     },
     "properties": {
-    "FIELD1":591,
+    "FIELD1":593,
     "city_cn":"俄克拉荷马州",
     "province_cn":"美国",
     "city":"Oklahoma",
     "province":"US",
-    "case":"4",
+    "case":"10",
     "death":"0",
-    "cure":"0",
-    "remain":"4",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 144.7937,13.4443 ]
+       "coordinates":  [ -99.4388,44.2998 ]
     },
     "properties": {
-    "FIELD1":592,
-    "city_cn":"关岛",
+    "FIELD1":594,
+    "city_cn":"南达科他州",
     "province_cn":"美国",
-    "city":"Guam",
+    "city":"South Dakota",
     "province":"US",
-    "case":"3",
+    "case":"10",
+    "death":"1",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5071,39.3185 ]
+    },
+    "properties": {
+    "FIELD1":595,
+    "city_cn":"德拉瓦走",
+    "province_cn":"美国",
+    "city":"Delaware",
+    "province":"US",
+    "case":"8",
     "death":"0",
-    "cure":"0",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.4983,21.0943 ]
+    },
+    "properties": {
+    "FIELD1":596,
+    "city_cn":"夏威夷州",
+    "province_cn":"美国",
+    "city":"Hawaii",
+    "province":"US",
+    "case":"7",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.4544,46.9219 ]
+    },
+    "properties": {
+    "FIELD1":597,
+    "city_cn":"蒙大拿州",
+    "province_cn":"美国",
+    "city":"Montana",
+    "province":"US",
+    "case":"7",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2884,38.4561 ]
+    },
+    "properties": {
+    "FIELD1":598,
+    "city_cn":"密苏里州",
+    "province_cn":"美国",
+    "city":"Missouri",
+    "province":"US",
+    "case":"6",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.4788,44.2405 ]
+    },
+    "properties": {
+    "FIELD1":599,
+    "city_cn":"爱达荷州",
+    "province_cn":"美国",
+    "city":"Idaho",
+    "province":"US",
+    "case":"5",
+    "death":"0",
+    "cure":"0"
     }
   },
   {
@@ -11848,17 +10191,31 @@
        "coordinates":  [ -66.5901,18.2208 ]
     },
     "properties": {
-    "FIELD1":593,
+    "FIELD1":600,
     "city_cn":"波多黎各",
     "province_cn":"美国",
     "city":"Puerto Rico",
     "province":"US",
+    "case":"5",
+    "death":"0",
+    "cure":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7937,13.4443 ]
+    },
+    "properties": {
+    "FIELD1":601,
+    "city_cn":"关岛",
+    "province_cn":"美国",
+    "city":"Guam",
+    "province":"US",
     "case":"3",
     "death":"0",
-    "cure":"0",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11868,17 +10225,14 @@
        "coordinates":  [ -107.3025,42.756 ]
     },
     "properties": {
-    "FIELD1":594,
+    "FIELD1":602,
     "city_cn":"怀俄明州",
     "province_cn":"美国",
     "city":"Wyoming",
     "province":"US",
     "case":"3",
     "death":"0",
-    "cure":"0",
-    "remain":"3",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11888,17 +10242,14 @@
        "coordinates":  [ -152.4044,61.3707 ]
     },
     "properties": {
-    "FIELD1":595,
+    "FIELD1":603,
     "city_cn":"阿拉斯加州",
     "province_cn":"美国",
     "city":"Alaska",
     "province":"US",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11908,17 +10259,14 @@
        "coordinates":  [ -99.784,47.5289 ]
     },
     "properties": {
-    "FIELD1":596,
+    "FIELD1":604,
     "city_cn":"北达科他州",
     "province_cn":"美国",
     "city":"North Dakota",
     "province":"US",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11928,17 +10276,14 @@
        "coordinates":  [ -64.8963,18.3358 ]
     },
     "properties": {
-    "FIELD1":597,
+    "FIELD1":605,
     "city_cn":"美属维京群岛",
     "province_cn":"美国",
-    "city":"Virgin Islands, U.S.",
+    "city":"Virgin Islands",
     "province":"US",
     "case":"1",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11948,17 +10293,14 @@
        "coordinates":  [ -80.9545,38.4912 ]
     },
     "properties": {
-    "FIELD1":598,
+    "FIELD1":606,
     "city_cn":"西弗吉尼亚州",
     "province_cn":"美国",
     "city":"West Virginia",
     "province":"US",
     "case":"0",
     "death":"0",
-    "cure":"0",
-    "remain":"0",
-    "death_rate":"#DIV/0!",
-    "cure_rate":"#DIV/0!"
+    "cure":"0"
     }
   },
   {
@@ -11968,17 +10310,14 @@
        "coordinates":  [ 64.5853,41.3775 ]
     },
     "properties": {
-    "FIELD1":599,
+    "FIELD1":607,
     "city_cn":"",
     "province_cn":"乌兹别克斯坦",
     "city":"",
     "province":"Uzbekistan",
-    "case":"1",
+    "case":"6",
     "death":"0",
-    "cure":"0",
-    "remain":"1",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -11988,17 +10327,14 @@
        "coordinates":  [ -66.5897,6.4238 ]
     },
     "properties": {
-    "FIELD1":600,
+    "FIELD1":608,
     "city_cn":"",
     "province_cn":"委内瑞拉",
     "city":"",
     "province":"Venezuela",
-    "case":"8",
+    "case":"17",
     "death":"0",
-    "cure":"0",
-    "remain":"8",
-    "death_rate":"0",
-    "cure_rate":"0"
+    "cure":"0"
     }
   },
   {
@@ -12008,17 +10344,14 @@
        "coordinates":  [ 108.2772,14.0583 ]
     },
     "properties": {
-    "FIELD1":601,
+    "FIELD1":609,
     "city_cn":"",
     "province_cn":"越南",
     "city":"",
     "province":"Vietnam",
-    "case":"56",
+    "case":"61",
     "death":"0",
-    "cure":"16",
-    "remain":"40",
-    "death_rate":"0",
-    "cure_rate":"28.57142857"
+    "cure":"16"
     }
   }
 ]
