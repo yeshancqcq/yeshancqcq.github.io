@@ -176,7 +176,6 @@ box-shadow: none;
 	</p2><br>
 		<p2>截止到/Last Updated: <br>  2020-03-17 18:30 (CST 芝加哥时间)</p2>
 		<div><center>右上角可切换底图和数据类型<br>Add or change basemaps and data types at the upper-right menu.</center></div>
-		<div><center>美国县级数据更新于3月17日<br>US County data updated: March 17th.</center></div>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Shan Ye's Homepage</a></center></div>
 </center>
 </center></div>
@@ -226,6 +225,8 @@ box-shadow: none;
 		var recover = L.layerGroup();
 		var death = L.layerGroup();
 		var usa_cities = L.layerGroup();
+		var uk = L.layerGroup();
+		var europe = L.layerGroup();
 		var southWest = L.latLng(-85, -200),
 				northEast = L.latLng(85, 200),
 				mybounds = L.latLngBounds(southWest, northEast);
@@ -294,6 +295,23 @@ box-shadow: none;
 				else if (field < 35) r = 25;
 				else if (field < 40) r = 30;
 				else if (field < 50) r = 40;
+				else if (isNaN(field)) r = 2;
+				else r = 50;
+				return r
+			}
+
+			function getR_EU(i){
+				var r
+				var field = i
+				if(field < 200) r = 5;
+				else if (field < 500) r = 7;
+				else if (field < 1000) r = 9;
+				else if (field < 1500) r = 13;
+				else if (field < 2000) r = 16;
+				else if (field < 2500) r = 20;
+				else if (field < 3000) r = 25;
+				else if (field < 3500) r = 30;
+				else if (field < 4000) r = 40;
 				else if (isNaN(field)) r = 2;
 				else r = 50;
 				return r
@@ -527,6 +545,7 @@ function getColor4(i){
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng,4.5);
+					$("#paneltext").html('<p>美国县级数据更新于3月17日<br>US County data updated: March 17th.</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.county+', '
 									+feature.properties.state +'<br>'+
@@ -535,12 +554,75 @@ function getColor4(i){
 			}
 		}).addTo(usa_cities);
 
+		var uk = new L.GeoJSON.AJAX("data/england_data.geojson",{
+			style : function(feature) {
+				return {
+					color: "red",
+					fillColor: "yellow",
+					weight: 0.2,
+					radius: getR_US(feature.properties.case)
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+			return L.circleMarker(latlng,
+				{
+				color: "red",
+				weight: 5,
+				opacity: 0.9,
+				fillOpacity: 0.12}
+
+			)
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng,4.5);
+					$("#paneltext").html('<p>英格兰数据更新于3月18日<br>England data updated: March 18th.</p>');
+				}),
+				layer.bindPopup('<h3> '+feature.properties.county+', UK'
+									+'</h3><p>确诊/Confirmed: '
+									+feature.properties.case +'</p>', popup5)
+			}
+		}).addTo(uk);
+
+		var europe = new L.GeoJSON.AJAX("data/europe_data.geojson",{
+			style : function(feature) {
+				return {
+					color: "red",
+					fillColor: "yellow",
+					weight: 0.2,
+					radius: getR_EU(feature.properties.case)
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+			return L.circleMarker(latlng,
+				{
+				color: "red",
+				weight: 5,
+				opacity: 0.9,
+				fillOpacity: 0.12}
+
+			)
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng,4.5);
+					$("#paneltext").html('<p>欧洲数据更新于3月18日<br>European data updated: March 18th.</p>');
+				}),
+				layer.bindPopup('<h3> '+feature.properties.state+' '
+									+feature.properties.region+', '
+									+feature.properties.country+'<br>'
+									+feature.properties.cn+' '
+									+'</h3><p>确诊/Confirmed: '
+									+feature.properties.case +'</p>', popup5)
+			}
+		}).addTo(europe);
+
 
 
 	//Add map
 	var map = L.map('map', {
-			center: [30,114],
-		  zoom:3.2,
+			center: [50,0],
+		  zoom:4,
 			zoomControl: true,
 			maxBounds: [
         //south west
@@ -566,7 +648,9 @@ function getColor4(i){
 		"<span style='color:#c7e9c0'>剩余/Remaining": remain,
 		"<span style='color:#9ecae1'>治愈/Recovered</span>": recover,
 		"<span style='color:#9e9ac8'>死亡/Death</span>": death,
-		"<span style='color:yellow'>美国疫情/US Distribution</span>": usa_cities
+		"<span style='color:yellow'>美国疫情/United States</span>": usa_cities,
+		"<span style='color:yellow'>英格兰疫情/England</span>": uk,
+		"<span style='color:yellow'>西欧疫情/Western Europe</span>": europe
 	};
 
 //Add layer control

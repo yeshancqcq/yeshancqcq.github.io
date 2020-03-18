@@ -1,0 +1,163 @@
+﻿cn,state,country,case,region,lat,lon
+奥弗涅-罗纳-阿尔卑斯,Auvergne-Rhône-Alpes,France,710,,45.475,4.624
+勃艮第-弗朗什-孔泰,Bourgogne-Franche-Comté,France,549,,47.2899,4.9938
+布列塔尼,Bretagne,France,247,,47.59,6.9972
+卢瓦尔河谷中心,Centre-Val de Loire,France,103,,47.66,1.59
+科西嘉岛,Corse,France,145,,42.157,8.995
+大东区,Grand Est,France,1820,,48.81,5.8
+法兰西堡,Hauts-de-France,France,612,,49.976,2.817
+法兰西岛,Ile-de-France,France,2177,,48.683,2.502
+诺曼底,Normandie,France,174,,49.21,-0.778
+新阿基坦,Nouvelle-Aquitaine,France,200,,45.018,0.4102
+奥西塔尼,Occitanie,France,311,,43.7,2.25
+卢瓦尔河大区,Pays de la Loire,France,126,,47.4,-0.85
+普罗旺斯阿尔卑斯蓝色海岸,Provence-Alpes-Côte d’Azur,France,478,,44.06,5.97
+瓜达卢佩,Guadeloupe,France,27,,16.17,-61.4
+圣巴泰勒米,Saint-Barthélémy,France,3,,17.9,-62.825
+圣马丁,Saint-Martin,France,3,,18.01,-63.05
+法属圭亚那,Guyane,France,11,,4.2942,-53.05
+马丁尼克,Martinique,France,19,,14.6,-61.019
+马约特岛,Mayotte,France,3,,-12.82,45.12
+留尼汪,La Réunion,France,12,,-21.13,55.5265
+巴登-符腾堡州,Baden-Württemberg,Germany,1609,,48.67,9.0036
+巴伐利亚州,Bayern,Germany,1243,,48.9445,11.407
+柏林,Berlin,Germany,391,,52.5,13.42
+勃兰登堡,Brandenburg,Germany,92,,52.472,13.0165
+不来梅,Bremen,Germany,69,,53.081,8.82
+汉堡,Hamburg,Germany,358,,53.553,10
+黑森,Hessen,Germany,432,,50.54,9
+梅克伦堡-西波莫尼亚,Mecklenburg-Vorpommern,Germany,56,,54,12.5
+下萨克森州,Niedersachsen,Germany,478,,52.738,8.97
+北莱茵-威斯特法伦州,Nordrhein-Westfalen,Germany,2372,,51.4,7.66
+莱茵兰-普法尔茨,Rheinland-Pfalz,Germany,474,,49.96452,7.31
+萨尔,Saarland,Germany,88,,49.376,6.88
+萨克森,Sachsen,Germany,198,,50.9,13.457
+萨克森-安哈尔特,Sachsen-Anhalt,Germany,105,,52,11.87
+施勒苏益格-荷尔斯泰因州,Schleswig-Holstein,Germany,159,,54.23864,9.596
+图林根,Thüringen,Germany,74,,47.1,9.7615
+安达路西亚,Andalucía,Spain,859,,37.383,-5.983
+阿拉贡,Aragón,Spain,226,,41.403,-0.7
+阿斯图里亚斯公国,Principado de Asturias,Spain,242,,43.274,-5.84
+巴利阿里群岛,Islas Baleares,Spain,112,,39.5,3
+加纳利群岛,Canarias,Spain,181,,28,-15.5
+坎塔布里亚,Cantabria,Spain,68,,43.13,-4
+卡斯蒂利亚莱昂,Castilla y León,Spain,668,,42.6,-5.9
+卡斯蒂利亚拉曼恰,Castilla La Mancha,Spain,675,,39.08,-3.26
+加泰罗尼亚,Cataluña,Spain,1866,,41.392,2.14
+加利西亚,Galicia,Spain,341,,42.8,-8.01
+瓦伦西亚,C. Valenciana,Spain,726,,39.46,-0.39
+埃斯特雷马杜拉,Extremadura,Spain,194,,39.225,-6.09
+马德里,Comunidad de Madrid,Spain,5637,,40.42,-3.685
+穆尔西亚地区,Región de Murcia,Spain,122,,38,-1.4957
+纳瓦拉福拉,Comunidad Foral de Navarra,Spain,386,,42.816,-1.65
+巴斯克地区,País Vasco,Spain,973,,42.966,-2.589
+拉里奥哈,La Rioja,Spain,419,,42.28269,-2.406
+休达,Ceuta,Spain,1,,35.89,-5.33
+梅利利亚,Melilla,Spain,20,,35.292,-2.9466
+拉古萨,Ragusa,Italy,4,Sicilia,36.92509198,14.73069891
+锡拉库萨,Siracusa,Italy,21,Sicilia,37.05991687,15.29333182
+,Agrigento,Italy,22,Sicilia,37.30971088,13.5845749
+,Caltanissetta,Italy,4,Sicilia,37.49213171,14.06184973
+卡塔尼亚,Catania,Italy,108,Sicilia,37.50287803,15.08704691
+恩那,Enna,Italy,8,Sicilia,37.56705701,14.27909375
+特拉帕尼,Trapani,Italy,14,Sicilia,38.01850065,12.51365684
+卡拉布里亚,Reggio di Calabria,Italy,46,Calabria,38.10922769,15.6434527
+巴勒莫,Palermo,Italy,40,Sicilia,38.11569725,13.3623567
+墨西拿,Messina,Italy,16,Sicilia,38.19395845,15.55572302
+韦伯巴伦提亚,Vibo Valentia,Italy,6,Calabria,38.67624147,16.10157414
+卡坦萨洛,Catanzaro,Italy,14,Calabria,38.90597598,16.59440194
+克罗托恩,Crotone,Italy,21,Calabria,39.08036878,17.12538864
+萨尔德尼亚,Sud Sardegna,Italy,5,Sardegna,39.16641462,8.526242676
+卡利亚里,Cagliari,Italy,27,Sardegna,39.21531192,9.110616306
+科森萨,Cosenza,Italy,27,Calabria,39.29308681,16.25609692
+奥利斯塔诺,Oristano,Italy,2,Sardegna,39.90381075,8.591183151
+,Nuoro,Italy,20,Sardegna,40.32318834,9.330296393
+,Lecce,Italy,62,Puglia,40.35354285,18.1718973
+塔兰托,Taranto,Italy,17,Puglia,40.47354739,17.23237181
+布林迪西,Brindisi,Italy,52,Puglia,40.63848545,17.94601575
+博腾撒,Potenza,Italy,16,Basilicata,40.63947052,15.80514834
+马特拉,Matera,Italy,4,Basilicata,40.66751177,16.59792442
+萨勒莫,Salerno,Italy,65,Campania,40.67821961,14.7594026
+萨萨里,Sassari,Italy,63,Sardegna,40.72667657,8.559667131
+那不勒斯,Napoli,Italy,258,Campania,40.83956555,14.25084984
+阿维里诺,Avellino,Italy,56,Campania,40.91404699,14.79528803
+卡瑟尔塔,Caserta,Italy,65,Campania,41.07465878,14.33240464
+巴里,Bari,Italy,95,Puglia,41.12559576,16.86736689
+本内文托,Benevento,Italy,4,Campania,41.12969987,14.78151683
+,Barletta-Andria-Trani,Italy,23,Puglia,41.22705039,16.29520432
+佛吉亚,Foggia,Italy,91,Puglia,41.46226865,15.54305094
+拉蒂娜,Latina,Italy,23,Lazio,41.46759465,12.90368482
+坎波巴索,Campobasso,Italy,25,Molise,41.55774754,14.65916051
+伊瑟尼亚,Isernia,Italy,0,Molise,41.58800826,14.22575407
+弗洛塞诺恩,Frosinone,Italy,49,Lazio,41.63964569,13.35117161
+罗马,Roma,Italy,486,Lazio,41.89277044,12.48366722
+,Chieti,Italy,41,Abruzzo,42.35103167,14.16754574
+,L'Aquila,Italy,19,Abruzzo,42.35122196,13.39843823
+,Rieti,Italy,12,Lazio,42.40488444,12.86205939
+维特尔波,Viterbo,Italy,31,Lazio,42.4173828,12.10473416
+佩斯卡拉,Pescara,Italy,138,Abruzzo,42.46458398,14.21364822
+特尔尼,Terni,Italy,63,Umbria,42.56071258,12.6466875
+特拉莫,Teramo,Italy,31,Abruzzo,42.6589177,13.70439971
+格罗塞托,Grosseto,Italy,60,Toscana,42.76026758,11.11356398
+皮赛罗,Ascoli Piceno,Italy,23,Marche,42.85322304,13.57691127
+配路基亚,Perugia,Italy,129,Umbria,43.10675841,12.38824698
+费尔默,Fermo,Italy,36,Marche,43.16058534,13.71839535
+马瑟拉塔,Macerata,Italy,128,Marche,43.30023926,13.45307182
+锡耶纳,Siena,Italy,73,Toscana,43.31816374,11.33190988
+阿勒索,Arezzo,Italy,71,Toscana,43.46642752,11.88228844
+利沃诺,Livorno,Italy,59,Toscana,43.55234873,10.3086781
+安科那,Ancona,Italy,356,Marche,43.61675973,13.5188753
+比萨,Pisa,Italy,101,Toscana,43.71553206,10.40127259
+,Firenze,Italy,214,Toscana,43.76923077,11.25588885
+卢卡,Lucca,Italy,179,Toscana,43.84432283,10.50151366
+布拉托,Prato,Italy,53,Toscana,43.88062274,11.09703315
+恩培利亚,Imperia,Italy,76,Liguria,43.88570648,8.027850298
+,Pesaro e Urbino,Italy,812,Marche,43.91014021,12.91345989
+皮斯托亚,Pistoia,Italy,100,Toscana,43.933465,10.91734146
+,Massa Carrara,Italy,143,Toscana,44.03674425,10.14173829
+,Rimini,Italy,509,Emilia Romagna,44.06090087,12.5656295
+,La Spezia,Italy,65,Liguria,44.10704991,9.8281897
+,Forlì-Cesena,Italy,144,Emilia Romagna,44.22268559,12.04068608
+萨沃纳,Savona,Italy,100,Liguria,44.30750461,8.481108654
+库内奥,Cuneo,Italy,119,Piemonte,44.39329625,7.551171632
+热那亚,Genova,Italy,330,Liguria,44.41149314,8.9326992
+拉文那,Ravenna,Italy,124,Emilia Romagna,44.41722493,12.19913936
+博洛尼亚,Bologna,Italy,333,Emilia Romagna,44.49436681,11.3417208
+默德纳,Modena,Italy,460,Emilia Romagna,44.64600009,10.92615487
+,Reggio nell'Emilia,Italy,299,Emilia Romagna,44.69735289,10.63007973
+帕尔马,Parma,Italy,800,Emilia Romagna,44.80107394,10.32834985
+费拉拉,Ferrara,Italy,58,Emilia Romagna,44.83599085,11.61868934
+阿斯提,Asti,Italy,90,Piemonte,44.89912921,8.204142547
+,Alessandria,Italy,323,Piemonte,44.91297351,8.615401155
+,Piacenza,Italy,1204,Emilia Romagna,45.05193462,9.692632596
+,Rovigo,Italy,28,Veneto,45.07107289,11.79007
+都灵,Torino,Italy,749,Piemonte,45.0732745,7.680687483
+,Cremona,Italy,2073,Lombardia,45.13336675,10.02420865
+蒙托瓦,Mantova,Italy,465,Lombardia,45.15726772,10.79277363
+帕维亚,Pavia,Italy,884,Lombardia,45.18509264,9.160157191
+罗蒂,Lodi,Italy,1418,Lombardia,45.31440693,9.503720769
+,Vercelli,Italy,113,Piemonte,45.32398135,8.423234312
+,Padova,Italy,781,Veneto,45.40692987,11.87608718
+威尼斯,Venezia,Italy,378,Veneto,45.43490485,12.33845213
+维罗纳,Verona,Italy,481,Veneto,45.43839046,10.99352685
+诺瓦拉,Novara,Italy,150,Piemonte,45.44588506,8.621915884
+米兰,Milano,Italy,2326,Lombardia,45.46679409,9.190347404
+布雷西亚,Brescia,Italy,3300,Lombardia,45.53993052,10.21910323
+,Vicenza,Italy,325,Veneto,45.547497,11.54597109
+,Biella,Italy,96,Piemonte,45.5665112,8.054082167
+,Monza e della Brianza,Italy,376,Lombardia,45.58439043,9.273582472
+,Trieste,Italy,177,Friuli Venezia Giulia,45.6494354,13.76813649
+,Treviso,Italy,502,Veneto,45.66754571,12.24507363
+,Bergamo,Italy,3993,Lombardia,45.69441368,9.668424528
+,Aosta,Italy,136,Valle d'Aosta,45.73750286,7.320149366
+科莫,Como,Italy,256,Lombardia,45.8099912,9.085159546
+瓦雷斯,Varese,Italy,234,Lombardia,45.81701677,8.822868344
+,Lecco,Italy,440,Lombardia,45.85575781,9.393392246
+,Verbano-Cusio-Ossola,Italy,76,Piemonte,45.9214455,8.551078753
+,Gorizia,Italy,18,Friuli Venezia Giulia,45.94149817,13.62212502
+,Pordenone,Italy,54,Friuli Venezia Giulia,45.95443546,12.66002909
+乌迪内,Udine,Italy,145,Friuli Venezia Giulia,46.06255516,13.2348383
+特伦托,Trento,Italy,385,P.A. Trento,46.06893511,11.12123097
+,Belluno,Italy,109,Veneto,46.13837528,12.21704167
+桑德里奥,Sondrio,Italy,74,Lombardia,46.17099261,9.87147489
+博尔萨诺,Bolzano,Italy,291,P.A. Bolzano,46.49933453,11.35662422
