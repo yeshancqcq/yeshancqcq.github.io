@@ -1,527 +1,593 @@
 id,case,county,state,lat,lon,note
+141,1,Hawaii Big Island,HI,19.677,-155.11,
+142,3,Maui County,HI,20.91,-156.32,
+143,8,Honolulu,HI,21.38,-157.92,檀香山
+144,2,Kauai County,HI,22.14,-159.31,
+86,40,Miami-Dade,FL,25.7,-80.233,迈阿密大市区
+94,6,Collier County,FL,26.14,-81.79,
+85,48,Broward County,FL,26.15,-80.448,迈阿密大市区
+92,5,Lee County,FL,26.62,-81.84,
+87,13,Palm Beach County,FL,26.74,-80.12,迈阿密大市区
+103,1,Charlotte County,FL,26.89,-82.05,
+95,2,Sarasota County,FL,26.95,-82.35,
+93,7,Manatee County,FL,27.48,-82.57,
+506,1,Webb,TX,27.73,-99.506,
+104,4,Pinellas County,FL,27.75,-82.64,坦帕湾区
+89,7,Hillsborough County,FL,27.76,-82.26,坦帕湾区
+109,1,Polk County,FL,28,-81.61,
+98,6,Osceola County,FL,28.26,-81.5,
+99,2,Pasco County,FL,28.36,-82.19,坦帕湾区
+96,6,Orange County,FL,28.5,-81.26,奥兰多
+105,4,Seminole County,FL,28.744,-81.2233,
+102,1,Lake County,FL,28.812,-81.65,
+100,2,Citrus County,FL,28.9,-82.59,
+491,3,Matagorda County,TX,28.97,-95.96,
+90,9,Volusia County,FL,29.0235,-81.1721,
+514,1,DeWitt,TX,29.1,-97.36,
+485,11,Bexar County,TX,29.28,-98.73,圣安东尼奥大市区
+498,1,Alvin County,TX,29.28,-95.32,
+492,4,Galveston County,TX,29.38,-95.09,休斯敦大市区
+207,3,Terrebonne Parish,LA,29.3827,-90.8654,
+489,3,San Antonio,TX,29.39,-98.508,圣安东尼奥大市区
+499,1,Lavaca County,TX,29.44,-96.94,
+208,2,Lafourche Parish,LA,29.459,-90.502,
+486,12,Fort Bend County,TX,29.58,-95.76,休斯敦大市区
+209,40,Jefferson Parish,LA,29.664,-90.09,新奥尔良大市区
+91,7,Alachua County,FL,29.68,-82.3538,佛罗里达大学
+484,18,Harris County,TX,29.76,-95.38,休斯敦大市区
+510,1,Comal,TX,29.8163,-98.32273,圣安东尼奥大市区
+513,1,Jefferson County,TX,29.87,-94.13,
+111,1,St Johns,FL,29.93,-81.42,
+97,4,Clay County,FL,29.95,-81.815,
+210,187,Orleans Parish,LA,30.032,-89.8826,新奥尔良大市区
+500,1,Hays County,TX,30.08,-97.83,
+211,1,Ascension Parish,LA,30.204,-90.86962,
+289,2,Hancock County,MS,30.32,-89.51,
+483,23,Travis County,TX,30.32,-97.77,奥斯丁
+488,7,Montgomery County,TX,30.32,-95.47,休斯敦大市区
+88,10,Duval County,FL,30.345,-81.683,
+106,1,Baker County,FL,30.36,-82.2543,
+290,3,Harrison County,MS,30.38,-89.06,
+215,8,St Tammany,LA,30.42,-89.87,新奥尔良大市区
+291,2,Jackson County,MS,30.48,-88.55,
+511,1,Grimes,TX,30.54,-95.995,
+107,1,Nassau County,FL,30.552,-81.69,
+112,1,Walton County,FL,30.6,-86.1,
+110,1,Escambia,FL,30.61,-87.275,
+505,3,Brazos,TX,30.65,-96.34,得克萨斯农机大学
+507,4,Williamson County,TX,30.657195,-97.6025,
+108,1,Santa Rosa County,FL,30.6597,-87.04,
+101,2,Okaloosa County,FL,30.66,-86.59,
+284,4,Pearl River County,MS,30.7368,-89.5964,
+127,1,Charlton County,GA,30.83,-82,
+123,5,Lowndes County,GA,30.84,-83.252,
+4,1,Baldwin,AL,30.88,-87.77,
+493,3,Bell County,TX,31.09,-97.36,
+293,1,Perry,MS,31.17,-88.99,
+285,3,Forrest county,MS,31.31,-89.3,
+515,5,McLennen,TX,31.54,-97.166,贝勒大学
+122,6,Clayton County,GA,31.55,-84.86,亚特兰大大市区
+120,6,Dougherty County,GA,31.57,-84.17,
+137,2,Lee County,GA,31.769,-84.1,
+287,2,Copiah County,MS,31.86,-90.422,
+490,3,El Paso,TX,31.99,-106.59,厄尔帕索
+14,5,Pima County,AZ,32.15,-112.62,图森
+5,2,Montgomery County,AL,32.3,-85.99,
+504,1,Ellis,TX,32.3,-96.73,达拉斯沃斯堡大市区
+286,6,Hinds County,MS,32.312,-90.4,
+494,5,Smith County,TX,32.32,-95.3,
+509,1,Johnson County,TX,32.34,-97.35,
+501,1,Rusk County,TX,32.38,-94.59,
+292,1,Monroe,MS,32.39,-90.15,
+451,4,Beaufort County,SC,32.42,-80.68,
+6,2,Elmore County,AL,32.49,-86.33,
+502,1,Gregg County,TX,32.51,-94.76,
+212,3,Caddo Parish,LA,32.6084,-93.75723,
+213,1,Bossier Parish,LA,32.6285,-93.608,
+7,3,Lee,AL,32.65,-85.37,奥本大学
+487,8,Tarrant County,TX,32.69,-97.01,达拉斯沃斯堡大市区
+21,60,San Diego,CA,32.718,-117.14,圣迭戈
+482,39,Dallas County,TX,32.767,-96.777,达拉斯沃斯堡大市区
+214,1,Caddy Parish,LA,32.77,-92.4,
+452,3,Charleston County,SC,32.78,-79.99,查尔斯顿
+45,1,Imperial County,CA,33.02,-115.284,
+128,1,Troup County,GA,33.046,-85.04,
+16,1,Graham,AZ,33.07,-110.25,
+495,5,Hays County,TX,33.14,-96.81,
+496,10,Collin County,TX,33.193,-96.569,
+497,5,Denton County,TX,33.207,-97.116,达拉斯沃斯堡大市区
+8,4,Shelby,AL,33.22,-86.82,
+129,1,Spalding County,GA,33.26,-84.29,
+9,3,Tuscaloosa County,AL,33.28,-87.12,亚拉巴马大学
+130,1,Richmond County,GA,33.29,-82.19,
+124,3,Coweta County,GA,33.35,-84.75,亚特兰大大市区
+121,8,Fayette County,GA,33.4,-84.504,亚特兰大大市区
+15,8,Pinal County,AZ,33.42,-111.54,
+503,1,Bowie County,TX,33.44,-94.07,
+13,11,Maricopa County,AZ,33.45,-112.06,凤凰城菲尼克斯
+126,2,Henry County,GA,33.472,-84.138,亚特兰大大市区
+288,4,Leflore County,MS,33.5,-90.277,
+131,1,Newton County,GA,33.55,-83.864,
+10,22,Jefferson County,AL,33.59,-86.95,
+512,1,Fannin,TX,33.61,-96.11,
+25,29,Orange County,CA,33.64,-117.76,洛杉矶大市区
+12,1,St Clair,AL,33.691,-86.31,
+46,1,Long Beach,CA,33.78,-118.19091,洛杉矶大市区
+115,18,DeKalb County,GA,33.792,-84.186,亚特兰大大市区
+125,5,Clarke,GA,33.81,-83.5,
+295,2,Bolivar,MS,33.82,-90.94,
+113,49,Fulton County,GA,33.84,-84.474,亚特兰大大市区
+47,1,Manhattan Beach,CA,33.893,-118.4,
+453,3,Lexington County,SC,33.9,-81.54,南卡大学
+114,28,Cobb County,GA,33.91,-84.557,亚特兰大大市区
+132,1,Paulding County,GA,33.928,-84.88,
+27,16,Riverside,CA,33.95,-117.4,洛杉矶大市区/加州大学河滨分校
+117,7,Gwinnett County,GA,33.9605,-84.03,亚特兰大大市区
+454,4,Horry County,SC,33.99,-79.2,
+133,1,Polk County,GA,33.9981,-85.1722,
+139,1,Barrow,GA,34.01,-83.7,
+508,1,Wichita,TX,34.02,-98.687,
+19,190,Los Angeles,CA,34.042,-118.21,洛杉矶大市区
+302,1,Brunswick County,NC,34.06,-78.2,
+40,3,San Bernardino County,CA,34.101,-117.28,洛杉矶大市区
+30,11,Ventura County,CA,34.16,-119.18,洛杉矶大市区
+134,2,Forsyth County,GA,34.193,-84.09,
+17,2,Navajo,AZ,34.23,-110.07,
+116,19,Bartow County,GA,34.24,-84.845,
+118,9,Cherokee County,GA,34.243,-84.458,
+296,2,Coahoma,MS,34.25,-90.679,
+591,3,Jefferson,AR,34.27,-91.835,
+135,1,Hall County,GA,34.3,-83.83,
+119,6,Floyd County,GA,34.33,-85.23,
+48,1,Santa Clarita,CA,34.4,-118.4,洛杉矶大市区
+455,22,Kershaw County,SC,34.41,-80.34,
+43,2,Santa Barbara,CA,34.42,-119.72,加州大学圣巴巴拉分校
+352,2,Socorro County,NM,34.47,-106.8,
+136,1,Gordon County,GA,34.507,-84.878,
+456,2,Lancaster County,SC,34.59,-80.67,
+410,1,Jackson County,OK,34.64,-99.31,
+310,1,Onslow County,NC,34.692578,-77.388,
+11,1,Limestone County,AL,34.78,-86.95,
+138,1,Whitfield,GA,34.8,-84.99,
+294,2,DeSoto,MS,34.85,-90,
+311,1,Sampson County,NC,34.93,-78.3,
+457,1,Spartanburg County,SC,34.94,-81.92,
+349,16,Bernalillo County,NM,35.1,-106.37,阿尔伯克基
+312,1,Craven County,NC,35.111,-77.06,
+472,1,Memphis,TN,35.135,-90.056,孟菲斯
+590,29,Unassigned,AR,35.151,-92.56,
+411,2,Cleveland County,OK,35.153,-97.4059,俄克拉荷马城大市区
+458,1,Greenville County,SC,35.17,-82.18,
+468,4,Shelby,TN,35.2,-89.97,
+473,1,Hamilton County,TN,35.221,-85.2,
+305,13,Mecklenburg County,NC,35.25,-80.8,夏洛特
+33,6,San Luis Obispo County,CA,35.2842,-120.66,加州理工州立大学
+55,1,Kern,CA,35.29,-118.9,
+313,1,Cabarrus County,NC,35.346,-80.54,
+350,5,Santa Fe County,NM,35.37,-106.14,圣塔菲
+314,1,Wayne County,NC,35.373,-78.05,
+351,4,Sandoval County,NM,35.38,-106.47,
+306,3,Harnett County,NC,35.388,-78.876,
+319,1,Lincoln County,NC,35.48,-81.23,
+412,1,Canadian County,OK,35.526,-97.99,俄克拉荷马城大市区
+308,2,Johnston County,NC,35.53,-78.386,北卡三角区
+413,2,Oklahoma County,OK,35.551,-97.40753,俄克拉荷马城大市区
+307,3,Chatham County,NC,35.696,-79.23,北卡三角区
+315,1,Wilson,NC,35.742,-77.95,
+470,2,Middle Tennessee,TN,35.75,-85.45582,
+316,1,Iredell County,NC,35.77,-80.9,
+304,17,Wake County,NC,35.79,-78.62,北卡三角区
+474,1,Rutherford County,TN,35.86,-86.42279,
+467,24,Williamson County,TN,35.8797,-86.907,
+414,3,Tulsa County,OK,35.94,-95.87,塔尔萨
+415,1,Payne County,OK,35.97,-96.76,
+471,2,Knox,TN,35.99,-83.962,田纳西大学
+592,1,Washington,AR,35.994,-94.22,阿肯色大学
+320,1,Orange County,NC,36.05,-79.1,北卡三角区
+303,16,Durham County,NC,36.05149,-78.85,北卡三角区
+317,1,Guilford County ,NC,36.077,-79.789,
+309,2,Forsyth County,NC,36.11,-80.278,
+354,42,Clark,NV,36.14,-115.28,拉斯维加斯
+469,3,Nashville,TN,36.148,-86.77,纳什维尔大市区
+466,58,Davidson,TN,36.1869,-86.7851,
+481,1,Cheatham County,TN,36.2,-87,
+318,1,Watauga,NC,36.251,-81.6,
+475,1,Jefferson County,TN,36.26,-89.32,
+476,1,Sevier County,TN,36.26,-89.32,
+38,4,Tulare County,CA,36.27,-118.77,
+416,1,Pawnee County,OK,36.29,-96.46,
+353,1,Taos,NM,36.38,-105.58,
+477,1,Campbell,TN,36.384,-84.138,
+479,2,Sumner,TN,36.448,-86.481,
+480,1,Robertson,TN,36.501,-86.85,
+478,1,Sullivan,TN,36.5054,-82.263,
+417,2,Kay County,OK,36.72,-97.06,
+523,3,Virginia Beach City,VA,36.73,-76.04,
+41,2,Fresno County,CA,36.75,-119.64,弗雷斯诺州立大学
+39,3,San Benito,CA,36.89,-121.24,
+28,13,Santa Cruz,CA,36.97,-121.89,加州大学圣克鲁斯分校
+49,1,Gilroy,CA,37,-121.58,
+206,1,Lyon,KY,37.0236,-88.05,
+524,1,Charlottesville City,VA,37.05,-78.63,弗吉尼亚大学
+525,12,James City County,VA,37.22,-76.76,
+526,1,York County,VA,37.23,-76.5,
+50,1,Madera County,CA,37.27,-119.7,
+527,1,Williamsburg,VA,37.278,-76.703,威廉玛丽学院
+528,1,Prince Edward County,VA,37.29,-78.39,
+42,2,San Jose,CA,37.31,-121.88,圣何塞
+276,3,Greene County,MO,37.31,-93.58,
+18,175,Santa Clara,CA,37.36,-122.14,斯坦福大学
+20,80,San Mateo,CA,37.5,-122.3,
+529,4,Chesterfield County,VA,37.5,-77.63,
+517,1,Southwest Utah,UT,37.622,-113.5,
+530,1,Goochland,VA,37.63,-77.79,
+531,2,Henrico County,VA,37.66,-77.48,
+193,1,Ford County,KS,37.75,-100.01,
+22,51,San Francisco,CA,37.77,-122.41,旧金山
+26,30,Alameda County,CA,37.77,-122.27,
+199,1,Nelson County,KY,37.81,-85.46,
+24,39,Contra Costa County,CA,37.86,-121.64,
+51,1,Berkeley,CA,37.87,-122.28,加州大学伯克利分校
+29,13,San Joaquin County,CA,37.9,-121.22,
+37,4,Stanislaus County,CA,37.96,-120.87,
+200,2,Montgomery,KY,37.96,-83.82,
+31,15,Marin County,CA,37.97,-122.5,
+201,1,Clark County,KY,37.99,-84.18,
+194,1,Butler County,KS,38.03,-96.63,
+202,7,Fayette County,KY,38.04,-84.45,肯塔基大学
+44,2,Calaveras County,CA,38.07,-120.55,
+32,7,Solano County,CA,38.11,-122.13,
+70,1,Pueblo County,CO,38.128,-104.5514,
+52,1,Napa County,CA,38.18,-122.25,
+140,1,Augusta County,GA,38.183,-79.142,
+203,8,Jefferson County,KY,38.25,-85.48,路易威尔
+532,1,Spotsylvania County,VA,38.29,-77.48,
+533,1,Stafford County,VA,38.29,-77.48,
+204,1,Bourbon County,KY,38.3,-84.14,
+178,1,Floyd County,IN,38.31,-85.86,
+35,4,Sonoma County,CA,38.33,-122.97,
+192,1,Clark,IN,38.43,-85.704,
+235,2,Charles,MD,38.43,-76.9,
+534,1,Harrisonburg ,VA,38.439,-78.871183,
+195,1,Franklin County,KS,38.44,-95.08,
+166,3,St Clair,IL,38.5,-89.99,圣路易斯大市区
+205,6,Harrison County,KY,38.52,-84.38,
+280,1,Cole County,MO,38.53,-92.24,
+278,1,Henry County,MO,38.55,-93.95,
+163,3,Clinton County,IL,38.57,-89.4233,
+23,40,Sacramento,CA,38.58,-121.49,萨克拉门托
+36,4,Yolo County,CA,38.59,-121.54,
+277,6,Sant Louis,MO,38.6534,-90.243,圣路易斯大市区
+62,11,Gunnison County,CO,38.67,-106.83,
+196,12,Johnson County,KS,38.71,-94.71,
+83,1,Sussex,DE,38.72,-75.35,费城大市区
+535,3,Prince William County,VA,38.72,-77.4679,
+229,8,Howard,MD,38.74,-76.85,
+232,1,Talbot County,MD,38.77,-76.06,
+279,1,Cass County,MO,38.81,-94.53,
+536,2,Alexandria,VA,38.81,-77.054,
+67,4,El Paso County,CO,38.825,-104.56,科罗拉多泉城
+71,1,Highlands Ranch,CO,38.825246,-104.561,
+173,1,Madison,IL,38.8282,-89.936,圣路易斯大市区
+537,12,Fairfax County,VA,38.83,-77.2,
+538,13,Arlington,VA,38.88,-77.1,
+81,22,Washington,DC,38.91,-77.01,华盛顿哥伦比亚特区
+281,1,Boone County,MO,38.94,-92.3,密苏里大学
+227,31,Montgomery County,MD,38.97,-77.1,
+237,20,Prince George's,MD,38.985,-76.931,马里兰大学
+34,9,Placer County,CA,39,-121.09,
+191,1,Jennings,IN,39,-85.618,
+282,2,Jackson County,MO,39.03,-94.35,堪萨斯城
+197,4,Wyandotte County,KS,39.05,-94.88,
+72,1,Mesa County,CO,39.08,-108.55,
+539,5,Loudoun County,VA,39.085,-77.64,
+84,1,Kent,DE,39.108,-75.44,
+230,4,Anne Arundel County,MD,39.12,-76.77,海军学院
+356,1,Carson City,NV,39.14,-119.7619,
+53,1,Nevada County,CA,39.16,-120.95,
+60,11,Pitkin County,CO,39.19,-106.82,
+69,2,Aspen County,CO,39.19842,-106.836,
+179,1,Bartholomew County,IN,39.21,-85.91,
+198,2,Leavenworth,KS,39.23,-95.06,
+167,1,Cumberland County,IL,39.274,-88.24,
+236,4,Baltimore City,MD,39.28,-76.61,巴尔的摩
+355,12,Washoe County,NV,39.28,-119.95,
+586,1,Jefferson County,WV,39.31,-77.87,
+63,10,Douglas County,CO,39.348,-104.99,
+233,1,Frederick,MD,39.42,-77.41,
+180,1,Franklin County,IN,39.49,-84.83,
+231,2,Carroll County,MD,39.49,-76.88,
+175,3,Johnson County,IN,39.51,-86.16,
+228,10,Baltimore County,MD,39.51,-76.49,巴尔的摩
+234,3,Harford,MD,39.51,-76.17,
+392,8,Butler County,OH,39.52,-84.64,
+59,17,Jefferson County,CO,39.524,-105.2,
+73,1,Garfield County,CO,39.54,-107.33,
+190,1,Fayette County,IN,39.576,-85.19,
+82,17,New Castle,DE,39.58,-75.68,费城大市区
+57,34,Eagle County,CO,39.63799,-106.64,
+66,5,Summit County,CO,39.641,-106.105,
+58,18,Arapahoe County,CO,39.651,-104.382,
+176,4,Hendricks County,IN,39.68,-86.61,
+74,1,Clear Creek County,CO,39.708,-105.66,
+174,11,Marion County,IN,39.71,-86.08,
+56,38,Denver County,CO,39.739,-104.9,丹佛
+161,4,Sangamon  County,IL,39.75,-89.6,
+342,8,Ocean County,NJ,39.75,-74.22,纽约大市区
+409,1,Montgomery County,OH,39.75,-84.268,代顿大学
+347,2,Gloucester County,NJ,39.8,-75.34,费城大市区
+64,7,Adams County,CO,39.868,-104.3793,
+344,8,Camden County,NJ,39.9,-74.99,费城大市区
+181,1,Hancock County,IN,39.93,-85.84,
+431,34,Philadelphia,PA,39.95,-75.16,费城大市区
+398,2,Belmont County,OH,39.98,-81.17,
+61,11,Boulder County,CO,40,-105.282,科罗拉多大学
+434,14,Delaware County,PA,40,-75.29,费城大市区
+446,1,Lancaster,PA,40.03,-76.3,富兰克林马绍尔学院
+182,1,Boone County,IN,40.05,-86.47,
+341,10,Burlington County,NJ,40.06,-74.92,费城大市区
+436,9,Chester County,PA,40.06,-75.4,费城大市区
+393,7,Franklin County,OH,40.07,-83.18,哥伦布市
+168,1,Champaign County,IL,40.14,-88.196,伊利诺伊大学香槟分校
+183,2,Hamilton County,IN,40.17,-86.02,
+400,1,Darke County,OH,40.21,-84.63,
+438,2,Washington County,PA,40.21,-80.178,匹兹堡大市区
+432,10,Cumberland County,PA,40.24,-76.92,哈里斯堡
+345,15,Mercer,NJ,40.26,-74.52,
+401,1,Tuscarawas County,OH,40.27,-81.59,
+407,1,Delaware County,OH,40.28,-82.997,
+518,2,Wasatch County,UT,40.2957,-111.254087,
+336,32,Monmouth County,NJ,40.34,-74.06,纽约大市区
+430,42,Montgomery County,PA,40.4,-75.5,
+448,1,Berks,PA,40.4,-75.984,
+433,12,Allegheny County,PA,40.44,-79.99,匹兹堡大市区
+75,1,Routt County,CO,40.46,-107.034,
+177,2,Howard County,IN,40.47,-86.13,
+402,2,Coshocton County,OH,40.47,-82.19,
+65,6,Weld County,CO,40.5,-104.31,
+519,1,Tooele,UT,40.54153,-112.313,
+435,8,Bucks County,PA,40.55,-75.24,费城大市区
+343,40,Middlesex,NJ,40.58,-74.27,纽约大市区/罗格斯大学
+54,1,Shasta,CA,40.6,-122.46,
+68,3,Larimer County,CO,40.628,-105.5686,柯林斯堡
+339,16,Somerset County,NJ,40.63,-74.51,纽约大市区
+184,1,Adams County,IN,40.65,-84.95,
+337,26,Union,NJ,40.65,-74.3,纽约大市区
+335,34,Hudson County,NJ,40.66,-74.11,纽约大市区
+439,2,Beaver County,PA,40.66,-80.33,匹兹堡大市区
+440,1,Lehigh ,PA,40.66,-75.55,阿伦敦大市区
+520,20,Salt Lake County,UT,40.66,-111.904,盐湖城
+346,6,Hunterdon County,NJ,40.71,-74.83,纽约大市区
+359,278,Nassau County,NY,40.72,-73.7,纽约大市区
+169,1,Peoria County,IL,40.74,-89.717,
+185,1,Wells County,IN,40.74,-85.17,
+170,1,Woodford County,IL,40.761,-89.24,
+357,3031,New York City,NY,40.77,-73.95,纽约大市区
+360,116,Suffolk County,NY,40.77,-73.95,纽约大市区/石溪大学
+334,45,Essex,NJ,40.81,-74.18,纽约大市区
+406,1,Ashland County,OH,40.81,-82.28,
+348,1,Warren,NJ,40.84,-74.98,
+441,1,Northampton County,PA,40.84,-75.17,阿伦敦大市区
+333,114,Bergen,NJ,40.85,-74.08,纽约大市区
+338,18,Passaic,NJ,40.86,-74.15,纽约大市区
+437,8,Monroe,PA,40.88,-75.47,
+340,19,Morris,NJ,40.9,-74.4,纽约大市区
+521,8,Summit County,UT,40.9,-110.82,
+396,3,Stark County,OH,40.91,-81.11,
+522,4,Davis County,UT,40.915,-111.909,
+442,1,Luzerne ,PA,40.95,-75.97,
+449,3,Centre County,PA,40.972,-77.7,宾夕法尼亚州立大学
+403,3,Mahoning County,OH,41.02,-80.93,扬斯敦州立大学
+325,1,Cass County,NE,41.04,-96.09,
+328,1,Sarpy County,NE,41.09,-96.09,
+443,2,Pike County,PA,41.09,-75,
+361,31,Rockland County,NY,41.11,-74.14,纽约大市区
+408,1,Huron,OH,41.141,-82.589,
+365,15,Orange County,NY,41.22,-74.18,西点军校
+366,20,Erie County,NY,41.22,-78.49,布法罗
+145,1,Pottawattamie County,IA,41.24,-95.85,
+397,4,Medina County,OH,41.24,-81.82,
+358,538,Westchester County,NY,41.29,-73.76,纽约大市区
+394,4,Summit County,OH,41.31,-81.49,阿克隆大学
+589,3,Laramie,WY,41.328,-104.666,夏延
+152,1,Adair,IA,41.33,-94.47,
+76,10,New Haven County,CT,41.34,-73.06,纽黑文
+326,20,Douglas County,NE,41.36,-96.15,奥马哈
+391,38,Cuyahoga County,OH,41.36,-81.86,克利夫兰
+186,1,Lake County,IN,41.37,-87.43,芝加哥大市区
+399,2,Trumbull County,OH,41.38,-80.87,
+77,69,Fairfield County,CT,41.39,-73.31,
+187,1,Noble County,IN,41.39,-85.41,
+371,1,Putnam County,NY,41.39,-73.61,纽约大市区
+395,6,Lorain County,OH,41.4,-82.23,
+447,1,Lackawanna,PA,41.4,-75.63,斯克兰顿
+80,1,Middlesex County,CT,41.45,-72.52,
+164,3,Will County,IL,41.46,-87.89,芝加哥大市区
+404,1,Geauga County,OH,41.47,-81.14,
+189,1,LaPorte,IN,41.49,-86.7,芝加哥大市区
+146,18,Johnson County,IA,41.57,-91.53,艾奥瓦大学
+147,1,Carroll County,IA,41.58,-93.63,
+148,3,Dallas County,IA,41.58,-93.63,
+149,1,Polk County,IA,41.58,-93.63,
+444,1,Wayne County,PA,41.6,-75.15,
+516,1,Bear River,UT,41.6083,-112.123,
+372,1,Sullivan,NY,41.65,-74.68,
+188,1,St Joseph,IN,41.67,-86.276,圣母大学
+450,23,Providence,RI,41.72,-71.62,普罗维登斯
+405,2,Lake County,OH,41.74,-81.28,
+171,1,Whiteside County,IL,41.75,-89.939,
+224,2,Barnstable,MA,41.75,-70.61,
+158,178,Cook County,IL,41.813,-87.8931,芝加哥大市区
+159,45,DuPage County,IL,41.8397,-88.08,芝加哥大市区
+362,20,Dutchess County,NY,41.84,-73.55,
+150,1,Harrison County,IA,41.85,-95.59,
+78,11,Hartford County,CT,41.87,-72.67,
+363,9,Ulster County,NY,41.93,-73.99,
+162,4,Kane County,IL,41.9371,-88.42,芝加哥大市区
+254,1,Monroe County,MI,42.01,-83.66,
+222,5,Bristol,MA,42.02,-71.17,
+79,5,Litchfield County,CT,42.03,-73.33,
+225,2,Hampden,MA,42.06,-72.61,
+373,1,Tioga County,NY,42.07,-76.16,
+226,1,Franklin,MA,42.08,-71.407,
+217,46,Norfolk,MA,42.09,-71.47,波士顿大市区
+374,1,Broome County,NY,42.1,-75.97,
+445,1,Erie,PA,42.12,-80.05,
+219,17,Berkshire County,MA,42.17,-73.03,
+223,5,Plymouth,MA,42.17,-70.88,
+262,1,Jackson,MI,42.247,-84.42,
+247,23,Wayne County,MI,42.25,-83.21,底特律大市区
+375,1,Greene County,NY,42.26,-73.81,
+249,7,Washtenaw County,MI,42.27,-83.73,底特律大市区/密歇根大学
+418,1,Jackson County,OR,42.28,-122.9,
+253,2,Detroit,MI,42.3,-83,底特律大市区
+160,18,Lake County,IL,42.32,-87.974,芝加哥大市区
+165,4,McHenry County,IL,42.32,-88.4513,
+172,1,Winnebago County,IL,42.32,-89.1702,
+218,51,Suffolk,MA,42.35,-71.06,波士顿大市区
+376,1,Delaware County,NY,42.4,-74.61,
+220,10,Worcester,MA,42.42,-72.1,伍斯特
+364,36,Albany County,NY,42.45,-74.03,奥尔巴尼
+153,1,Black Hawk,IA,42.469,-92.3,
+377,2,Allegany,NY,42.47,-78.25,
+387,1,Chenango,NY,42.47,-75.591,
+587,2,Fremont County,WY,42.48,-107.84,
+369,3,Tompkins County,NY,42.49,-76.29,康奈尔大学
+575,4,Kenosha County ,WI,42.52,-88.24,
+246,59,Oakland County,MI,42.58,-83.14,底特律大市区
+221,14,Essex,MA,42.65,-71.14,波士顿大市区
+327,2,Knox,NE,42.66,-97.89,
+585,1,Walworth,WI,42.669,-88.54,
+579,1,Racine County,WI,42.67,-88.27,
+216,100,Middlesex County,MA,42.68,-71.81,波士顿大市区
+251,3,Ingham County,MI,42.7,-84.41,密歇根州立大学
+386,1,Rensselaer,NY,42.711,-73.52,伦斯勒理工学院
+370,2,Onondaga County,NY,42.81,-76.07,雪城大学
+419,1,Klamath County,OR,42.81,-121.584,
+252,2,St Clair,MI,42.82,-82.6655,底特律大市区
+248,10,Macomb County,MI,42.84,-82.88,底特律大市区
+367,14,Schenectady County,NY,42.85,-73.9,
+329,4,Hillsborough County,NH,42.86,-71.61,
+573,23,Dane County,WI,42.86,-89.53,威斯康辛大学麦迪逊分校
+378,1,Ontario County,NY,42.88,-77.28,
+368,14,Saratoga County,NY,42.92,-73.84,
+379,2,Montgomery County,NY,42.94,-74.19,
+572,47,Milwaukee County,WI,42.94,-87.86,密尔沃基
+250,5,Kent County,MI,42.95,-85.48,
+255,1,Ottawa County,MI,42.98,-85.95,
+385,1,Genesee,NY,42.99,-78.1,
+330,14,Rockingham County,NH,43,-71.34,
+459,1,Charles Mix County,SD,43.03,-98.18,
+576,5,Waukesha County,WI,43.06,-88.11,
+460,1,Bon Homme County,SD,43.14,-97.71,
+256,1,Montcalm County,MI,43.17,-84.84,
+380,1,Monroe County,NY,43.19,-77.86,罗彻斯特大学
+381,2,Oneida,NY,43.23,-75.88,
+541,3,Bennington,VT,43.23,-72.89,
+382,1,Herkimer County,NY,43.24,-75.03,
+420,1,Douglas,OR,43.3253,-123.132,
+242,2,York County,ME,43.369,-70.6,
+388,1,Washington County,NY,43.37,-73.44,
+154,4,Blaine,ID,43.39,-114.24,
+151,2,Allamakee County,IA,43.46,-91.51,
+389,1,Warren,NY,43.51,-73.8,
+461,1,McCook County,SD,43.59,-97.29,
+257,1,Bay County,MI,43.6,-84.07,
+577,4,Sheboygan County,WI,43.62,-87.94,
+542,3,Windsor,VT,43.65,-72.32,
+390,1,Hamilton County,NY,43.66,-74.4,
+157,1,Madison,ID,43.7,-111.688,
+155,1,Teton County,ID,43.73,-111.22,
+238,24,Cumberland County,ME,43.73,-69.99,
+462,1,Davison County,SD,43.73,-98.03,纳什维尔大市区
+463,4,Minnehaha County,SD,43.75,-96.73,
+574,12,Fond du Lac County,WI,43.77,-88.44,
+383,1,Essex,NY,43.78,-73.97,
+156,3,Ada,ID,43.79,-116.38,博伊西州立大学
+583,2,La Crosse,WI,43.82,-91.21,
+331,1,Carroll County,NH,43.83,-71.47,
+332,7,Grafton County,NH,43.95,-71.5,达特茅斯学院
+241,1,Knox,ME,43.98,-69.33,
+543,1,Orange County,VT,43.99,-72.12,
+266,5,Olmsted County,MN,44.01,-92.47,
+578,3,Winnebago County,WI,44.01,-88.55,
+545,1,Addison,VT,44.028,-73.089,
+275,1,Blue Earth,MN,44.057,-94.069,
+421,6,Deschutes County,OR,44.07,-121.25,
+464,1,Pennington County,SD,44.07,-103.23,
+239,3,Androscoggin,ME,44.08,-70.24,
+270,1,Waseca County,MN,44.11,-93.7,
+245,1,Oxford,ME,44.13,-70.511,
+544,1,Washington,VT,44.26,-72.57,
+240,3,Lincoln County,ME,44.27,-69.49,
+465,1,Beadle County,SD,44.37,-98.04,
+244,1,Kennebec,ME,44.415,-69.75,
+584,1,Brown,WI,44.46,-88.005,绿湾
+580,1,Outagamie,WI,44.47,-88.45,
+540,4,Chittenden,VT,44.48,-73.22,
+422,15,Linn,OR,44.497,-122.52,
+265,6,Dakota County ,MN,44.58,-93.09,明尼苏达双城大市区
+581,1,Wood,WI,44.66,-90.17,
+384,1,Clinton County,NY,44.69,-73.45,
+258,1,Grand Traverse County,MI,44.76,-85.48,
+271,1,Carver County,MN,44.76,-93.62,明尼苏达双城大市区
+272,1,Renville County,MN,44.76,-94.89,
+582,1,Pierce County,WI,44.77,-92.43,
+588,2,Sheridan County,WY,44.79,-106.95,
+243,1,Penobscot,ME,44.881,-68.677,缅因大学
+423,1,Polk,OR,44.898,-123.38,
+268,2,Washington County,MN,44.9,-92.81,明尼苏达双城大市区
+264,11,Ramsey County,MN,44.94,-93.1,明尼苏达双城大市区
+424,4,Marion,OR,44.985,-122.45,
+263,24,Hennepin County,MN,45.017,-93.473,明尼苏达双城大市区
+259,1,Otsego County,MI,45.02,-84.67,
+261,1,Leelanau,MI,45.05,-85.629,
+425,1,Clackamas,OR,45.17,-122.25,波特兰大市区
+426,1,Yamhill County,OR,45.174,-122.25,
+273,1,Wright County,MN,45.23,-93.66,明尼苏达双城大市区
+260,1,Charlevoix County,MI,45.34,-85.15,
+267,3,Anoka County,MN,45.4,-93.26,明尼苏达双城大市区
+269,3,Stearns County,MN,45.41,-94.04,
+427,21,Washington County,OR,45.549,-123.11,波特兰大市区
+428,2,Multnomah County,OR,45.58,-122.374,波特兰大市区
+274,1,Benton County,MN,45.66,-93.9,
+297,3,Gallatin,MT,45.81,-111.15,
+429,2,Umatilla,OR,45.9,-119.298,
+552,4,Clark,WA,45.93,-122.44,
+298,2,Yellowstone,MT,45.98,-108.68,黄石国家公园
+299,1,Silver Bow,MT,46,-112.44,
+300,1,Broadwater,MT,46.2,-111.63,
+560,1,Columbia,WA,46.31,-117.9,西雅图大市区
+561,1,Cowlitz County,WA,46.36,-123.07,
+571,1,Franklin County,WA,46.466,-118.8,
+562,1,Lewis,WA,46.53,-122.14,西雅图大市区
+324,1,Morton,ND,46.63,-101.32,
+563,7,Yakima,WA,46.71,-120.42,
+554,5,Thurston,WA,46.82,-122.27,西雅图大市区
+301,3,Missoula,MT,46.85,-113.99,密苏拉
+323,1,Cass County,ND,46.9,-97.22,
+322,2,Burleigh,ND,46.98,-100.518,
+555,3,Kittitas,WA,46.98,-120.42,
+549,56,Pierce,WA,47.15,-122.7,
+570,1,Grays Harbor,WA,47.16,-123.8,
+556,7,Grant County,WA,47.27,-119.59,
+564,1,Grant,WA,47.27,-119.59,
+569,1,Mason,WA,47.34,-123.153,
+565,1,Lincoln,WA,47.51,-117.92,
+568,1,Lincoln,WA,47.61,-118.39,
+559,4,Spokane County,WA,47.64,-117.56,
+557,3,Kitsap,WA,47.6868,-122.73,
+558,3,Jefferson,WA,47.69,-122.99,
+546,569,King County,WA,47.71,-122.22,东华盛顿大学
+548,55,Unassigned,WA,47.85,-122.22,
+567,1,Chelan,WA,47.9,-120.52,
+547,310,Snohomish,WA,47.92,-122,
+550,14,Island,WA,47.95,-122.41,
+321,2,Ward County,ND,48.23,-101.29,
+566,1,Oak Harbor,WA,48.29,-122.628,
+551,14,Skagit,WA,48.46,-122.6,
+553,7,Whatcom,WA,48.7,-122.19,
+3,1,Ketchikan Gateway Borough,AK,55.55,-131.121,
 1,2,Anchorage,AK,61.61,-149.58,安克雷奇
 2,3,Fairbanks North Star,AK,64.84,-147.713,费尔班克斯
-3,1,Ketchikan Gateway Borough,AK,55.55,-131.121,
-4,1,Baldwin,AL,30.88,-87.77,
-5,2,Montgomery County,AL,32.3,-85.99,
-6,2,Elmore County,AL,32.49,-86.33,
-7,3,Lee,AL,32.65,-85.37,奥本大学
-8,4,Shelby,AL,33.22,-86.82,
-9,3,Tuscaloosa County,AL,33.28,-87.12,亚拉巴马大学
-10,22,Jefferson County,AL,33.59,-86.95,
-11,1,Limestone County,AL,34.78,-86.95,
-12,1,St Clair,AL,33.691,-86.31,
-13,4,Pima County,AZ,32.15,-112.62,图森
-14,1,Graham,AZ,33.07,-110.25,
-15,3,Pinal County,AZ,33.42,-111.54,
-16,5,Maricopa County,AZ,33.45,-112.06,凤凰城菲尼克斯
-17,1,Navajo County,AZ,34.23,-110.07,
-18,155,Santa Clara,CA,37.36,-122.14,斯坦福大学
-19,144,Los Angeles,CA,34.042,-118.21,洛杉矶大市区
-20,64,San Mateo,CA,37.5,-122.3,
-21,60,San Diego,CA,32.718,-117.14,圣迭戈
-22,43,San Francisco,CA,37.77,-122.41,旧金山
-23,40,Sacramento,CA,38.58,-121.49,萨克拉门托
-24,39,Contra Costa County,CA,37.86,-121.64,
-25,29,Orange County,CA,33.64,-117.76,洛杉矶大市区
-26,27,Alameda County,CA,37.77,-122.27,
-27,16,Riverside,CA,33.95,-117.4,洛杉矶大市区/加州大学河滨分校
-28,13,Santa Cruz,CA,36.97,-121.89,加州大学圣克鲁斯分校
-29,13,San Joaquin County,CA,37.9,-121.22,
-30,11,Ventura County,CA,34.16,-119.18,洛杉矶大市区
-31,11,Marin County,CA,37.97,-122.5,
-32,7,Solano County,CA,38.11,-122.13,
-33,6,San Luis Obispo County,CA,35.2842,-120.66,加州理工州立大学
-34,5,Placer County,CA,39,-121.09,
-35,4,Sonoma County,CA,38.33,-122.97,
-36,4,Yolo County,CA,38.59,-121.54,
-37,4,Stanislaus County,CA,37.96,-120.87,
-38,3,Tulare County,CA,36.27,-118.77,
-39,3,San Benito,CA,36.89,-121.24,
-40,3,San Bernardino County,CA,34.101,-117.28,洛杉矶大市区
-41,2,Fresno County,CA,36.75,-119.64,弗雷斯诺州立大学
-42,2,San Jose,CA,37.31,-121.88,圣何塞
-43,2,Santa Barbara,CA,34.42,-119.72,加州大学圣巴巴拉分校
-44,2,Calaveras County,CA,38.07,-120.55,
-45,1,Imperial County,CA,33.02,-115.284,
-46,1,Long Beach,CA,33.78,-118.19091,洛杉矶大市区
-47,1,Manhattan Beach,CA,33.893,-118.4,
-48,1,Santa Clarita,CA,34.4,-118.4,洛杉矶大市区
-49,1,Gilroy,CA,37,-121.58,
-50,1,Madera County,CA,37.27,-119.7,
-51,1,Berkeley,CA,37.87,-122.28,加州大学伯克利分校
-52,1,Napa County,CA,38.18,-122.25,
-53,1,Nevada County,CA,39.16,-120.95,
-54,1,Shasta,CA,40.6,-122.46,
-55,1,Kern,CA,35.29,-118.9,
-56,38,Denver County,CO,39.739,-104.9,丹佛
-57,34,Eagle County,CO,39.63799,-106.64,
-58,15,Arapahoe County,CO,39.651,-104.382,
-59,13,Jefferson County,CO,39.524,-105.2,
-60,11,Pitkin County,CO,39.19,-106.82,
-61,11,Boulder County,CO,40,-105.282,科罗拉多大学
-62,8,Gunnison County,CO,38.67,-106.83,
-63,8,Douglas County,CO,39.348,-104.99,
-64,6,Adams County,CO,39.868,-104.3793,
-65,6,Weld County,CO,40.5,-104.31,
-66,5,Summit County,CO,39.641,-106.105,
-67,4,El Paso County,CO,38.825,-104.56,科罗拉多泉城
-68,3,Larimer County,CO,40.628,-105.5686,柯林斯堡
-69,2,Aspen County,CO,39.19842,-106.836,
-70,1,Pueblo County,CO,38.128,-104.5514,
-71,1,Highlands Ranch,CO,38.825246,-104.561,
-72,1,Mesa County,CO,39.08,-108.55,
-73,1,Garfield County,CO,39.54,-107.33,
-74,1,Clear Creek County,CO,39.708,-105.66,
-75,1,Routt County,CO,40.46,-107.034,
-76,8,New Haven County,CT,41.34,-73.06,纽黑文
-77,48,Fairfield County,CT,41.39,-73.31,
-78,7,Hartford County,CT,41.87,-72.67,
-79,5,Litchfield County,CT,42.03,-73.33,
-80,22,Washington,DC,38.91,-77.01,华盛顿哥伦比亚特区
-81,15,New Castle,DE,39.58,-75.68,费城大市区
-82,1,Sussex,DE,38.72,-75.35,费城大市区
-83,48,Broward County,FL,26.15,-80.448,迈阿密大市区
-84,40,Miami-Dade,FL,25.7,-80.233,迈阿密大市区
-85,13,Palm Beach County,FL,26.74,-80.12,迈阿密大市区
-86,10,Duval County,FL,30.345,-81.683,
-87,7,Hillsborough County,FL,27.76,-82.26,坦帕湾区
-88,9,Volusia County,FL,29.0235,-81.1721,
-89,6,Alachua County,FL,29.68,-82.3538,佛罗里达大学
-90,5,Lee County,FL,26.62,-81.84,
-91,7,Manatee County,FL,27.48,-82.57,
-92,6,Collier County,FL,26.14,-81.79,
-93,2,Sarasota County,FL,26.95,-82.35,
-94,6,Orange County,FL,28.5,-81.26,奥兰多
-95,4,Clay County,FL,29.95,-81.815,
-96,6,Osceola County,FL,28.26,-81.5,
-97,2,Pasco County,FL,28.36,-82.19,坦帕湾区
-98,2,Citrus County,FL,28.9,-82.59,
-99,2,Okaloosa County,FL,30.66,-86.59,
-100,1,Lake County,FL,28.812,-81.65,
-101,1,Charlotte County,FL,26.89,-82.05,
-102,4,Pinellas County,FL,27.75,-82.64,坦帕湾区
-103,4,Seminole County,FL,28.744,-81.2233,
-104,1,Baker County,FL,30.36,-82.2543,
-105,1,Nassau County,FL,30.552,-81.69,
-106,1,Santa Rosa County,FL,30.6597,-87.04,
-107,1,Polk County,FL,28,-81.61,
-108,1,Escambia,FL,30.61,-87.275,
-109,1,St Johns,FL,29.93,-81.42,
-110,33,Fulton County,GA,33.84,-84.474,亚特兰大大市区
-111,25,Cobb County,GA,33.91,-84.557,亚特兰大大市区
-112,15,DeKalb County,GA,33.792,-84.186,亚特兰大大市区
-113,10,Bartow County,GA,34.24,-84.845,
-114,7,Gwinnett County,GA,33.9605,-84.03,亚特兰大大市区
-115,7,Cherokee County,GA,34.243,-84.458,
-116,6,Floyd County,GA,34.33,-85.23,
-117,4,Lowndes County,GA,30.84,-83.252,
-118,5,Fayette County,GA,33.4,-84.504,亚特兰大大市区
-119,3,Coweta County,GA,33.35,-84.75,亚特兰大大市区
-120,5,Clayton County,GA,31.55,-84.86,亚特兰大大市区
-121,2,Henry County,GA,33.472,-84.138,亚特兰大大市区
-122,3,Clarke,GA,33.81,-83.5,
-123,1,Charlton County,GA,30.83,-82,
-124,6,Dougherty County,GA,31.57,-84.17,
-125,1,Troup County,GA,33.046,-85.04,
-126,1,Spalding County,GA,33.26,-84.29,
-127,1,Richmond County,GA,33.29,-82.19,
-128,1,Newton County,GA,33.55,-83.864,
-129,1,Paulding County,GA,33.928,-84.88,
-130,1,Polk County,GA,33.9981,-85.1722,
-131,1,Forsyth County,GA,34.193,-84.09,
-132,1,Hall County,GA,34.3,-83.83,
-133,1,Gordon County,GA,34.507,-84.878,
-134,1,Augusta County,GA,38.183,-79.142,
-135,1,Hawaii Big Island,HI,19.677,-155.11,
-136,3,Maui County,HI,20.91,-156.32,
-137,8,Honolulu,HI,21.38,-157.92,檀香山
-138,2,Kauai County,HI,22.14,-159.31,
-139,1,Pottawattamie County,IA,41.24,-95.85,
-140,18,Johnson County,IA,41.57,-91.53,艾奥瓦大学
-141,1,Carroll County,IA,41.58,-93.63,
-142,3,Dallas County,IA,41.58,-93.63,
-143,1,Polk County,IA,41.58,-93.63,
-144,1,Harrison County,IA,41.85,-95.59,
-145,2,Allamakee County,IA,43.46,-91.51,
-146,1,Adair,IA,41.33,-94.47,
-147,1,Black Hawk,IA,42.469,-92.3,
-148,4,Blaine,ID,43.39,-114.24,
-149,1,Teton County,ID,43.73,-111.22,
-150,3,Ada,ID,43.79,-116.38,博伊西州立大学
-151,1,Madison,ID,43.7,-111.688,
-152,107,Cook County,IL,41.813,-87.8931,芝加哥大市区
-153,26,DuPage County,IL,41.8397,-88.08,芝加哥大市区
-154,7,Lake County,IL,42.32,-87.974,芝加哥大市区
-155,4,Sangamon  County,IL,39.75,-89.6,
-156,3,Kane County,IL,41.9371,-88.42,芝加哥大市区
-157,2,Clinton County,IL,38.57,-89.4233,
-158,2,Will County,IL,41.46,-87.89,芝加哥大市区
-159,2,McHenry County,IL,42.32,-88.4513,
-160,2,St Clair,IL,38.5,-89.99,圣路易斯大市区
-161,1,Cumberland County,IL,39.274,-88.24,
-162,1,Champaign County,IL,40.14,-88.196,伊利诺伊大学香槟分校
-163,1,Peoria County,IL,40.74,-89.717,
-164,1,Woodford County,IL,40.761,-89.24,
-165,1,Whiteside County,IL,41.75,-89.939,
-166,1,Winnebago County,IL,42.32,-89.1702,
-167,9,Marion County,IN,39.71,-86.08,
-168,3,Johnson County,IN,39.51,-86.16,
-169,3,Hendricks County,IN,39.68,-86.61,
-170,2,Howard County,IN,40.47,-86.13,
-171,1,Floyd County,IN,38.31,-85.86,
-172,1,Bartholomew County,IN,39.21,-85.91,
-173,1,Franklin County,IN,39.49,-84.83,
-174,1,Hancock County,IN,39.93,-85.84,
-175,1,Boone County,IN,40.05,-86.47,
-176,1,Hamilton County,IN,40.17,-86.02,
-177,1,Adams County,IN,40.65,-84.95,
-178,1,Wells County,IN,40.74,-85.17,
-179,1,Lake County,IN,41.37,-87.43,芝加哥大市区
-180,1,Noble County,IN,41.39,-85.41,
-181,1,St Joseph,IN,41.67,-86.276,圣母大学
-182,1,LaPorte,IN,41.49,-86.7,芝加哥大市区
-183,1,Ford County,KS,37.75,-100.01,
-184,1,Butler County,KS,38.03,-96.63,
-185,1,Franklin County,KS,38.44,-95.08,
-186,6,Johnson County,KS,38.71,-94.71,
-187,2,Wyandotte County,KS,39.05,-94.88,
-188,1,Nelson County,KY,37.81,-85.46,
-189,2,Montgomery,KY,37.96,-83.82,
-190,1,Clark County,KY,37.99,-84.18,
-191,7,Fayette County,KY,38.04,-84.45,肯塔基大学
-192,8,Jefferson County,KY,38.25,-85.48,
-193,1,Bourbon County,KY,38.3,-84.14,
-194,6,Harrison County,KY,38.52,-84.38,
-195,1,Lyon,KY,37.0236,-88.05,
-196,3,Terrebonne Parish,LA,29.3827,-90.8654,
-197,2,Lafourche Parish,LA,29.459,-90.502,
-198,31,Jefferson Parish,LA,29.664,-90.09,新奥尔良大市区
-199,116,Orleans Parish,LA,30.032,-89.8826,新奥尔良大市区
-200,1,Ascension Parish,LA,30.204,-90.86962,
-201,3,Caddo Parish,LA,32.6084,-93.75723,
-202,1,Bossier Parish,LA,32.6285,-93.608,
-203,1,Caddy Parish,LA,32.77,-92.4,
-204,89,Middlesex County,MA,42.68,-71.81,波士顿大市区
-205,43,Norfolk,MA,42.09,-71.47,波士顿大市区
-206,42,Suffolk,MA,42.35,-71.06,波士顿大市区
-207,14,Berkshire County,MA,42.17,-73.03,
-208,8,Worcester,MA,42.42,-72.1,伍斯特
-209,8,Essex,MA,42.65,-71.14,波士顿大市区
-210,5,Bristol,MA,42.02,-71.17,
-211,5,Plymouth,MA,42.17,-70.88,
-212,1,Barnstable,MA,41.75,-70.61,
-213,1,Hampden,MA,42.06,-72.61,
-214,4,Howard,MD,38.74,-76.85,
-215,1,Talbot County,MD,38.77,-76.06,
-216,24,Montgomery County,MD,38.97,-77.1,
-217,2,Anne Arundel County,MD,39.12,-76.77,
-218,1,Frederick,MD,39.42,-77.41,
-219,2,Carroll County,MD,39.49,-76.88,
-220,6,Baltimore County,MD,39.51,-76.49,巴尔的摩
-221,1,Harford,MD,39.51,-76.17,
-223,18,Cumberland County,ME,43.73,-69.99,
-224,1,Knox,ME,43.98,-69.33,
-225,2,Androscoggin,ME,44.08,-70.24,
-226,2,Lincoln County,ME,44.27,-69.49,
-227,16,Oakland County,MI,42.58,-83.14,底特律大市区
-228,14,Wayne County,MI,42.25,-83.21,底特律大市区
-229,8,Macomb County,MI,42.84,-82.88,底特律大市区
-230,7,Washtenaw County,MI,42.27,-83.73,底特律大市区/密歇根大学
-231,5,Kent County,MI,42.95,-85.48,
-232,3,Ingham County,MI,42.7,-84.41,密歇根州立大学
-233,1,Monroe County,MI,42.01,-83.66,
-234,1,Ottawa County,MI,42.98,-85.95,
-235,1,Montcalm County,MI,43.17,-84.84,
-236,1,Bay County,MI,43.6,-84.07,
-237,1,Grand Traverse County,MI,44.76,-85.48,
-238,1,Otsego County,MI,45.02,-84.67,
-239,1,Charlevoix County,MI,45.34,-85.15,
-240,2,St Clair,MI,42.82,-82.6655,底特律大市区
-241,2,Detroit,MI,42.3,-83,底特律大市区
-242,1,Leelanau,MI,45.05,-85.629,
-243,1,Jackson,MI,42.247,-84.42,
-244,24,Hennepin County,MN,45.017,-93.473,明尼苏达双城大市区
-245,11,Ramsey County,MN,44.94,-93.1,明尼苏达双城大市区
-246,6,Dakota County ,MN,44.58,-93.09,明尼苏达双城大市区
-247,5,Olmsted County,MN,44.01,-92.47,
-248,3,Anoka County,MN,45.4,-93.26,明尼苏达双城大市区
-249,2,Washington County,MN,44.9,-92.81,明尼苏达双城大市区
-250,3,Stearns County,MN,45.41,-94.04,
-251,1,Waseca County,MN,44.11,-93.7,
-252,1,Carver County,MN,44.76,-93.62,明尼苏达双城大市区
-253,1,Renville County,MN,44.76,-94.89,
-254,1,Wright County,MN,45.23,-93.66,明尼苏达双城大市区
-255,1,Benton County,MN,45.66,-93.9,
-256,1,Blue Earth,MN,44.057,-94.069,
-257,3,Greene County,MO,37.31,-93.58,
-,4,Sant Louis,MO,38.6534,-90.243,圣路易斯大市区
-258,1,Henry County,MO,38.55,-93.95,
-259,1,Cass County,MO,38.81,-94.53,
-,1,Cole County,MO,38.53,-92.24,
-,1,Boone County,MO,38.94,-92.3,密苏里大学
-,2,Jackson County,MO,39.03,-94.35,堪萨斯城
-260,2,Hinds County,MS,32.312,-90.4,
-261,1,Hancock County,MS,30.32,-89.51,
-262,1,Harrison County,MS,30.38,-89.06,
-263,1,Jackson County,MS,30.48,-88.55,
-264,3,Pearl River County,MS,30.7368,-89.5964,
-265,3,Forrest county,MS,31.31,-89.3,
-266,2,Copiah County,MS,31.86,-90.422,
-267,1,Monroe,MS,32.39,-90.15,
-268,2,Leflore County,MS,33.5,-90.277,
-269,1,Gallatin,MT,45.81,-111.15,
-270,2,Yellowstone,MT,45.98,-108.68,黄石国家公园
-271,1,Silver Bow,MT,46,-112.44,
-272,1,Broadwater,MT,46.2,-111.63,
-273,2,Missoula,MT,46.85,-113.99,密苏拉
-274,1,Brunswick County,NC,34.06,-78.2,
-275,16,Durham County,NC,36.05149,-78.85,北卡三角区
-276,17,Wake County,NC,35.79,-78.62,北卡三角区
-277,13,Mecklenburg County,NC,35.25,-80.8,
-278,3,Harnett County,NC,35.388,-78.876,
-279,3,Chatham County,NC,35.696,-79.23,北卡三角区
-280,2,Johnston County,NC,35.53,-78.386,北卡三角区
-281,2,Forsyth County,NC,36.11,-80.278,
-282,1,Onslow County,NC,34.692578,-77.388,
-283,1,Sampson County,NC,34.93,-78.3,
-284,1,Craven County,NC,35.111,-77.06,
-285,1,Cabarrus County,NC,35.346,-80.54,
-286,1,Wayne County,NC,35.373,-78.05,
-287,1,Wilson,NC,35.742,-77.95,
-288,1,Iredell County,NC,35.77,-80.9,
-289,1,Guilford County ,NC,36.077,-79.789,
-290,1,Watauga,NC,36.251,-81.6,
-291,1,Lincoln County,NC,35.48,-81.23,
-292,1,Orange County,NC,36.05,-79.1,北卡三角区
-293,2,Ward County,ND,48.23,-101.29,
-294,2,Burleigh,ND,46.98,-100.518,
-295,1,Cass County,ND,46.9,-97.22,
-296,1,Cass County,NE,41.04,-96.09,
-297,20,Douglas County,NE,41.36,-96.15,
-298,2,Knox,NE,42.66,-97.89,
-299,1,Sarpy County,NE,41.09,-96.09,
-300,4,Hillsborough County,NH,42.86,-71.61,
-301,14,Rockingham County,NH,43,-71.34,
-302,1,Carroll County,NH,43.83,-71.47,
-303,7,Grafton County,NH,43.95,-71.5,
-304,4,Ocean County,NJ,39.75,-74.22,纽约大市区
-305,1,Gloucester County,NJ,39.8,-75.34,费城大市区
-306,3,Camden County,NJ,39.9,-74.99,费城大市区
-307,6,Burlington County,NJ,40.06,-74.92,费城大市区
-308,3,Mercer,NJ,40.26,-74.52,
-309,22,Monmouth County,NJ,40.34,-74.06,纽约大市区
-310,4,Middlesex,NJ,40.58,-74.27,纽约大市区/罗格斯大学
-312,7,Somerset County,NJ,40.63,-74.51,纽约大市区
-313,15,Union,NJ,40.65,-74.3,纽约大市区
-314,24,Hudson County,NJ,40.66,-74.11,纽约大市区
-315,2,Hunterdon County,NJ,40.71,-74.83,纽约大市区
-316,32,Essex,NJ,40.81,-74.18,纽约大市区
-317,84,Bergen,NJ,40.85,-74.08,纽约大市区
-319,10,Passaic,NJ,40.86,-74.15,纽约大市区
-320,7,Morris,NJ,40.9,-74.4,纽约大市区
-321,1,Socorro County,NM,34.47,-106.8,
-322,14, Bernalillo County,NM,35.1,-106.37,
-323,4,Santa Fe County,NM,35.37,-106.14,
-324,2,Sandoval County,NM,35.38,-106.47,
-325,1,Taos,NM,36.38,-105.58,
-326,42,Clark,NV,36.14,-115.28,拉斯维加斯
-327,12,Washoe County,NV,39.28,-119.95,
-328,1,Carson City,NV,39.14,-119.7619,
-329,923,New York City,NY,40.77,-73.95,纽约大市区
-330,380,Westchester County,NY,41.29,-73.76,纽约大市区
-331,140,Nassau County,NY,40.72,-73.7,纽约大市区
-332,97,Suffolk County,NY,40.77,-73.95,纽约大市区/石溪大学
-333,22,Rockland County,NY,41.11,-74.14,纽约大市区
-334,16,Dutchess County,NY,41.84,-73.55,
-335,8,Ulster County,NY,41.93,-73.99,
-336,25,Albany County,NY,42.45,-74.03,奥尔巴尼
-337,15,Orange County,NY,41.22,-74.18,
-338,11,Erie County,NY,41.22,-78.49,布法罗
-339,5,Schenectady County,NY,42.85,-73.9,
-340,9,Saratoga County,NY,42.92,-73.84,
-341,3,Tompkins County,NY,42.49,-76.29,康奈尔大学
-342,2,Onondaga County,NY,42.81,-76.07,雪城大学
-343,1,Putnam County,NY,41.39,-73.61,纽约大市区
-344,1,Sullivan,NY,41.65,-74.68,
-345,1,Tioga County,NY,42.07,-76.16,
-346,1,Broome County,NY,42.1,-75.97,
-347,1,Greene County,NY,42.26,-73.81,
-348,1,Delaware County,NY,42.4,-74.61,
-349,1,Allegany,NY,42.47,-78.25,
-350,1,Ontario County,NY,42.88,-77.28,
-351,1,Montgomery County,NY,42.94,-74.19,
-352,1,Monroe County,NY,43.19,-77.86,罗彻斯特大学
-353,1,Oneida,NY,43.23,-75.88,
-354,1,Herkimer County,NY,43.24,-75.03,
-355,1,Essex,NY,43.78,-73.97,
-356,1,Clinton County,NY,44.69,-73.45,
-357,1,Genesee,NY,42.99,-78.1,
-358,6,Butler County,OH,39.52,-84.64,
-359,2,Belmont County,OH,39.98,-81.17,
-360,4,Franklin County,OH,40.07,-83.18,哥伦布市
-361,1,Darke County,OH,40.21,-84.63,
-362,1,Tuscarawas County,OH,40.27,-81.59,
-363,1,Coshocton County,OH,40.47,-82.19,
-364,3,Stark County,OH,40.91,-81.11,
-365,1,Mahoning County,OH,41.02,-80.93,
-366,3,Medina County,OH,41.24,-81.82,
-367,4,Summit County,OH,41.31,-81.49,
-368,31,Cuyahoga County,OH,41.36,-81.86,克利夫兰
-369,2,Trumbull County,OH,41.38,-80.87,
-370,4,Lorain County,OH,41.4,-82.23,
-371,1,Geauga County,OH,41.47,-81.14,
-372,1,Lake County,OH,41.74,-81.28,
-373,1,Jackson County,OK,34.64,-99.31,
-374,2,Cleveland County,OK,35.153,-97.4059,俄克拉荷马城大市区
-375,1,Canadian County,OK,35.526,-97.99,俄克拉荷马城大市区
-376,2,Oklahoma County,OK,35.551,-97.40753,俄克拉荷马城大市区
-377,3,Tulsa County,OK,35.94,-95.87,塔尔萨
-378,1,Payne County,OK,35.97,-96.76,
-379,1,Pawnee County,OK,36.29,-96.46,
-380,2,Kay County,OK,36.72,-97.06,
-381,1,Jackson County,OR,42.28,-122.9,
-382,1,Klamath County,OR,42.81,-121.584,
-383,1,Douglas,OR,43.3253,-123.132,
-384,6,Deschutes County,OR,44.07,-121.25,
-385,15,Linn,OR,44.497,-122.52,
-386,1,Polk,OR,44.898,-123.38,
-387,4,Marion,OR,44.985,-122.45,
-388,1,Clackamas,OR,45.17,-122.25,波特兰大市区
-389,1,Yamhill County,OR,45.174,-122.25,
-390,21,Washington County,OR,45.549,-123.11,波特兰大市区
-391,2,Multnomah County,OR,45.58,-122.374,波特兰大市区
-392,2,Umatilla,OR,45.9,-119.298,
-393,19,Philadelphia,PA,39.95,-75.16,费城大市区
-394,9,Delaware County,PA,40,-75.29,费城大市区
-395,6,Chester County,PA,40.06,-75.4,费城大市区
-396,10,Cumberland County,PA,40.24,-76.92,哈里斯堡
-397,34,Montgomery County,PA,40.4,-75.5,
-398,10,Allegheny County,PA,40.44,-79.99,匹兹堡大市区
-399,1,Beaver County,PA,40.66,-80.33,匹兹堡大市区
-400,2,Washington County,PA,40.21,-80.178,匹兹堡大市区
-401,8,Bucks County,PA,40.55,-75.24,费城大市区
-402,1,Lehigh ,PA,40.66,-75.55,阿伦敦大市区
-403,1,Northampton County,PA,40.84,-75.17,阿伦敦大市区
-404,4,Monroe,PA,40.88,-75.47,
-406,1,Luzerne ,PA,40.95,-75.97,
-407,1,Pike County,PA,41.09,-75,
-408,1,Wayne County,PA,41.6,-75.15,
-409,23,Providence,RI,41.72,-71.62,普罗维登斯
-410,4,Beaufort County,SC,32.42,-80.68,
-411,3,Charleston County,SC,32.78,-79.99,查尔斯顿
-412,3,Lexington County,SC,33.9,-81.54,南卡大学
-413,4,Horry County,SC,33.99,-79.2,
-414,22,Kershaw County,SC,34.41,-80.34,
-415,2,Lancaster County,SC,34.59,-80.67,
-416,1,Spartanburg County,SC,34.94,-81.92,
-417,1,Greenville County,SC,35.17,-82.18,
-418,1,Charles Mix County,SD,43.03,-98.18,
-419,1,Bon Homme County,SD,43.14,-97.71,
-420,1,McCook County,SD,43.59,-97.29,
-421,1,Davison County,SD,43.73,-98.03,纳什维尔大市区
-422,4,Minnehaha County,SD,43.75,-96.73,
-423,1,Pennington County,SD,44.07,-103.23,
-424,1,Beadle County,SD,44.37,-98.04,
-425,1,Memphis,TN,35.135,-90.056,孟菲斯
-426,3,Shelby,TN,35.2,-89.97,
-427,1,Hamilton County,TN,35.221,-85.2,
-428,2,Middle Tennessee,TN,35.75,-85.45582,
-429,1,Rutherford County,TN,35.86,-86.42279,
-430,21,Williamson County,TN,35.8797,-86.907,
-431,2,Knox,TN,35.99,-83.962,田纳西大学
-432,3,Nashville,TN,36.148,-86.77,纳什维尔大市区
-433,42,Davidson,TN,36.1869,-86.7851,
-434,1,Jefferson County,TN,36.26,-89.32,
-435,1,Sevier County,TN,36.26,-89.32,
-436,1,Campbell,TN,36.384,-84.138,
-437,1,Sullivan,TN,36.5054,-82.263,
-438,28,Dallas County,TX,32.767,-96.777,达拉斯沃斯堡大市区
-439,16,Harris County,TX,29.76,-95.38,休斯敦大市区
-440,7,Tarrant County,TX,32.69,-97.01,达拉斯沃斯堡大市区
-441,10,Fort Bend County,TX,29.58,-95.76,休斯敦大市区
-442,4,Montgomery County,TX,30.32,-95.47,休斯敦大市区
-443,11,Bexar County,TX,29.28,-98.73,圣安东尼奥大市区
-444,3,San Antonio,TX,29.39,-98.508,圣安东尼奥大市区
-445,17,Travis County,TX,30.32,-97.77,奥斯丁
-446,3,El Paso,TX,31.99,-106.59,厄尔帕索
-447,2,Matagorda County,TX,28.97,-95.96,
-448,2,Galveston County,TX,29.38,-95.09,休斯敦大市区
-449,2,Bell County,TX,31.09,-97.36,
-450,2,Smith County,TX,32.32,-95.3,
-451,2,Hay County,TX,33.14,-96.81,
-452,2,Collin County,TX,33.193,-96.569,
-453,1,Denton County,TX,33.207,-97.116,达拉斯沃斯堡大市区
-454,1,Alvin County,TX,29.28,-95.32,
-455,1,Lavaca County,TX,29.44,-96.94,
-456,1,Hays County,TX,30.08,-97.83,
-457,1,Rusk County,TX,32.38,-94.59,
-458,1,Gregg County,TX,32.51,-94.76,
-459,1,Bowie County,TX,33.44,-94.07,
-460,1,Ellis,TX,32.3,-96.73,达拉斯沃斯堡大市区
-461,1,Brazos,TX,30.65,-96.34,得克萨斯农机大学
-462,1,Webb,TX,27.73,-99.506,
-463,1,Bear River,UT,41.6083,-112.123,
-464,1,Southwest Utah,UT,37.622,-113.5,
-465,2,Wasatch County,UT,40.2957,-111.254087,
-466,1,Tooele,UT,40.54153,-112.313,
-467,20,Salt Lake County,UT,40.66,-111.904,盐湖城
-468,8,Summit County,UT,40.9,-110.82,
-469,4,Davis County,UT,40.915,-111.909,
-470,3,Virginia Beach City,VA,36.73,-76.04,
-471,1,Charlottesville City,VA,37.05,-78.63,弗吉尼亚大学
-472,12,James City County,VA,37.22,-76.76,
-473,1,York County,VA,37.23,-76.5,
-474,1,Williamsburg,VA,37.278,-76.703,威廉玛丽学院
-475,1,Prince Edward County,VA,37.29,-78.39,
-476,4,Chesterfield County,VA,37.5,-77.63,
-477,1,Goochland,VA,37.63,-77.79,
-478,2,Henrico County,VA,37.66,-77.48,
-479,1,Spotsylvania County,VA,38.29,-77.48,
-480,1,Stafford County,VA,38.29,-77.48,
-481,1,Harrisonburg ,VA,38.439,-78.871183,
-482,3,Prince William County,VA,38.72,-77.4679,
-483,2,Alexandria,VA,38.81,-77.054,
-484,12,Fairfax County,VA,38.83,-77.2,
-485,13,Arlington,VA,38.88,-77.1,
-486,5,Loudoun County,VA,39.085,-77.64,
-487,3,Bennington,VT,43.23,-72.89,
-488,2,Windsor,VT,43.65,-72.32,
-489,1,Orange County,VT,43.99,-72.12,
-490,1,Washington,VT,44.26,-72.57,
-491,3,Chittenden,VT,44.48,-73.22,
-492,1,Spokane County,WA,47.64,-117.56,东华盛顿大学
-493,4,Clark,WA,45.93,-122.44,
-494,1,Columbia,WA,46.31,-117.9,
-495,1,Cowlitz County,WA,46.36,-123.07,
-496,1,Lewis,WA,46.53,-122.14,
-497,1,Yakima,WA,46.71,-120.42,
-498,3,Thurston,WA,46.82,-122.27,
-499,3,Kittitas,WA,46.98,-120.42,
-500,45,Pierce,WA,47.15,-122.7,西雅图大市区
-501,1,Grant,WA,47.27,-119.59,
-502,3,Grant County,WA,47.27,-119.59,
-503,1,Lincoln,WA,47.51,-117.92,
-504,3,Kitsap,WA,47.6868,-122.73,
-505,2,Jefferson,WA,47.69,-122.99,
-506,569,King County,WA,47.71,-122.22,西雅图大市区
-507,70,Unassigned,WA,47.85,-122.22,
-508,266,Snohomish,WA,47.92,-122,西雅图大市区
-509,14,Island,WA,47.95,-122.41,
-510,1,Oak Harbor,WA,48.29,-122.628,
-511,9,Skagit,WA,48.46,-122.6,
-512,4,Whatcom,WA,48.7,-122.19,
-513,4,Kenosha County ,WI,42.52,-88.24,
-514,1,Racine County,WI,42.67,-88.27,
-515,19,Dane County,WI,42.86,-89.53,威斯康辛大学麦迪逊分校
-516,24,Milwaukee County,WI,42.94,-87.86,密尔沃基
-517,3,Waukesha County,WI,43.06,-88.11,
-518,3,Sheboygan County,WI,43.62,-87.94,
-519,11,Fond du Lac County,WI,43.77,-88.44,
-520,3,Winnebago County,WI,44.01,-88.55,
-521,1,Outagamie,WI,44.47,-88.45,
-522,1,Wood,WI,44.66,-90.17,
-523,1,Pierce County,WI,44.77,-92.43,
-524,1,Eastern Panhandle,WV,39.431,-78.484,
-525,2,Fremont County,WY,42.48,-107.84,
-526,2,Sheridan County,WY,44.79,-106.95,
+283,2,Kansas City,MO,39.092,-94.57,堪萨斯城
