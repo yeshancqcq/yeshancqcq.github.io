@@ -6474,6 +6474,19 @@
     "county":"Fairbanks North Star",
     "state":" AK"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.484,39.431 ]
+    },
+    "properties": {
+    "id":666,
+    "case":1,
+    "county":"Eastern Panhandle",
+    "state":"WV"
+    }
   }
 ]
 }
