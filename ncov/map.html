@@ -113,6 +113,30 @@ border: none;
 box-shadow: none;
 }
 
+/*another-popop style*/
+.another-popup4 .leaflet-popup-content-wrapper {
+background: yellow;
+color: red;
+font-family:  Georgia;
+opacity: 0.7;
+font-size: 16px;
+line-height: 24px;
+border-radius: 0;
+}
+.another-popup4.leaflet-popup-content {
+margin: 5px;
+}
+.another-popup4 .leaflet-popup-tip-container {
+width: 50px;
+height: 15px;
+}
+.another-popup4 .leaflet-popup-tip {
+background: yellow;
+opacity: 0.7;
+border: none;
+box-shadow: none;
+}
+
 /*leaflet layer control*/
 .leaflet-control-layers-toggle{
     width:auto;
@@ -150,8 +174,9 @@ box-shadow: none;
 	<div id ="intro"><p2>城市疫情数据/Data From:  <br>
 		<a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">丁香园</a> | <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">Esri/JHU Compilation</a>
 	</p2><br>
-		<p2>截止到/Last Updated: <br>  2020-03-16 22:30 (CST 芝加哥时间)</p2>
+		<p2>截止到/Last Updated: <br>  2020-03-17 18:30 (CST 芝加哥时间)</p2>
 		<div><center>右上角可切换底图和数据类型<br>Add or change basemaps and data types at the upper-right menu.</center></div>
+		<div><center>美国县级数据更新于3月17日<br>US County data updated: March 17th.</center></div>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Shan Ye's Homepage</a></center></div>
 </center>
 </center></div>
@@ -200,6 +225,7 @@ box-shadow: none;
 		var remain = L.layerGroup();
 		var recover = L.layerGroup();
 		var death = L.layerGroup();
+		var usa_cities = L.layerGroup();
 		var southWest = L.latLng(-85, -200),
 				northEast = L.latLng(85, 200),
 				mybounds = L.latLngBounds(southWest, northEast);
@@ -225,6 +251,11 @@ box-shadow: none;
 			'minWidth': '100',
 			'className' : 'another-popup3' // classname for another popup
 		}
+		var popup5 =
+		{
+			'minWidth': '100',
+			'className' : 'another-popup4' // classname for another popup
+		}
 
 		var datacircles = {
     radius: 5,
@@ -246,6 +277,23 @@ box-shadow: none;
 				else if (field < 5000) r = 25;
 				else if (field < 10000) r = 30;
 				else if (field < 20000) r = 40;
+				else if (isNaN(field)) r = 2;
+				else r = 50;
+				return r
+			}
+
+			function getR_US(i){
+				var r
+				var field = i
+				if(field < 2) r = 5;
+				else if (field < 10) r = 7;
+				else if (field < 15) r = 9;
+				else if (field < 20) r = 13;
+				else if (field < 25) r = 16;
+				else if (field < 30) r = 20;
+				else if (field < 35) r = 25;
+				else if (field < 40) r = 30;
+				else if (field < 50) r = 40;
 				else if (isNaN(field)) r = 2;
 				else r = 50;
 				return r
@@ -457,6 +505,35 @@ function getColor4(i){
 			}
 		}).addTo(recover);
 
+		var usa_cities = new L.GeoJSON.AJAX("data/county_data.geojson",{
+			style : function(feature) {
+				return {
+					color: "red",
+					fillColor: "yellow",
+					weight: 0.2,
+					radius: getR_US(feature.properties.case)
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+			return L.circleMarker(latlng,
+				{
+				color: "red",
+				weight: 5,
+				opacity: 0.9,
+				fillOpacity: 0.06}
+
+			)
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng,4.5);
+				}),
+				layer.bindPopup('<h3> '+feature.properties.county+', '
+									+feature.properties.state +'</h3> 确诊/Confirmed: '
+									+feature.properties.case +'</p>', popup5)
+			}
+		}).addTo(usa_cities);
+
 
 
 	//Add map
@@ -487,7 +564,8 @@ function getColor4(i){
 		"<span style='color:#fcbba1'>累计/Cumulative</span>": sites,
 		"<span style='color:#c7e9c0'>剩余/Remaining": remain,
 		"<span style='color:#9ecae1'>治愈/Recovered</span>": recover,
-		"<span style='color:#9e9ac8'>死亡/Death</span>": death
+		"<span style='color:#9e9ac8'>死亡/Death</span>": death,
+		"<span style='color:yellow'>美国疫情/US Distribution</span>": usa_cities
 	};
 
 //Add layer control

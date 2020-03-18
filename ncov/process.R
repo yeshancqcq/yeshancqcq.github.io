@@ -8,6 +8,8 @@ library(stringr)
 newdata <- read.csv("data/newdata.csv",encoding="UTF-8")
 data2 <- read.csv("data/data2.csv",encoding="UTF-8")
 placename <- read.csv("data/placename.csv",encoding="UTF-8")
+county_data <- read.csv("data/us_county_data.csv",encoding="UTF-8")
+geocodes <- read.csv("data/county_coor.csv",encoding="UTF-8")
 
 x <- str_detect("string", "t3r")
 
@@ -128,3 +130,22 @@ for(i in 1:nrow(output)){
 }
 
 write.csv(output, file="data/data.csv")
+
+#================geocode==============
+
+county_data$lat <- 0
+county_data$lon <- 0
+
+for(i in 1:nrow(county_data)){
+  for(j in 1:nrow(geocodes)){
+    if(str_detect(toString(county_data$place[i]), toString(geocodes$county[j])) &&
+       str_detect(toString(county_data$state[i]), toString(geocodes$state[j]))){
+      county_data$lat[i] <- geocodes$latitude[j]
+      county_data$lon[i] <- geocodes$longitude[j]
+      j <- nrow(geocodes - 2)
+    }
+  }
+  cat("processing", i, "\n")
+}
+
+write.csv(county_data, file="data/county_data.csv",fileEncoding="UTF-8")

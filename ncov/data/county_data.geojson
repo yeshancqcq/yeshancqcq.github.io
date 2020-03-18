@@ -1,0 +1,6479 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.116,33.207 ]
+    },
+    "properties": {
+    "id":464,
+    "case":1,
+    "county":"Denton County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.4,32.312 ]
+    },
+    "properties": {
+    "id":435,
+    "case":2,
+    "county":"Hinds County",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.65,28.812 ]
+    },
+    "properties": {
+    "id":524,
+    "case":1,
+    "county":"Lake County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.32,20.91 ]
+    },
+    "properties": {
+    "id":528,
+    "case":1,
+    "county":"Maui",
+    "state":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.32,20.91 ]
+    },
+    "properties": {
+    "id":418,
+    "case":1,
+    "county":"Maui County",
+    "state":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.92,21.38 ]
+    },
+    "properties": {
+    "id":69,
+    "case":4,
+    "county":"Honolulu",
+    "state":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.92,21.38 ]
+    },
+    "properties": {
+    "id":416,
+    "case":2,
+    "county":"Honolulu County",
+    "state":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.31,22.14 ]
+    },
+    "properties": {
+    "id":356,
+    "case":1,
+    "county":"Kauai County",
+    "state":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.233,25.7 ]
+    },
+    "properties": {
+    "id":1111,
+    "case":40,
+    "county":"Miami",
+    "state":"FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79,26.14 ]
+    },
+    "properties": {
+    "id":182,
+    "case":4,
+    "county":"Collier County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.448,26.15 ]
+    },
+    "properties": {
+    "id":73,
+    "case":48,
+    "county":"Broward County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.84,26.62 ]
+    },
+    "properties": {
+    "id":74,
+    "case":5,
+    "county":"Lee County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.12,26.74 ]
+    },
+    "properties": {
+    "id":279,
+    "case":13,
+    "county":"Palm Beach County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.05,26.89 ]
+    },
+    "properties": {
+    "id":85,
+    "case":1,
+    "county":"Charlotte County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35,26.95 ]
+    },
+    "properties": {
+    "id":274,
+    "case":4,
+    "county":"Sarasota County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.57,27.48 ]
+    },
+    "properties": {
+    "id":96,
+    "case":5,
+    "county":"Manatee County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.64,27.75 ]
+    },
+    "properties": {
+    "id":183,
+    "case":1,
+    "county":"Pinellas County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.26,27.76 ]
+    },
+    "properties": {
+    "id":22,
+    "case":8,
+    "county":"Hillsborough County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5,28.26 ]
+    },
+    "properties": {
+    "id":363,
+    "case":3,
+    "county":"Osceola County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.19,28.36 ]
+    },
+    "properties": {
+    "id":184,
+    "case":2,
+    "county":"Pasco County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.26,28.5 ]
+    },
+    "properties": {
+    "id":362,
+    "case":4,
+    "county":"Orange County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2233,28.744 ]
+    },
+    "properties": {
+    "id":240,
+    "case":1,
+    "county":"Seminole County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.59,28.9 ]
+    },
+    "properties": {
+    "id":425,
+    "case":2,
+    "county":"Citrus County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.96,28.97 ]
+    },
+    "properties": {
+    "id":420,
+    "case":2,
+    "county":"Matagorda County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1721,29.0235 ]
+    },
+    "properties": {
+    "id":94,
+    "case":7,
+    "county":"Volusia County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.32,29.28 ]
+    },
+    "properties": {
+    "id":389,
+    "case":1,
+    "county":"Alvin County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.73,29.28 ]
+    },
+    "properties": {
+    "id":287,
+    "case":3,
+    "county":"Bexar County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.09,29.38 ]
+    },
+    "properties": {
+    "id":359,
+    "case":2,
+    "county":"Galveston County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8654,29.3827 ]
+    },
+    "properties": {
+    "id":283,
+    "case":3,
+    "county":"Terrebonne Parish",
+    "state":" LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.508,29.39 ]
+    },
+    "properties": {
+    "id":11,
+    "case":3,
+    "county":"San Antonio",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.94,29.44 ]
+    },
+    "properties": {
+    "id":339,
+    "case":1,
+    "county":"Lavaca County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.502,29.459 ]
+    },
+    "properties": {
+    "id":492,
+    "case":2,
+    "county":"Lafourche Parish",
+    "state":" LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.76,29.58 ]
+    },
+    "properties": {
+    "id":35,
+    "case":4,
+    "county":"Fort Bend County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.09,29.664 ]
+    },
+    "properties": {
+    "id":130,
+    "case":31,
+    "county":"Jefferson Parish",
+    "state":" LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3538,29.68 ]
+    },
+    "properties": {
+    "id":179,
+    "case":6,
+    "county":"Alachua County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.38,29.76 ]
+    },
+    "properties": {
+    "id":44,
+    "case":11,
+    "county":"Harris County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.815,29.95 ]
+    },
+    "properties": {
+    "id":276,
+    "case":4,
+    "county":"Clay County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8826,30.032 ]
+    },
+    "properties": {
+    "id":160,
+    "case":116,
+    "county":"Orleans Parish",
+    "state":" LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.83,30.08 ]
+    },
+    "properties": {
+    "id":392,
+    "case":1,
+    "county":"Hays County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.86962,30.204 ]
+    },
+    "properties": {
+    "id":520,
+    "case":1,
+    "county":"Ascension Parish",
+    "state":" LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.51,30.32 ]
+    },
+    "properties": {
+    "id":481,
+    "case":1,
+    "county":"Hancock County",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.47,30.32 ]
+    },
+    "properties": {
+    "id":177,
+    "case":4,
+    "county":"Montgomery County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.77,30.32 ]
+    },
+    "properties": {
+    "id":282,
+    "case":3,
+    "county":"Travis County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.683,30.345 ]
+    },
+    "properties": {
+    "id":275,
+    "case":10,
+    "county":"Duval County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2543,30.36 ]
+    },
+    "properties": {
+    "id":428,
+    "case":1,
+    "county":"Baker County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.06,30.38 ]
+    },
+    "properties": {
+    "id":541,
+    "case":1,
+    "county":"Harrison County",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.55,30.48 ]
+    },
+    "properties": {
+    "id":542,
+    "case":1,
+    "county":"Jackson County",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.69,30.552 ]
+    },
+    "properties": {
+    "id":181,
+    "case":1,
+    "county":"Nassau County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.04,30.6597 ]
+    },
+    "properties": {
+    "id":40,
+    "case":1,
+    "county":"Santa Rosa County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.59,30.66 ]
+    },
+    "properties": {
+    "id":92,
+    "case":2,
+    "county":"Okaloosa County",
+    "state":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5964,30.7368 ]
+    },
+    "properties": {
+    "id":337,
+    "case":3,
+    "county":"Pearl River County",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82,30.83 ]
+    },
+    "properties": {
+    "id":187,
+    "case":1,
+    "county":"Charlton County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.252,30.84 ]
+    },
+    "properties": {
+    "id":213,
+    "case":4,
+    "county":"Lowndes County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.77,30.88 ]
+    },
+    "properties": {
+    "id":408,
+    "case":1,
+    "county":"Baldwin",
+    "state":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36,31.09 ]
+    },
+    "properties": {
+    "id":355,
+    "case":2,
+    "county":"Bell County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3,31.31 ]
+    },
+    "properties": {
+    "id":214,
+    "case":3,
+    "county":"Forrest county",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.86,31.55 ]
+    },
+    "properties": {
+    "id":429,
+    "case":2,
+    "county":"Clayton County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.17,31.57 ]
+    },
+    "properties": {
+    "id":399,
+    "case":1,
+    "county":"Dougherty County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.422,31.86 ]
+    },
+    "properties": {
+    "id":352,
+    "case":2,
+    "county":"Copiah County",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.59,31.99 ]
+    },
+    "properties": {
+    "id":350,
+    "case":3,
+    "county":"El Paso",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.62,32.15 ]
+    },
+    "properties": {
+    "id":138,
+    "case":4,
+    "county":"Pima County",
+    "state":" AZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.99,32.3 ]
+    },
+    "properties": {
+    "id":286,
+    "case":2,
+    "county":"Montgomery County",
+    "state":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3,32.32 ]
+    },
+    "properties": {
+    "id":288,
+    "case":2,
+    "county":"Smith County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.59,32.38 ]
+    },
+    "properties": {
+    "id":536,
+    "case":1,
+    "county":"Rusk County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.15,32.39 ]
+    },
+    "properties": {
+    "id":498,
+    "case":1,
+    "county":"Monroe",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.68,32.42 ]
+    },
+    "properties": {
+    "id":394,
+    "case":4,
+    "county":"Beaufort County",
+    "state":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.33,32.49 ]
+    },
+    "properties": {
+    "id":332,
+    "case":2,
+    "county":"Elmore County",
+    "state":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.76,32.51 ]
+    },
+    "properties": {
+    "id":152,
+    "case":1,
+    "county":"Gregg County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.75723,32.6084 ]
+    },
+    "properties": {
+    "id":217,
+    "case":3,
+    "county":"Caddo Parish",
+    "state":" LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.608,32.6285 ]
+    },
+    "properties": {
+    "id":371,
+    "case":1,
+    "county":"Bossier Parish",
+    "state":" LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.37,32.65 ]
+    },
+    "properties": {
+    "id":466,
+    "case":3,
+    "county":"Lee",
+    "state":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.01,32.69 ]
+    },
+    "properties": {
+    "id":172,
+    "case":7,
+    "county":"Tarrant County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.14,32.718 ]
+    },
+    "properties": {
+    "id":10,
+    "case":55,
+    "county":"San Diego",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.777,32.767 ]
+    },
+    "properties": {
+    "id":166,
+    "case":28,
+    "county":"Dallas County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.4,32.77 ]
+    },
+    "properties": {
+    "id":422,
+    "case":1,
+    "county":"Caddy Parish",
+    "state":" LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.99,32.78 ]
+    },
+    "properties": {
+    "id":68,
+    "case":3,
+    "county":"Charleston County",
+    "state":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.284,33.02 ]
+    },
+    "properties": {
+    "id":236,
+    "case":1,
+    "county":"Imperial County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.04,33.046 ]
+    },
+    "properties": {
+    "id":467,
+    "case":1,
+    "county":"Troup County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.25,33.07 ]
+    },
+    "properties": {
+    "id":357,
+    "case":1,
+    "county":"Graham",
+    "state":" AZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.81,33.14 ]
+    },
+    "properties": {
+    "id":511,
+    "case":2,
+    "county":"Hay County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.569,33.193 ]
+    },
+    "properties": {
+    "id":262,
+    "case":2,
+    "county":"Collin County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.82,33.22 ]
+    },
+    "properties": {
+    "id":465,
+    "case":4,
+    "county":"Shelby",
+    "state":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.29,33.26 ]
+    },
+    "properties": {
+    "id":537,
+    "case":1,
+    "county":"Spalding County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.12,33.28 ]
+    },
+    "properties": {
+    "id":345,
+    "case":3,
+    "county":"Tuscaloosa County",
+    "state":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.19,33.29 ]
+    },
+    "properties": {
+    "id":550,
+    "case":1,
+    "county":"Richmond County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.75,33.35 ]
+    },
+    "properties": {
+    "id":280,
+    "case":3,
+    "county":"Coweta County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.504,33.4 ]
+    },
+    "properties": {
+    "id":142,
+    "case":4,
+    "county":"Fayette County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.54,33.42 ]
+    },
+    "properties": {
+    "id":56,
+    "case":3,
+    "county":"Pinal County",
+    "state":" AZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.07,33.44 ]
+    },
+    "properties": {
+    "id":514,
+    "case":1,
+    "county":"Bowie County",
+    "state":" TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.06,33.45 ]
+    },
+    "properties": {
+    "id":29,
+    "case":5,
+    "county":"Maricopa County",
+    "state":" AZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.138,33.472 ]
+    },
+    "properties": {
+    "id":361,
+    "case":2,
+    "county":"Henry County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.277,33.5 ]
+    },
+    "properties": {
+    "id":313,
+    "case":2,
+    "county":"Leflore County",
+    "state":" MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.864,33.55 ]
+    },
+    "properties": {
+    "id":430,
+    "case":1,
+    "county":"Newton County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.95,33.59 ]
+    },
+    "properties": {
+    "id":331,
+    "case":22,
+    "county":"Jefferson County",
+    "state":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.76,33.64 ]
+    },
+    "properties": {
+    "id":3,
+    "case":22,
+    "county":"Orange County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.19091,33.78 ]
+    },
+    "properties": {
+    "id":141,
+    "case":1,
+    "county":"Long Beach",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.186,33.792 ]
+    },
+    "properties": {
+    "id":143,
+    "case":15,
+    "county":"DeKalb County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5,33.81 ]
+    },
+    "properties": {
+    "id":417,
+    "case":2,
+    "county":"Clarke",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.474,33.84 ]
+    },
+    "properties": {
+    "id":28,
+    "case":33,
+    "county":"Fulton County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4,33.893 ]
+    },
+    "properties": {
+    "id":281,
+    "case":1,
+    "county":"Manhattan Beach",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.54,33.9 ]
+    },
+    "properties": {
+    "id":396,
+    "case":3,
+    "county":"Lexington County",
+    "state":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.557,33.91 ]
+    },
+    "properties": {
+    "id":79,
+    "case":25,
+    "county":"Cobb County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.88,33.928 ]
+    },
+    "properties": {
+    "id":480,
+    "case":1,
+    "county":"Paulding County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.4,33.95 ]
+    },
+    "properties": {
+    "id":101,
+    "case":15,
+    "county":"Riverside",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.03,33.9605 ]
+    },
+    "properties": {
+    "id":95,
+    "case":7,
+    "county":"Gwinnett County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2,33.99 ]
+    },
+    "properties": {
+    "id":452,
+    "case":4,
+    "county":"Horry County",
+    "state":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1722,33.9981 ]
+    },
+    "properties": {
+    "id":100,
+    "case":1,
+    "county":"Polk County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.21,34.042 ]
+    },
+    "properties": {
+    "id":5,
+    "case":144,
+    "county":"Los Angeles",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.2,34.06 ]
+    },
+    "properties": {
+    "id":364,
+    "case":1,
+    "county":"Brunswick County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.28,34.101 ]
+    },
+    "properties": {
+    "id":455,
+    "case":2,
+    "county":"San Bernardino County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.18,34.16 ]
+    },
+    "properties": {
+    "id":78,
+    "case":11,
+    "county":"Ventura County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.09,34.193 ]
+    },
+    "properties": {
+    "id":468,
+    "case":1,
+    "county":"Forsyth County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.07,34.23 ]
+    },
+    "properties": {
+    "id":556,
+    "case":1,
+    "county":"Navajo County",
+    "state":" AZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.845,34.24 ]
+    },
+    "properties": {
+    "id":218,
+    "case":10,
+    "county":"Bartow County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.458,34.243 ]
+    },
+    "properties": {
+    "id":124,
+    "case":7,
+    "county":"Cherokee County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.83,34.3 ]
+    },
+    "properties": {
+    "id":479,
+    "case":1,
+    "county":"Hall County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.23,34.33 ]
+    },
+    "properties": {
+    "id":55,
+    "case":6,
+    "county":"Floyd County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4,34.4 ]
+    },
+    "properties": {
+    "id":338,
+    "case":1,
+    "county":"Santa Clarita",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.34,34.41 ]
+    },
+    "properties": {
+    "id":67,
+    "case":22,
+    "county":"Kershaw County",
+    "state":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.72,34.42 ]
+    },
+    "properties": {
+    "id":460,
+    "case":1,
+    "county":"Santa Barbara",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8,34.47 ]
+    },
+    "properties": {
+    "id":190,
+    "case":1,
+    "county":"Socorro County",
+    "state":" NM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.878,34.507 ]
+    },
+    "properties": {
+    "id":278,
+    "case":1,
+    "county":"Gordon County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.67,34.59 ]
+    },
+    "properties": {
+    "id":207,
+    "case":2,
+    "county":"Lancaster County",
+    "state":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.31,34.64 ]
+    },
+    "properties": {
+    "id":246,
+    "case":1,
+    "county":"Jackson County",
+    "state":" OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.388,34.692578 ]
+    },
+    "properties": {
+    "id":263,
+    "case":1,
+    "county":"Onslow County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.95,34.78 ]
+    },
+    "properties": {
+    "id":346,
+    "case":1,
+    "county":"Limestone County",
+    "state":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.3,34.93 ]
+    },
+    "properties": {
+    "id":530,
+    "case":1,
+    "county":"Sampson County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.92,34.94 ]
+    },
+    "properties": {
+    "id":114,
+    "case":1,
+    "county":"Spartanburg County",
+    "state":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.37,35.1 ]
+    },
+    "properties": {
+    "id":401,
+    "case":14,
+    "county":" Bernalillo County",
+    "state":" NM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06,35.111 ]
+    },
+    "properties": {
+    "id":373,
+    "case":1,
+    "county":"Craven County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.056,35.135 ]
+    },
+    "properties": {
+    "id":103,
+    "case":1,
+    "county":"Memphis",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4059,35.153 ]
+    },
+    "properties": {
+    "id":431,
+    "case":2,
+    "county":"Cleveland County",
+    "state":" OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.18,35.17 ]
+    },
+    "properties": {
+    "id":453,
+    "case":1,
+    "county":"Greenville County",
+    "state":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.97,35.2 ]
+    },
+    "properties": {
+    "id":251,
+    "case":3,
+    "county":"Shelby",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2,35.221 ]
+    },
+    "properties": {
+    "id":299,
+    "case":1,
+    "county":"Hamilton County",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8,35.25 ]
+    },
+    "properties": {
+    "id":231,
+    "case":13,
+    "county":"Mecklenburg County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.66,35.2842 ]
+    },
+    "properties": {
+    "id":412,
+    "case":3,
+    "county":"San Luis Obispo County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54,35.346 ]
+    },
+    "properties": {
+    "id":255,
+    "case":1,
+    "county":"Cabarrus County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.14,35.37 ]
+    },
+    "properties": {
+    "id":216,
+    "case":4,
+    "county":"Santa Fe County",
+    "state":" NM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.05,35.373 ]
+    },
+    "properties": {
+    "id":334,
+    "case":1,
+    "county":"Wayne County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.47,35.38 ]
+    },
+    "properties": {
+    "id":400,
+    "case":2,
+    "county":"Sandoval County",
+    "state":" NM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.876,35.388 ]
+    },
+    "properties": {
+    "id":340,
+    "case":3,
+    "county":"Harnett County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.99,35.526 ]
+    },
+    "properties": {
+    "id":495,
+    "case":1,
+    "county":"Canadian County",
+    "state":" OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.386,35.53 ]
+    },
+    "properties": {
+    "id":228,
+    "case":2,
+    "county":"Johnston County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40753,35.551 ]
+    },
+    "properties": {
+    "id":353,
+    "case":2,
+    "county":"Oklahoma County",
+    "state":" OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.23,35.696 ]
+    },
+    "properties": {
+    "id":53,
+    "case":3,
+    "county":"Chatham County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.95,35.742 ]
+    },
+    "properties": {
+    "id":438,
+    "case":1,
+    "county":"Wilson",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.45582,35.75 ]
+    },
+    "properties": {
+    "id":128,
+    "case":2,
+    "county":"Middle Tennessee",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9,35.77 ]
+    },
+    "properties": {
+    "id":522,
+    "case":1,
+    "county":"Iredell County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.62,35.79 ]
+    },
+    "properties": {
+    "id":30,
+    "case":15,
+    "county":"Wake County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.42279,35.86 ]
+    },
+    "properties": {
+    "id":301,
+    "case":1,
+    "county":"Rutherford County",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.907,35.8797 ]
+    },
+    "properties": {
+    "id":39,
+    "case":21,
+    "county":"Williamson County",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.87,35.94 ]
+    },
+    "properties": {
+    "id":65,
+    "case":3,
+    "county":"Tulsa County",
+    "state":" OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.76,35.97 ]
+    },
+    "properties": {
+    "id":432,
+    "case":1,
+    "county":"Payne County",
+    "state":" OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.962,35.99 ]
+    },
+    "properties": {
+    "id":250,
+    "case":2,
+    "county":"Knox",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.85,36.05149 ]
+    },
+    "properties": {
+    "id":215,
+    "case":16,
+    "county":"Durham County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.789,36.077 ]
+    },
+    "properties": {
+    "id":551,
+    "case":1,
+    "county":"Guilford County ",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.278,36.11 ]
+    },
+    "properties": {
+    "id":227,
+    "case":2,
+    "county":"Forsyth County",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.28,36.14 ]
+    },
+    "properties": {
+    "id":311,
+    "case":42,
+    "county":"Clark",
+    "state":" NV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.77,36.148 ]
+    },
+    "properties": {
+    "id":104,
+    "case":3,
+    "county":"Nashville",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7851,36.1869 ]
+    },
+    "properties": {
+    "id":245,
+    "case":42,
+    "county":"Davidson",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6,36.251 ]
+    },
+    "properties": {
+    "id":427,
+    "case":1,
+    "county":"Watauga",
+    "state":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.32,36.26 ]
+    },
+    "properties": {
+    "id":300,
+    "case":1,
+    "county":"Jefferson County",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.32,36.26 ]
+    },
+    "properties": {
+    "id":503,
+    "case":1,
+    "county":"Sevier County",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.77,36.27 ]
+    },
+    "properties": {
+    "id":224,
+    "case":3,
+    "county":"Tulare County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.46,36.29 ]
+    },
+    "properties": {
+    "id":547,
+    "case":1,
+    "county":"Pawnee County",
+    "state":" OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.58,36.38 ]
+    },
+    "properties": {
+    "id":772,
+    "case":1,
+    "county":"Taos",
+    "state":"NM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.138,36.384 ]
+    },
+    "properties": {
+    "id":358,
+    "case":1,
+    "county":"Campbell",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.263,36.5054 ]
+    },
+    "properties": {
+    "id":157,
+    "case":1,
+    "county":"Sullivan",
+    "state":" TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.06,36.72 ]
+    },
+    "properties": {
+    "id":486,
+    "case":2,
+    "county":"Kay County",
+    "state":" OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.04,36.73 ]
+    },
+    "properties": {
+    "id":149,
+    "case":3,
+    "county":"Virginia Beach City",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.64,36.75 ]
+    },
+    "properties": {
+    "id":97,
+    "case":2,
+    "county":"Fresno County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.24,36.89 ]
+    },
+    "properties": {
+    "id":8,
+    "case":3,
+    "county":"San Benito",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.89,36.97 ]
+    },
+    "properties": {
+    "id":86,
+    "case":13,
+    "county":"Santa Cruz",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.58,37 ]
+    },
+    "properties": {
+    "id":87,
+    "case":1,
+    "county":"Gilroy",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.63,37.05 ]
+    },
+    "properties": {
+    "id":488,
+    "case":1,
+    "county":"Charlottesville City",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.76,37.22 ]
+    },
+    "properties": {
+    "id":232,
+    "case":12,
+    "county":"James City County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5,37.23 ]
+    },
+    "properties": {
+    "id":516,
+    "case":1,
+    "county":"York County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7,37.27 ]
+    },
+    "properties": {
+    "id":84,
+    "case":1,
+    "county":"Madera County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.703,37.278 ]
+    },
+    "properties": {
+    "id":546,
+    "case":1,
+    "county":"Williamsburg",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.39,37.29 ]
+    },
+    "properties": {
+    "id":223,
+    "case":1,
+    "county":"Prince Edward County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.88,37.31 ]
+    },
+    "properties": {
+    "id":186,
+    "case":2,
+    "county":"San Jose",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.58,37.31 ]
+    },
+    "properties": {
+    "id":260,
+    "case":3,
+    "county":"Greene County",
+    "state":" MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.14,37.36 ]
+    },
+    "properties": {
+    "id":6,
+    "case":155,
+    "county":"Santa Clara",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3,37.5 ]
+    },
+    "properties": {
+    "id":24,
+    "case":64,
+    "county":"San Mateo",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.63,37.5 ]
+    },
+    "properties": {
+    "id":365,
+    "case":4,
+    "county":"Chesterfield County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.5,37.622 ]
+    },
+    "properties": {
+    "id":444,
+    "case":1,
+    "county":"Southwest Utah",
+    "state":" UT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.79,37.63 ]
+    },
+    "properties": {
+    "id":548,
+    "case":1,
+    "county":"Goochland",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48,37.66 ]
+    },
+    "properties": {
+    "id":517,
+    "case":2,
+    "county":"Henrico County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.01,37.75 ]
+    },
+    "properties": {
+    "id":545,
+    "case":1,
+    "county":"Ford County",
+    "state":" KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.27,37.77 ]
+    },
+    "properties": {
+    "id":20,
+    "case":27,
+    "county":"Alameda County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41,37.77 ]
+    },
+    "properties": {
+    "id":41,
+    "case":43,
+    "county":"San Francisco",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.46,37.81 ]
+    },
+    "properties": {
+    "id":397,
+    "case":1,
+    "county":"Nelson County",
+    "state":" KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.64,37.86 ]
+    },
+    "properties": {
+    "id":32,
+    "case":39,
+    "county":"Contra Costa County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.28,37.87 ]
+    },
+    "properties": {
+    "id":31,
+    "case":1,
+    "county":"Berkeley",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.22,37.9 ]
+    },
+    "properties": {
+    "id":273,
+    "case":13,
+    "county":"San Joaquin County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.87,37.96 ]
+    },
+    "properties": {
+    "id":196,
+    "case":3,
+    "county":"Stanislaus County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.82,37.96 ]
+    },
+    "properties": {
+    "id":329,
+    "case":2,
+    "county":"Montgomery",
+    "state":" KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5,37.97 ]
+    },
+    "properties": {
+    "id":133,
+    "case":11,
+    "county":"Marin County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.18,37.99 ]
+    },
+    "properties": {
+    "id":451,
+    "case":1,
+    "county":"Clark County",
+    "state":" KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.63,38.03 ]
+    },
+    "properties": {
+    "id":289,
+    "case":1,
+    "county":"Butler County",
+    "state":" KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.45,38.04 ]
+    },
+    "properties": {
+    "id":116,
+    "case":7,
+    "county":"Fayette County",
+    "state":" KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.55,38.07 ]
+    },
+    "properties": {
+    "id":178,
+    "case":1,
+    "county":"Calaveras County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.13,38.11 ]
+    },
+    "properties": {
+    "id":15,
+    "case":5,
+    "county":"Solano County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5514,38.128 ]
+    },
+    "properties": {
+    "id":308,
+    "case":1,
+    "county":"Pueblo County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25,38.18 ]
+    },
+    "properties": {
+    "id":12,
+    "case":1,
+    "county":"Napa County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.142,38.183 ]
+    },
+    "properties": {
+    "id":533,
+    "case":1,
+    "county":"Augusta County",
+    "state":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.48,38.25 ]
+    },
+    "properties": {
+    "id":360,
+    "case":7,
+    "county":"Jefferson County",
+    "state":" KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48,38.29 ]
+    },
+    "properties": {
+    "id":144,
+    "case":1,
+    "county":"Spotsylvania County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.48,38.29 ]
+    },
+    "properties": {
+    "id":494,
+    "case":1,
+    "county":"Stafford County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.14,38.3 ]
+    },
+    "properties": {
+    "id":487,
+    "case":1,
+    "county":"Bourbon County",
+    "state":" KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.86,38.31 ]
+    },
+    "properties": {
+    "id":473,
+    "case":1,
+    "county":"Floyd County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.97,38.33 ]
+    },
+    "properties": {
+    "id":25,
+    "case":5,
+    "county":"Sonoma County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.871183,38.439 ]
+    },
+    "properties": {
+    "id":264,
+    "case":1,
+    "county":"Harrisonburg ",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.08,38.44 ]
+    },
+    "properties": {
+    "id":393,
+    "case":1,
+    "county":"Franklin County",
+    "state":" KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.38,38.52 ]
+    },
+    "properties": {
+    "id":115,
+    "case":6,
+    "county":"Harrison County",
+    "state":" KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.95,38.55 ]
+    },
+    "properties": {
+    "id":335,
+    "case":1,
+    "county":"Henry County",
+    "state":" MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4233,38.57 ]
+    },
+    "properties": {
+    "id":484,
+    "case":2,
+    "county":"Clinton County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.49,38.58 ]
+    },
+    "properties": {
+    "id":14,
+    "case":40,
+    "county":"Sacramento",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.54,38.59 ]
+    },
+    "properties": {
+    "id":58,
+    "case":4,
+    "county":"Yolo County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.83,38.67 ]
+    },
+    "properties": {
+    "id":197,
+    "case":5,
+    "county":"Gunnison County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.71,38.71 ]
+    },
+    "properties": {
+    "id":91,
+    "case":6,
+    "county":"Johnson County",
+    "state":" KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4679,38.72 ]
+    },
+    "properties": {
+    "id":336,
+    "case":3,
+    "county":"Prince William County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.85,38.74 ]
+    },
+    "properties": {
+    "id":445,
+    "case":4,
+    "county":"Howard",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.06,38.77 ]
+    },
+    "properties": {
+    "id":462,
+    "case":1,
+    "county":"Talbot County",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.53,38.81 ]
+    },
+    "properties": {
+    "id":535,
+    "case":1,
+    "county":"Cass County",
+    "state":" MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.054,38.81 ]
+    },
+    "properties": {
+    "id":225,
+    "case":2,
+    "county":"Alexandria",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.56,38.825 ]
+    },
+    "properties": {
+    "id":66,
+    "case":5,
+    "county":"El Paso County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.561,38.825246 ]
+    },
+    "properties": {
+    "id":70,
+    "case":1,
+    "county":"Highlands Ranch",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2,38.83 ]
+    },
+    "properties": {
+    "id":93,
+    "case":12,
+    "county":"Fairfax County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1,38.88 ]
+    },
+    "properties": {
+    "id":126,
+    "case":13,
+    "county":"Arlington",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01,38.91 ]
+    },
+    "properties": {
+    "id":999,
+    "case":22,
+    "county":"Washington",
+    "state":"DC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1,38.97 ]
+    },
+    "properties": {
+    "id":47,
+    "case":24,
+    "county":"Montgomery County",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.09,39 ]
+    },
+    "properties": {
+    "id":26,
+    "case":4,
+    "county":"Placer County",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.88,39.05 ]
+    },
+    "properties": {
+    "id":265,
+    "case":2,
+    "county":"Wyandotte County",
+    "state":" KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.55,39.08 ]
+    },
+    "properties": {
+    "id":372,
+    "case":1,
+    "county":"Mesa County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.64,39.085 ]
+    },
+    "properties": {
+    "id":151,
+    "case":5,
+    "county":"Loudoun County",
+    "state":" VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.77,39.12 ]
+    },
+    "properties": {
+    "id":292,
+    "case":2,
+    "county":"Anne Arundel County",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7619,39.14 ]
+    },
+    "properties": {
+    "id":0,
+    "case":1,
+    "county":"Carson City",
+    "state":"NV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.95,39.16 ]
+    },
+    "properties": {
+    "id":518,
+    "case":1,
+    "county":"Nevada county",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.82,39.19 ]
+    },
+    "properties": {
+    "id":205,
+    "case":11,
+    "county":"Pitkin County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.836,39.19842 ]
+    },
+    "properties": {
+    "id":194,
+    "case":2,
+    "county":"Aspen County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.91,39.21 ]
+    },
+    "properties": {
+    "id":490,
+    "case":1,
+    "county":"Bartholomew County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.24,39.274 ]
+    },
+    "properties": {
+    "id":388,
+    "case":1,
+    "county":"Cumberland County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.95,39.28 ]
+    },
+    "properties": {
+    "id":118,
+    "case":12,
+    "county":"Washoe County",
+    "state":" NV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.99,39.348 ]
+    },
+    "properties": {
+    "id":48,
+    "case":3,
+    "county":"Douglas County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.41,39.42 ]
+    },
+    "properties": {
+    "id":506,
+    "case":1,
+    "county":"Frederick",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.83,39.49 ]
+    },
+    "properties": {
+    "id":538,
+    "case":1,
+    "county":"Franklin County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.88,39.49 ]
+    },
+    "properties": {
+    "id":302,
+    "case":2,
+    "county":"Carroll County",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.16,39.51 ]
+    },
+    "properties": {
+    "id":188,
+    "case":3,
+    "county":"Johnson County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.49,39.51 ]
+    },
+    "properties": {
+    "id":212,
+    "case":6,
+    "county":"Baltimore County",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.17,39.51 ]
+    },
+    "properties": {
+    "id":112,
+    "case":1,
+    "county":"Harford",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.17,39.51 ]
+    },
+    "properties": {
+    "id":402,
+    "case":1,
+    "county":"Harford County",
+    "state":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.64,39.52 ]
+    },
+    "properties": {
+    "id":323,
+    "case":6,
+    "county":"Butler County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2,39.524 ]
+    },
+    "properties": {
+    "id":174,
+    "case":12,
+    "county":"Jefferson County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.33,39.54 ]
+    },
+    "properties": {
+    "id":449,
+    "case":1,
+    "county":"Garfield County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.68,39.58 ]
+    },
+    "properties": {
+    "id":200,
+    "case":5,
+    "county":"New Castle",
+    "state":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.68,39.58 ]
+    },
+    "properties": {
+    "id":446,
+    "case":1,
+    "county":"New Castle County",
+    "state":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.64,39.63799 ]
+    },
+    "properties": {
+    "id":71,
+    "case":24,
+    "county":"Eagle County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.105,39.641 ]
+    },
+    "properties": {
+    "id":45,
+    "case":1,
+    "county":"Summit County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.382,39.651 ]
+    },
+    "properties": {
+    "id":147,
+    "case":15,
+    "county":"Arapahoe County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.61,39.68 ]
+    },
+    "properties": {
+    "id":489,
+    "case":3,
+    "county":"Hendricks County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.66,39.708 ]
+    },
+    "properties": {
+    "id":459,
+    "case":1,
+    "county":"Clear Creek County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.08,39.71 ]
+    },
+    "properties": {
+    "id":54,
+    "case":9,
+    "county":"Marion County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9,39.739 ]
+    },
+    "properties": {
+    "id":63,
+    "case":26,
+    "county":"Denver County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.6,39.75 ]
+    },
+    "properties": {
+    "id":409,
+    "case":4,
+    "county":"Sangamon  County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.22,39.75 ]
+    },
+    "properties": {
+    "id":303,
+    "case":4,
+    "county":"Ocean County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.34,39.8 ]
+    },
+    "properties": {
+    "id":507,
+    "case":1,
+    "county":"Gloucester County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3793,39.868 ]
+    },
+    "properties": {
+    "id":244,
+    "case":6,
+    "county":"Adams County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.99,39.9 ]
+    },
+    "properties": {
+    "id":59,
+    "case":3,
+    "county":"Camden County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.84,39.93 ]
+    },
+    "properties": {
+    "id":253,
+    "case":1,
+    "county":"Hancock County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16,39.95 ]
+    },
+    "properties": {
+    "id":153,
+    "case":19,
+    "county":"Philadelphia",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.17,39.98 ]
+    },
+    "properties": {
+    "id":293,
+    "case":2,
+    "county":"Belmont County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.282,40 ]
+    },
+    "properties": {
+    "id":421,
+    "case":11,
+    "county":"Boulder County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.29,40 ]
+    },
+    "properties": {
+    "id":51,
+    "case":9,
+    "county":"Delaware County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.47,40.05 ]
+    },
+    "properties": {
+    "id":150,
+    "case":1,
+    "county":"Boone County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.92,40.06 ]
+    },
+    "properties": {
+    "id":154,
+    "case":6,
+    "county":"Burlington County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4,40.06 ]
+    },
+    "properties": {
+    "id":296,
+    "case":6,
+    "county":"Chester County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.18,40.07 ]
+    },
+    "properties": {
+    "id":369,
+    "case":4,
+    "county":"Franklin County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.196,40.14 ]
+    },
+    "properties": {
+    "id":447,
+    "case":1,
+    "county":"Champaign County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.02,40.17 ]
+    },
+    "properties": {
+    "id":426,
+    "case":1,
+    "county":"Hamilton County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.63,40.21 ]
+    },
+    "properties": {
+    "id":557,
+    "case":1,
+    "county":"Darke County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.92,40.24 ]
+    },
+    "properties": {
+    "id":316,
+    "case":10,
+    "county":"Cumberland County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.52,40.26 ]
+    },
+    "properties": {
+    "id":304,
+    "case":3,
+    "county":"Mercer",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.59,40.27 ]
+    },
+    "properties": {
+    "id":419,
+    "case":1,
+    "county":"Tuscarawas County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.254087,40.2957 ]
+    },
+    "properties": {
+    "id":505,
+    "case":2,
+    "county":"Wasatch County",
+    "state":" UT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.06,40.34 ]
+    },
+    "properties": {
+    "id":198,
+    "case":22,
+    "county":"Monmouth County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5,40.4 ]
+    },
+    "properties": {
+    "id":90,
+    "case":34,
+    "county":"Montgomery County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.99,40.44 ]
+    },
+    "properties": {
+    "id":375,
+    "case":10,
+    "county":"Allegheny County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.99,40.44 ]
+    },
+    "properties": {
+    "id":527,
+    "case":1,
+    "county":"Beaver County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.99,40.44 ]
+    },
+    "properties": {
+    "id":315,
+    "case":2,
+    "county":"Washington County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.034,40.46 ]
+    },
+    "properties": {
+    "id":312,
+    "case":1,
+    "county":"Routt County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.13,40.47 ]
+    },
+    "properties": {
+    "id":189,
+    "case":2,
+    "county":"Howard County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.19,40.47 ]
+    },
+    "properties": {
+    "id":554,
+    "case":1,
+    "county":"Coshocton County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.31,40.5 ]
+    },
+    "properties": {
+    "id":305,
+    "case":6,
+    "county":"Weld County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.313,40.54153 ]
+    },
+    "properties": {
+    "id":504,
+    "case":1,
+    "county":"Tooele",
+    "state":" UT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.24,40.55 ]
+    },
+    "properties": {
+    "id":180,
+    "case":8,
+    "county":"Bucks County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.27,40.58 ]
+    },
+    "properties": {
+    "id":297,
+    "case":4,
+    "county":"Middlesex",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.27,40.58 ]
+    },
+    "properties": {
+    "id":192,
+    "case":1,
+    "county":"Middlesex County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.46,40.6 ]
+    },
+    "properties": {
+    "id":123,
+    "case":1,
+    "county":"Shasta",
+    "state":" CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5686,40.628 ]
+    },
+    "properties": {
+    "id":129,
+    "case":1,
+    "county":"Larimer County",
+    "state":" CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.51,40.63 ]
+    },
+    "properties": {
+    "id":243,
+    "case":7,
+    "county":"Somerset County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.95,40.65 ]
+    },
+    "properties": {
+    "id":145,
+    "case":1,
+    "county":"Adams County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3,40.65 ]
+    },
+    "properties": {
+    "id":443,
+    "case":15,
+    "county":"Union",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.11,40.66 ]
+    },
+    "properties": {
+    "id":291,
+    "case":24,
+    "county":"Hudson County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.55,40.66 ]
+    },
+    "properties": {
+    "id":433,
+    "case":1,
+    "county":"Lehigh ",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.904,40.66 ]
+    },
+    "properties": {
+    "id":333,
+    "case":20,
+    "county":"Salt Lake County",
+    "state":" UT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.83,40.71 ]
+    },
+    "properties": {
+    "id":414,
+    "case":2,
+    "county":"Hunterdon County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7,40.72 ]
+    },
+    "properties": {
+    "id":43,
+    "case":140,
+    "county":"Nassau County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.717,40.74 ]
+    },
+    "properties": {
+    "id":529,
+    "case":1,
+    "county":"Peoria County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.17,40.74 ]
+    },
+    "properties": {
+    "id":367,
+    "case":1,
+    "county":"Wells County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.24,40.761 ]
+    },
+    "properties": {
+    "id":387,
+    "case":1,
+    "county":"Woodford County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95,40.77 ]
+    },
+    "properties": {
+    "id":21,
+    "case":814,
+    "county":"New York City",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95,40.77 ]
+    },
+    "properties": {
+    "id":120,
+    "case":97,
+    "county":"Suffolk County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.18,40.81 ]
+    },
+    "properties": {
+    "id":241,
+    "case":32,
+    "county":"Essex",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17,40.84 ]
+    },
+    "properties": {
+    "id":229,
+    "case":1,
+    "county":"Northampton County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.08,40.85 ]
+    },
+    "properties": {
+    "id":238,
+    "case":84,
+    "county":"Bergen",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.08,40.85 ]
+    },
+    "properties": {
+    "id":36,
+    "case":7,
+    "county":"Bergen County",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.15,40.86 ]
+    },
+    "properties": {
+    "id":310,
+    "case":10,
+    "county":"Passaic",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.47,40.88 ]
+    },
+    "properties": {
+    "id":134,
+    "case":4,
+    "county":"Monroe",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.47,40.88 ]
+    },
+    "properties": {
+    "id":496,
+    "case":1,
+    "county":"Monroe County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4,40.9 ]
+    },
+    "properties": {
+    "id":307,
+    "case":7,
+    "county":"Morris",
+    "state":" NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.82,40.9 ]
+    },
+    "properties": {
+    "id":206,
+    "case":8,
+    "county":"Summit County",
+    "state":" UT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.11,40.91 ]
+    },
+    "properties": {
+    "id":195,
+    "case":3,
+    "county":"Stark County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.909,40.915 ]
+    },
+    "properties": {
+    "id":75,
+    "case":4,
+    "county":"Davis County",
+    "state":" UT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.97,40.95 ]
+    },
+    "properties": {
+    "id":434,
+    "case":1,
+    "county":"Luzerne ",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.93,41.02 ]
+    },
+    "properties": {
+    "id":555,
+    "case":1,
+    "county":"Mahoning County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.09,41.04 ]
+    },
+    "properties": {
+    "id":277,
+    "case":1,
+    "county":"Cass County",
+    "state":" NE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75,41.09 ]
+    },
+    "properties": {
+    "id":239,
+    "case":1,
+    "county":"Pike County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.14,41.11 ]
+    },
+    "properties": {
+    "id":77,
+    "case":22,
+    "county":"Rockland County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.18,41.22 ]
+    },
+    "properties": {
+    "id":235,
+    "case":5,
+    "county":"Orange County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.85,41.24 ]
+    },
+    "properties": {
+    "id":140,
+    "case":1,
+    "county":"Pottawattamie County",
+    "state":" IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.82,41.24 ]
+    },
+    "properties": {
+    "id":439,
+    "case":3,
+    "county":"Medina County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.76,41.29 ]
+    },
+    "properties": {
+    "id":33,
+    "case":380,
+    "county":"Westchester County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.49,41.31 ]
+    },
+    "properties": {
+    "id":325,
+    "case":4,
+    "county":"Summit County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.06,41.34 ]
+    },
+    "properties": {
+    "id":398,
+    "case":8,
+    "county":"New Haven County",
+    "state":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.15,41.36 ]
+    },
+    "properties": {
+    "id":122,
+    "case":20,
+    "county":"Douglas County",
+    "state":" NE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.86,41.36 ]
+    },
+    "properties": {
+    "id":132,
+    "case":31,
+    "county":"Cuyahoga County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.43,41.37 ]
+    },
+    "properties": {
+    "id":539,
+    "case":1,
+    "county":"Lake County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.87,41.38 ]
+    },
+    "properties": {
+    "id":226,
+    "case":2,
+    "county":"Trumbull County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.31,41.39 ]
+    },
+    "properties": {
+    "id":298,
+    "case":48,
+    "county":"Fairfield County",
+    "state":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.41,41.39 ]
+    },
+    "properties": {
+    "id":125,
+    "case":1,
+    "county":"Noble County",
+    "state":" IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.61,41.39 ]
+    },
+    "properties": {
+    "id":454,
+    "case":1,
+    "county":"Putnam County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.23,41.4 ]
+    },
+    "properties": {
+    "id":385,
+    "case":4,
+    "county":"Lorain County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.89,41.46 ]
+    },
+    "properties": {
+    "id":510,
+    "case":2,
+    "county":"Will County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.14,41.47 ]
+    },
+    "properties": {
+    "id":493,
+    "case":1,
+    "county":"Geauga County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.53,41.57 ]
+    },
+    "properties": {
+    "id":119,
+    "case":15,
+    "county":"Johnson County",
+    "state":" IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.63,41.58 ]
+    },
+    "properties": {
+    "id":261,
+    "case":1,
+    "county":"Carroll County",
+    "state":" IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.63,41.58 ]
+    },
+    "properties": {
+    "id":406,
+    "case":2,
+    "county":"Dallas County",
+    "state":" IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.63,41.58 ]
+    },
+    "properties": {
+    "id":471,
+    "case":1,
+    "county":"Polk County",
+    "state":" IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15,41.6 ]
+    },
+    "properties": {
+    "id":52,
+    "case":1,
+    "county":"Wayne County",
+    "state":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.123,41.6083 ]
+    },
+    "properties": {
+    "id":558,
+    "case":1,
+    "county":"Bear River",
+    "state":"  UT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.68,41.65 ]
+    },
+    "properties": {
+    "id":549,
+    "case":1,
+    "county":"Sullivan",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.62,41.72 ]
+    },
+    "properties": {
+    "id":19,
+    "case":23,
+    "county":"Providence",
+    "state":" RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.28,41.74 ]
+    },
+    "properties": {
+    "id":552,
+    "case":1,
+    "county":"Lake County",
+    "state":" OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.939,41.75 ]
+    },
+    "properties": {
+    "id":483,
+    "case":1,
+    "county":"Whiteside County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.61,41.75 ]
+    },
+    "properties": {
+    "id":382,
+    "case":1,
+    "county":"Barnstable",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8931,41.813 ]
+    },
+    "properties": {
+    "id":2,
+    "case":107,
+    "county":"Cook County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.08,41.8397 ]
+    },
+    "properties": {
+    "id":386,
+    "case":26,
+    "county":"DuPage County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.55,41.84 ]
+    },
+    "properties": {
+    "id":248,
+    "case":16,
+    "county":"Dutchess County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.59,41.85 ]
+    },
+    "properties": {
+    "id":330,
+    "case":1,
+    "county":"Harrison County",
+    "state":" IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.67,41.87 ]
+    },
+    "properties": {
+    "id":351,
+    "case":7,
+    "county":"Hartford County",
+    "state":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99,41.93 ]
+    },
+    "properties": {
+    "id":102,
+    "case":6,
+    "county":"Ulster County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.42,41.9371 ]
+    },
+    "properties": {
+    "id":158,
+    "case":3,
+    "county":"Kane County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.66,42.01 ]
+    },
+    "properties": {
+    "id":407,
+    "case":1,
+    "county":"Monroe County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.17,42.02 ]
+    },
+    "properties": {
+    "id":390,
+    "case":5,
+    "county":"Bristol",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.33,42.03 ]
+    },
+    "properties": {
+    "id":314,
+    "case":5,
+    "county":"Litchfield County",
+    "state":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.61,42.06 ]
+    },
+    "properties": {
+    "id":450,
+    "case":1,
+    "county":"Hampden",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.16,42.07 ]
+    },
+    "properties": {
+    "id":379,
+    "case":1,
+    "county":"Tioga County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.47,42.09 ]
+    },
+    "properties": {
+    "id":162,
+    "case":43,
+    "county":"Norfolk",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.97,42.1 ]
+    },
+    "properties": {
+    "id":328,
+    "case":1,
+    "county":"Broome County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.03,42.17 ]
+    },
+    "properties": {
+    "id":89,
+    "case":14,
+    "county":"Berkshire County",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.88,42.17 ]
+    },
+    "properties": {
+    "id":448,
+    "case":5,
+    "county":"Plymouth",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.21,42.25 ]
+    },
+    "properties": {
+    "id":176,
+    "case":14,
+    "county":"Wayne County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.81,42.26 ]
+    },
+    "properties": {
+    "id":456,
+    "case":1,
+    "county":"Greene County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.73,42.27 ]
+    },
+    "properties": {
+    "id":272,
+    "case":7,
+    "county":"Washtenaw County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9,42.28 ]
+    },
+    "properties": {
+    "id":82,
+    "case":1,
+    "county":"Jackson County",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.974,42.32 ]
+    },
+    "properties": {
+    "id":204,
+    "case":7,
+    "county":"Lake County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4513,42.32 ]
+    },
+    "properties": {
+    "id":159,
+    "case":2,
+    "county":"McHenry County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1702,42.32 ]
+    },
+    "properties": {
+    "id":482,
+    "case":1,
+    "county":"Winnebago County",
+    "state":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.06,42.35 ]
+    },
+    "properties": {
+    "id":161,
+    "case":42,
+    "county":"Suffolk",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.61,42.4 ]
+    },
+    "properties": {
+    "id":247,
+    "case":1,
+    "county":"Delaware County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.1,42.42 ]
+    },
+    "properties": {
+    "id":111,
+    "case":8,
+    "county":"Worcester",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.03,42.45 ]
+    },
+    "properties": {
+    "id":230,
+    "case":8,
+    "county":"Albany County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.25,42.47 ]
+    },
+    "properties": {
+    "id":472,
+    "case":1,
+    "county":"Allegany",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.84,42.48 ]
+    },
+    "properties": {
+    "id":354,
+    "case":2,
+    "county":"Fremont County",
+    "state":" WY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.29,42.49 ]
+    },
+    "properties": {
+    "id":370,
+    "case":2,
+    "county":"Tompkins County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.24,42.52 ]
+    },
+    "properties": {
+    "id":519,
+    "case":4,
+    "county":"Kenosha County ",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.14,42.58 ]
+    },
+    "properties": {
+    "id":175,
+    "case":16,
+    "county":"Oakland County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.14,42.65 ]
+    },
+    "properties": {
+    "id":164,
+    "case":8,
+    "county":"Essex",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.27,42.67 ]
+    },
+    "properties": {
+    "id":319,
+    "case":1,
+    "county":"Racine County",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.81,42.68 ]
+    },
+    "properties": {
+    "id":46,
+    "case":89,
+    "county":"Middlesex County",
+    "state":" MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.41,42.7 ]
+    },
+    "properties": {
+    "id":269,
+    "case":3,
+    "county":"Ingham County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.07,42.81 ]
+    },
+    "properties": {
+    "id":491,
+    "case":2,
+    "county":"Onondaga County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.584,42.81 ]
+    },
+    "properties": {
+    "id":83,
+    "case":1,
+    "county":"Klamath County",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.88,42.84 ]
+    },
+    "properties": {
+    "id":349,
+    "case":8,
+    "county":"Macomb County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9,42.85 ]
+    },
+    "properties": {
+    "id":326,
+    "case":4,
+    "county":"Schenectady County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.61,42.86 ]
+    },
+    "properties": {
+    "id":436,
+    "case":4,
+    "county":"Hillsborough County",
+    "state":" NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.53,42.86 ]
+    },
+    "properties": {
+    "id":254,
+    "case":19,
+    "county":"Dane County",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.28,42.88 ]
+    },
+    "properties": {
+    "id":497,
+    "case":1,
+    "county":"Ontario County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84,42.92 ]
+    },
+    "properties": {
+    "id":80,
+    "case":4,
+    "county":"Saratoga County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.19,42.94 ]
+    },
+    "properties": {
+    "id":457,
+    "case":1,
+    "county":"Montgomery County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.86,42.94 ]
+    },
+    "properties": {
+    "id":318,
+    "case":24,
+    "county":"Milwaukee County",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.48,42.95 ]
+    },
+    "properties": {
+    "id":270,
+    "case":5,
+    "county":"Kent County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.95,42.98 ]
+    },
+    "properties": {
+    "id":474,
+    "case":1,
+    "county":"Ottawa County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.34,43 ]
+    },
+    "properties": {
+    "id":99,
+    "case":14,
+    "county":"Rockingham County",
+    "state":" NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.49,43.01 ]
+    },
+    "properties": {
+    "id":403,
+    "case":5,
+    "county":"Erie County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.18,43.03 ]
+    },
+    "properties": {
+    "id":169,
+    "case":1,
+    "county":"Charles Mix County",
+    "state":" SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.11,43.06 ]
+    },
+    "properties": {
+    "id":209,
+    "case":3,
+    "county":"Waukesha County",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71,43.14 ]
+    },
+    "properties": {
+    "id":210,
+    "case":1,
+    "county":"Bon Homme County",
+    "state":" SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.84,43.17 ]
+    },
+    "properties": {
+    "id":271,
+    "case":1,
+    "county":"Montcalm County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.86,43.19 ]
+    },
+    "properties": {
+    "id":222,
+    "case":1,
+    "county":"Monroe County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.88,43.23 ]
+    },
+    "properties": {
+    "id":544,
+    "case":1,
+    "county":"Oneida",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.89,43.23 ]
+    },
+    "properties": {
+    "id":98,
+    "case":3,
+    "county":"Bennington",
+    "state":" VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.03,43.24 ]
+    },
+    "properties": {
+    "id":249,
+    "case":1,
+    "county":"Herkimer County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.132,43.3253 ]
+    },
+    "properties": {
+    "id":108,
+    "case":1,
+    "county":"Douglas",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.24,43.39 ]
+    },
+    "properties": {
+    "id":395,
+    "case":3,
+    "county":"Blaine",
+    "state":" ID"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.51,43.46 ]
+    },
+    "properties": {
+    "id":470,
+    "case":1,
+    "county":"Allamakee County",
+    "state":" IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29,43.59 ]
+    },
+    "properties": {
+    "id":294,
+    "case":1,
+    "county":"McCook County",
+    "state":" SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07,43.6 ]
+    },
+    "properties": {
+    "id":347,
+    "case":1,
+    "county":"Bay County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.94,43.62 ]
+    },
+    "properties": {
+    "id":320,
+    "case":3,
+    "county":"Sheboygan County",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.32,43.65 ]
+    },
+    "properties": {
+    "id":376,
+    "case":2,
+    "county":"Windsor",
+    "state":" VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.22,43.73 ]
+    },
+    "properties": {
+    "id":404,
+    "case":1,
+    "county":"Teton County",
+    "state":" ID"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.99,43.73 ]
+    },
+    "properties": {
+    "id":413,
+    "case":18,
+    "county":"Cumberland County",
+    "state":" ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.03,43.73 ]
+    },
+    "properties": {
+    "id":170,
+    "case":1,
+    "county":"Davison County",
+    "state":" SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.73,43.75 ]
+    },
+    "properties": {
+    "id":171,
+    "case":4,
+    "county":"Minnehaha County",
+    "state":" SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.44,43.77 ]
+    },
+    "properties": {
+    "id":208,
+    "case":11,
+    "county":"Fond du Lac County",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97,43.78 ]
+    },
+    "properties": {
+    "id":543,
+    "case":1,
+    "county":"Essex",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.38,43.79 ]
+    },
+    "properties": {
+    "id":327,
+    "case":3,
+    "county":"Ada",
+    "state":" ID"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.47,43.83 ]
+    },
+    "properties": {
+    "id":513,
+    "case":1,
+    "county":"Carroll County",
+    "state":" NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,43.95 ]
+    },
+    "properties": {
+    "id":23,
+    "case":7,
+    "county":"Grafton County",
+    "state":" NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.33,43.98 ]
+    },
+    "properties": {
+    "id":285,
+    "case":1,
+    "county":"Knox",
+    "state":" ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.12,43.99 ]
+    },
+    "properties": {
+    "id":515,
+    "case":1,
+    "county":"Orange County",
+    "state":" VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.47,44.01 ]
+    },
+    "properties": {
+    "id":193,
+    "case":5,
+    "county":"Olmsted County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.55,44.01 ]
+    },
+    "properties": {
+    "id":391,
+    "case":3,
+    "county":"Winnebago County",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.25,44.07 ]
+    },
+    "properties": {
+    "id":202,
+    "case":6,
+    "county":"Deschutes County",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.23,44.07 ]
+    },
+    "properties": {
+    "id":167,
+    "case":1,
+    "county":"Pennington County",
+    "state":" SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.24,44.08 ]
+    },
+    "properties": {
+    "id":234,
+    "case":2,
+    "county":"Androscoggin",
+    "state":" ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.7,44.11 ]
+    },
+    "properties": {
+    "id":441,
+    "case":1,
+    "county":"Waseca County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.57,44.26 ]
+    },
+    "properties": {
+    "id":377,
+    "case":1,
+    "county":"Washington",
+    "state":" VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.49,44.27 ]
+    },
+    "properties": {
+    "id":284,
+    "case":2,
+    "county":"Lincoln County",
+    "state":" ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.04,44.37 ]
+    },
+    "properties": {
+    "id":168,
+    "case":1,
+    "county":"Beadle County",
+    "state":" SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.45,44.47 ]
+    },
+    "properties": {
+    "id":501,
+    "case":1,
+    "county":"Outagamie",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.22,44.48 ]
+    },
+    "properties": {
+    "id":211,
+    "case":3,
+    "county":"Chittenden",
+    "state":" VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.52,44.497 ]
+    },
+    "properties": {
+    "id":221,
+    "case":15,
+    "county":"Linn",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09,44.58 ]
+    },
+    "properties": {
+    "id":237,
+    "case":6,
+    "county":"Dakota County ",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.17,44.66 ]
+    },
+    "properties": {
+    "id":469,
+    "case":1,
+    "county":"Wood",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.45,44.69 ]
+    },
+    "properties": {
+    "id":526,
+    "case":1,
+    "county":"Clinton County",
+    "state":" NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.48,44.76 ]
+    },
+    "properties": {
+    "id":531,
+    "case":1,
+    "county":"Grand Traverse County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.62,44.76 ]
+    },
+    "properties": {
+    "id":121,
+    "case":1,
+    "county":"Carver County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.89,44.76 ]
+    },
+    "properties": {
+    "id":384,
+    "case":1,
+    "county":"Renville County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.43,44.77 ]
+    },
+    "properties": {
+    "id":139,
+    "case":1,
+    "county":"Pierce County",
+    "state":" WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.95,44.79 ]
+    },
+    "properties": {
+    "id":219,
+    "case":2,
+    "county":"Sheridan County",
+    "state":" WY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.38,44.898 ]
+    },
+    "properties": {
+    "id":201,
+    "case":1,
+    "county":"Polk",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.81,44.9 ]
+    },
+    "properties": {
+    "id":440,
+    "case":2,
+    "county":"Washington County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1,44.94 ]
+    },
+    "properties": {
+    "id":61,
+    "case":11,
+    "county":"Ramsey County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45,44.985 ]
+    },
+    "properties": {
+    "id":109,
+    "case":4,
+    "county":"Marion",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.473,45.017 ]
+    },
+    "properties": {
+    "id":257,
+    "case":24,
+    "county":"Hennepin County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.67,45.02 ]
+    },
+    "properties": {
+    "id":532,
+    "case":1,
+    "county":"Otsego County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25,45.17 ]
+    },
+    "properties": {
+    "id":259,
+    "case":1,
+    "county":"Clackamas",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25,45.174 ]
+    },
+    "properties": {
+    "id":463,
+    "case":1,
+    "county":"Yamhill County",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.66,45.23 ]
+    },
+    "properties": {
+    "id":295,
+    "case":1,
+    "county":"Wright County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.15,45.34 ]
+    },
+    "properties": {
+    "id":348,
+    "case":1,
+    "county":"Charlevoix County",
+    "state":" MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.26,45.4 ]
+    },
+    "properties": {
+    "id":155,
+    "case":3,
+    "county":"Anoka County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.04,45.41 ]
+    },
+    "properties": {
+    "id":256,
+    "case":2,
+    "county":"Stearns County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.11,45.549 ]
+    },
+    "properties": {
+    "id":17,
+    "case":21,
+    "county":"Washington County",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.374,45.58 ]
+    },
+    "properties": {
+    "id":156,
+    "case":2,
+    "county":"Multnomah County",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.9,45.66 ]
+    },
+    "properties": {
+    "id":509,
+    "case":1,
+    "county":"Benton County",
+    "state":" MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.15,45.81 ]
+    },
+    "properties": {
+    "id":341,
+    "case":1,
+    "county":"Gallatin",
+    "state":" MT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.298,45.9 ]
+    },
+    "properties": {
+    "id":107,
+    "case":2,
+    "county":"Umatilla",
+    "state":" OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.44,45.93 ]
+    },
+    "properties": {
+    "id":81,
+    "case":4,
+    "county":"Clark",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.68,45.98 ]
+    },
+    "properties": {
+    "id":342,
+    "case":2,
+    "county":"Yellowstone",
+    "state":" MT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.44,46 ]
+    },
+    "properties": {
+    "id":343,
+    "case":1,
+    "county":"Silver Bow",
+    "state":" MT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.63,46.2 ]
+    },
+    "properties": {
+    "id":344,
+    "case":1,
+    "county":"Broadwater",
+    "state":" MT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9,46.31 ]
+    },
+    "properties": {
+    "id":317,
+    "case":1,
+    "county":"Columbia",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.07,46.36 ]
+    },
+    "properties": {
+    "id":476,
+    "case":1,
+    "county":"Cowlitz County",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.14,46.53 ]
+    },
+    "properties": {
+    "id":521,
+    "case":1,
+    "county":"Lewis",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.42,46.71 ]
+    },
+    "properties": {
+    "id":321,
+    "case":1,
+    "county":"Yakima",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.27,46.82 ]
+    },
+    "properties": {
+    "id":199,
+    "case":3,
+    "county":"Thurston",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.99,46.85 ]
+    },
+    "properties": {
+    "id":405,
+    "case":2,
+    "county":"Missoula",
+    "state":" MT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.42,46.98 ]
+    },
+    "properties": {
+    "id":88,
+    "case":3,
+    "county":"Kittitas",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7,47.15 ]
+    },
+    "properties": {
+    "id":148,
+    "case":45,
+    "county":"Pierce",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.59,47.27 ]
+    },
+    "properties": {
+    "id":477,
+    "case":1,
+    "county":"Grant",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.59,47.27 ]
+    },
+    "properties": {
+    "id":37,
+    "case":3,
+    "county":"Grant County",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.92,47.51 ]
+    },
+    "properties": {
+    "id":461,
+    "case":1,
+    "county":"Lincoln",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.56,47.64 ]
+    },
+    "properties": {
+    "id":380,
+    "case":1,
+    "county":"Spokane County",
+    "state":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.73,47.6868 ]
+    },
+    "properties": {
+    "id":127,
+    "case":3,
+    "county":"Kitsap",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.99,47.69 ]
+    },
+    "properties": {
+    "id":60,
+    "case":2,
+    "county":"Jefferson",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.22,47.71 ]
+    },
+    "properties": {
+    "id":18,
+    "case":569,
+    "county":"King County",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.22,47.85 ]
+    },
+    "properties": {
+    "id":324,
+    "case":70,
+    "county":"Unassigned",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122,47.92 ]
+    },
+    "properties": {
+    "id":1,
+    "case":266,
+    "county":"Snohomish",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41,47.95 ]
+    },
+    "properties": {
+    "id":267,
+    "case":14,
+    "county":"Island",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.29,48.23 ]
+    },
+    "properties": {
+    "id":220,
+    "case":1,
+    "county":"Ward County",
+    "state":" ND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.628,48.29 ]
+    },
+    "properties": {
+    "id":185,
+    "case":1,
+    "county":"Oak Harbor",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6,48.46 ]
+    },
+    "properties": {
+    "id":165,
+    "case":9,
+    "county":"Skagit",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.19,48.7 ]
+    },
+    "properties": {
+    "id":173,
+    "case":4,
+    "county":"Whatcom",
+    "state":" WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.58,61.61 ]
+    },
+    "properties": {
+    "id":268,
+    "case":1,
+    "county":"Anchorage",
+    "state":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.58,61.61 ]
+    },
+    "properties": {
+    "id":534,
+    "case":1,
+    "county":"Fairbanks North Star",
+    "state":" AK"
+    }
+  }
+]
+}
