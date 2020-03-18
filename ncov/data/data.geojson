@@ -7769,7 +7769,7 @@
     },
     "properties": {
     "FIELD1":389,
-    "city_cn":"南澳州",
+    "city_cn":"西澳大利亚州",
     "province_cn":"澳大利亚",
     "city":"Western Australia",
     "province":"Australia",
@@ -7789,7 +7789,7 @@
     },
     "properties": {
     "FIELD1":390,
-    "city_cn":"西澳洲",
+    "city_cn":"南澳大利亚州",
     "province_cn":"澳大利亚",
     "city":"South Australia",
     "province":"Australia",
@@ -8309,7 +8309,7 @@
     },
     "properties": {
     "FIELD1":416,
-    "city_cn":"马尼托巴",
+    "city_cn":"至尊公主号乘客",
     "province_cn":"加拿大",
     "city":"Grand Princess",
     "province":"Canada",
@@ -8329,7 +8329,7 @@
     },
     "properties": {
     "FIELD1":417,
-    "city_cn":"萨斯卡彻万",
+    "city_cn":"马尼托巴",
     "province_cn":"加拿大",
     "city":"Manitoba",
     "province":"Canada",
@@ -8349,7 +8349,7 @@
     },
     "properties": {
     "FIELD1":418,
-    "city_cn":"新布拉姆那个是威克",
+    "city_cn":"新不伦瑞克",
     "province_cn":"加拿大",
     "city":"New Brunswick",
     "province":"Canada",
@@ -8369,7 +8369,7 @@
     },
     "properties": {
     "FIELD1":419,
-    "city_cn":"爱德华王子岛",
+    "city_cn":"新斯科舍",
     "province_cn":"加拿大",
     "city":"Nova Scotia",
     "province":"Canada",
@@ -8389,7 +8389,7 @@
     },
     "properties": {
     "FIELD1":420,
-    "city_cn":"纽芬兰和拉布拉多",
+    "city_cn":"萨斯卡彻万",
     "province_cn":"加拿大",
     "city":"Saskatchewan",
     "province":"Canada",
@@ -8409,7 +8409,7 @@
     },
     "properties": {
     "FIELD1":421,
-    "city_cn":"",
+    "city_cn":"纽芬兰拉布拉多",
     "province_cn":"加拿大",
     "city":"Newfoundland and Labrador",
     "province":"Canada",
@@ -8429,7 +8429,7 @@
     },
     "properties": {
     "FIELD1":422,
-    "city_cn":"",
+    "city_cn":"爱德华王子岛",
     "province_cn":"加拿大",
     "city":"Prince Edward Island",
     "province":"Canada",
@@ -8891,7 +8891,7 @@
     "FIELD1":445,
     "city_cn":"本土",
     "province_cn":"法国",
-    "city":"France",
+    "city":"",
     "province":"France",
     "case":"7652",
     "death":"148",
@@ -8929,7 +8929,7 @@
     },
     "properties": {
     "FIELD1":447,
-    "city_cn":"法属波利尼西亚",
+    "city_cn":"法属圭亚那",
     "province_cn":"法国",
     "city":"French Guiana",
     "province":"France",
@@ -8969,7 +8969,7 @@
     },
     "properties": {
     "FIELD1":449,
-    "city_cn":"圣巴瑟勒米",
+    "city_cn":"法属波利尼西亚",
     "province_cn":"法国",
     "city":"French Polynesia",
     "province":"France",
@@ -8989,7 +8989,7 @@
     },
     "properties": {
     "FIELD1":450,
-    "city_cn":"圣马丁",
+    "city_cn":"圣巴瑟勒米",
     "province_cn":"法国",
     "city":"Saint Barthelemy",
     "province":"France",
@@ -9009,7 +9009,7 @@
     },
     "properties": {
     "FIELD1":451,
-    "city_cn":"马约特",
+    "city_cn":"圣马丁",
     "province_cn":"法国",
     "city":"St Martin",
     "province":"France",
@@ -9029,7 +9029,7 @@
     },
     "properties": {
     "FIELD1":452,
-    "city_cn":"",
+    "city_cn":"马约特",
     "province_cn":"法国",
     "city":"Mayotte",
     "province":"France",
