@@ -529,7 +529,8 @@ function getColor4(i){
 					map.setView(e.latlng,4.5);
 				}),
 				layer.bindPopup('<h3> '+feature.properties.county+', '
-									+feature.properties.state +'</h3> 确诊/Confirmed: '
+									+feature.properties.state +'<br>'+
+									feature.properties.note+'</h3><p>确诊/Confirmed: '
 									+feature.properties.case +'</p>', popup5)
 			}
 		}).addTo(usa_cities);
