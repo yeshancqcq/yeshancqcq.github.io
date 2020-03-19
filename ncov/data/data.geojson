@@ -9045,7 +9045,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 55.2471,-21.1351 ]
+       "coordinates":  [ 55.2471,21.1351 ]
     },
     "properties": {
     "FIELD1":453,
