@@ -8993,12 +8993,12 @@
     "province_cn":"法国",
     "city":"French Guiana",
     "province":"France",
-    "case":"0",
+    "case":"11",
     "death":"0",
     "cure":"0",
-    "remain":"0",
-    "cure_rate":"#DIV/0!",
-    "death_rate":"#DIV/0!"
+    "remain":"11",
+    "cure_rate":"0",
+    "death_rate":"0"
     }
   },
   {
@@ -9013,12 +9013,12 @@
     "province_cn":"法国",
     "city":"Guadeloupe",
     "province":"France",
-    "case":"0",
+    "case":"27",
     "death":"0",
     "cure":"0",
-    "remain":"0",
-    "cure_rate":"#DIV/0!",
-    "death_rate":"#DIV/0!"
+    "remain":"27",
+    "cure_rate":"0",
+    "death_rate":"0"
     }
   },
   {
@@ -9033,12 +9033,12 @@
     "province_cn":"法国",
     "city":"Mayotte",
     "province":"France",
-    "case":"0",
+    "case":"3",
     "death":"0",
     "cure":"0",
-    "remain":"0",
-    "cure_rate":"#DIV/0!",
-    "death_rate":"#DIV/0!"
+    "remain":"3",
+    "cure_rate":"0",
+    "death_rate":"0"
     }
   },
   {
@@ -9053,12 +9053,12 @@
     "province_cn":"法国",
     "city":"Reunion",
     "province":"France",
-    "case":"0",
+    "case":"12",
     "death":"0",
     "cure":"0",
-    "remain":"0",
-    "cure_rate":"#DIV/0!",
-    "death_rate":"#DIV/0!"
+    "remain":"12",
+    "cure_rate":"0",
+    "death_rate":"0"
     }
   },
   {
