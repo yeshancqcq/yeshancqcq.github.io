@@ -40,7 +40,7 @@
     "case":8,
     "county":"Honolulu",
     "state":"HI",
-    "note":"檀香山"
+    "note":"̴��ɽ"
     }
   },
   {
@@ -68,7 +68,7 @@
     "case":40,
     "county":"Miami-Dade",
     "state":"FL",
-    "note":"迈阿密大市区"
+    "note":"�����ܴ�����"
     }
   },
   {
@@ -96,7 +96,7 @@
     "case":48,
     "county":"Broward County",
     "state":"FL",
-    "note":"迈阿密大市区"
+    "note":"�����ܴ�����"
     }
   },
   {
@@ -124,7 +124,7 @@
     "case":13,
     "county":"Palm Beach County",
     "state":"FL",
-    "note":"迈阿密大市区"
+    "note":"�����ܴ�����"
     }
   },
   {
@@ -194,7 +194,7 @@
     "case":4,
     "county":"Pinellas County",
     "state":"FL",
-    "note":"坦帕湾区"
+    "note":"̹������"
     }
   },
   {
@@ -208,7 +208,7 @@
     "case":7,
     "county":"Hillsborough County",
     "state":"FL",
-    "note":"坦帕湾区"
+    "note":"̹������"
     }
   },
   {
@@ -250,7 +250,7 @@
     "case":2,
     "county":"Pasco County",
     "state":"FL",
-    "note":"坦帕湾区"
+    "note":"̹������"
     }
   },
   {
@@ -264,7 +264,7 @@
     "case":6,
     "county":"Orange County",
     "state":"FL",
-    "note":"奥兰多"
+    "note":"������"
     }
   },
   {
@@ -362,7 +362,7 @@
     "case":11,
     "county":"Bexar County",
     "state":"TX",
-    "note":"圣安东尼奥大市区"
+    "note":"ʥ������´�����"
     }
   },
   {
@@ -390,7 +390,7 @@
     "case":4,
     "county":"Galveston County",
     "state":"TX",
-    "note":"休斯敦大市区"
+    "note":"��˹�ش�����"
     }
   },
   {
@@ -418,7 +418,7 @@
     "case":3,
     "county":"San Antonio",
     "state":"TX",
-    "note":"圣安东尼奥大市区"
+    "note":"ʥ������´�����"
     }
   },
   {
@@ -460,7 +460,7 @@
     "case":12,
     "county":"Fort Bend County",
     "state":"TX",
-    "note":"休斯敦大市区"
+    "note":"��˹�ش�����"
     }
   },
   {
@@ -474,7 +474,7 @@
     "case":40,
     "county":"Jefferson Parish",
     "state":"LA",
-    "note":"新奥尔良大市区"
+    "note":"�°¶���������"
     }
   },
   {
@@ -488,7 +488,7 @@
     "case":7,
     "county":"Alachua County",
     "state":"FL",
-    "note":"佛罗里达大学"
+    "note":"��������ѧ"
     }
   },
   {
@@ -502,7 +502,7 @@
     "case":18,
     "county":"Harris County",
     "state":"TX",
-    "note":"休斯敦大市区"
+    "note":"��˹�ش�����"
     }
   },
   {
@@ -516,7 +516,7 @@
     "case":1,
     "county":"Comal",
     "state":"TX",
-    "note":"圣安东尼奥大市区"
+    "note":"ʥ������´�����"
     }
   },
   {
@@ -572,7 +572,7 @@
     "case":187,
     "county":"Orleans Parish",
     "state":"LA",
-    "note":"新奥尔良大市区"
+    "note":"�°¶���������"
     }
   },
   {
@@ -628,7 +628,7 @@
     "case":23,
     "county":"Travis County",
     "state":"TX",
-    "note":"奥斯丁"
+    "note":"��˹��"
     }
   },
   {
@@ -642,7 +642,7 @@
     "case":7,
     "county":"Montgomery County",
     "state":"TX",
-    "note":"休斯敦大市区"
+    "note":"��˹�ش�����"
     }
   },
   {
@@ -698,7 +698,7 @@
     "case":8,
     "county":"St Tammany",
     "state":"LA",
-    "note":"新奥尔良大市区"
+    "note":"�°¶���������"
     }
   },
   {
@@ -782,7 +782,7 @@
     "case":3,
     "county":"Brazos",
     "state":"TX",
-    "note":"得克萨斯农机大学"
+    "note":"�ÿ���˹ũ����ѧ"
     }
   },
   {
@@ -936,7 +936,7 @@
     "case":5,
     "county":"McLennen",
     "state":"TX",
-    "note":"贝勒大学"
+    "note":"���մ�ѧ"
     }
   },
   {
@@ -950,7 +950,7 @@
     "case":6,
     "county":"Clayton County",
     "state":"GA",
-    "note":"亚特兰大大市区"
+    "note":"�������������"
     }
   },
   {
@@ -1006,7 +1006,7 @@
     "case":3,
     "county":"El Paso",
     "state":"TX",
-    "note":"厄尔帕索"
+    "note":"�������"
     }
   },
   {
@@ -1020,7 +1020,7 @@
     "case":5,
     "county":"Pima County",
     "state":"AZ",
-    "note":"图森"
+    "note":"ͼɭ"
     }
   },
   {
@@ -1048,7 +1048,7 @@
     "case":1,
     "county":"Ellis",
     "state":"TX",
-    "note":"达拉斯沃斯堡大市区"
+    "note":"����˹��˹��������"
     }
   },
   {
@@ -1202,7 +1202,7 @@
     "case":3,
     "county":"Lee",
     "state":"AL",
-    "note":"奥本大学"
+    "note":"�±���ѧ"
     }
   },
   {
@@ -1216,7 +1216,7 @@
     "case":8,
     "county":"Tarrant County",
     "state":"TX",
-    "note":"达拉斯沃斯堡大市区"
+    "note":"����˹��˹��������"
     }
   },
   {
@@ -1230,7 +1230,7 @@
     "case":60,
     "county":"San Diego",
     "state":"CA",
-    "note":"圣迭戈"
+    "note":"ʥ����"
     }
   },
   {
@@ -1244,7 +1244,7 @@
     "case":39,
     "county":"Dallas County",
     "state":"TX",
-    "note":"达拉斯沃斯堡大市区"
+    "note":"����˹��˹��������"
     }
   },
   {
@@ -1272,7 +1272,7 @@
     "case":3,
     "county":"Charleston County",
     "state":"SC",
-    "note":"查尔斯顿"
+    "note":"���˹��"
     }
   },
   {
@@ -1356,7 +1356,7 @@
     "case":5,
     "county":"Denton County",
     "state":"TX",
-    "note":"达拉斯沃斯堡大市区"
+    "note":"����˹��˹��������"
     }
   },
   {
@@ -1398,7 +1398,7 @@
     "case":3,
     "county":"Tuscaloosa County",
     "state":"AL",
-    "note":"亚拉巴马大学"
+    "note":"����������ѧ"
     }
   },
   {
@@ -1426,7 +1426,7 @@
     "case":3,
     "county":"Coweta County",
     "state":"GA",
-    "note":"亚特兰大大市区"
+    "note":"�������������"
     }
   },
   {
@@ -1440,7 +1440,7 @@
     "case":8,
     "county":"Fayette County",
     "state":"GA",
-    "note":"亚特兰大大市区"
+    "note":"�������������"
     }
   },
   {
@@ -1482,7 +1482,7 @@
     "case":11,
     "county":"Maricopa County",
     "state":"AZ",
-    "note":"凤凰城菲尼克斯"
+    "note":"��˳Ƿ����˹"
     }
   },
   {
@@ -1496,7 +1496,7 @@
     "case":2,
     "county":"Henry County",
     "state":"GA",
-    "note":"亚特兰大大市区"
+    "note":"�������������"
     }
   },
   {
@@ -1566,7 +1566,7 @@
     "case":29,
     "county":"Orange County",
     "state":"CA",
-    "note":"洛杉矶大市区"
+    "note":"��ɼ��������"
     }
   },
   {
@@ -1594,7 +1594,7 @@
     "case":1,
     "county":"Long Beach",
     "state":"CA",
-    "note":"洛杉矶大市区"
+    "note":"��ɼ��������"
     }
   },
   {
@@ -1608,7 +1608,7 @@
     "case":18,
     "county":"DeKalb County",
     "state":"GA",
-    "note":"亚特兰大大市区"
+    "note":"�������������"
     }
   },
   {
@@ -1650,7 +1650,7 @@
     "case":49,
     "county":"Fulton County",
     "state":"GA",
-    "note":"亚特兰大大市区"
+    "note":"�������������"
     }
   },
   {
@@ -1678,7 +1678,7 @@
     "case":3,
     "county":"Lexington County",
     "state":"SC",
-    "note":"南卡大学"
+    "note":"�Ͽ���ѧ"
     }
   },
   {
@@ -1692,7 +1692,7 @@
     "case":28,
     "county":"Cobb County",
     "state":"GA",
-    "note":"亚特兰大大市区"
+    "note":"�������������"
     }
   },
   {
@@ -1720,7 +1720,7 @@
     "case":16,
     "county":"Riverside",
     "state":"CA",
-    "note":"洛杉矶大市区/加州大学河滨分校"
+    "note":"��ɼ��������/���ݴ�ѧ�ӱ���У"
     }
   },
   {
@@ -1734,7 +1734,7 @@
     "case":7,
     "county":"Gwinnett County",
     "state":"GA",
-    "note":"亚特兰大大市区"
+    "note":"�������������"
     }
   },
   {
@@ -1804,7 +1804,7 @@
     "case":190,
     "county":"Los Angeles",
     "state":"CA",
-    "note":"洛杉矶大市区"
+    "note":"��ɼ��������"
     }
   },
   {
@@ -1832,7 +1832,7 @@
     "case":3,
     "county":"San Bernardino County",
     "state":"CA",
-    "note":"洛杉矶大市区"
+    "note":"��ɼ��������"
     }
   },
   {
@@ -1846,7 +1846,7 @@
     "case":11,
     "county":"Ventura County",
     "state":"CA",
-    "note":"洛杉矶大市区"
+    "note":"��ɼ��������"
     }
   },
   {
@@ -1972,7 +1972,7 @@
     "case":1,
     "county":"Santa Clarita",
     "state":"CA",
-    "note":"洛杉矶大市区"
+    "note":"��ɼ��������"
     }
   },
   {
@@ -2000,7 +2000,7 @@
     "case":2,
     "county":"Santa Barbara",
     "state":"CA",
-    "note":"加州大学圣巴巴拉分校"
+    "note":"���ݴ�ѧʥ�Ͱ�����У"
     }
   },
   {
@@ -2154,7 +2154,7 @@
     "case":16,
     "county":"Bernalillo County",
     "state":"NM",
-    "note":"阿尔伯克基"
+    "note":"�������˻�"
     }
   },
   {
@@ -2182,7 +2182,7 @@
     "case":1,
     "county":"Memphis",
     "state":"TN",
-    "note":"孟菲斯"
+    "note":"�Ϸ�˹"
     }
   },
   {
@@ -2210,7 +2210,7 @@
     "case":2,
     "county":"Cleveland County",
     "state":"OK",
-    "note":"俄克拉荷马城大市区"
+    "note":"�����������Ǵ�����"
     }
   },
   {
@@ -2266,7 +2266,7 @@
     "case":13,
     "county":"Mecklenburg County",
     "state":"NC",
-    "note":"夏洛特"
+    "note":"������"
     }
   },
   {
@@ -2280,7 +2280,7 @@
     "case":6,
     "county":"San Luis Obispo County",
     "state":"CA",
-    "note":"加州理工州立大学"
+    "note":"��������������ѧ"
     }
   },
   {
@@ -2322,7 +2322,7 @@
     "case":5,
     "county":"Santa Fe County",
     "state":"NM",
-    "note":"圣塔菲"
+    "note":"ʥ����"
     }
   },
   {
@@ -2392,7 +2392,7 @@
     "case":1,
     "county":"Canadian County",
     "state":"OK",
-    "note":"俄克拉荷马城大市区"
+    "note":"�����������Ǵ�����"
     }
   },
   {
@@ -2406,7 +2406,7 @@
     "case":2,
     "county":"Johnston County",
     "state":"NC",
-    "note":"北卡三角区"
+    "note":"����������"
     }
   },
   {
@@ -2420,7 +2420,7 @@
     "case":2,
     "county":"Oklahoma County",
     "state":"OK",
-    "note":"俄克拉荷马城大市区"
+    "note":"�����������Ǵ�����"
     }
   },
   {
@@ -2434,7 +2434,7 @@
     "case":3,
     "county":"Chatham County",
     "state":"NC",
-    "note":"北卡三角区"
+    "note":"����������"
     }
   },
   {
@@ -2490,7 +2490,7 @@
     "case":17,
     "county":"Wake County",
     "state":"NC",
-    "note":"北卡三角区"
+    "note":"����������"
     }
   },
   {
@@ -2532,7 +2532,7 @@
     "case":3,
     "county":"Tulsa County",
     "state":"OK",
-    "note":"塔尔萨"
+    "note":"������"
     }
   },
   {
@@ -2560,7 +2560,7 @@
     "case":2,
     "county":"Knox",
     "state":"TN",
-    "note":"田纳西大学"
+    "note":"��������ѧ"
     }
   },
   {
@@ -2574,7 +2574,7 @@
     "case":1,
     "county":"Washington",
     "state":"AR",
-    "note":"阿肯色大学"
+    "note":"����ɫ��ѧ"
     }
   },
   {
@@ -2588,7 +2588,7 @@
     "case":1,
     "county":"Orange County",
     "state":"NC",
-    "note":"北卡三角区"
+    "note":"����������"
     }
   },
   {
@@ -2602,7 +2602,7 @@
     "case":16,
     "county":"Durham County",
     "state":"NC",
-    "note":"北卡三角区"
+    "note":"����������"
     }
   },
   {
@@ -2644,7 +2644,7 @@
     "case":42,
     "county":"Clark",
     "state":"NV",
-    "note":"拉斯维加斯"
+    "note":"��˹ά��˹"
     }
   },
   {
@@ -2658,7 +2658,7 @@
     "case":3,
     "county":"Nashville",
     "state":"TN",
-    "note":"纳什维尔大市区"
+    "note":"��ʲά��������"
     }
   },
   {
@@ -2868,7 +2868,7 @@
     "case":2,
     "county":"Fresno County",
     "state":"CA",
-    "note":"弗雷斯诺州立大学"
+    "note":"����˹ŵ������ѧ"
     }
   },
   {
@@ -2896,7 +2896,7 @@
     "case":13,
     "county":"Santa Cruz",
     "state":"CA",
-    "note":"加州大学圣克鲁斯分校"
+    "note":"���ݴ�ѧʥ��³˹��У"
     }
   },
   {
@@ -2938,7 +2938,7 @@
     "case":1,
     "county":"Charlottesville City",
     "state":"VA",
-    "note":"弗吉尼亚大学"
+    "note":"�������Ǵ�ѧ"
     }
   },
   {
@@ -2994,7 +2994,7 @@
     "case":1,
     "county":"Williamsburg",
     "state":"VA",
-    "note":"威廉玛丽学院"
+    "note":"��������ѧԺ"
     }
   },
   {
@@ -3022,7 +3022,7 @@
     "case":2,
     "county":"San Jose",
     "state":"CA",
-    "note":"圣何塞"
+    "note":"ʥ����"
     }
   },
   {
@@ -3050,7 +3050,7 @@
     "case":175,
     "county":"Santa Clara",
     "state":"CA",
-    "note":"斯坦福大学"
+    "note":"˹̹����ѧ"
     }
   },
   {
@@ -3148,7 +3148,7 @@
     "case":51,
     "county":"San Francisco",
     "state":"CA",
-    "note":"旧金山"
+    "note":"�ɽ�ɽ"
     }
   },
   {
@@ -3204,7 +3204,7 @@
     "case":1,
     "county":"Berkeley",
     "state":"CA",
-    "note":"加州大学伯克利分校"
+    "note":"���ݴ�ѧ��������У"
     }
   },
   {
@@ -3302,7 +3302,7 @@
     "case":7,
     "county":"Fayette County",
     "state":"KY",
-    "note":"肯塔基大学"
+    "note":"��������ѧ"
     }
   },
   {
@@ -3386,7 +3386,7 @@
     "case":8,
     "county":"Jefferson County",
     "state":"KY",
-    "note":"路易威尔"
+    "note":"·������"
     }
   },
   {
@@ -3526,7 +3526,7 @@
     "case":3,
     "county":"St Clair",
     "state":"IL",
-    "note":"圣路易斯大市区"
+    "note":"ʥ·��˹������"
     }
   },
   {
@@ -3596,7 +3596,7 @@
     "case":40,
     "county":"Sacramento",
     "state":"CA",
-    "note":"萨克拉门托"
+    "note":"����������"
     }
   },
   {
@@ -3624,7 +3624,7 @@
     "case":6,
     "county":"Sant Louis",
     "state":"MO",
-    "note":"圣路易斯大市区"
+    "note":"ʥ·��˹������"
     }
   },
   {
@@ -3666,7 +3666,7 @@
     "case":1,
     "county":"Sussex",
     "state":"DE",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -3750,7 +3750,7 @@
     "case":4,
     "county":"El Paso County",
     "state":"CO",
-    "note":"科罗拉多泉城"
+    "note":"��������Ȫ��"
     }
   },
   {
@@ -3778,7 +3778,7 @@
     "case":1,
     "county":"Madison",
     "state":"IL",
-    "note":"圣路易斯大市区"
+    "note":"ʥ·��˹������"
     }
   },
   {
@@ -3820,7 +3820,7 @@
     "case":22,
     "county":"Washington",
     "state":"DC",
-    "note":"华盛顿哥伦比亚特区"
+    "note":"��ʢ�ٸ��ױ�������"
     }
   },
   {
@@ -3834,7 +3834,7 @@
     "case":1,
     "county":"Boone County",
     "state":"MO",
-    "note":"密苏里大学"
+    "note":"�������ѧ"
     }
   },
   {
@@ -3862,7 +3862,7 @@
     "case":20,
     "county":"Prince George's",
     "state":"MD",
-    "note":"马里兰大学"
+    "note":"��������ѧ"
     }
   },
   {
@@ -3904,7 +3904,7 @@
     "case":2,
     "county":"Jackson County",
     "state":"MO",
-    "note":"堪萨斯城"
+    "note":"����˹��"
     }
   },
   {
@@ -3974,7 +3974,7 @@
     "case":4,
     "county":"Anne Arundel County",
     "state":"MD",
-    "note":"海军学院"
+    "note":"����ѧԺ"
     }
   },
   {
@@ -4086,7 +4086,7 @@
     "case":4,
     "county":"Baltimore City",
     "state":"MD",
-    "note":"巴尔的摩"
+    "note":"�Ͷ���Ħ"
     }
   },
   {
@@ -4198,7 +4198,7 @@
     "case":10,
     "county":"Baltimore County",
     "state":"MD",
-    "note":"巴尔的摩"
+    "note":"�Ͷ���Ħ"
     }
   },
   {
@@ -4282,7 +4282,7 @@
     "case":17,
     "county":"New Castle",
     "state":"DE",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -4380,7 +4380,7 @@
     "case":38,
     "county":"Denver County",
     "state":"CO",
-    "note":"丹佛"
+    "note":"����"
     }
   },
   {
@@ -4408,7 +4408,7 @@
     "case":8,
     "county":"Ocean County",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -4422,7 +4422,7 @@
     "case":1,
     "county":"Montgomery County",
     "state":"OH",
-    "note":"代顿大学"
+    "note":"���ٴ�ѧ"
     }
   },
   {
@@ -4436,7 +4436,7 @@
     "case":2,
     "county":"Gloucester County",
     "state":"NJ",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -4464,7 +4464,7 @@
     "case":8,
     "county":"Camden County",
     "state":"NJ",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -4492,7 +4492,7 @@
     "case":34,
     "county":"Philadelphia",
     "state":"PA",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -4520,7 +4520,7 @@
     "case":11,
     "county":"Boulder County",
     "state":"CO",
-    "note":"科罗拉多大学"
+    "note":"���������ѧ"
     }
   },
   {
@@ -4534,7 +4534,7 @@
     "case":14,
     "county":"Delaware County",
     "state":"PA",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -4548,7 +4548,7 @@
     "case":1,
     "county":"Lancaster",
     "state":"PA",
-    "note":"富兰克林马绍尔学院"
+    "note":"�����������ܶ�ѧԺ"
     }
   },
   {
@@ -4576,7 +4576,7 @@
     "case":10,
     "county":"Burlington County",
     "state":"NJ",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -4590,7 +4590,7 @@
     "case":9,
     "county":"Chester County",
     "state":"PA",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -4604,7 +4604,7 @@
     "case":7,
     "county":"Franklin County",
     "state":"OH",
-    "note":"哥伦布市"
+    "note":"���ײ���"
     }
   },
   {
@@ -4618,7 +4618,7 @@
     "case":1,
     "county":"Champaign County",
     "state":"IL",
-    "note":"伊利诺伊大学香槟分校"
+    "note":"����ŵ����ѧ���ķ�У"
     }
   },
   {
@@ -4660,7 +4660,7 @@
     "case":2,
     "county":"Washington County",
     "state":"PA",
-    "note":"匹兹堡大市区"
+    "note":"ƥ�ȱ�������"
     }
   },
   {
@@ -4674,7 +4674,7 @@
     "case":10,
     "county":"Cumberland County",
     "state":"PA",
-    "note":"哈里斯堡"
+    "note":"����˹��"
     }
   },
   {
@@ -4744,7 +4744,7 @@
     "case":32,
     "county":"Monmouth County",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -4786,7 +4786,7 @@
     "case":12,
     "county":"Allegheny County",
     "state":"PA",
-    "note":"匹兹堡大市区"
+    "note":"ƥ�ȱ�������"
     }
   },
   {
@@ -4870,7 +4870,7 @@
     "case":8,
     "county":"Bucks County",
     "state":"PA",
-    "note":"费城大市区"
+    "note":"�ѳǴ�����"
     }
   },
   {
@@ -4884,7 +4884,7 @@
     "case":40,
     "county":"Middlesex",
     "state":"NJ",
-    "note":"纽约大市区/罗格斯大学"
+    "note":"ŦԼ������/�޸�˹��ѧ"
     }
   },
   {
@@ -4912,7 +4912,7 @@
     "case":3,
     "county":"Larimer County",
     "state":"CO",
-    "note":"柯林斯堡"
+    "note":"����˹��"
     }
   },
   {
@@ -4926,7 +4926,7 @@
     "case":16,
     "county":"Somerset County",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -4954,7 +4954,7 @@
     "case":26,
     "county":"Union",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -4968,7 +4968,7 @@
     "case":34,
     "county":"Hudson County",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -4982,7 +4982,7 @@
     "case":2,
     "county":"Beaver County",
     "state":"PA",
-    "note":"匹兹堡大市区"
+    "note":"ƥ�ȱ�������"
     }
   },
   {
@@ -4996,7 +4996,7 @@
     "case":1,
     "county":"Lehigh ",
     "state":"PA",
-    "note":"阿伦敦大市区"
+    "note":"���׶ش�����"
     }
   },
   {
@@ -5010,7 +5010,7 @@
     "case":20,
     "county":"Salt Lake County",
     "state":"UT",
-    "note":"盐湖城"
+    "note":"�κ���"
     }
   },
   {
@@ -5024,7 +5024,7 @@
     "case":6,
     "county":"Hunterdon County",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5038,7 +5038,7 @@
     "case":278,
     "county":"Nassau County",
     "state":"NY",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5094,7 +5094,7 @@
     "case":3031,
     "county":"New York City",
     "state":"NY",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5108,7 +5108,7 @@
     "case":116,
     "county":"Suffolk County",
     "state":"NY",
-    "note":"纽约大市区/石溪大学"
+    "note":"ŦԼ������/ʯϪ��ѧ"
     }
   },
   {
@@ -5122,7 +5122,7 @@
     "case":45,
     "county":"Essex",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5164,7 +5164,7 @@
     "case":1,
     "county":"Northampton County",
     "state":"PA",
-    "note":"阿伦敦大市区"
+    "note":"���׶ش�����"
     }
   },
   {
@@ -5178,7 +5178,7 @@
     "case":114,
     "county":"Bergen",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5192,7 +5192,7 @@
     "case":18,
     "county":"Passaic",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5220,7 +5220,7 @@
     "case":19,
     "county":"Morris",
     "state":"NJ",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5290,7 +5290,7 @@
     "case":3,
     "county":"Centre County",
     "state":"PA",
-    "note":"宾夕法尼亚州立大学"
+    "note":"��Ϧ������������ѧ"
     }
   },
   {
@@ -5304,7 +5304,7 @@
     "case":3,
     "county":"Mahoning County",
     "state":"OH",
-    "note":"扬斯敦州立大学"
+    "note":"��˹��������ѧ"
     }
   },
   {
@@ -5360,7 +5360,7 @@
     "case":31,
     "county":"Rockland County",
     "state":"NY",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5388,21 +5388,21 @@
     "case":15,
     "county":"Orange County",
     "state":"NY",
-    "note":"西点军校"
+    "note":"�����У"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -78.49,41.22 ]
+       "coordinates":  [ -78.84,42.8 ]
     },
     "properties": {
     "id":366,
     "case":20,
     "county":"Erie County",
     "state":"NY",
-    "note":"布法罗"
+    "note":"������"
     }
   },
   {
@@ -5444,7 +5444,7 @@
     "case":538,
     "county":"Westchester County",
     "state":"NY",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5458,7 +5458,7 @@
     "case":4,
     "county":"Summit County",
     "state":"OH",
-    "note":"阿克隆大学"
+    "note":"����¡��ѧ"
     }
   },
   {
@@ -5472,7 +5472,7 @@
     "case":3,
     "county":"Laramie",
     "state":"WY",
-    "note":"夏延"
+    "note":"����"
     }
   },
   {
@@ -5500,7 +5500,7 @@
     "case":10,
     "county":"New Haven County",
     "state":"CT",
-    "note":"纽黑文"
+    "note":"Ŧ����"
     }
   },
   {
@@ -5514,7 +5514,7 @@
     "case":20,
     "county":"Douglas County",
     "state":"NE",
-    "note":"奥马哈"
+    "note":"������"
     }
   },
   {
@@ -5528,7 +5528,7 @@
     "case":38,
     "county":"Cuyahoga County",
     "state":"OH",
-    "note":"克利夫兰"
+    "note":"��������"
     }
   },
   {
@@ -5542,7 +5542,7 @@
     "case":1,
     "county":"Lake County",
     "state":"IN",
-    "note":"芝加哥大市区"
+    "note":"֥�Ӹ������"
     }
   },
   {
@@ -5598,7 +5598,7 @@
     "case":1,
     "county":"Putnam County",
     "state":"NY",
-    "note":"纽约大市区"
+    "note":"ŦԼ������"
     }
   },
   {
@@ -5626,7 +5626,7 @@
     "case":1,
     "county":"Lackawanna",
     "state":"PA",
-    "note":"斯克兰顿"
+    "note":"˹������"
     }
   },
   {
@@ -5654,7 +5654,7 @@
     "case":3,
     "county":"Will County",
     "state":"IL",
-    "note":"芝加哥大市区"
+    "note":"֥�Ӹ������"
     }
   },
   {
@@ -5682,7 +5682,7 @@
     "case":1,
     "county":"LaPorte",
     "state":"IN",
-    "note":"芝加哥大市区"
+    "note":"֥�Ӹ������"
     }
   },
   {
@@ -5696,7 +5696,7 @@
     "case":18,
     "county":"Johnson County",
     "state":"IA",
-    "note":"艾奥瓦大学"
+    "note":"�����ߴ�ѧ"
     }
   },
   {
@@ -5794,7 +5794,7 @@
     "case":1,
     "county":"St Joseph",
     "state":"IN",
-    "note":"圣母大学"
+    "note":"ʥĸ��ѧ"
     }
   },
   {
@@ -5808,7 +5808,7 @@
     "case":23,
     "county":"Providence",
     "state":"RI",
-    "note":"普罗维登斯"
+    "note":"����ά��˹"
     }
   },
   {
@@ -5864,7 +5864,7 @@
     "case":178,
     "county":"Cook County",
     "state":"IL",
-    "note":"芝加哥大市区"
+    "note":"֥�Ӹ������"
     }
   },
   {
@@ -5878,7 +5878,7 @@
     "case":45,
     "county":"DuPage County",
     "state":"IL",
-    "note":"芝加哥大市区"
+    "note":"֥�Ӹ������"
     }
   },
   {
@@ -5948,7 +5948,7 @@
     "case":4,
     "county":"Kane County",
     "state":"IL",
-    "note":"芝加哥大市区"
+    "note":"֥�Ӹ������"
     }
   },
   {
@@ -6046,7 +6046,7 @@
     "case":46,
     "county":"Norfolk",
     "state":"MA",
-    "note":"波士顿大市区"
+    "note":"��ʿ�ٴ�����"
     }
   },
   {
@@ -6130,7 +6130,7 @@
     "case":23,
     "county":"Wayne County",
     "state":"MI",
-    "note":"底特律大市区"
+    "note":"�����ɴ�����"
     }
   },
   {
@@ -6158,7 +6158,7 @@
     "case":7,
     "county":"Washtenaw County",
     "state":"MI",
-    "note":"底特律大市区/密歇根大学"
+    "note":"�����ɴ�����/��Ъ����ѧ"
     }
   },
   {
@@ -6186,7 +6186,7 @@
     "case":2,
     "county":"Detroit",
     "state":"MI",
-    "note":"底特律大市区"
+    "note":"�����ɴ�����"
     }
   },
   {
@@ -6200,7 +6200,7 @@
     "case":18,
     "county":"Lake County",
     "state":"IL",
-    "note":"芝加哥大市区"
+    "note":"֥�Ӹ������"
     }
   },
   {
@@ -6242,7 +6242,7 @@
     "case":51,
     "county":"Suffolk",
     "state":"MA",
-    "note":"波士顿大市区"
+    "note":"��ʿ�ٴ�����"
     }
   },
   {
@@ -6270,7 +6270,7 @@
     "case":10,
     "county":"Worcester",
     "state":"MA",
-    "note":"伍斯特"
+    "note":"��˹��"
     }
   },
   {
@@ -6284,7 +6284,7 @@
     "case":36,
     "county":"Albany County",
     "state":"NY",
-    "note":"奥尔巴尼"
+    "note":"�¶�����"
     }
   },
   {
@@ -6354,7 +6354,7 @@
     "case":3,
     "county":"Tompkins County",
     "state":"NY",
-    "note":"康奈尔大学"
+    "note":"���ζ���ѧ"
     }
   },
   {
@@ -6382,7 +6382,7 @@
     "case":59,
     "county":"Oakland County",
     "state":"MI",
-    "note":"底特律大市区"
+    "note":"�����ɴ�����"
     }
   },
   {
@@ -6396,7 +6396,7 @@
     "case":14,
     "county":"Essex",
     "state":"MA",
-    "note":"波士顿大市区"
+    "note":"��ʿ�ٴ�����"
     }
   },
   {
@@ -6452,7 +6452,7 @@
     "case":100,
     "county":"Middlesex County",
     "state":"MA",
-    "note":"波士顿大市区"
+    "note":"��ʿ�ٴ�����"
     }
   },
   {
@@ -6466,7 +6466,7 @@
     "case":3,
     "county":"Ingham County",
     "state":"MI",
-    "note":"密歇根州立大学"
+    "note":"��Ъ��������ѧ"
     }
   },
   {
@@ -6480,7 +6480,7 @@
     "case":1,
     "county":"Rensselaer",
     "state":"NY",
-    "note":"伦斯勒理工学院"
+    "note":"��˹������ѧԺ"
     }
   },
   {
@@ -6494,7 +6494,7 @@
     "case":2,
     "county":"Onondaga County",
     "state":"NY",
-    "note":"雪城大学"
+    "note":"ѩ�Ǵ�ѧ"
     }
   },
   {
@@ -6522,7 +6522,7 @@
     "case":2,
     "county":"St Clair",
     "state":"MI",
-    "note":"底特律大市区"
+    "note":"�����ɴ�����"
     }
   },
   {
@@ -6536,7 +6536,7 @@
     "case":10,
     "county":"Macomb County",
     "state":"MI",
-    "note":"底特律大市区"
+    "note":"�����ɴ�����"
     }
   },
   {
@@ -6578,7 +6578,7 @@
     "case":23,
     "county":"Dane County",
     "state":"WI",
-    "note":"威斯康辛大学麦迪逊分校"
+    "note":"��˹������ѧ���ѷ��У"
     }
   },
   {
@@ -6634,7 +6634,7 @@
     "case":47,
     "county":"Milwaukee County",
     "state":"WI",
-    "note":"密尔沃基"
+    "note":"�ܶ��ֻ�"
     }
   },
   {
@@ -6760,7 +6760,7 @@
     "case":1,
     "county":"Monroe County",
     "state":"NY",
-    "note":"罗彻斯特大学"
+    "note":"�޳�˹�ش�ѧ"
     }
   },
   {
@@ -7012,7 +7012,7 @@
     "case":1,
     "county":"Davison County",
     "state":"SD",
-    "note":"纳什维尔大市区"
+    "note":"��ʲά��������"
     }
   },
   {
@@ -7068,7 +7068,7 @@
     "case":3,
     "county":"Ada",
     "state":"ID",
-    "note":"博伊西州立大学"
+    "note":"������������ѧ"
     }
   },
   {
@@ -7110,7 +7110,7 @@
     "case":7,
     "county":"Grafton County",
     "state":"NH",
-    "note":"达特茅斯学院"
+    "note":"����é˹ѧԺ"
     }
   },
   {
@@ -7334,7 +7334,7 @@
     "case":1,
     "county":"Brown",
     "state":"WI",
-    "note":"绿湾"
+    "note":"����"
     }
   },
   {
@@ -7390,7 +7390,7 @@
     "case":6,
     "county":"Dakota County ",
     "state":"MN",
-    "note":"明尼苏达双城大市区"
+    "note":"�����մ�˫�Ǵ�����"
     }
   },
   {
@@ -7446,7 +7446,7 @@
     "case":1,
     "county":"Carver County",
     "state":"MN",
-    "note":"明尼苏达双城大市区"
+    "note":"�����մ�˫�Ǵ�����"
     }
   },
   {
@@ -7502,7 +7502,7 @@
     "case":1,
     "county":"Penobscot",
     "state":"ME",
-    "note":"缅因大学"
+    "note":"�����ѧ"
     }
   },
   {
@@ -7530,7 +7530,7 @@
     "case":2,
     "county":"Washington County",
     "state":"MN",
-    "note":"明尼苏达双城大市区"
+    "note":"�����մ�˫�Ǵ�����"
     }
   },
   {
@@ -7544,7 +7544,7 @@
     "case":11,
     "county":"Ramsey County",
     "state":"MN",
-    "note":"明尼苏达双城大市区"
+    "note":"�����մ�˫�Ǵ�����"
     }
   },
   {
@@ -7572,7 +7572,7 @@
     "case":24,
     "county":"Hennepin County",
     "state":"MN",
-    "note":"明尼苏达双城大市区"
+    "note":"�����մ�˫�Ǵ�����"
     }
   },
   {
@@ -7614,7 +7614,7 @@
     "case":1,
     "county":"Clackamas",
     "state":"OR",
-    "note":"波特兰大市区"
+    "note":"������������"
     }
   },
   {
@@ -7642,7 +7642,7 @@
     "case":1,
     "county":"Wright County",
     "state":"MN",
-    "note":"明尼苏达双城大市区"
+    "note":"�����մ�˫�Ǵ�����"
     }
   },
   {
@@ -7670,7 +7670,7 @@
     "case":3,
     "county":"Anoka County",
     "state":"MN",
-    "note":"明尼苏达双城大市区"
+    "note":"�����մ�˫�Ǵ�����"
     }
   },
   {
@@ -7698,7 +7698,7 @@
     "case":21,
     "county":"Washington County",
     "state":"OR",
-    "note":"波特兰大市区"
+    "note":"������������"
     }
   },
   {
@@ -7712,7 +7712,7 @@
     "case":2,
     "county":"Multnomah County",
     "state":"OR",
-    "note":"波特兰大市区"
+    "note":"������������"
     }
   },
   {
@@ -7782,7 +7782,7 @@
     "case":2,
     "county":"Yellowstone",
     "state":"MT",
-    "note":"黄石国家公园"
+    "note":"��ʯ���ҹ�԰"
     }
   },
   {
@@ -7824,7 +7824,7 @@
     "case":1,
     "county":"Columbia",
     "state":"WA",
-    "note":"西雅图大市区"
+    "note":"����ͼ������"
     }
   },
   {
@@ -7866,7 +7866,7 @@
     "case":1,
     "county":"Lewis",
     "state":"WA",
-    "note":"西雅图大市区"
+    "note":"����ͼ������"
     }
   },
   {
@@ -7908,7 +7908,7 @@
     "case":5,
     "county":"Thurston",
     "state":"WA",
-    "note":"西雅图大市区"
+    "note":"����ͼ������"
     }
   },
   {
@@ -7922,7 +7922,7 @@
     "case":3,
     "county":"Missoula",
     "state":"MT",
-    "note":"密苏拉"
+    "note":"������"
     }
   },
   {
@@ -8118,7 +8118,7 @@
     "case":569,
     "county":"King County",
     "state":"WA",
-    "note":"东华盛顿大学"
+    "note":"����ʢ�ٴ�ѧ"
     }
   },
   {
@@ -8258,7 +8258,7 @@
     "case":2,
     "county":"Anchorage",
     "state":"AK",
-    "note":"安克雷奇"
+    "note":"��������"
     }
   },
   {
@@ -8272,7 +8272,7 @@
     "case":3,
     "county":"Fairbanks North Star",
     "state":"AK",
-    "note":"费尔班克斯"
+    "note":"�Ѷ����˹"
     }
   },
   {
@@ -8286,7 +8286,7 @@
     "case":2,
     "county":"Kansas City",
     "state":"MO",
-    "note":"堪萨斯城"
+    "note":"����˹��"
     }
   }
 ]
