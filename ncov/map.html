@@ -172,14 +172,17 @@ box-shadow: none;
 <div id ="intro"><center><h3>新型冠状病毒疫情分布地图<br>COVID-19 Map</h3>
 
 	<div id ="intro"><p2>疫情数据/Data From:  <br>
-		<a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">China</a> | <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">Global and USA</a><br>
+		<a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">Global</a> |
+		<a href="https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0">China</a> |
+		<a href="https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">USA</a>
+		<br>
 		<a href="https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases">UK</a> |
 		<a href="https://covid19.isciii.es/">Spain</a> |
 		<a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde">France</a> |
 		<a href="https://github.com/pcm-dpc/COVID-19/blob/master/dati-province/dpc-covid19-ita-province-20200317.csv">Italy</a> |
 		<a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html">Germany</a>
 	</p2><br>
-		<p2>截止到/Last Updated: <br>  2020-03-18 20:30 (CST 芝加哥时间)</p2>
+		<p2>截止到/Last Updated: <br>  2020-03-20 20:30 (CST 芝加哥时间)</p2>
 		<div><center>右上角可切换底图和数据类型<br>Add or change basemaps and data types at the upper-right menu.</center></div>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Shan Ye's Homepage</a></center></div>
 </center>
@@ -543,14 +546,14 @@ function getColor4(i){
 				color: "red",
 				weight: 5,
 				opacity: 0.9,
-				fillOpacity: 0.12}
+				fillOpacity: 0.2}
 
 			)
 			},
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng);
-					$("#paneltext").html('<p>美国县级数据更新于3月18日<br>US County data updated: March 18th.</p>');
+					$("#paneltext").html('<p>美国县级数据更新于3月20日<br>US County data updated: March 20th.</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.county+', '
 									+feature.properties.state +'<br>'+
@@ -574,14 +577,14 @@ function getColor4(i){
 				color: "red",
 				weight: 5,
 				opacity: 0.9,
-				fillOpacity: 0.12}
+				fillOpacity: 0.22}
 
 			)
 			},
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng);
-					$("#paneltext").html('<p>英格兰数据更新于3月18日<br>England data updated: March 18th.</p>');
+					$("#paneltext").html('<p>英格兰数据更新于3月20日<br>England data updated: March 20th.</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.county+', UK'
 									+'</h3><p>确诊/Confirmed: '
@@ -604,14 +607,14 @@ function getColor4(i){
 				color: "red",
 				weight: 5,
 				opacity: 0.9,
-				fillOpacity: 0.12}
+				fillOpacity: 0.22}
 
 			)
 			},
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng);
-					$("#paneltext").html('<p>欧洲数据更新于3月18日<br>European data updated: March 18th.</p>');
+					$("#paneltext").html('<p>欧洲数据更新于3月20日<br>European data updated: March 20th.</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.state+' '
 									+feature.properties.region+', '
