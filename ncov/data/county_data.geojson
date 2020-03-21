@@ -5,10 +5,52 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -109.95,44.406 ]
+    },
+    "properties": {
+    "id":779,
+    "case":1,
+    "county":"Park",
+    "state":"WY",
+    "note":"黄石国家公园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92,30.21 ]
+    },
+    "properties": {
+    "id":262,
+    "case":7,
+    "county":"Lafayette",
+    "state":"LA",
+    "note":"路易斯安纳大学拉法叶分校"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.213,39.895 ]
+    },
+    "properties": {
+    "id":589,
+    "case":1,
+    "county":"Adams",
+    "state":"PA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -155.11,19.677 ]
     },
     "properties": {
-    "id":141,
+    "id":169,
     "case":1,
     "county":"Hawaii Big Island",
     "state":"HI",
@@ -22,8 +64,8 @@
        "coordinates":  [ -156.32,20.91 ]
     },
     "properties": {
-    "id":142,
-    "case":3,
+    "id":170,
+    "case":5,
     "county":"Maui County",
     "state":"HI",
     "note":""
@@ -36,8 +78,8 @@
        "coordinates":  [ -157.92,21.38 ]
     },
     "properties": {
-    "id":143,
-    "case":8,
+    "id":171,
+    "case":18,
     "county":"Honolulu",
     "state":"HI",
     "note":"檀香山"
@@ -50,7 +92,7 @@
        "coordinates":  [ -159.31,22.14 ]
     },
     "properties": {
-    "id":144,
+    "id":172,
     "case":2,
     "county":"Kauai County",
     "state":"HI",
@@ -61,11 +103,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -81,25.36 ]
+    },
+    "properties": {
+    "id":129,
+    "case":1,
+    "county":"Monroe County",
+    "state":"FL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -80.233,25.7 ]
     },
     "properties": {
-    "id":86,
-    "case":40,
+    "id":99,
+    "case":113,
     "county":"Miami-Dade",
     "state":"FL",
     "note":"迈阿密大市区"
@@ -75,11 +131,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -97.47,26.12 ]
+    },
+    "properties": {
+    "id":673,
+    "case":1,
+    "county":"Cameron",
+    "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -81.79,26.14 ]
     },
     "properties": {
-    "id":94,
-    "case":6,
+    "id":106,
+    "case":24,
     "county":"Collier County",
     "state":"FL",
     "note":""
@@ -92,8 +162,8 @@
        "coordinates":  [ -80.448,26.15 ]
     },
     "properties": {
-    "id":85,
-    "case":48,
+    "id":98,
+    "case":124,
     "county":"Broward County",
     "state":"FL",
     "note":"迈阿密大市区"
@@ -106,8 +176,8 @@
        "coordinates":  [ -81.84,26.62 ]
     },
     "properties": {
-    "id":92,
-    "case":5,
+    "id":109,
+    "case":13,
     "county":"Lee County",
     "state":"FL",
     "note":""
@@ -120,8 +190,8 @@
        "coordinates":  [ -80.12,26.74 ]
     },
     "properties": {
-    "id":87,
-    "case":13,
+    "id":100,
+    "case":34,
     "county":"Palm Beach County",
     "state":"FL",
     "note":"迈阿密大市区"
@@ -134,8 +204,8 @@
        "coordinates":  [ -82.05,26.89 ]
     },
     "properties": {
-    "id":103,
-    "case":1,
+    "id":117,
+    "case":2,
     "county":"Charlotte County",
     "state":"FL",
     "note":""
@@ -148,9 +218,23 @@
        "coordinates":  [ -82.35,26.95 ]
     },
     "properties": {
-    "id":95,
-    "case":2,
+    "id":113,
+    "case":8,
     "county":"Sarasota County",
+    "state":"FL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4541,27.1 ]
+    },
+    "properties": {
+    "id":128,
+    "case":1,
+    "county":"Martin County",
     "state":"FL",
     "note":""
     }
@@ -162,9 +246,23 @@
        "coordinates":  [ -82.57,27.48 ]
     },
     "properties": {
-    "id":93,
-    "case":7,
+    "id":103,
+    "case":9,
     "county":"Manatee County",
+    "state":"FL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.57,27.7 ]
+    },
+    "properties": {
+    "id":126,
+    "case":2,
+    "county":"Indian River",
     "state":"FL",
     "note":""
     }
@@ -176,7 +274,7 @@
        "coordinates":  [ -99.506,27.73 ]
     },
     "properties": {
-    "id":506,
+    "id":657,
     "case":1,
     "county":"Webb",
     "state":"TX",
@@ -190,8 +288,8 @@
        "coordinates":  [ -82.64,27.75 ]
     },
     "properties": {
-    "id":104,
-    "case":4,
+    "id":110,
+    "case":21,
     "county":"Pinellas County",
     "state":"FL",
     "note":"坦帕湾区"
@@ -204,8 +302,8 @@
        "coordinates":  [ -82.26,27.76 ]
     },
     "properties": {
-    "id":89,
-    "case":7,
+    "id":104,
+    "case":30,
     "county":"Hillsborough County",
     "state":"FL",
     "note":"坦帕湾区"
@@ -218,8 +316,8 @@
        "coordinates":  [ -81.61,28 ]
     },
     "properties": {
-    "id":109,
-    "case":1,
+    "id":118,
+    "case":7,
     "county":"Polk County",
     "state":"FL",
     "note":""
@@ -232,8 +330,8 @@
        "coordinates":  [ -81.5,28.26 ]
     },
     "properties": {
-    "id":98,
-    "case":6,
+    "id":107,
+    "case":13,
     "county":"Osceola County",
     "state":"FL",
     "note":""
@@ -246,8 +344,8 @@
        "coordinates":  [ -82.19,28.36 ]
     },
     "properties": {
-    "id":99,
-    "case":2,
+    "id":114,
+    "case":7,
     "county":"Pasco County",
     "state":"FL",
     "note":"坦帕湾区"
@@ -260,8 +358,8 @@
        "coordinates":  [ -81.26,28.5 ]
     },
     "properties": {
-    "id":96,
-    "case":6,
+    "id":108,
+    "case":22,
     "county":"Orange County",
     "state":"FL",
     "note":"奥兰多"
@@ -271,11 +369,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -82.1,28.633 ]
+    },
+    "properties": {
+    "id":127,
+    "case":2,
+    "county":"Sumter",
+    "state":"FL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -81.2233,28.744 ]
     },
     "properties": {
-    "id":105,
-    "case":4,
+    "id":111,
+    "case":8,
     "county":"Seminole County",
     "state":"FL",
     "note":""
@@ -288,8 +400,8 @@
        "coordinates":  [ -81.65,28.812 ]
     },
     "properties": {
-    "id":102,
-    "case":1,
+    "id":119,
+    "case":3,
     "county":"Lake County",
     "state":"FL",
     "note":""
@@ -302,8 +414,8 @@
        "coordinates":  [ -82.59,28.9 ]
     },
     "properties": {
-    "id":100,
-    "case":2,
+    "id":115,
+    "case":3,
     "county":"Citrus County",
     "state":"FL",
     "note":""
@@ -316,7 +428,7 @@
        "coordinates":  [ -95.96,28.97 ]
     },
     "properties": {
-    "id":491,
+    "id":652,
     "case":3,
     "county":"Matagorda County",
     "state":"TX",
@@ -330,7 +442,7 @@
        "coordinates":  [ -81.1721,29.0235 ]
     },
     "properties": {
-    "id":90,
+    "id":102,
     "case":9,
     "county":"Volusia County",
     "state":"FL",
@@ -344,7 +456,7 @@
        "coordinates":  [ -97.36,29.1 ]
     },
     "properties": {
-    "id":514,
+    "id":658,
     "case":1,
     "county":"DeWitt",
     "state":"TX",
@@ -358,8 +470,8 @@
        "coordinates":  [ -98.73,29.28 ]
     },
     "properties": {
-    "id":485,
-    "case":11,
+    "id":642,
+    "case":29,
     "county":"Bexar County",
     "state":"TX",
     "note":"圣安东尼奥大市区"
@@ -372,7 +484,7 @@
        "coordinates":  [ -95.32,29.28 ]
     },
     "properties": {
-    "id":498,
+    "id":659,
     "case":1,
     "county":"Alvin County",
     "state":"TX",
@@ -383,10 +495,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -89.47,29.38 ]
+    },
+    "properties": {
+    "id":269,
+    "case":2,
+    "county":"Plaquemines",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -95.09,29.38 ]
     },
     "properties": {
-    "id":492,
+    "id":650,
     "case":4,
     "county":"Galveston County",
     "state":"TX",
@@ -400,8 +526,8 @@
        "coordinates":  [ -90.8654,29.3827 ]
     },
     "properties": {
-    "id":207,
-    "case":3,
+    "id":255,
+    "case":4,
     "county":"Terrebonne Parish",
     "state":"LA",
     "note":""
@@ -414,7 +540,7 @@
        "coordinates":  [ -98.508,29.39 ]
     },
     "properties": {
-    "id":489,
+    "id":653,
     "case":3,
     "county":"San Antonio",
     "state":"TX",
@@ -428,7 +554,7 @@
        "coordinates":  [ -96.94,29.44 ]
     },
     "properties": {
-    "id":499,
+    "id":660,
     "case":1,
     "county":"Lavaca County",
     "state":"TX",
@@ -442,8 +568,8 @@
        "coordinates":  [ -90.502,29.459 ]
     },
     "properties": {
-    "id":208,
-    "case":2,
+    "id":257,
+    "case":5,
     "county":"Lafourche Parish",
     "state":"LA",
     "note":""
@@ -456,8 +582,8 @@
        "coordinates":  [ -95.76,29.58 ]
     },
     "properties": {
-    "id":486,
-    "case":12,
+    "id":641,
+    "case":19,
     "county":"Fort Bend County",
     "state":"TX",
     "note":"休斯敦大市区"
@@ -467,11 +593,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -97.97,29.61211 ]
+    },
+    "properties": {
+    "id":675,
+    "case":1,
+    "county":"Guadalupe",
+    "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -90.09,29.664 ]
     },
     "properties": {
-    "id":209,
-    "case":40,
+    "id":253,
+    "case":90,
     "county":"Jefferson Parish",
     "state":"LA",
     "note":"新奥尔良大市区"
@@ -484,8 +624,8 @@
        "coordinates":  [ -82.3538,29.68 ]
     },
     "properties": {
-    "id":91,
-    "case":7,
+    "id":105,
+    "case":15,
     "county":"Alachua County",
     "state":"FL",
     "note":"佛罗里达大学"
@@ -498,8 +638,8 @@
        "coordinates":  [ -95.38,29.76 ]
     },
     "properties": {
-    "id":484,
-    "case":18,
+    "id":640,
+    "case":33,
     "county":"Harris County",
     "state":"TX",
     "note":"休斯敦大市区"
@@ -509,11 +649,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -91.63,29.78 ]
+    },
+    "properties": {
+    "id":271,
+    "case":1,
+    "county":"Iberia",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -98.32273,29.8163 ]
     },
     "properties": {
-    "id":510,
-    "case":1,
+    "id":661,
+    "case":2,
     "county":"Comal",
     "state":"TX",
     "note":"圣安东尼奥大市区"
@@ -523,12 +677,54 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -91.07,29.854 ]
+    },
+    "properties": {
+    "id":275,
+    "case":1,
+    "county":"Assumption",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.79,29.86 ]
+    },
+    "properties": {
+    "id":277,
+    "case":5,
+    "county":"St Bernard",
+    "state":"LA",
+    "note":"新奥尔良大市区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -94.13,29.87 ]
     },
     "properties": {
-    "id":513,
+    "id":662,
     "case":1,
     "county":"Jefferson County",
+    "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.667,29.927 ]
+    },
+    "properties": {
+    "id":674,
+    "case":1,
+    "county":"Kendall",
     "state":"TX",
     "note":""
     }
@@ -540,8 +736,8 @@
        "coordinates":  [ -81.42,29.93 ]
     },
     "properties": {
-    "id":111,
-    "case":1,
+    "id":120,
+    "case":5,
     "county":"St Johns",
     "state":"FL",
     "note":""
@@ -554,7 +750,7 @@
        "coordinates":  [ -81.815,29.95 ]
     },
     "properties": {
-    "id":97,
+    "id":112,
     "case":4,
     "county":"Clay County",
     "state":"FL",
@@ -565,11 +761,39 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -90.35,29.96 ]
+    },
+    "properties": {
+    "id":276,
+    "case":5,
+    "county":"St Charles",
+    "state":"LA",
+    "note":"新奥尔良大市区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.802,30.028 ]
+    },
+    "properties": {
+    "id":267,
+    "case":1,
+    "county":"St James",
+    "state":"LA",
+    "note":"新奥尔良大市区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -89.8826,30.032 ]
     },
     "properties": {
-    "id":210,
-    "case":187,
+    "id":252,
+    "case":300,
     "county":"Orleans Parish",
     "state":"LA",
     "note":"新奥尔良大市区"
@@ -582,7 +806,7 @@
        "coordinates":  [ -97.83,30.08 ]
     },
     "properties": {
-    "id":500,
+    "id":663,
     "case":1,
     "county":"Hays County",
     "state":"TX",
@@ -593,12 +817,68 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -90.48,30.09 ]
+    },
+    "properties": {
+    "id":263,
+    "case":4,
+    "county":"St John the Baptist",
+    "state":"LA",
+    "note":"新奥尔良大市区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -90.86962,30.204 ]
     },
     "properties": {
-    "id":211,
-    "case":1,
+    "id":258,
+    "case":2,
     "county":"Ascension Parish",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.36,30.2618 ]
+    },
+    "properties": {
+    "id":272,
+    "case":1,
+    "county":"Iberville",
+    "state":"LA",
+    "note":"巴吞鲁日大市区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3276,30.265 ]
+    },
+    "properties": {
+    "id":264,
+    "case":3,
+    "county":"Calcasieu",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.38,30.267 ]
+    },
+    "properties": {
+    "id":270,
+    "case":1,
+    "county":"Acadia",
     "state":"LA",
     "note":""
     }
@@ -610,8 +890,8 @@
        "coordinates":  [ -89.51,30.32 ]
     },
     "properties": {
-    "id":289,
-    "case":2,
+    "id":368,
+    "case":3,
     "county":"Hancock County",
     "state":"MS",
     "note":""
@@ -624,8 +904,8 @@
        "coordinates":  [ -97.77,30.32 ]
     },
     "properties": {
-    "id":483,
-    "case":23,
+    "id":639,
+    "case":41,
     "county":"Travis County",
     "state":"TX",
     "note":"奥斯丁"
@@ -638,8 +918,8 @@
        "coordinates":  [ -95.47,30.32 ]
     },
     "properties": {
-    "id":488,
-    "case":7,
+    "id":645,
+    "case":10,
     "county":"Montgomery County",
     "state":"TX",
     "note":"休斯敦大市区"
@@ -652,8 +932,8 @@
        "coordinates":  [ -81.683,30.345 ]
     },
     "properties": {
-    "id":88,
-    "case":10,
+    "id":101,
+    "case":15,
     "county":"Duval County",
     "state":"FL",
     "note":""
@@ -666,7 +946,7 @@
        "coordinates":  [ -82.2543,30.36 ]
     },
     "properties": {
-    "id":106,
+    "id":121,
     "case":1,
     "county":"Baker County",
     "state":"FL",
@@ -680,10 +960,38 @@
        "coordinates":  [ -89.06,30.38 ]
     },
     "properties": {
-    "id":290,
-    "case":3,
+    "id":366,
+    "case":8,
     "county":"Harrison County",
     "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3,30.4 ]
+    },
+    "properties": {
+    "id":131,
+    "case":4,
+    "county":"Leon County",
+    "state":"FL",
+    "note":"佛罗里达州立大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.69,30.41 ]
+    },
+    "properties": {
+    "id":274,
+    "case":1,
+    "county":"Livingston",
+    "state":"LA",
     "note":""
     }
   },
@@ -694,8 +1002,8 @@
        "coordinates":  [ -89.87,30.42 ]
     },
     "properties": {
-    "id":215,
-    "case":8,
+    "id":254,
+    "case":10,
     "county":"St Tammany",
     "state":"LA",
     "note":"新奥尔良大市区"
@@ -708,8 +1016,8 @@
        "coordinates":  [ -88.55,30.48 ]
     },
     "properties": {
-    "id":291,
-    "case":2,
+    "id":369,
+    "case":3,
     "county":"Jackson County",
     "state":"MS",
     "note":""
@@ -719,10 +1027,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -91.313,30.49 ]
+    },
+    "properties": {
+    "id":266,
+    "case":2,
+    "county":"West Baton Rouge",
+    "state":"LA",
+    "note":"巴吞鲁日大市区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.08,30.516 ]
+    },
+    "properties": {
+    "id":261,
+    "case":7,
+    "county":"East Baton Rouge",
+    "state":"LA",
+    "note":"巴吞鲁日大市区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -95.995,30.54 ]
     },
     "properties": {
-    "id":511,
+    "id":664,
     "case":1,
     "county":"Grimes",
     "state":"TX",
@@ -733,10 +1069,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.6,30.549 ]
+    },
+    "properties": {
+    "id":130,
+    "case":1,
+    "county":"Gadsden",
+    "state":"FL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -81.69,30.552 ]
     },
     "properties": {
-    "id":107,
+    "id":122,
     "case":1,
     "county":"Nassau County",
     "state":"FL",
@@ -747,10 +1097,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -92.08,30.575 ]
+    },
+    "properties": {
+    "id":268,
+    "case":2,
+    "county":"St Landry",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -86.1,30.6 ]
     },
     "properties": {
-    "id":112,
+    "id":123,
     "case":1,
     "county":"Walton County",
     "state":"FL",
@@ -764,7 +1128,7 @@
        "coordinates":  [ -87.275,30.61 ]
     },
     "properties": {
-    "id":110,
+    "id":124,
     "case":1,
     "county":"Escambia",
     "state":"FL",
@@ -778,8 +1142,8 @@
        "coordinates":  [ -96.34,30.65 ]
     },
     "properties": {
-    "id":505,
-    "case":3,
+    "id":654,
+    "case":5,
     "county":"Brazos",
     "state":"TX",
     "note":"得克萨斯农机大学"
@@ -792,7 +1156,7 @@
        "coordinates":  [ -97.6025,30.657195 ]
     },
     "properties": {
-    "id":507,
+    "id":651,
     "case":4,
     "county":"Williamson County",
     "state":"TX",
@@ -806,8 +1170,8 @@
        "coordinates":  [ -87.04,30.6597 ]
     },
     "properties": {
-    "id":108,
-    "case":1,
+    "id":125,
+    "case":2,
     "county":"Santa Rosa County",
     "state":"FL",
     "note":""
@@ -820,9 +1184,37 @@
        "coordinates":  [ -86.59,30.66 ]
     },
     "properties": {
-    "id":101,
-    "case":2,
+    "id":116,
+    "case":6,
     "county":"Okaloosa County",
+    "state":"FL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0889,30.7 ]
+    },
+    "properties": {
+    "id":13,
+    "case":3,
+    "county":"Mobile",
+    "state":"AL",
+    "note":"莫比尔大学/南亚拉巴马大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2,30.7 ]
+    },
+    "properties": {
+    "id":132,
+    "case":1,
+    "county":"Jackson County",
     "state":"FL",
     "note":""
     }
@@ -834,8 +1226,8 @@
        "coordinates":  [ -89.5964,30.7368 ]
     },
     "properties": {
-    "id":284,
-    "case":4,
+    "id":364,
+    "case":7,
     "county":"Pearl River County",
     "state":"MS",
     "note":""
@@ -848,7 +1240,7 @@
        "coordinates":  [ -82,30.83 ]
     },
     "properties": {
-    "id":127,
+    "id":149,
     "case":1,
     "county":"Charlton County",
     "state":"GA",
@@ -859,11 +1251,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -90.03,30.834 ]
+    },
+    "properties": {
+    "id":265,
+    "case":3,
+    "county":"Washington",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -83.252,30.84 ]
     },
     "properties": {
-    "id":123,
-    "case":5,
+    "id":143,
+    "case":6,
     "county":"Lowndes County",
     "state":"GA",
     "note":""
@@ -877,7 +1283,7 @@
     },
     "properties": {
     "id":4,
-    "case":1,
+    "case":3,
     "county":"Baldwin",
     "state":"AL",
     "note":""
@@ -890,10 +1296,38 @@
        "coordinates":  [ -97.36,31.09 ]
     },
     "properties": {
-    "id":493,
-    "case":3,
+    "id":655,
+    "case":7,
     "county":"Bell County",
     "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.348,31.1 ]
+    },
+    "properties": {
+    "id":376,
+    "case":1,
+    "county":"Wilkinson County",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.72,31.163 ]
+    },
+    "properties": {
+    "id":166,
+    "case":1,
+    "county":"Miller",
+    "state":"GA",
     "note":""
     }
   },
@@ -904,7 +1338,7 @@
        "coordinates":  [ -88.99,31.17 ]
     },
     "properties": {
-    "id":293,
+    "id":374,
     "case":1,
     "county":"Perry",
     "state":"MS",
@@ -915,12 +1349,110 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -90.048,31.17 ]
+    },
+    "properties": {
+    "id":380,
+    "case":1,
+    "county":"Walthall County",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.4,31.175 ]
+    },
+    "properties": {
+    "id":385,
+    "case":1,
+    "county":"Pike County",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.52,31.2054 ]
+    },
+    "properties": {
+    "id":273,
+    "case":1,
+    "county":"Rapides",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -89.3,31.31 ]
     },
     "properties": {
-    "id":285,
-    "case":3,
+    "id":367,
+    "case":4,
     "county":"Forrest county",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.52,31.36 ]
+    },
+    "properties": {
+    "id":679,
+    "case":1,
+    "county":"Crane",
+    "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.89,31.4 ]
+    },
+    "properties": {
+    "id":383,
+    "case":1,
+    "county":"Franklin County",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5,31.46 ]
+    },
+    "properties": {
+    "id":163,
+    "case":1,
+    "county":"Tift",
+    "state":"GA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4,31.47 ]
+    },
+    "properties": {
+    "id":379,
+    "case":1,
+    "county":"Adams County",
     "state":"MS",
     "note":""
     }
@@ -932,8 +1464,8 @@
        "coordinates":  [ -97.166,31.54 ]
     },
     "properties": {
-    "id":515,
-    "case":5,
+    "id":646,
+    "case":7,
     "county":"McLennen",
     "state":"TX",
     "note":"贝勒大学"
@@ -946,8 +1478,8 @@
        "coordinates":  [ -84.86,31.55 ]
     },
     "properties": {
-    "id":122,
-    "case":6,
+    "id":140,
+    "case":9,
     "county":"Clayton County",
     "state":"GA",
     "note":"亚特兰大大市区"
@@ -960,9 +1492,37 @@
        "coordinates":  [ -84.17,31.57 ]
     },
     "properties": {
-    "id":120,
-    "case":6,
+    "id":141,
+    "case":39,
     "county":"Dougherty County",
+    "state":"GA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.17,31.62 ]
+    },
+    "properties": {
+    "id":382,
+    "case":1,
+    "county":"Jones County",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6281,31.7 ]
+    },
+    "properties": {
+    "id":165,
+    "case":1,
+    "county":"Turner",
     "state":"GA",
     "note":""
     }
@@ -974,8 +1534,8 @@
        "coordinates":  [ -84.1,31.769 ]
     },
     "properties": {
-    "id":137,
-    "case":2,
+    "id":146,
+    "case":8,
     "county":"Lee County",
     "state":"GA",
     "note":""
@@ -988,7 +1548,7 @@
        "coordinates":  [ -90.422,31.86 ]
     },
     "properties": {
-    "id":287,
+    "id":370,
     "case":2,
     "county":"Copiah County",
     "state":"MS",
@@ -999,11 +1559,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -102.1,31.985 ]
+    },
+    "properties": {
+    "id":672,
+    "case":1,
+    "county":"Midland",
+    "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -106.59,31.99 ]
     },
     "properties": {
-    "id":490,
-    "case":3,
+    "id":656,
+    "case":6,
     "county":"El Paso",
     "state":"TX",
     "note":"厄尔帕索"
@@ -1013,10 +1587,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -89.52,32 ]
+    },
+    "properties": {
+    "id":381,
+    "case":1,
+    "county":"Smith County",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -112.62,32.15 ]
     },
     "properties": {
-    "id":14,
+    "id":17,
     "case":5,
     "county":"Pima County",
     "state":"AZ",
@@ -1031,7 +1619,7 @@
     },
     "properties": {
     "id":5,
-    "case":2,
+    "case":3,
     "county":"Montgomery County",
     "state":"AL",
     "note":""
@@ -1044,7 +1632,7 @@
        "coordinates":  [ -96.73,32.3 ]
     },
     "properties": {
-    "id":504,
+    "id":665,
     "case":1,
     "county":"Ellis",
     "state":"TX",
@@ -1058,8 +1646,8 @@
        "coordinates":  [ -90.4,32.312 ]
     },
     "properties": {
-    "id":286,
-    "case":6,
+    "id":363,
+    "case":7,
     "county":"Hinds County",
     "state":"MS",
     "note":""
@@ -1072,7 +1660,7 @@
        "coordinates":  [ -95.3,32.32 ]
     },
     "properties": {
-    "id":494,
+    "id":647,
     "case":5,
     "county":"Smith County",
     "state":"TX",
@@ -1083,10 +1671,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -81.333,32.34 ]
+    },
+    "properties": {
+    "id":164,
+    "case":1,
+    "county":"Effingham",
+    "state":"GA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -97.35,32.34 ]
     },
     "properties": {
-    "id":509,
+    "id":666,
     "case":1,
     "county":"Johnson County",
     "state":"TX",
@@ -1100,7 +1702,7 @@
        "coordinates":  [ -94.59,32.38 ]
     },
     "properties": {
-    "id":501,
+    "id":667,
     "case":1,
     "county":"Rusk County",
     "state":"TX",
@@ -1114,7 +1716,7 @@
        "coordinates":  [ -90.15,32.39 ]
     },
     "properties": {
-    "id":292,
+    "id":375,
     "case":1,
     "county":"Monroe",
     "state":"MS",
@@ -1128,7 +1730,7 @@
        "coordinates":  [ -80.68,32.42 ]
     },
     "properties": {
-    "id":451,
+    "id":593,
     "case":4,
     "county":"Beaufort County",
     "state":"SC",
@@ -1143,7 +1745,7 @@
     },
     "properties": {
     "id":6,
-    "case":2,
+    "case":5,
     "county":"Elmore County",
     "state":"AL",
     "note":""
@@ -1156,9 +1758,37 @@
        "coordinates":  [ -94.76,32.51 ]
     },
     "properties": {
-    "id":502,
+    "id":668,
     "case":1,
     "county":"Gregg County",
+    "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.85,32.5657 ]
+    },
+    "properties": {
+    "id":162,
+    "case":1,
+    "county":"Peach",
+    "state":"GA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.76,32.59 ]
+    },
+    "properties": {
+    "id":678,
+    "case":1,
+    "county":"Van Zandt",
     "state":"TX",
     "note":""
     }
@@ -1170,8 +1800,8 @@
        "coordinates":  [ -93.75723,32.6084 ]
     },
     "properties": {
-    "id":212,
-    "case":3,
+    "id":256,
+    "case":13,
     "county":"Caddo Parish",
     "state":"LA",
     "note":""
@@ -1184,8 +1814,8 @@
        "coordinates":  [ -93.608,32.6285 ]
     },
     "properties": {
-    "id":213,
-    "case":1,
+    "id":259,
+    "case":4,
     "county":"Bossier Parish",
     "state":"LA",
     "note":""
@@ -1199,7 +1829,7 @@
     },
     "properties": {
     "id":7,
-    "case":3,
+    "case":10,
     "county":"Lee",
     "state":"AL",
     "note":"奥本大学"
@@ -1209,11 +1839,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -114.56,32.689 ]
+    },
+    "properties": {
+    "id":24,
+    "case":1,
+    "county":"Yuma",
+    "state":"AZ",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -97.01,32.69 ]
     },
     "properties": {
-    "id":487,
-    "case":8,
+    "id":644,
+    "case":29,
     "county":"Tarrant County",
     "state":"TX",
     "note":"达拉斯沃斯堡大市区"
@@ -1223,11 +1867,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -93.34,32.71 ]
+    },
+    "properties": {
+    "id":278,
+    "case":1,
+    "county":"Webster",
+    "state":"LA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -117.14,32.718 ]
     },
     "properties": {
-    "id":21,
-    "case":60,
+    "id":28,
+    "case":101,
     "county":"San Diego",
     "state":"CA",
     "note":"圣迭戈"
@@ -1237,11 +1895,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -90.362,32.7637 ]
+    },
+    "properties": {
+    "id":378,
+    "case":1,
+    "county":"Yazoo County",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -96.777,32.767 ]
     },
     "properties": {
-    "id":482,
-    "case":39,
+    "id":638,
+    "case":74,
     "county":"Dallas County",
     "state":"TX",
     "note":"达拉斯沃斯堡大市区"
@@ -1254,7 +1926,7 @@
        "coordinates":  [ -92.4,32.77 ]
     },
     "properties": {
-    "id":214,
+    "id":260,
     "case":1,
     "county":"Caddy Parish",
     "state":"LA",
@@ -1268,7 +1940,7 @@
        "coordinates":  [ -79.99,32.78 ]
     },
     "properties": {
-    "id":452,
+    "id":594,
     "case":3,
     "county":"Charleston County",
     "state":"SC",
@@ -1279,11 +1951,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -83.6,32.8 ]
+    },
+    "properties": {
+    "id":161,
+    "case":1,
+    "county":"Bibb",
+    "state":"GA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -115.284,33.02 ]
     },
     "properties": {
-    "id":45,
-    "case":1,
+    "id":52,
+    "case":4,
     "county":"Imperial County",
     "state":"CA",
     "note":""
@@ -1296,8 +1982,8 @@
        "coordinates":  [ -85.04,33.046 ]
     },
     "properties": {
-    "id":128,
-    "case":1,
+    "id":150,
+    "case":2,
     "county":"Troup County",
     "state":"GA",
     "note":""
@@ -1310,7 +1996,7 @@
        "coordinates":  [ -110.25,33.07 ]
     },
     "properties": {
-    "id":16,
+    "id":18,
     "case":1,
     "county":"Graham",
     "state":"AZ",
@@ -1321,11 +2007,39 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -80.43,33.076 ]
+    },
+    "properties": {
+    "id":603,
+    "case":1,
+    "county":"Dorchester",
+    "state":"SC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.53,33.12 ]
+    },
+    "properties": {
+    "id":387,
+    "case":1,
+    "county":"Humphreys",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -96.81,33.14 ]
     },
     "properties": {
-    "id":495,
-    "case":5,
+    "id":648,
+    "case":6,
     "county":"Hays County",
     "state":"TX",
     "note":""
@@ -1338,10 +2052,24 @@
        "coordinates":  [ -96.569,33.193 ]
     },
     "properties": {
-    "id":496,
-    "case":10,
+    "id":643,
+    "case":18,
     "county":"Collin County",
     "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.11,33.2 ]
+    },
+    "properties": {
+    "id":167,
+    "case":1,
+    "county":"Heard",
+    "state":"GA",
     "note":""
     }
   },
@@ -1352,7 +2080,7 @@
        "coordinates":  [ -97.116,33.207 ]
     },
     "properties": {
-    "id":497,
+    "id":649,
     "case":5,
     "county":"Denton County",
     "state":"TX",
@@ -1367,7 +2095,7 @@
     },
     "properties": {
     "id":8,
-    "case":4,
+    "case":10,
     "county":"Shelby",
     "state":"AL",
     "note":""
@@ -1380,7 +2108,7 @@
        "coordinates":  [ -84.29,33.26 ]
     },
     "properties": {
-    "id":129,
+    "id":151,
     "case":1,
     "county":"Spalding County",
     "state":"GA",
@@ -1395,7 +2123,7 @@
     },
     "properties": {
     "id":9,
-    "case":3,
+    "case":4,
     "county":"Tuscaloosa County",
     "state":"AL",
     "note":"亚拉巴马大学"
@@ -1408,7 +2136,7 @@
        "coordinates":  [ -82.19,33.29 ]
     },
     "properties": {
-    "id":130,
+    "id":152,
     "case":1,
     "county":"Richmond County",
     "state":"GA",
@@ -1422,7 +2150,7 @@
        "coordinates":  [ -84.75,33.35 ]
     },
     "properties": {
-    "id":124,
+    "id":145,
     "case":3,
     "county":"Coweta County",
     "state":"GA",
@@ -1436,8 +2164,8 @@
        "coordinates":  [ -84.504,33.4 ]
     },
     "properties": {
-    "id":121,
-    "case":8,
+    "id":138,
+    "case":10,
     "county":"Fayette County",
     "state":"GA",
     "note":"亚特兰大大市区"
@@ -1450,8 +2178,8 @@
        "coordinates":  [ -111.54,33.42 ]
     },
     "properties": {
-    "id":15,
-    "case":8,
+    "id":19,
+    "case":10,
     "county":"Pinal County",
     "state":"AZ",
     "note":""
@@ -1464,7 +2192,7 @@
        "coordinates":  [ -94.07,33.44 ]
     },
     "properties": {
-    "id":503,
+    "id":669,
     "case":1,
     "county":"Bowie County",
     "state":"TX",
@@ -1478,8 +2206,8 @@
        "coordinates":  [ -112.06,33.45 ]
     },
     "properties": {
-    "id":13,
-    "case":11,
+    "id":20,
+    "case":34,
     "county":"Maricopa County",
     "state":"AZ",
     "note":"凤凰城菲尼克斯"
@@ -1492,8 +2220,8 @@
        "coordinates":  [ -84.138,33.472 ]
     },
     "properties": {
-    "id":126,
-    "case":2,
+    "id":147,
+    "case":6,
     "county":"Henry County",
     "state":"GA",
     "note":"亚特兰大大市区"
@@ -1506,8 +2234,8 @@
        "coordinates":  [ -90.277,33.5 ]
     },
     "properties": {
-    "id":288,
-    "case":4,
+    "id":365,
+    "case":7,
     "county":"Leflore County",
     "state":"MS",
     "note":""
@@ -1520,7 +2248,7 @@
        "coordinates":  [ -83.864,33.55 ]
     },
     "properties": {
-    "id":131,
+    "id":153,
     "case":1,
     "county":"Newton County",
     "state":"GA",
@@ -1535,9 +2263,23 @@
     },
     "properties": {
     "id":10,
-    "case":22,
+    "case":36,
     "county":"Jefferson County",
     "state":"AL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.26,33.599 ]
+    },
+    "properties": {
+    "id":386,
+    "case":1,
+    "county":"Webster County",
+    "state":"MS",
     "note":""
     }
   },
@@ -1548,7 +2290,7 @@
        "coordinates":  [ -96.11,33.61 ]
     },
     "properties": {
-    "id":512,
+    "id":670,
     "case":1,
     "county":"Fannin",
     "state":"TX",
@@ -1562,11 +2304,25 @@
        "coordinates":  [ -117.76,33.64 ]
     },
     "properties": {
-    "id":25,
-    "case":29,
+    "id":33,
+    "case":53,
     "county":"Orange County",
     "state":"CA",
-    "note":"洛杉矶大市区"
+    "note":"洛杉矶大市区/加州大学欧文分校"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.58,33.66 ]
+    },
+    "properties": {
+    "id":677,
+    "case":1,
+    "county":"Lamar",
+    "state":"TX",
+    "note":""
     }
   },
   {
@@ -1576,7 +2332,7 @@
        "coordinates":  [ -86.31,33.691 ]
     },
     "properties": {
-    "id":12,
+    "id":11,
     "case":1,
     "county":"St Clair",
     "state":"AL",
@@ -1590,7 +2346,7 @@
        "coordinates":  [ -118.19091,33.78 ]
     },
     "properties": {
-    "id":46,
+    "id":53,
     "case":1,
     "county":"Long Beach",
     "state":"CA",
@@ -1604,8 +2360,8 @@
        "coordinates":  [ -84.186,33.792 ]
     },
     "properties": {
-    "id":115,
-    "case":18,
+    "id":136,
+    "case":35,
     "county":"DeKalb County",
     "state":"GA",
     "note":"亚特兰大大市区"
@@ -1618,8 +2374,8 @@
        "coordinates":  [ -83.5,33.81 ]
     },
     "properties": {
-    "id":125,
-    "case":5,
+    "id":144,
+    "case":9,
     "county":"Clarke",
     "state":"GA",
     "note":""
@@ -1632,7 +2388,7 @@
        "coordinates":  [ -90.94,33.82 ]
     },
     "properties": {
-    "id":295,
+    "id":371,
     "case":2,
     "county":"Bolivar",
     "state":"MS",
@@ -1646,8 +2402,8 @@
        "coordinates":  [ -84.474,33.84 ]
     },
     "properties": {
-    "id":113,
-    "case":49,
+    "id":133,
+    "case":79,
     "county":"Fulton County",
     "state":"GA",
     "note":"亚特兰大大市区"
@@ -1660,8 +2416,8 @@
        "coordinates":  [ -118.4,33.893 ]
     },
     "properties": {
-    "id":47,
-    "case":1,
+    "id":54,
+    "case":3,
     "county":"Manhattan Beach",
     "state":"CA",
     "note":""
@@ -1674,7 +2430,7 @@
        "coordinates":  [ -81.54,33.9 ]
     },
     "properties": {
-    "id":453,
+    "id":595,
     "case":3,
     "county":"Lexington County",
     "state":"SC",
@@ -1688,8 +2444,8 @@
        "coordinates":  [ -84.557,33.91 ]
     },
     "properties": {
-    "id":114,
-    "case":28,
+    "id":134,
+    "case":45,
     "county":"Cobb County",
     "state":"GA",
     "note":"亚特兰大大市区"
@@ -1702,7 +2458,7 @@
        "coordinates":  [ -84.88,33.928 ]
     },
     "properties": {
-    "id":132,
+    "id":154,
     "case":1,
     "county":"Paulding County",
     "state":"GA",
@@ -1716,8 +2472,8 @@
        "coordinates":  [ -117.4,33.95 ]
     },
     "properties": {
-    "id":27,
-    "case":16,
+    "id":34,
+    "case":22,
     "county":"Riverside",
     "state":"CA",
     "note":"洛杉矶大市区/加州大学河滨分校"
@@ -1730,8 +2486,8 @@
        "coordinates":  [ -84.03,33.9605 ]
     },
     "properties": {
-    "id":117,
-    "case":7,
+    "id":139,
+    "case":20,
     "county":"Gwinnett County",
     "state":"GA",
     "note":"亚特兰大大市区"
@@ -1744,7 +2500,7 @@
        "coordinates":  [ -79.2,33.99 ]
     },
     "properties": {
-    "id":454,
+    "id":596,
     "case":4,
     "county":"Horry County",
     "state":"SC",
@@ -1758,7 +2514,7 @@
        "coordinates":  [ -85.1722,33.9981 ]
     },
     "properties": {
-    "id":133,
+    "id":155,
     "case":1,
     "county":"Polk County",
     "state":"GA",
@@ -1772,7 +2528,7 @@
        "coordinates":  [ -83.7,34.01 ]
     },
     "properties": {
-    "id":139,
+    "id":156,
     "case":1,
     "county":"Barrow",
     "state":"GA",
@@ -1786,8 +2542,8 @@
        "coordinates":  [ -98.687,34.02 ]
     },
     "properties": {
-    "id":508,
-    "case":1,
+    "id":671,
+    "case":4,
     "county":"Wichita",
     "state":"TX",
     "note":""
@@ -1800,8 +2556,8 @@
        "coordinates":  [ -118.21,34.042 ]
     },
     "properties": {
-    "id":19,
-    "case":190,
+    "id":25,
+    "case":292,
     "county":"Los Angeles",
     "state":"CA",
     "note":"洛杉矶大市区"
@@ -1814,7 +2570,7 @@
        "coordinates":  [ -78.2,34.06 ]
     },
     "properties": {
-    "id":302,
+    "id":400,
     "case":1,
     "county":"Brunswick County",
     "state":"NC",
@@ -1828,8 +2584,8 @@
        "coordinates":  [ -117.28,34.101 ]
     },
     "properties": {
-    "id":40,
-    "case":3,
+    "id":46,
+    "case":5,
     "county":"San Bernardino County",
     "state":"CA",
     "note":"洛杉矶大市区"
@@ -1839,11 +2595,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -77.88,34.11 ]
+    },
+    "properties": {
+    "id":414,
+    "case":2,
+    "county":"New Hanover",
+    "state":"NC",
+    "note":"威尔明顿"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -119.18,34.16 ]
     },
     "properties": {
-    "id":30,
-    "case":11,
+    "id":38,
+    "case":17,
     "county":"Ventura County",
     "state":"CA",
     "note":"洛杉矶大市区"
@@ -1856,8 +2626,8 @@
        "coordinates":  [ -84.09,34.193 ]
     },
     "properties": {
-    "id":134,
-    "case":2,
+    "id":148,
+    "case":3,
     "county":"Forsyth County",
     "state":"GA",
     "note":""
@@ -1870,8 +2640,8 @@
        "coordinates":  [ -110.07,34.23 ]
     },
     "properties": {
-    "id":17,
-    "case":2,
+    "id":21,
+    "case":14,
     "county":"Navajo",
     "state":"AZ",
     "note":""
@@ -1884,10 +2654,24 @@
        "coordinates":  [ -84.845,34.24 ]
     },
     "properties": {
-    "id":116,
-    "case":19,
+    "id":135,
+    "case":40,
     "county":"Bartow County",
     "state":"GA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.49,34.24 ]
+    },
+    "properties": {
+    "id":605,
+    "case":1,
+    "county":"Abbeville",
+    "state":"SC",
     "note":""
     }
   },
@@ -1898,8 +2682,8 @@
        "coordinates":  [ -84.458,34.243 ]
     },
     "properties": {
-    "id":118,
-    "case":9,
+    "id":137,
+    "case":13,
     "county":"Cherokee County",
     "state":"GA",
     "note":""
@@ -1912,7 +2696,7 @@
        "coordinates":  [ -90.679,34.25 ]
     },
     "properties": {
-    "id":296,
+    "id":372,
     "case":2,
     "county":"Coahoma",
     "state":"MS",
@@ -1926,7 +2710,7 @@
        "coordinates":  [ -91.835,34.27 ]
     },
     "properties": {
-    "id":591,
+    "id":14,
     "case":3,
     "county":"Jefferson",
     "state":"AR",
@@ -1940,8 +2724,8 @@
        "coordinates":  [ -83.83,34.3 ]
     },
     "properties": {
-    "id":135,
-    "case":1,
+    "id":157,
+    "case":5,
     "county":"Hall County",
     "state":"GA",
     "note":""
@@ -1954,7 +2738,7 @@
        "coordinates":  [ -85.23,34.33 ]
     },
     "properties": {
-    "id":119,
+    "id":142,
     "case":6,
     "county":"Floyd County",
     "state":"GA",
@@ -1965,10 +2749,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -89.4,34.36 ]
+    },
+    "properties": {
+    "id":377,
+    "case":1,
+    "county":"Lafayette County",
+    "state":"MS",
+    "note":"密西西比大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0987,34.373 ]
+    },
+    "properties": {
+    "id":604,
+    "case":1,
+    "county":"Fairfield",
+    "state":"SC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -118.4,34.4 ]
     },
     "properties": {
-    "id":48,
+    "id":55,
     "case":1,
     "county":"Santa Clarita",
     "state":"CA",
@@ -1982,7 +2794,7 @@
        "coordinates":  [ -80.34,34.41 ]
     },
     "properties": {
-    "id":455,
+    "id":597,
     "case":22,
     "county":"Kershaw County",
     "state":"SC",
@@ -1996,8 +2808,8 @@
        "coordinates":  [ -119.72,34.42 ]
     },
     "properties": {
-    "id":43,
-    "case":2,
+    "id":48,
+    "case":9,
     "county":"Santa Barbara",
     "state":"CA",
     "note":"加州大学圣巴巴拉分校"
@@ -2007,10 +2819,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.15,34.47 ]
+    },
+    "properties": {
+    "id":168,
+    "case":1,
+    "county":"Dawson",
+    "state":"GA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -106.8,34.47 ]
     },
     "properties": {
-    "id":352,
+    "id":460,
     "case":2,
     "county":"Socorro County",
     "state":"NM",
@@ -2021,13 +2847,41 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -82.6487,34.5 ]
+    },
+    "properties": {
+    "id":601,
+    "case":2,
+    "county":"Anderson County",
+    "state":"SC",
+    "note":"克莱姆森大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -84.878,34.507 ]
     },
     "properties": {
-    "id":136,
-    "case":1,
+    "id":158,
+    "case":3,
     "county":"Gordon County",
     "state":"GA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.26,34.529 ]
+    },
+    "properties": {
+    "id":680,
+    "case":1,
+    "county":"Castro",
+    "state":"TX",
     "note":""
     }
   },
@@ -2038,7 +2892,7 @@
        "coordinates":  [ -80.67,34.59 ]
     },
     "properties": {
-    "id":456,
+    "id":598,
     "case":2,
     "county":"Lancaster County",
     "state":"SC",
@@ -2052,7 +2906,7 @@
        "coordinates":  [ -99.31,34.64 ]
     },
     "properties": {
-    "id":410,
+    "id":541,
     "case":1,
     "county":"Jackson County",
     "state":"OK",
@@ -2066,7 +2920,7 @@
        "coordinates":  [ -77.388,34.692578 ]
     },
     "properties": {
-    "id":310,
+    "id":401,
     "case":1,
     "county":"Onslow County",
     "state":"NC",
@@ -2077,10 +2931,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -89.4,34.7 ]
+    },
+    "properties": {
+    "id":384,
+    "case":1,
+    "county":"Marshall County",
+    "state":"MS",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.39,34.71 ]
+    },
+    "properties": {
+    "id":23,
+    "case":1,
+    "county":"Yavapai",
+    "state":"AZ",
+    "note":"弗拉格斯塔夫"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -86.95,34.78 ]
     },
     "properties": {
-    "id":11,
+    "id":12,
     "case":1,
     "county":"Limestone County",
     "state":"AL",
@@ -2094,7 +2976,7 @@
        "coordinates":  [ -84.99,34.8 ]
     },
     "properties": {
-    "id":138,
+    "id":159,
     "case":1,
     "county":"Whitfield",
     "state":"GA",
@@ -2108,8 +2990,8 @@
        "coordinates":  [ -90,34.85 ]
     },
     "properties": {
-    "id":294,
-    "case":2,
+    "id":373,
+    "case":4,
     "county":"DeSoto",
     "state":"MS",
     "note":""
@@ -2122,7 +3004,7 @@
        "coordinates":  [ -78.3,34.93 ]
     },
     "properties": {
-    "id":311,
+    "id":402,
     "case":1,
     "county":"Sampson County",
     "state":"NC",
@@ -2136,7 +3018,7 @@
        "coordinates":  [ -81.92,34.94 ]
     },
     "properties": {
-    "id":457,
+    "id":599,
     "case":1,
     "county":"Spartanburg County",
     "state":"SC",
@@ -2147,10 +3029,52 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -81.17,34.99 ]
+    },
+    "properties": {
+    "id":602,
+    "case":1,
+    "county":"York",
+    "state":"SC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.24,35.023 ]
+    },
+    "properties": {
+    "id":420,
+    "case":1,
+    "county":"Hoke",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8083,35.0519 ]
+    },
+    "properties": {
+    "id":421,
+    "case":1,
+    "county":"Cumberland",
+    "state":"NC",
+    "note":"费耶特维尔"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -106.37,35.1 ]
     },
     "properties": {
-    "id":349,
+    "id":461,
     "case":16,
     "county":"Bernalillo County",
     "state":"NM",
@@ -2164,8 +3088,8 @@
        "coordinates":  [ -77.06,35.111 ]
     },
     "properties": {
-    "id":312,
-    "case":1,
+    "id":403,
+    "case":2,
     "county":"Craven County",
     "state":"NC",
     "note":""
@@ -2178,7 +3102,7 @@
        "coordinates":  [ -90.056,35.135 ]
     },
     "properties": {
-    "id":472,
+    "id":620,
     "case":1,
     "county":"Memphis",
     "state":"TN",
@@ -2192,8 +3116,8 @@
        "coordinates":  [ -92.56,35.151 ]
     },
     "properties": {
-    "id":590,
-    "case":29,
+    "id":15,
+    "case":92,
     "county":"Unassigned",
     "state":"AR",
     "note":""
@@ -2206,7 +3130,7 @@
        "coordinates":  [ -97.4059,35.153 ]
     },
     "properties": {
-    "id":411,
+    "id":542,
     "case":2,
     "county":"Cleveland County",
     "state":"OK",
@@ -2220,7 +3144,7 @@
        "coordinates":  [ -82.18,35.17 ]
     },
     "properties": {
-    "id":458,
+    "id":600,
     "case":1,
     "county":"Greenville County",
     "state":"SC",
@@ -2231,10 +3155,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.861,35.17 ]
+    },
+    "properties": {
+    "id":635,
+    "case":1,
+    "county":"Bradley",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.41,35.19 ]
+    },
+    "properties": {
+    "id":630,
+    "case":1,
+    "county":"Fayette",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -89.97,35.2 ]
     },
     "properties": {
-    "id":468,
+    "id":615,
     "case":4,
     "county":"Shelby",
     "state":"TN",
@@ -2248,7 +3200,7 @@
        "coordinates":  [ -85.2,35.221 ]
     },
     "properties": {
-    "id":473,
+    "id":621,
     "case":1,
     "county":"Hamilton County",
     "state":"TN",
@@ -2262,8 +3214,8 @@
        "coordinates":  [ -80.8,35.25 ]
     },
     "properties": {
-    "id":305,
-    "case":13,
+    "id":395,
+    "case":43,
     "county":"Mecklenburg County",
     "state":"NC",
     "note":"夏洛特"
@@ -2273,10 +3225,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -81.18,35.28 ]
+    },
+    "properties": {
+    "id":423,
+    "case":1,
+    "county":"Gaston County",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -120.66,35.2842 ]
     },
     "properties": {
-    "id":33,
+    "id":41,
     "case":6,
     "county":"San Luis Obispo County",
     "state":"CA",
@@ -2290,8 +3256,8 @@
        "coordinates":  [ -118.9,35.29 ]
     },
     "properties": {
-    "id":55,
-    "case":1,
+    "id":56,
+    "case":4,
     "county":"Kern",
     "state":"CA",
     "note":""
@@ -2304,9 +3270,37 @@
        "coordinates":  [ -80.54,35.346 ]
     },
     "properties": {
-    "id":313,
-    "case":1,
+    "id":404,
+    "case":2,
     "county":"Cabarrus County",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.093,35.35 ]
+    },
+    "properties": {
+    "id":426,
+    "case":1,
+    "county":"Stanley",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.54,35.37 ]
+    },
+    "properties": {
+    "id":424,
+    "case":1,
+    "county":"Cleveland",
     "state":"NC",
     "note":""
     }
@@ -2318,7 +3312,7 @@
        "coordinates":  [ -106.14,35.37 ]
     },
     "properties": {
-    "id":350,
+    "id":462,
     "case":5,
     "county":"Santa Fe County",
     "state":"NM",
@@ -2332,7 +3326,7 @@
        "coordinates":  [ -78.05,35.373 ]
     },
     "properties": {
-    "id":314,
+    "id":405,
     "case":1,
     "county":"Wayne County",
     "state":"NC",
@@ -2346,7 +3340,7 @@
        "coordinates":  [ -106.47,35.38 ]
     },
     "properties": {
-    "id":351,
+    "id":463,
     "case":4,
     "county":"Sandoval County",
     "state":"NM",
@@ -2360,9 +3354,37 @@
        "coordinates":  [ -78.876,35.388 ]
     },
     "properties": {
-    "id":306,
-    "case":3,
+    "id":396,
+    "case":6,
     "county":"Harnett County",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5469,35.41 ]
+    },
+    "properties": {
+    "id":676,
+    "case":1,
+    "county":"Oldham",
+    "state":"TX",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.164,35.467 ]
+    },
+    "properties": {
+    "id":418,
+    "case":1,
+    "county":"Lee",
     "state":"NC",
     "note":""
     }
@@ -2374,7 +3396,7 @@
        "coordinates":  [ -81.23,35.48 ]
     },
     "properties": {
-    "id":319,
+    "id":406,
     "case":1,
     "county":"Lincoln County",
     "state":"NC",
@@ -2388,7 +3410,7 @@
        "coordinates":  [ -97.99,35.526 ]
     },
     "properties": {
-    "id":412,
+    "id":543,
     "case":1,
     "county":"Canadian County",
     "state":"OK",
@@ -2402,7 +3424,7 @@
        "coordinates":  [ -78.386,35.53 ]
     },
     "properties": {
-    "id":308,
+    "id":398,
     "case":2,
     "county":"Johnston County",
     "state":"NC",
@@ -2416,7 +3438,7 @@
        "coordinates":  [ -97.40753,35.551 ]
     },
     "properties": {
-    "id":413,
+    "id":544,
     "case":2,
     "county":"Oklahoma County",
     "state":"OK",
@@ -2427,10 +3449,52 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -77.3,35.58 ]
+    },
+    "properties": {
+    "id":413,
+    "case":2,
+    "county":"Pitt",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.22,35.6 ]
+    },
+    "properties": {
+    "id":419,
+    "case":1,
+    "county":"Catawba",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.528,35.623 ]
+    },
+    "properties": {
+    "id":422,
+    "case":1,
+    "county":"Buncombe",
+    "state":"NC",
+    "note":"阿什维尔"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -79.23,35.696 ]
     },
     "properties": {
-    "id":307,
+    "id":397,
     "case":3,
     "county":"Chatham County",
     "state":"NC",
@@ -2444,7 +3508,7 @@
        "coordinates":  [ -77.95,35.742 ]
     },
     "properties": {
-    "id":315,
+    "id":407,
     "case":1,
     "county":"Wilson",
     "state":"NC",
@@ -2458,7 +3522,7 @@
        "coordinates":  [ -85.45582,35.75 ]
     },
     "properties": {
-    "id":470,
+    "id":617,
     "case":2,
     "county":"Middle Tennessee",
     "state":"TN",
@@ -2469,11 +3533,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -80.26,35.765 ]
+    },
+    "properties": {
+    "id":416,
+    "case":1,
+    "county":"Davidson",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -80.9,35.77 ]
     },
     "properties": {
-    "id":316,
-    "case":1,
+    "id":408,
+    "case":2,
     "county":"Iredell County",
     "state":"NC",
     "note":""
@@ -2486,8 +3564,8 @@
        "coordinates":  [ -78.62,35.79 ]
     },
     "properties": {
-    "id":304,
-    "case":17,
+    "id":393,
+    "case":25,
     "county":"Wake County",
     "state":"NC",
     "note":"北卡三角区"
@@ -2500,7 +3578,7 @@
        "coordinates":  [ -86.42279,35.86 ]
     },
     "properties": {
-    "id":474,
+    "id":622,
     "case":1,
     "county":"Rutherford County",
     "state":"TN",
@@ -2514,8 +3592,8 @@
        "coordinates":  [ -86.907,35.8797 ]
     },
     "properties": {
-    "id":467,
-    "case":24,
+    "id":614,
+    "case":30,
     "county":"Williamson County",
     "state":"TN",
     "note":""
@@ -2528,7 +3606,7 @@
        "coordinates":  [ -95.87,35.94 ]
     },
     "properties": {
-    "id":414,
+    "id":545,
     "case":3,
     "county":"Tulsa County",
     "state":"OK",
@@ -2539,10 +3617,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.975,35.95 ]
+    },
+    "properties": {
+    "id":636,
+    "case":1,
+    "county":"Cumberland",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -96.76,35.97 ]
     },
     "properties": {
-    "id":415,
+    "id":546,
     "case":1,
     "county":"Payne County",
     "state":"OK",
@@ -2553,10 +3645,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -88.44,35.97 ]
+    },
+    "properties": {
+    "id":634,
+    "case":1,
+    "county":"Carroll",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.198,35.99 ]
+    },
+    "properties": {
+    "id":22,
+    "case":8,
+    "county":"Coconino",
+    "state":"AZ",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -83.962,35.99 ]
     },
     "properties": {
-    "id":471,
+    "id":618,
     "case":2,
     "county":"Knox",
     "state":"TN",
@@ -2570,7 +3690,7 @@
        "coordinates":  [ -94.22,35.994 ]
     },
     "properties": {
-    "id":592,
+    "id":16,
     "case":1,
     "county":"Washington",
     "state":"AR",
@@ -2581,11 +3701,53 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -78.27,36.042 ]
+    },
+    "properties": {
+    "id":412,
+    "case":4,
+    "county":"Franklin County",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.444,36.046 ]
+    },
+    "properties": {
+    "id":629,
+    "case":1,
+    "county":"Dyer",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.38,36.047 ]
+    },
+    "properties": {
+    "id":415,
+    "case":1,
+    "county":"Alamance",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -79.1,36.05 ]
     },
     "properties": {
-    "id":320,
-    "case":1,
+    "id":409,
+    "case":4,
     "county":"Orange County",
     "state":"NC",
     "note":"北卡三角区"
@@ -2598,8 +3760,8 @@
        "coordinates":  [ -78.85,36.05149 ]
     },
     "properties": {
-    "id":303,
-    "case":16,
+    "id":394,
+    "case":35,
     "county":"Durham County",
     "state":"NC",
     "note":"北卡三角区"
@@ -2612,8 +3774,8 @@
        "coordinates":  [ -79.789,36.077 ]
     },
     "properties": {
-    "id":317,
-    "case":1,
+    "id":410,
+    "case":4,
     "county":"Guilford County ",
     "state":"NC",
     "note":""
@@ -2626,8 +3788,8 @@
        "coordinates":  [ -80.278,36.11 ]
     },
     "properties": {
-    "id":309,
-    "case":2,
+    "id":399,
+    "case":7,
     "county":"Forsyth County",
     "state":"NC",
     "note":""
@@ -2640,8 +3802,8 @@
        "coordinates":  [ -115.28,36.14 ]
     },
     "properties": {
-    "id":354,
-    "case":42,
+    "id":465,
+    "case":74,
     "county":"Clark",
     "state":"NV",
     "note":"拉斯维加斯"
@@ -2654,7 +3816,7 @@
        "coordinates":  [ -86.77,36.148 ]
     },
     "properties": {
-    "id":469,
+    "id":616,
     "case":3,
     "county":"Nashville",
     "state":"TN",
@@ -2665,11 +3827,53 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -86.3,36.15 ]
+    },
+    "properties": {
+    "id":632,
+    "case":1,
+    "county":"Wilson",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.567,36.16 ]
+    },
+    "properties": {
+    "id":425,
+    "case":1,
+    "county":"Chowan",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.875,36.17 ]
+    },
+    "properties": {
+    "id":633,
+    "case":1,
+    "county":"Greene",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -86.7851,36.1869 ]
     },
     "properties": {
-    "id":466,
-    "case":58,
+    "id":613,
+    "case":75,
     "county":"Davidson",
     "state":"TN",
     "note":""
@@ -2682,7 +3886,7 @@
        "coordinates":  [ -87,36.2 ]
     },
     "properties": {
-    "id":481,
+    "id":623,
     "case":1,
     "county":"Cheatham County",
     "state":"TN",
@@ -2696,8 +3900,8 @@
        "coordinates":  [ -81.6,36.251 ]
     },
     "properties": {
-    "id":318,
-    "case":1,
+    "id":411,
+    "case":2,
     "county":"Watauga",
     "state":"NC",
     "note":""
@@ -2710,7 +3914,7 @@
        "coordinates":  [ -89.32,36.26 ]
     },
     "properties": {
-    "id":475,
+    "id":624,
     "case":1,
     "county":"Jefferson County",
     "state":"TN",
@@ -2724,7 +3928,7 @@
        "coordinates":  [ -89.32,36.26 ]
     },
     "properties": {
-    "id":476,
+    "id":625,
     "case":1,
     "county":"Sevier County",
     "state":"TN",
@@ -2738,7 +3942,7 @@
        "coordinates":  [ -118.77,36.27 ]
     },
     "properties": {
-    "id":38,
+    "id":42,
     "case":4,
     "county":"Tulare County",
     "state":"CA",
@@ -2749,10 +3953,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -82.5,36.27 ]
+    },
+    "properties": {
+    "id":637,
+    "case":2,
+    "county":"Washington",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.2,36.285 ]
+    },
+    "properties": {
+    "id":417,
+    "case":1,
+    "county":"Pasquotank",
+    "state":"NC",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -96.46,36.29 ]
     },
     "properties": {
-    "id":416,
+    "id":547,
     "case":1,
     "county":"Pawnee County",
     "state":"OK",
@@ -2766,7 +3998,7 @@
        "coordinates":  [ -105.58,36.38 ]
     },
     "properties": {
-    "id":353,
+    "id":464,
     "case":1,
     "county":"Taos",
     "state":"NM",
@@ -2780,7 +4012,7 @@
        "coordinates":  [ -84.138,36.384 ]
     },
     "properties": {
-    "id":477,
+    "id":626,
     "case":1,
     "county":"Campbell",
     "state":"TN",
@@ -2794,9 +4026,23 @@
        "coordinates":  [ -86.481,36.448 ]
     },
     "properties": {
-    "id":479,
+    "id":619,
     "case":2,
     "county":"Sumner",
+    "state":"TN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.377,36.477 ]
+    },
+    "properties": {
+    "id":631,
+    "case":1,
+    "county":"Montgomery",
     "state":"TN",
     "note":""
     }
@@ -2808,7 +4054,7 @@
        "coordinates":  [ -86.85,36.501 ]
     },
     "properties": {
-    "id":480,
+    "id":627,
     "case":1,
     "county":"Robertson",
     "state":"TN",
@@ -2822,7 +4068,7 @@
        "coordinates":  [ -82.263,36.5054 ]
     },
     "properties": {
-    "id":478,
+    "id":628,
     "case":1,
     "county":"Sullivan",
     "state":"TN",
@@ -2833,10 +4079,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -78.383,36.7165 ]
+    },
+    "properties": {
+    "id":713,
+    "case":1,
+    "county":"Mecklenburg",
+    "state":"VA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -97.06,36.72 ]
     },
     "properties": {
-    "id":417,
+    "id":548,
     "case":2,
     "county":"Kay County",
     "state":"OK",
@@ -2850,11 +4110,11 @@
        "coordinates":  [ -76.04,36.73 ]
     },
     "properties": {
-    "id":523,
-    "case":3,
+    "id":696,
+    "case":4,
     "county":"Virginia Beach City",
     "state":"VA",
-    "note":""
+    "note":"弗吉尼亚比奇"
     }
   },
   {
@@ -2864,7 +4124,7 @@
        "coordinates":  [ -119.64,36.75 ]
     },
     "properties": {
-    "id":41,
+    "id":49,
     "case":2,
     "county":"Fresno County",
     "state":"CA",
@@ -2875,11 +4135,39 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -76.31,36.836 ]
+    },
+    "properties": {
+    "id":711,
+    "case":1,
+    "county":"Portsmouth City",
+    "state":"VA",
+    "note":"朴茨茅斯"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.293,36.87 ]
+    },
+    "properties": {
+    "id":709,
+    "case":1,
+    "county":"Norfolk",
+    "state":"VA",
+    "note":"诺福克"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -121.24,36.89 ]
     },
     "properties": {
-    "id":39,
-    "case":3,
+    "id":47,
+    "case":5,
     "county":"San Benito",
     "state":"CA",
     "note":""
@@ -2892,8 +4180,8 @@
        "coordinates":  [ -121.89,36.97 ]
     },
     "properties": {
-    "id":28,
-    "case":13,
+    "id":36,
+    "case":15,
     "county":"Santa Cruz",
     "state":"CA",
     "note":"加州大学圣克鲁斯分校"
@@ -2906,7 +4194,7 @@
        "coordinates":  [ -121.58,37 ]
     },
     "properties": {
-    "id":49,
+    "id":57,
     "case":1,
     "county":"Gilroy",
     "state":"CA",
@@ -2920,7 +4208,7 @@
        "coordinates":  [ -88.05,37.0236 ]
     },
     "properties": {
-    "id":206,
+    "id":244,
     "case":1,
     "county":"Lyon",
     "state":"KY",
@@ -2934,8 +4222,8 @@
        "coordinates":  [ -78.63,37.05 ]
     },
     "properties": {
-    "id":524,
-    "case":1,
+    "id":700,
+    "case":3,
     "county":"Charlottesville City",
     "state":"VA",
     "note":"弗吉尼亚大学"
@@ -2948,8 +4236,8 @@
        "coordinates":  [ -76.76,37.22 ]
     },
     "properties": {
-    "id":525,
-    "case":12,
+    "id":692,
+    "case":19,
     "county":"James City County",
     "state":"VA",
     "note":""
@@ -2962,8 +4250,8 @@
        "coordinates":  [ -76.5,37.23 ]
     },
     "properties": {
-    "id":526,
-    "case":1,
+    "id":701,
+    "case":3,
     "county":"York County",
     "state":"VA",
     "note":""
@@ -2976,8 +4264,8 @@
        "coordinates":  [ -119.7,37.27 ]
     },
     "properties": {
-    "id":50,
-    "case":1,
+    "id":58,
+    "case":4,
     "county":"Madera County",
     "state":"CA",
     "note":""
@@ -2990,7 +4278,7 @@
        "coordinates":  [ -76.703,37.278 ]
     },
     "properties": {
-    "id":527,
+    "id":702,
     "case":1,
     "county":"Williamsburg",
     "state":"VA",
@@ -3004,7 +4292,7 @@
        "coordinates":  [ -78.39,37.29 ]
     },
     "properties": {
-    "id":528,
+    "id":703,
     "case":1,
     "county":"Prince Edward County",
     "state":"VA",
@@ -3018,7 +4306,7 @@
        "coordinates":  [ -121.88,37.31 ]
     },
     "properties": {
-    "id":42,
+    "id":50,
     "case":2,
     "county":"San Jose",
     "state":"CA",
@@ -3032,7 +4320,7 @@
        "coordinates":  [ -93.58,37.31 ]
     },
     "properties": {
-    "id":276,
+    "id":355,
     "case":3,
     "county":"Greene County",
     "state":"MO",
@@ -3046,8 +4334,8 @@
        "coordinates":  [ -122.14,37.36 ]
     },
     "properties": {
-    "id":18,
-    "case":175,
+    "id":26,
+    "case":196,
     "county":"Santa Clara",
     "state":"CA",
     "note":"斯坦福大学"
@@ -3057,11 +4345,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -81.1,37.41 ]
+    },
+    "properties": {
+    "id":773,
+    "case":1,
+    "county":"Mercer",
+    "state":"WV",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -122.3,37.5 ]
     },
     "properties": {
-    "id":20,
-    "case":80,
+    "id":27,
+    "case":100,
     "county":"San Mateo",
     "state":"CA",
     "note":""
@@ -3074,9 +4376,37 @@
        "coordinates":  [ -77.63,37.5 ]
     },
     "properties": {
-    "id":529,
-    "case":4,
+    "id":695,
+    "case":6,
     "county":"Chesterfield County",
+    "state":"VA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.465,37.52 ]
+    },
+    "properties": {
+    "id":710,
+    "case":5,
+    "county":"Richmond",
+    "state":"VA",
+    "note":"里士满"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7,37.55 ]
+    },
+    "properties": {
+    "id":712,
+    "case":1,
+    "county":"Botetourt",
     "state":"VA",
     "note":""
     }
@@ -3088,7 +4418,7 @@
        "coordinates":  [ -113.5,37.622 ]
     },
     "properties": {
-    "id":517,
+    "id":685,
     "case":1,
     "county":"Southwest Utah",
     "state":"UT",
@@ -3102,7 +4432,7 @@
        "coordinates":  [ -77.79,37.63 ]
     },
     "properties": {
-    "id":530,
+    "id":704,
     "case":1,
     "county":"Goochland",
     "state":"VA",
@@ -3116,9 +4446,23 @@
        "coordinates":  [ -77.48,37.66 ]
     },
     "properties": {
-    "id":531,
+    "id":698,
     "case":2,
     "county":"Henrico County",
+    "state":"VA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45,37.74 ]
+    },
+    "properties": {
+    "id":708,
+    "case":1,
+    "county":"Hanover",
     "state":"VA",
     "note":""
     }
@@ -3130,7 +4474,7 @@
        "coordinates":  [ -100.01,37.75 ]
     },
     "properties": {
-    "id":193,
+    "id":238,
     "case":1,
     "county":"Ford County",
     "state":"KS",
@@ -3144,8 +4488,8 @@
        "coordinates":  [ -122.41,37.77 ]
     },
     "properties": {
-    "id":22,
-    "case":51,
+    "id":29,
+    "case":76,
     "county":"San Francisco",
     "state":"CA",
     "note":"旧金山"
@@ -3158,8 +4502,8 @@
        "coordinates":  [ -122.27,37.77 ]
     },
     "properties": {
-    "id":26,
-    "case":30,
+    "id":32,
+    "case":48,
     "county":"Alameda County",
     "state":"CA",
     "note":""
@@ -3172,7 +4516,7 @@
        "coordinates":  [ -85.46,37.81 ]
     },
     "properties": {
-    "id":199,
+    "id":245,
     "case":1,
     "county":"Nelson County",
     "state":"KY",
@@ -3186,8 +4530,8 @@
        "coordinates":  [ -121.64,37.86 ]
     },
     "properties": {
-    "id":24,
-    "case":39,
+    "id":31,
+    "case":41,
     "county":"Contra Costa County",
     "state":"CA",
     "note":""
@@ -3200,7 +4544,7 @@
        "coordinates":  [ -122.28,37.87 ]
     },
     "properties": {
-    "id":51,
+    "id":59,
     "case":1,
     "county":"Berkeley",
     "state":"CA",
@@ -3214,8 +4558,8 @@
        "coordinates":  [ -121.22,37.9 ]
     },
     "properties": {
-    "id":29,
-    "case":13,
+    "id":37,
+    "case":17,
     "county":"San Joaquin County",
     "state":"CA",
     "note":""
@@ -3228,7 +4572,7 @@
        "coordinates":  [ -120.87,37.96 ]
     },
     "properties": {
-    "id":37,
+    "id":43,
     "case":4,
     "county":"Stanislaus County",
     "state":"CA",
@@ -3242,7 +4586,7 @@
        "coordinates":  [ -83.82,37.96 ]
     },
     "properties": {
-    "id":200,
+    "id":246,
     "case":2,
     "county":"Montgomery",
     "state":"KY",
@@ -3256,8 +4600,8 @@
        "coordinates":  [ -122.5,37.97 ]
     },
     "properties": {
-    "id":31,
-    "case":15,
+    "id":35,
+    "case":25,
     "county":"Marin County",
     "state":"CA",
     "note":""
@@ -3270,7 +4614,7 @@
        "coordinates":  [ -84.18,37.99 ]
     },
     "properties": {
-    "id":201,
+    "id":247,
     "case":1,
     "county":"Clark County",
     "state":"KY",
@@ -3281,10 +4625,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -87.57,37.997 ]
+    },
+    "properties": {
+    "id":231,
+    "case":1,
+    "county":"Vanderburgh",
+    "state":"IN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -96.63,38.03 ]
     },
     "properties": {
-    "id":194,
+    "id":239,
     "case":1,
     "county":"Butler County",
     "state":"KS",
@@ -3298,7 +4656,7 @@
        "coordinates":  [ -84.45,38.04 ]
     },
     "properties": {
-    "id":202,
+    "id":248,
     "case":7,
     "county":"Fayette County",
     "state":"KY",
@@ -3312,7 +4670,7 @@
        "coordinates":  [ -120.55,38.07 ]
     },
     "properties": {
-    "id":44,
+    "id":51,
     "case":2,
     "county":"Calaveras County",
     "state":"CA",
@@ -3326,7 +4684,7 @@
        "coordinates":  [ -122.13,38.11 ]
     },
     "properties": {
-    "id":32,
+    "id":40,
     "case":7,
     "county":"Solano County",
     "state":"CA",
@@ -3340,8 +4698,8 @@
        "coordinates":  [ -104.5514,38.128 ]
     },
     "properties": {
-    "id":70,
-    "case":1,
+    "id":78,
+    "case":2,
     "county":"Pueblo County",
     "state":"CO",
     "note":""
@@ -3354,7 +4712,7 @@
        "coordinates":  [ -122.25,38.18 ]
     },
     "properties": {
-    "id":52,
+    "id":60,
     "case":1,
     "county":"Napa County",
     "state":"CA",
@@ -3368,7 +4726,7 @@
        "coordinates":  [ -79.142,38.183 ]
     },
     "properties": {
-    "id":140,
+    "id":160,
     "case":1,
     "county":"Augusta County",
     "state":"GA",
@@ -3379,10 +4737,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -75.32,38.22 ]
+    },
+    "properties": {
+    "id":303,
+    "case":1,
+    "county":"Worcester",
+    "state":"MD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -85.48,38.25 ]
     },
     "properties": {
-    "id":203,
+    "id":249,
     "case":8,
     "county":"Jefferson County",
     "state":"KY",
@@ -3396,7 +4768,7 @@
        "coordinates":  [ -77.48,38.29 ]
     },
     "properties": {
-    "id":532,
+    "id":705,
     "case":1,
     "county":"Spotsylvania County",
     "state":"VA",
@@ -3410,7 +4782,7 @@
        "coordinates":  [ -77.48,38.29 ]
     },
     "properties": {
-    "id":533,
+    "id":706,
     "case":1,
     "county":"Stafford County",
     "state":"VA",
@@ -3424,7 +4796,7 @@
        "coordinates":  [ -84.14,38.3 ]
     },
     "properties": {
-    "id":204,
+    "id":250,
     "case":1,
     "county":"Bourbon County",
     "state":"KY",
@@ -3435,11 +4807,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -103.7,38.31 ]
+    },
+    "properties": {
+    "id":85,
+    "case":1,
+    "county":"Crowley County",
+    "state":"CO",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -85.86,38.31 ]
     },
     "properties": {
-    "id":178,
-    "case":1,
+    "id":215,
+    "case":5,
     "county":"Floyd County",
     "state":"IN",
     "note":""
@@ -3452,7 +4838,7 @@
        "coordinates":  [ -122.97,38.33 ]
     },
     "properties": {
-    "id":35,
+    "id":44,
     "case":4,
     "county":"Sonoma County",
     "state":"CA",
@@ -3463,10 +4849,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -89.42,38.36 ]
+    },
+    "properties": {
+    "id":207,
+    "case":1,
+    "county":"Washington County",
+    "state":"IL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.62,38.38 ]
+    },
+    "properties": {
+    "id":302,
+    "case":1,
+    "county":"Wicomico",
+    "state":"MD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -85.704,38.43 ]
     },
     "properties": {
-    "id":192,
+    "id":216,
     "case":1,
     "county":"Clark",
     "state":"IN",
@@ -3480,7 +4894,7 @@
        "coordinates":  [ -76.9,38.43 ]
     },
     "properties": {
-    "id":235,
+    "id":298,
     "case":2,
     "county":"Charles",
     "state":"MD",
@@ -3494,7 +4908,7 @@
        "coordinates":  [ -78.871183,38.439 ]
     },
     "properties": {
-    "id":534,
+    "id":707,
     "case":1,
     "county":"Harrisonburg ",
     "state":"VA",
@@ -3508,7 +4922,7 @@
        "coordinates":  [ -95.08,38.44 ]
     },
     "properties": {
-    "id":195,
+    "id":240,
     "case":1,
     "county":"Franklin County",
     "state":"KS",
@@ -3522,7 +4936,7 @@
        "coordinates":  [ -89.99,38.5 ]
     },
     "properties": {
-    "id":166,
+    "id":194,
     "case":3,
     "county":"St Clair",
     "state":"IL",
@@ -3536,7 +4950,7 @@
        "coordinates":  [ -84.38,38.52 ]
     },
     "properties": {
-    "id":205,
+    "id":251,
     "case":6,
     "county":"Harrison County",
     "state":"KY",
@@ -3550,7 +4964,7 @@
        "coordinates":  [ -92.24,38.53 ]
     },
     "properties": {
-    "id":280,
+    "id":356,
     "case":1,
     "county":"Cole County",
     "state":"MO",
@@ -3561,10 +4975,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -76.5259,38.537 ]
+    },
+    "properties": {
+    "id":304,
+    "case":1,
+    "county":"Calvert",
+    "state":"MD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -93.95,38.55 ]
     },
     "properties": {
-    "id":278,
+    "id":357,
     "case":1,
     "county":"Henry County",
     "state":"MO",
@@ -3578,7 +5006,7 @@
        "coordinates":  [ -89.4233,38.57 ]
     },
     "properties": {
-    "id":163,
+    "id":195,
     "case":3,
     "county":"Clinton County",
     "state":"IL",
@@ -3592,8 +5020,8 @@
        "coordinates":  [ -121.49,38.58 ]
     },
     "properties": {
-    "id":23,
-    "case":40,
+    "id":30,
+    "case":53,
     "county":"Sacramento",
     "state":"CA",
     "note":"萨克拉门托"
@@ -3606,7 +5034,7 @@
        "coordinates":  [ -121.54,38.59 ]
     },
     "properties": {
-    "id":36,
+    "id":45,
     "case":4,
     "county":"Yolo County",
     "state":"CA",
@@ -3620,7 +5048,7 @@
        "coordinates":  [ -90.243,38.6534 ]
     },
     "properties": {
-    "id":277,
+    "id":358,
     "case":6,
     "county":"Sant Louis",
     "state":"MO",
@@ -3634,7 +5062,7 @@
        "coordinates":  [ -106.83,38.67 ]
     },
     "properties": {
-    "id":62,
+    "id":68,
     "case":11,
     "county":"Gunnison County",
     "state":"CO",
@@ -3648,7 +5076,7 @@
        "coordinates":  [ -94.71,38.71 ]
     },
     "properties": {
-    "id":196,
+    "id":241,
     "case":12,
     "county":"Johnson County",
     "state":"KS",
@@ -3662,7 +5090,7 @@
        "coordinates":  [ -75.35,38.72 ]
     },
     "properties": {
-    "id":83,
+    "id":95,
     "case":1,
     "county":"Sussex",
     "state":"DE",
@@ -3676,7 +5104,7 @@
        "coordinates":  [ -77.4679,38.72 ]
     },
     "properties": {
-    "id":535,
+    "id":697,
     "case":3,
     "county":"Prince William County",
     "state":"VA",
@@ -3690,8 +5118,8 @@
        "coordinates":  [ -76.85,38.74 ]
     },
     "properties": {
-    "id":229,
-    "case":8,
+    "id":294,
+    "case":18,
     "county":"Howard",
     "state":"MD",
     "note":""
@@ -3704,7 +5132,7 @@
        "coordinates":  [ -76.06,38.77 ]
     },
     "properties": {
-    "id":232,
+    "id":300,
     "case":1,
     "county":"Talbot County",
     "state":"MD",
@@ -3718,7 +5146,7 @@
        "coordinates":  [ -94.53,38.81 ]
     },
     "properties": {
-    "id":279,
+    "id":359,
     "case":1,
     "county":"Cass County",
     "state":"MO",
@@ -3732,8 +5160,8 @@
        "coordinates":  [ -77.054,38.81 ]
     },
     "properties": {
-    "id":536,
-    "case":2,
+    "id":699,
+    "case":3,
     "county":"Alexandria",
     "state":"VA",
     "note":""
@@ -3746,8 +5174,8 @@
        "coordinates":  [ -104.56,38.825 ]
     },
     "properties": {
-    "id":67,
-    "case":4,
+    "id":75,
+    "case":8,
     "county":"El Paso County",
     "state":"CO",
     "note":"科罗拉多泉城"
@@ -3757,10 +5185,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -81.706,38.825 ]
+    },
+    "properties": {
+    "id":775,
+    "case":1,
+    "county":"Jackson",
+    "state":"WV",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -104.561,38.825246 ]
     },
     "properties": {
-    "id":71,
+    "id":79,
     "case":1,
     "county":"Highlands Ranch",
     "state":"CO",
@@ -3774,7 +5216,7 @@
        "coordinates":  [ -89.936,38.8282 ]
     },
     "properties": {
-    "id":173,
+    "id":197,
     "case":1,
     "county":"Madison",
     "state":"IL",
@@ -3788,8 +5230,8 @@
        "coordinates":  [ -77.2,38.83 ]
     },
     "properties": {
-    "id":537,
-    "case":12,
+    "id":694,
+    "case":15,
     "county":"Fairfax County",
     "state":"VA",
     "note":""
@@ -3802,8 +5244,8 @@
        "coordinates":  [ -77.1,38.88 ]
     },
     "properties": {
-    "id":538,
-    "case":13,
+    "id":693,
+    "case":17,
     "county":"Arlington",
     "state":"VA",
     "note":""
@@ -3816,7 +5258,7 @@
        "coordinates":  [ -77.01,38.91 ]
     },
     "properties": {
-    "id":81,
+    "id":94,
     "case":22,
     "county":"Washington",
     "state":"DC",
@@ -3830,7 +5272,7 @@
        "coordinates":  [ -92.3,38.94 ]
     },
     "properties": {
-    "id":281,
+    "id":360,
     "case":1,
     "county":"Boone County",
     "state":"MO",
@@ -3844,8 +5286,8 @@
        "coordinates":  [ -77.1,38.97 ]
     },
     "properties": {
-    "id":227,
-    "case":31,
+    "id":291,
+    "case":51,
     "county":"Montgomery County",
     "state":"MD",
     "note":""
@@ -3858,8 +5300,8 @@
        "coordinates":  [ -76.931,38.985 ]
     },
     "properties": {
-    "id":237,
-    "case":20,
+    "id":292,
+    "case":31,
     "county":"Prince George's",
     "state":"MD",
     "note":"马里兰大学"
@@ -3872,7 +5314,7 @@
        "coordinates":  [ -121.09,39 ]
     },
     "properties": {
-    "id":34,
+    "id":39,
     "case":9,
     "county":"Placer County",
     "state":"CA",
@@ -3886,7 +5328,7 @@
        "coordinates":  [ -85.618,39 ]
     },
     "properties": {
-    "id":191,
+    "id":217,
     "case":1,
     "county":"Jennings",
     "state":"IN",
@@ -3900,7 +5342,7 @@
        "coordinates":  [ -94.35,39.03 ]
     },
     "properties": {
-    "id":282,
+    "id":361,
     "case":2,
     "county":"Jackson County",
     "state":"MO",
@@ -3914,7 +5356,7 @@
        "coordinates":  [ -94.88,39.05 ]
     },
     "properties": {
-    "id":197,
+    "id":242,
     "case":4,
     "county":"Wyandotte County",
     "state":"KS",
@@ -3925,10 +5367,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -74.83,39.058 ]
+    },
+    "properties": {
+    "id":458,
+    "case":1,
+    "county":"Cape May",
+    "state":"NJ",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -108.55,39.08 ]
     },
     "properties": {
-    "id":72,
+    "id":80,
     "case":1,
     "county":"Mesa County",
     "state":"CO",
@@ -3942,8 +5398,8 @@
        "coordinates":  [ -77.64,39.085 ]
     },
     "properties": {
-    "id":539,
-    "case":5,
+    "id":714,
+    "case":9,
     "county":"Loudoun County",
     "state":"VA",
     "note":""
@@ -3953,10 +5409,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -94.57,39.092 ]
+    },
+    "properties": {
+    "id":362,
+    "case":2,
+    "county":"Kansas City",
+    "state":"MO",
+    "note":"堪萨斯城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -75.44,39.108 ]
     },
     "properties": {
-    "id":84,
+    "id":96,
     "case":1,
     "county":"Kent",
     "state":"DE",
@@ -3967,11 +5437,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -79.56,39.118 ]
+    },
+    "properties": {
+    "id":772,
+    "case":2,
+    "county":"Tucker",
+    "state":"WV",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -76.77,39.12 ]
     },
     "properties": {
-    "id":230,
-    "case":4,
+    "id":295,
+    "case":9,
     "county":"Anne Arundel County",
     "state":"MD",
     "note":"海军学院"
@@ -3984,8 +5468,8 @@
        "coordinates":  [ -119.7619,39.14 ]
     },
     "properties": {
-    "id":356,
-    "case":1,
+    "id":466,
+    "case":2,
     "county":"Carson City",
     "state":"NV",
     "note":""
@@ -3998,7 +5482,7 @@
        "coordinates":  [ -120.95,39.16 ]
     },
     "properties": {
-    "id":53,
+    "id":61,
     "case":1,
     "county":"Nevada County",
     "state":"CA",
@@ -4009,10 +5493,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.538,39.16 ]
+    },
+    "properties": {
+    "id":540,
+    "case":7,
+    "county":"Hamilton",
+    "state":"OH",
+    "note":"辛辛那提"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -106.82,39.19 ]
     },
     "properties": {
-    "id":60,
+    "id":69,
     "case":11,
     "county":"Pitkin County",
     "state":"CO",
@@ -4026,7 +5524,7 @@
        "coordinates":  [ -106.836,39.19842 ]
     },
     "properties": {
-    "id":69,
+    "id":77,
     "case":2,
     "county":"Aspen County",
     "state":"CO",
@@ -4040,7 +5538,7 @@
        "coordinates":  [ -85.91,39.21 ]
     },
     "properties": {
-    "id":179,
+    "id":218,
     "case":1,
     "county":"Bartholomew County",
     "state":"IN",
@@ -4054,7 +5552,7 @@
        "coordinates":  [ -95.06,39.23 ]
     },
     "properties": {
-    "id":198,
+    "id":243,
     "case":2,
     "county":"Leavenworth",
     "state":"KS",
@@ -4068,7 +5566,7 @@
        "coordinates":  [ -88.24,39.274 ]
     },
     "properties": {
-    "id":167,
+    "id":198,
     "case":1,
     "county":"Cumberland County",
     "state":"IL",
@@ -4082,8 +5580,8 @@
        "coordinates":  [ -76.61,39.28 ]
     },
     "properties": {
-    "id":236,
-    "case":4,
+    "id":296,
+    "case":12,
     "county":"Baltimore City",
     "state":"MD",
     "note":"巴尔的摩"
@@ -4096,10 +5594,52 @@
        "coordinates":  [ -119.95,39.28 ]
     },
     "properties": {
-    "id":355,
-    "case":12,
+    "id":467,
+    "case":14,
     "county":"Washoe County",
     "state":"NV",
+    "note":"雷诺"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.79,39.3 ]
+    },
+    "properties": {
+    "id":63,
+    "case":1,
+    "county":"Mendocino",
+    "state":"CA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.8,39.3 ]
+    },
+    "properties": {
+    "id":230,
+    "case":1,
+    "county":"Owen",
+    "state":"IN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14,39.31 ]
+    },
+    "properties": {
+    "id":459,
+    "case":1,
+    "county":"Cumberland",
+    "state":"NJ",
     "note":""
     }
   },
@@ -4110,8 +5650,8 @@
        "coordinates":  [ -77.87,39.31 ]
     },
     "properties": {
-    "id":586,
-    "case":1,
+    "id":771,
+    "case":2,
     "county":"Jefferson County",
     "state":"WV",
     "note":""
@@ -4124,8 +5664,8 @@
        "coordinates":  [ -104.99,39.348 ]
     },
     "properties": {
-    "id":63,
-    "case":10,
+    "id":71,
+    "case":11,
     "county":"Douglas County",
     "state":"CO",
     "note":""
@@ -4138,7 +5678,7 @@
        "coordinates":  [ -77.41,39.42 ]
     },
     "properties": {
-    "id":233,
+    "id":301,
     "case":1,
     "county":"Frederick",
     "state":"MD",
@@ -4149,11 +5689,39 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.171,39.42 ]
+    },
+    "properties": {
+    "id":532,
+    "case":2,
+    "county":"Warren",
+    "state":"OH",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.4,39.434 ]
+    },
+    "properties": {
+    "id":232,
+    "case":1,
+    "county":"Vigo",
+    "state":"IN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -84.83,39.49 ]
     },
     "properties": {
-    "id":180,
-    "case":1,
+    "id":219,
+    "case":2,
     "county":"Franklin County",
     "state":"IN",
     "note":""
@@ -4166,8 +5734,8 @@
        "coordinates":  [ -76.88,39.49 ]
     },
     "properties": {
-    "id":231,
-    "case":2,
+    "id":299,
+    "case":4,
     "county":"Carroll County",
     "state":"MD",
     "note":""
@@ -4177,11 +5745,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -74.6,39.49 ]
+    },
+    "properties": {
+    "id":456,
+    "case":3,
+    "county":"Atlantic",
+    "state":"NJ",
+    "note":"大西洋城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -86.16,39.51 ]
     },
     "properties": {
-    "id":175,
-    "case":3,
+    "id":212,
+    "case":4,
     "county":"Johnson County",
     "state":"IN",
     "note":""
@@ -4194,8 +5776,8 @@
        "coordinates":  [ -76.49,39.51 ]
     },
     "properties": {
-    "id":228,
-    "case":10,
+    "id":293,
+    "case":13,
     "county":"Baltimore County",
     "state":"MD",
     "note":"巴尔的摩"
@@ -4208,8 +5790,8 @@
        "coordinates":  [ -76.17,39.51 ]
     },
     "properties": {
-    "id":234,
-    "case":3,
+    "id":297,
+    "case":5,
     "county":"Harford",
     "state":"MD",
     "note":""
@@ -4222,10 +5804,24 @@
        "coordinates":  [ -84.64,39.52 ]
     },
     "properties": {
-    "id":392,
-    "case":8,
+    "id":512,
+    "case":12,
     "county":"Butler County",
     "state":"OH",
+    "note":"牛津迈阿密大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.79,39.523 ]
+    },
+    "properties": {
+    "id":237,
+    "case":1,
+    "county":"Shelby",
+    "state":"IN",
     "note":""
     }
   },
@@ -4236,8 +5832,8 @@
        "coordinates":  [ -105.2,39.524 ]
     },
     "properties": {
-    "id":59,
-    "case":17,
+    "id":67,
+    "case":25,
     "county":"Jefferson County",
     "state":"CO",
     "note":""
@@ -4250,7 +5846,7 @@
        "coordinates":  [ -107.33,39.54 ]
     },
     "properties": {
-    "id":73,
+    "id":81,
     "case":1,
     "county":"Garfield County",
     "state":"CO",
@@ -4264,7 +5860,7 @@
        "coordinates":  [ -85.19,39.576 ]
     },
     "properties": {
-    "id":190,
+    "id":220,
     "case":1,
     "county":"Fayette County",
     "state":"IN",
@@ -4278,7 +5874,7 @@
        "coordinates":  [ -75.68,39.58 ]
     },
     "properties": {
-    "id":82,
+    "id":97,
     "case":17,
     "county":"New Castle",
     "state":"DE",
@@ -4289,11 +5885,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -79.986,39.6 ]
+    },
+    "properties": {
+    "id":774,
+    "case":1,
+    "county":"Monongalia",
+    "state":"WV",
+    "note":"西弗吉尼亚大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -106.64,39.63799 ]
     },
     "properties": {
-    "id":57,
-    "case":34,
+    "id":65,
+    "case":39,
     "county":"Eagle County",
     "state":"CO",
     "note":""
@@ -4306,7 +5916,7 @@
        "coordinates":  [ -106.105,39.641 ]
     },
     "properties": {
-    "id":66,
+    "id":74,
     "case":5,
     "county":"Summit County",
     "state":"CO",
@@ -4320,8 +5930,8 @@
        "coordinates":  [ -104.382,39.651 ]
     },
     "properties": {
-    "id":58,
-    "case":18,
+    "id":66,
+    "case":22,
     "county":"Arapahoe County",
     "state":"CO",
     "note":""
@@ -4334,7 +5944,7 @@
        "coordinates":  [ -86.61,39.68 ]
     },
     "properties": {
-    "id":176,
+    "id":211,
     "case":4,
     "county":"Hendricks County",
     "state":"IN",
@@ -4348,8 +5958,8 @@
        "coordinates":  [ -105.66,39.708 ]
     },
     "properties": {
-    "id":74,
-    "case":1,
+    "id":82,
+    "case":2,
     "county":"Clear Creek County",
     "state":"CO",
     "note":""
@@ -4362,11 +5972,11 @@
        "coordinates":  [ -86.08,39.71 ]
     },
     "properties": {
-    "id":174,
-    "case":11,
+    "id":210,
+    "case":25,
     "county":"Marion County",
     "state":"IN",
-    "note":""
+    "note":"印第安纳波利斯"
     }
   },
   {
@@ -4376,8 +5986,8 @@
        "coordinates":  [ -104.9,39.739 ]
     },
     "properties": {
-    "id":56,
-    "case":38,
+    "id":64,
+    "case":43,
     "county":"Denver County",
     "state":"CO",
     "note":"丹佛"
@@ -4390,7 +6000,7 @@
        "coordinates":  [ -89.6,39.75 ]
     },
     "properties": {
-    "id":161,
+    "id":191,
     "case":4,
     "county":"Sangamon  County",
     "state":"IL",
@@ -4404,8 +6014,8 @@
        "coordinates":  [ -74.22,39.75 ]
     },
     "properties": {
-    "id":342,
-    "case":8,
+    "id":451,
+    "case":49,
     "county":"Ocean County",
     "state":"NJ",
     "note":"纽约大市区"
@@ -4418,7 +6028,7 @@
        "coordinates":  [ -84.268,39.75 ]
     },
     "properties": {
-    "id":409,
+    "id":523,
     "case":1,
     "county":"Montgomery County",
     "state":"OH",
@@ -4429,11 +6039,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -85.01,39.8 ]
+    },
+    "properties": {
+    "id":233,
+    "case":1,
+    "county":"Wayne",
+    "state":"IN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -75.34,39.8 ]
     },
     "properties": {
-    "id":347,
-    "case":2,
+    "id":454,
+    "case":4,
     "county":"Gloucester County",
     "state":"NJ",
     "note":"费城大市区"
@@ -4446,8 +6070,8 @@
        "coordinates":  [ -104.3793,39.868 ]
     },
     "properties": {
-    "id":64,
-    "case":7,
+    "id":72,
+    "case":10,
     "county":"Adams County",
     "state":"CO",
     "note":""
@@ -4460,8 +6084,8 @@
        "coordinates":  [ -74.99,39.9 ]
     },
     "properties": {
-    "id":344,
-    "case":8,
+    "id":452,
+    "case":11,
     "county":"Camden County",
     "state":"NJ",
     "note":"费城大市区"
@@ -4471,10 +6095,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -83.782,39.9043 ]
+    },
+    "properties": {
+    "id":533,
+    "case":1,
+    "county":"Clark",
+    "state":"OH",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -85.84,39.93 ]
     },
     "properties": {
-    "id":181,
+    "id":221,
     "case":1,
     "county":"Hancock County",
     "state":"IN",
@@ -4488,8 +6126,8 @@
        "coordinates":  [ -75.16,39.95 ]
     },
     "properties": {
-    "id":431,
-    "case":34,
+    "id":568,
+    "case":67,
     "county":"Philadelphia",
     "state":"PA",
     "note":"费城大市区"
@@ -4499,10 +6137,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -76.68,39.973 ]
+    },
+    "properties": {
+    "id":591,
+    "case":6,
+    "county":"York",
+    "state":"PA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.21,39.978 ]
+    },
+    "properties": {
+    "id":208,
+    "case":1,
+    "county":"Adams County",
+    "state":"IL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -81.17,39.98 ]
     },
     "properties": {
-    "id":398,
+    "id":519,
     "case":2,
     "county":"Belmont County",
     "state":"OH",
@@ -4516,7 +6182,7 @@
        "coordinates":  [ -105.282,40 ]
     },
     "properties": {
-    "id":61,
+    "id":70,
     "case":11,
     "county":"Boulder County",
     "state":"CO",
@@ -4527,11 +6193,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -106.13,40 ]
+    },
+    "properties": {
+    "id":84,
+    "case":1,
+    "county":"Grand County",
+    "state":"CO",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -75.29,40 ]
     },
     "properties": {
-    "id":434,
-    "case":14,
+    "id":569,
+    "case":23,
     "county":"Delaware County",
     "state":"PA",
     "note":"费城大市区"
@@ -4541,11 +6221,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -77.775,40 ]
+    },
+    "properties": {
+    "id":587,
+    "case":1,
+    "county":"Franklin",
+    "state":"PA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -76.3,40.03 ]
     },
     "properties": {
-    "id":446,
-    "case":1,
+    "id":579,
+    "case":2,
     "county":"Lancaster",
     "state":"PA",
     "note":"富兰克林马绍尔学院"
@@ -4555,10 +6249,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.227,40.04 ]
+    },
+    "properties": {
+    "id":530,
+    "case":2,
+    "county":"Miami",
+    "state":"OH",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -86.47,40.05 ]
     },
     "properties": {
-    "id":182,
+    "id":222,
     "case":1,
     "county":"Boone County",
     "state":"IN",
@@ -4572,8 +6280,8 @@
        "coordinates":  [ -74.92,40.06 ]
     },
     "properties": {
-    "id":341,
-    "case":10,
+    "id":450,
+    "case":17,
     "county":"Burlington County",
     "state":"NJ",
     "note":"费城大市区"
@@ -4586,8 +6294,8 @@
        "coordinates":  [ -75.4,40.06 ]
     },
     "properties": {
-    "id":436,
-    "case":9,
+    "id":572,
+    "case":17,
     "county":"Chester County",
     "state":"PA",
     "note":"费城大市区"
@@ -4600,8 +6308,8 @@
        "coordinates":  [ -83.18,40.07 ]
     },
     "properties": {
-    "id":393,
-    "case":7,
+    "id":513,
+    "case":14,
     "county":"Franklin County",
     "state":"OH",
     "note":"哥伦布市"
@@ -4611,10 +6319,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -82.482,40.095 ]
+    },
+    "properties": {
+    "id":537,
+    "case":1,
+    "county":"Licking",
+    "state":"OH",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -88.196,40.14 ]
     },
     "properties": {
-    "id":168,
+    "id":199,
     "case":1,
     "county":"Champaign County",
     "state":"IL",
@@ -4628,8 +6350,8 @@
        "coordinates":  [ -86.02,40.17 ]
     },
     "properties": {
-    "id":183,
-    "case":2,
+    "id":213,
+    "case":5,
     "county":"Hamilton County",
     "state":"IN",
     "note":""
@@ -4639,10 +6361,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -111.53,40.17 ]
+    },
+    "properties": {
+    "id":690,
+    "case":2,
+    "county":"Utah County",
+    "state":"UT",
+    "note":"杨百翰大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -84.63,40.21 ]
     },
     "properties": {
-    "id":400,
+    "id":524,
     "case":1,
     "county":"Darke County",
     "state":"OH",
@@ -4656,8 +6392,8 @@
        "coordinates":  [ -80.178,40.21 ]
     },
     "properties": {
-    "id":438,
-    "case":2,
+    "id":576,
+    "case":3,
     "county":"Washington County",
     "state":"PA",
     "note":"匹兹堡大市区"
@@ -4667,11 +6403,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -85.397,40.22 ]
+    },
+    "properties": {
+    "id":236,
+    "case":1,
+    "county":"Delaware County",
+    "state":"IN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -76.92,40.24 ]
     },
     "properties": {
-    "id":432,
-    "case":10,
+    "id":571,
+    "case":11,
     "county":"Cumberland County",
     "state":"PA",
     "note":"哈里斯堡"
@@ -4684,8 +6434,8 @@
        "coordinates":  [ -74.52,40.26 ]
     },
     "properties": {
-    "id":345,
-    "case":15,
+    "id":449,
+    "case":22,
     "county":"Mercer",
     "state":"NJ",
     "note":""
@@ -4698,7 +6448,7 @@
        "coordinates":  [ -81.59,40.27 ]
     },
     "properties": {
-    "id":401,
+    "id":525,
     "case":1,
     "county":"Tuscarawas County",
     "state":"OH",
@@ -4712,7 +6462,7 @@
        "coordinates":  [ -82.997,40.28 ]
     },
     "properties": {
-    "id":407,
+    "id":526,
     "case":1,
     "county":"Delaware County",
     "state":"OH",
@@ -4726,10 +6476,24 @@
        "coordinates":  [ -111.254087,40.2957 ]
     },
     "properties": {
-    "id":518,
-    "case":2,
+    "id":684,
+    "case":4,
     "county":"Wasatch County",
     "state":"UT",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.36,40.3 ]
+    },
+    "properties": {
+    "id":534,
+    "case":1,
+    "county":"Union",
+    "state":"OH",
     "note":""
     }
   },
@@ -4740,8 +6504,8 @@
        "coordinates":  [ -74.06,40.34 ]
     },
     "properties": {
-    "id":336,
-    "case":32,
+    "id":444,
+    "case":53,
     "county":"Monmouth County",
     "state":"NJ",
     "note":"纽约大市区"
@@ -4751,11 +6515,39 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -79.43,40.36 ]
+    },
+    "properties": {
+    "id":590,
+    "case":4,
+    "county":"Westmoreland",
+    "state":"PA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.8,40.38 ]
+    },
+    "properties": {
+    "id":234,
+    "case":2,
+    "county":"Tippecanoe",
+    "state":"IN",
+    "note":"普渡大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -75.5,40.4 ]
     },
     "properties": {
-    "id":430,
-    "case":42,
+    "id":567,
+    "case":68,
     "county":"Montgomery County",
     "state":"PA",
     "note":""
@@ -4768,8 +6560,8 @@
        "coordinates":  [ -75.984,40.4 ]
     },
     "properties": {
-    "id":448,
-    "case":1,
+    "id":580,
+    "case":5,
     "county":"Berks",
     "state":"PA",
     "note":""
@@ -4782,8 +6574,8 @@
        "coordinates":  [ -79.99,40.44 ]
     },
     "properties": {
-    "id":433,
-    "case":12,
+    "id":570,
+    "case":28,
     "county":"Allegheny County",
     "state":"PA",
     "note":"匹兹堡大市区"
@@ -4796,8 +6588,8 @@
        "coordinates":  [ -107.034,40.46 ]
     },
     "properties": {
-    "id":75,
-    "case":1,
+    "id":83,
+    "case":2,
     "county":"Routt County",
     "state":"CO",
     "note":""
@@ -4810,8 +6602,8 @@
        "coordinates":  [ -86.13,40.47 ]
     },
     "properties": {
-    "id":177,
-    "case":2,
+    "id":214,
+    "case":5,
     "county":"Howard County",
     "state":"IN",
     "note":""
@@ -4824,7 +6616,7 @@
        "coordinates":  [ -82.19,40.47 ]
     },
     "properties": {
-    "id":402,
+    "id":520,
     "case":2,
     "county":"Coshocton County",
     "state":"OH",
@@ -4838,10 +6630,38 @@
        "coordinates":  [ -104.31,40.5 ]
     },
     "properties": {
-    "id":65,
-    "case":6,
+    "id":73,
+    "case":9,
     "county":"Weld County",
     "state":"CO",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.65,40.5166 ]
+    },
+    "properties": {
+    "id":235,
+    "case":1,
+    "county":"Grant County",
+    "state":"IN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.86,40.519 ]
+    },
+    "properties": {
+    "id":209,
+    "case":1,
+    "county":"McLean County",
+    "state":"IL",
     "note":""
     }
   },
@@ -4852,8 +6672,8 @@
        "coordinates":  [ -112.313,40.54153 ]
     },
     "properties": {
-    "id":519,
-    "case":1,
+    "id":686,
+    "case":2,
     "county":"Tooele",
     "state":"UT",
     "note":""
@@ -4866,8 +6686,8 @@
        "coordinates":  [ -75.24,40.55 ]
     },
     "properties": {
-    "id":435,
-    "case":8,
+    "id":573,
+    "case":16,
     "county":"Bucks County",
     "state":"PA",
     "note":"费城大市区"
@@ -4877,11 +6697,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -83.13,40.569 ]
+    },
+    "properties": {
+    "id":538,
+    "case":1,
+    "county":"Marion",
+    "state":"OH",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -74.27,40.58 ]
     },
     "properties": {
-    "id":343,
-    "case":40,
+    "id":442,
+    "case":76,
     "county":"Middlesex",
     "state":"NJ",
     "note":"纽约大市区/罗格斯大学"
@@ -4894,7 +6728,7 @@
        "coordinates":  [ -122.46,40.6 ]
     },
     "properties": {
-    "id":54,
+    "id":62,
     "case":1,
     "county":"Shasta",
     "state":"CA",
@@ -4908,8 +6742,8 @@
        "coordinates":  [ -105.5686,40.628 ]
     },
     "properties": {
-    "id":68,
-    "case":3,
+    "id":76,
+    "case":4,
     "county":"Larimer County",
     "state":"CO",
     "note":"柯林斯堡"
@@ -4922,8 +6756,8 @@
        "coordinates":  [ -74.51,40.63 ]
     },
     "properties": {
-    "id":339,
-    "case":16,
+    "id":448,
+    "case":28,
     "county":"Somerset County",
     "state":"NJ",
     "note":"纽约大市区"
@@ -4936,7 +6770,7 @@
        "coordinates":  [ -84.95,40.65 ]
     },
     "properties": {
-    "id":184,
+    "id":223,
     "case":1,
     "county":"Adams County",
     "state":"IN",
@@ -4950,8 +6784,8 @@
        "coordinates":  [ -74.3,40.65 ]
     },
     "properties": {
-    "id":337,
-    "case":26,
+    "id":445,
+    "case":43,
     "county":"Union",
     "state":"NJ",
     "note":"纽约大市区"
@@ -4964,8 +6798,8 @@
        "coordinates":  [ -74.11,40.66 ]
     },
     "properties": {
-    "id":335,
-    "case":34,
+    "id":443,
+    "case":66,
     "county":"Hudson County",
     "state":"NJ",
     "note":"纽约大市区"
@@ -4978,8 +6812,8 @@
        "coordinates":  [ -80.33,40.66 ]
     },
     "properties": {
-    "id":439,
-    "case":2,
+    "id":577,
+    "case":3,
     "county":"Beaver County",
     "state":"PA",
     "note":"匹兹堡大市区"
@@ -4992,8 +6826,8 @@
        "coordinates":  [ -75.55,40.66 ]
     },
     "properties": {
-    "id":440,
-    "case":1,
+    "id":581,
+    "case":2,
     "county":"Lehigh ",
     "state":"PA",
     "note":"阿伦敦大市区"
@@ -5006,8 +6840,8 @@
        "coordinates":  [ -111.904,40.66 ]
     },
     "properties": {
-    "id":520,
-    "case":20,
+    "id":681,
+    "case":44,
     "county":"Salt Lake County",
     "state":"UT",
     "note":"盐湖城"
@@ -5020,24 +6854,10 @@
        "coordinates":  [ -74.83,40.71 ]
     },
     "properties": {
-    "id":346,
-    "case":6,
+    "id":453,
+    "case":11,
     "county":"Hunterdon County",
     "state":"NJ",
-    "note":"纽约大市区"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.7,40.72 ]
-    },
-    "properties": {
-    "id":359,
-    "case":278,
-    "county":"Nassau County",
-    "state":"NY",
     "note":"纽约大市区"
     }
   },
@@ -5048,8 +6868,8 @@
        "coordinates":  [ -89.717,40.74 ]
     },
     "properties": {
-    "id":169,
-    "case":1,
+    "id":200,
+    "case":3,
     "county":"Peoria County",
     "state":"IL",
     "note":""
@@ -5062,7 +6882,7 @@
        "coordinates":  [ -85.17,40.74 ]
     },
     "properties": {
-    "id":185,
+    "id":224,
     "case":1,
     "county":"Wells County",
     "state":"IN",
@@ -5073,11 +6893,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -73.586,40.744 ]
+    },
+    "properties": {
+    "id":471,
+    "case":755,
+    "county":"Nassau County",
+    "state":"NY",
+    "note":"纽约大市区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -89.24,40.761 ]
     },
     "properties": {
-    "id":170,
-    "case":1,
+    "id":201,
+    "case":2,
     "county":"Woodford County",
     "state":"IL",
     "note":""
@@ -5090,8 +6924,8 @@
        "coordinates":  [ -73.95,40.77 ]
     },
     "properties": {
-    "id":357,
-    "case":3031,
+    "id":469,
+    "case":5151,
     "county":"New York City",
     "state":"NY",
     "note":"纽约大市区"
@@ -5101,14 +6935,28 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.95,40.77 ]
+       "coordinates":  [ -82.53,40.77 ]
     },
     "properties": {
-    "id":360,
-    "case":116,
-    "county":"Suffolk County",
-    "state":"NY",
-    "note":"纽约大市区/石溪大学"
+    "id":539,
+    "case":1,
+    "county":"Richland",
+    "state":"OH",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.69,40.7971 ]
+    },
+    "properties": {
+    "id":434,
+    "case":3,
+    "county":"Lincoln",
+    "state":"NE",
+    "note":"内布拉斯加大学林肯分校"
     }
   },
   {
@@ -5118,8 +6966,8 @@
        "coordinates":  [ -74.18,40.81 ]
     },
     "properties": {
-    "id":334,
-    "case":45,
+    "id":441,
+    "case":73,
     "county":"Essex",
     "state":"NJ",
     "note":"纽约大市区"
@@ -5132,7 +6980,7 @@
        "coordinates":  [ -82.28,40.81 ]
     },
     "properties": {
-    "id":406,
+    "id":527,
     "case":1,
     "county":"Ashland County",
     "state":"OH",
@@ -5146,8 +6994,8 @@
        "coordinates":  [ -74.98,40.84 ]
     },
     "properties": {
-    "id":348,
-    "case":1,
+    "id":455,
+    "case":3,
     "county":"Warren",
     "state":"NJ",
     "note":""
@@ -5160,8 +7008,8 @@
        "coordinates":  [ -75.17,40.84 ]
     },
     "properties": {
-    "id":441,
-    "case":1,
+    "id":582,
+    "case":10,
     "county":"Northampton County",
     "state":"PA",
     "note":"阿伦敦大市区"
@@ -5171,11 +7019,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -115.76,40.8469 ]
+    },
+    "properties": {
+    "id":468,
+    "case":1,
+    "county":"Elko County",
+    "state":"NV",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -74.08,40.85 ]
     },
     "properties": {
-    "id":333,
-    "case":114,
+    "id":440,
+    "case":249,
     "county":"Bergen",
     "state":"NJ",
     "note":"纽约大市区"
@@ -5188,8 +7050,8 @@
        "coordinates":  [ -74.15,40.86 ]
     },
     "properties": {
-    "id":338,
-    "case":18,
+    "id":447,
+    "case":49,
     "county":"Passaic",
     "state":"NJ",
     "note":"纽约大市区"
@@ -5202,8 +7064,8 @@
        "coordinates":  [ -75.47,40.88 ]
     },
     "properties": {
-    "id":437,
-    "case":8,
+    "id":574,
+    "case":19,
     "county":"Monroe",
     "state":"PA",
     "note":""
@@ -5216,8 +7078,8 @@
        "coordinates":  [ -74.4,40.9 ]
     },
     "properties": {
-    "id":340,
-    "case":19,
+    "id":446,
+    "case":35,
     "county":"Morris",
     "state":"NJ",
     "note":"纽约大市区"
@@ -5230,8 +7092,8 @@
        "coordinates":  [ -110.82,40.9 ]
     },
     "properties": {
-    "id":521,
-    "case":8,
+    "id":682,
+    "case":28,
     "county":"Summit County",
     "state":"UT",
     "note":""
@@ -5244,8 +7106,8 @@
        "coordinates":  [ -81.11,40.91 ]
     },
     "properties": {
-    "id":396,
-    "case":3,
+    "id":517,
+    "case":6,
     "county":"Stark County",
     "state":"OH",
     "note":""
@@ -5258,8 +7120,8 @@
        "coordinates":  [ -111.909,40.915 ]
     },
     "properties": {
-    "id":522,
-    "case":4,
+    "id":683,
+    "case":12,
     "county":"Davis County",
     "state":"UT",
     "note":""
@@ -5269,11 +7131,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -72.671,40.933 ]
+    },
+    "properties": {
+    "id":472,
+    "case":371,
+    "county":"Suffolk County",
+    "state":"NY",
+    "note":"纽约大市区/石溪大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -75.97,40.95 ]
     },
     "properties": {
-    "id":442,
-    "case":1,
+    "id":583,
+    "case":2,
     "county":"Luzerne ",
     "state":"PA",
     "note":""
@@ -5286,7 +7162,7 @@
        "coordinates":  [ -77.7,40.972 ]
     },
     "properties": {
-    "id":449,
+    "id":575,
     "case":3,
     "county":"Centre County",
     "state":"PA",
@@ -5300,8 +7176,8 @@
        "coordinates":  [ -80.93,41.02 ]
     },
     "properties": {
-    "id":403,
-    "case":3,
+    "id":518,
+    "case":7,
     "county":"Mahoning County",
     "state":"OH",
     "note":"扬斯敦州立大学"
@@ -5314,7 +7190,7 @@
        "coordinates":  [ -96.09,41.04 ]
     },
     "properties": {
-    "id":325,
+    "id":431,
     "case":1,
     "county":"Cass County",
     "state":"NE",
@@ -5325,10 +7201,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -85,41.09 ]
+    },
+    "properties": {
+    "id":229,
+    "case":4,
+    "county":"Allen",
+    "state":"IN",
+    "note":"韦恩堡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -96.09,41.09 ]
     },
     "properties": {
-    "id":328,
+    "id":432,
     "case":1,
     "county":"Sarpy County",
     "state":"NE",
@@ -5342,8 +7232,8 @@
        "coordinates":  [ -75,41.09 ]
     },
     "properties": {
-    "id":443,
-    "case":2,
+    "id":578,
+    "case":3,
     "county":"Pike County",
     "state":"PA",
     "note":""
@@ -5356,8 +7246,8 @@
        "coordinates":  [ -74.14,41.11 ]
     },
     "properties": {
-    "id":361,
-    "case":31,
+    "id":474,
+    "case":103,
     "county":"Rockland County",
     "state":"NY",
     "note":"纽约大市区"
@@ -5367,10 +7257,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -74.67,41.128 ]
+    },
+    "properties": {
+    "id":457,
+    "case":3,
+    "county":"Sussex",
+    "state":"NJ",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8,41.14 ]
+    },
+    "properties": {
+    "id":205,
+    "case":1,
+    "county":"Kankakee County",
+    "state":"IL",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -82.589,41.141 ]
     },
     "properties": {
-    "id":408,
+    "id":528,
     "case":1,
     "county":"Huron",
     "state":"OH",
@@ -5384,8 +7302,8 @@
        "coordinates":  [ -74.18,41.22 ]
     },
     "properties": {
-    "id":365,
-    "case":15,
+    "id":477,
+    "case":84,
     "county":"Orange County",
     "state":"NY",
     "note":"西点军校"
@@ -5395,24 +7313,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -78.84,42.8 ]
-    },
-    "properties": {
-    "id":366,
-    "case":20,
-    "county":"Erie County",
-    "state":"NY",
-    "note":"布法罗"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -95.85,41.24 ]
     },
     "properties": {
-    "id":145,
+    "id":173,
     "case":1,
     "county":"Pottawattamie County",
     "state":"IA",
@@ -5426,10 +7330,38 @@
        "coordinates":  [ -81.82,41.24 ]
     },
     "properties": {
-    "id":397,
-    "case":4,
+    "id":515,
+    "case":6,
     "county":"Medina County",
     "state":"OH",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.957,41.2552 ]
+    },
+    "properties": {
+    "id":691,
+    "case":6,
+    "county":"Weber",
+    "state":"UT",
+    "note":"韦伯州立大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.87,41.28 ]
+    },
+    "properties": {
+    "id":206,
+    "case":1,
+    "county":"LaSalle County",
+    "state":"IL",
     "note":""
     }
   },
@@ -5440,8 +7372,8 @@
        "coordinates":  [ -73.76,41.29 ]
     },
     "properties": {
-    "id":358,
-    "case":538,
+    "id":470,
+    "case":1091,
     "county":"Westchester County",
     "state":"NY",
     "note":"纽约大市区"
@@ -5451,11 +7383,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.515,41.296 ]
+    },
+    "properties": {
+    "id":535,
+    "case":1,
+    "county":"Defiance",
+    "state":"OH",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -81.49,41.31 ]
     },
     "properties": {
-    "id":394,
-    "case":4,
+    "id":516,
+    "case":10,
     "county":"Summit County",
     "state":"OH",
     "note":"阿克隆大学"
@@ -5468,8 +7414,8 @@
        "coordinates":  [ -104.666,41.328 ]
     },
     "properties": {
-    "id":589,
-    "case":3,
+    "id":776,
+    "case":4,
     "county":"Laramie",
     "state":"WY",
     "note":"夏延"
@@ -5482,7 +7428,7 @@
        "coordinates":  [ -94.47,41.33 ]
     },
     "properties": {
-    "id":152,
+    "id":174,
     "case":1,
     "county":"Adair",
     "state":"IA",
@@ -5496,8 +7442,8 @@
        "coordinates":  [ -73.06,41.34 ]
     },
     "properties": {
-    "id":76,
-    "case":10,
+    "id":88,
+    "case":23,
     "county":"New Haven County",
     "state":"CT",
     "note":"纽黑文"
@@ -5507,11 +7453,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -72.099,41.35 ]
+    },
+    "properties": {
+    "id":93,
+    "case":1,
+    "county":"New London",
+    "state":"CT",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -96.15,41.36 ]
     },
     "properties": {
-    "id":326,
-    "case":20,
+    "id":433,
+    "case":22,
     "county":"Douglas County",
     "state":"NE",
     "note":"奥马哈"
@@ -5524,8 +7484,8 @@
        "coordinates":  [ -81.86,41.36 ]
     },
     "properties": {
-    "id":391,
-    "case":38,
+    "id":511,
+    "case":69,
     "county":"Cuyahoga County",
     "state":"OH",
     "note":"克利夫兰"
@@ -5538,8 +7498,8 @@
        "coordinates":  [ -87.43,41.37 ]
     },
     "properties": {
-    "id":186,
-    "case":1,
+    "id":225,
+    "case":5,
     "county":"Lake County",
     "state":"IN",
     "note":"芝加哥大市区"
@@ -5552,8 +7512,8 @@
        "coordinates":  [ -80.87,41.38 ]
     },
     "properties": {
-    "id":399,
-    "case":2,
+    "id":521,
+    "case":3,
     "county":"Trumbull County",
     "state":"OH",
     "note":""
@@ -5566,8 +7526,8 @@
        "coordinates":  [ -73.31,41.39 ]
     },
     "properties": {
-    "id":77,
-    "case":69,
+    "id":86,
+    "case":122,
     "county":"Fairfield County",
     "state":"CT",
     "note":""
@@ -5580,7 +7540,7 @@
        "coordinates":  [ -85.41,41.39 ]
     },
     "properties": {
-    "id":187,
+    "id":226,
     "case":1,
     "county":"Noble County",
     "state":"IN",
@@ -5594,7 +7554,7 @@
        "coordinates":  [ -73.61,41.39 ]
     },
     "properties": {
-    "id":371,
+    "id":486,
     "case":1,
     "county":"Putnam County",
     "state":"NY",
@@ -5608,8 +7568,8 @@
        "coordinates":  [ -82.23,41.4 ]
     },
     "properties": {
-    "id":395,
-    "case":6,
+    "id":514,
+    "case":10,
     "county":"Lorain County",
     "state":"OH",
     "note":""
@@ -5622,8 +7582,8 @@
        "coordinates":  [ -75.63,41.4 ]
     },
     "properties": {
-    "id":447,
-    "case":1,
+    "id":584,
+    "case":4,
     "county":"Lackawanna",
     "state":"PA",
     "note":"斯克兰顿"
@@ -5636,8 +7596,8 @@
        "coordinates":  [ -72.52,41.45 ]
     },
     "properties": {
-    "id":80,
-    "case":1,
+    "id":90,
+    "case":5,
     "county":"Middlesex County",
     "state":"CT",
     "note":""
@@ -5650,8 +7610,8 @@
        "coordinates":  [ -87.89,41.46 ]
     },
     "properties": {
-    "id":164,
-    "case":3,
+    "id":196,
+    "case":9,
     "county":"Will County",
     "state":"IL",
     "note":"芝加哥大市区"
@@ -5664,7 +7624,7 @@
        "coordinates":  [ -81.14,41.47 ]
     },
     "properties": {
-    "id":404,
+    "id":529,
     "case":1,
     "county":"Geauga County",
     "state":"OH",
@@ -5678,7 +7638,7 @@
        "coordinates":  [ -86.7,41.49 ]
     },
     "properties": {
-    "id":189,
+    "id":227,
     "case":1,
     "county":"LaPorte",
     "state":"IN",
@@ -5689,10 +7649,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -113.1,41.5 ]
+    },
+    "properties": {
+    "id":688,
+    "case":1,
+    "county":"Box Elder",
+    "state":"UT",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -91.53,41.57 ]
     },
     "properties": {
-    "id":146,
+    "id":175,
     "case":18,
     "county":"Johnson County",
     "state":"IA",
@@ -5703,41 +7677,13 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -93.63,41.58 ]
+       "coordinates":  [ -88.428,41.59 ]
     },
     "properties": {
-    "id":147,
+    "id":204,
     "case":1,
-    "county":"Carroll County",
-    "state":"IA",
-    "note":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -93.63,41.58 ]
-    },
-    "properties": {
-    "id":148,
-    "case":3,
-    "county":"Dallas County",
-    "state":"IA",
-    "note":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -93.63,41.58 ]
-    },
-    "properties": {
-    "id":149,
-    "case":1,
-    "county":"Polk County",
-    "state":"IA",
+    "county":"Kendall County",
+    "state":"IL",
     "note":""
     }
   },
@@ -5748,7 +7694,7 @@
        "coordinates":  [ -75.15,41.6 ]
     },
     "properties": {
-    "id":444,
+    "id":585,
     "case":1,
     "county":"Wayne County",
     "state":"PA",
@@ -5762,7 +7708,7 @@
        "coordinates":  [ -112.123,41.6083 ]
     },
     "properties": {
-    "id":516,
+    "id":687,
     "case":1,
     "county":"Bear River",
     "state":"UT",
@@ -5776,7 +7722,7 @@
        "coordinates":  [ -74.68,41.65 ]
     },
     "properties": {
-    "id":372,
+    "id":487,
     "case":1,
     "county":"Sullivan",
     "state":"NY",
@@ -5790,8 +7736,8 @@
        "coordinates":  [ -86.276,41.67 ]
     },
     "properties": {
-    "id":188,
-    "case":1,
+    "id":228,
+    "case":6,
     "county":"St Joseph",
     "state":"IN",
     "note":"圣母大学"
@@ -5801,11 +7747,81 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -93.572,41.672 ]
+    },
+    "properties": {
+    "id":178,
+    "case":1,
+    "county":"Polk County",
+    "state":"IA",
+    "note":"得梅因"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.03,41.68 ]
+    },
+    "properties": {
+    "id":177,
+    "case":3,
+    "county":"Dallas County",
+    "state":"IA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.472,41.68 ]
+    },
+    "properties": {
+    "id":531,
+    "case":2,
+    "county":"Lucas County",
+    "state":"OH",
+    "note":"托莱多"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.782,41.684 ]
+    },
+    "properties": {
+    "id":689,
+    "case":1,
+    "county":"Cache",
+    "state":"UT",
+    "note":"犹他州立大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.15,41.69 ]
+    },
+    "properties": {
+    "id":92,
+    "case":2,
+    "county":"Windham",
+    "state":"CT",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -71.62,41.72 ]
     },
     "properties": {
-    "id":450,
-    "case":23,
+    "id":592,
+    "case":55,
     "county":"Providence",
     "state":"RI",
     "note":"普罗维登斯"
@@ -5815,11 +7831,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -77.9,41.73 ]
+    },
+    "properties": {
+    "id":588,
+    "case":1,
+    "county":"Potter",
+    "state":"PA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -81.28,41.74 ]
     },
     "properties": {
-    "id":405,
-    "case":2,
+    "id":522,
+    "case":3,
     "county":"Lake County",
     "state":"OH",
     "note":""
@@ -5832,7 +7862,7 @@
        "coordinates":  [ -89.939,41.75 ]
     },
     "properties": {
-    "id":171,
+    "id":202,
     "case":1,
     "county":"Whiteside County",
     "state":"IL",
@@ -5846,8 +7876,8 @@
        "coordinates":  [ -70.61,41.75 ]
     },
     "properties": {
-    "id":224,
-    "case":2,
+    "id":287,
+    "case":9,
     "county":"Barnstable",
     "state":"MA",
     "note":""
@@ -5857,11 +7887,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -72.309,41.81 ]
+    },
+    "properties": {
+    "id":91,
+    "case":4,
+    "county":"Tolland",
+    "state":"CT",
+    "note":"康涅狄格大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -87.8931,41.813 ]
     },
     "properties": {
-    "id":158,
-    "case":178,
+    "id":188,
+    "case":278,
     "county":"Cook County",
     "state":"IL",
     "note":"芝加哥大市区"
@@ -5874,8 +7918,8 @@
        "coordinates":  [ -88.08,41.8397 ]
     },
     "properties": {
-    "id":159,
-    "case":45,
+    "id":189,
+    "case":54,
     "county":"DuPage County",
     "state":"IL",
     "note":"芝加哥大市区"
@@ -5888,8 +7932,8 @@
        "coordinates":  [ -73.55,41.84 ]
     },
     "properties": {
-    "id":362,
-    "case":20,
+    "id":476,
+    "case":34,
     "county":"Dutchess County",
     "state":"NY",
     "note":""
@@ -5902,7 +7946,7 @@
        "coordinates":  [ -95.59,41.85 ]
     },
     "properties": {
-    "id":150,
+    "id":179,
     "case":1,
     "county":"Harrison County",
     "state":"IA",
@@ -5916,10 +7960,24 @@
        "coordinates":  [ -72.67,41.87 ]
     },
     "properties": {
-    "id":78,
-    "case":11,
+    "id":87,
+    "case":29,
     "county":"Hartford County",
     "state":"CT",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.762,41.91 ]
+    },
+    "properties": {
+    "id":536,
+    "case":1,
+    "county":"Ashtabula",
+    "state":"OH",
     "note":""
     }
   },
@@ -5930,7 +7988,7 @@
        "coordinates":  [ -73.99,41.93 ]
     },
     "properties": {
-    "id":363,
+    "id":480,
     "case":9,
     "county":"Ulster County",
     "state":"NY",
@@ -5944,8 +8002,8 @@
        "coordinates":  [ -88.42,41.9371 ]
     },
     "properties": {
-    "id":162,
-    "case":4,
+    "id":192,
+    "case":6,
     "county":"Kane County",
     "state":"IL",
     "note":"芝加哥大市区"
@@ -5958,8 +8016,8 @@
        "coordinates":  [ -83.66,42.01 ]
     },
     "properties": {
-    "id":254,
-    "case":1,
+    "id":321,
+    "case":3,
     "county":"Monroe County",
     "state":"MI",
     "note":""
@@ -5972,8 +8030,8 @@
        "coordinates":  [ -71.17,42.02 ]
     },
     "properties": {
-    "id":222,
-    "case":5,
+    "id":285,
+    "case":6,
     "county":"Bristol",
     "state":"MA",
     "note":""
@@ -5986,10 +8044,24 @@
        "coordinates":  [ -73.33,42.03 ]
     },
     "properties": {
-    "id":79,
-    "case":5,
+    "id":89,
+    "case":8,
     "county":"Litchfield County",
     "state":"CT",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.86,42.03 ]
+    },
+    "properties": {
+    "id":176,
+    "case":1,
+    "county":"Carroll County",
+    "state":"IA",
     "note":""
     }
   },
@@ -6000,8 +8072,8 @@
        "coordinates":  [ -72.61,42.06 ]
     },
     "properties": {
-    "id":225,
-    "case":2,
+    "id":288,
+    "case":3,
     "county":"Hampden",
     "state":"MA",
     "note":""
@@ -6014,7 +8086,7 @@
        "coordinates":  [ -76.16,42.07 ]
     },
     "properties": {
-    "id":373,
+    "id":488,
     "case":1,
     "county":"Tioga County",
     "state":"NY",
@@ -6028,7 +8100,7 @@
        "coordinates":  [ -71.407,42.08 ]
     },
     "properties": {
-    "id":226,
+    "id":289,
     "case":1,
     "county":"Franklin",
     "state":"MA",
@@ -6042,8 +8114,8 @@
        "coordinates":  [ -71.47,42.09 ]
     },
     "properties": {
-    "id":217,
-    "case":46,
+    "id":281,
+    "case":64,
     "county":"Norfolk",
     "state":"MA",
     "note":"波士顿大市区"
@@ -6056,7 +8128,7 @@
        "coordinates":  [ -75.97,42.1 ]
     },
     "properties": {
-    "id":374,
+    "id":489,
     "case":1,
     "county":"Broome County",
     "state":"NY",
@@ -6070,7 +8142,7 @@
        "coordinates":  [ -80.05,42.12 ]
     },
     "properties": {
-    "id":445,
+    "id":586,
     "case":1,
     "county":"Erie",
     "state":"PA",
@@ -6084,8 +8156,8 @@
        "coordinates":  [ -73.03,42.17 ]
     },
     "properties": {
-    "id":219,
-    "case":17,
+    "id":282,
+    "case":20,
     "county":"Berkshire County",
     "state":"MA",
     "note":""
@@ -6098,10 +8170,38 @@
        "coordinates":  [ -70.88,42.17 ]
     },
     "properties": {
-    "id":223,
-    "case":5,
+    "id":286,
+    "case":11,
     "county":"Plymouth",
     "state":"MA",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.9256,42.18393 ]
+    },
+    "properties": {
+    "id":508,
+    "case":1,
+    "county":"Delaware",
+    "state":"NY",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.641,42.244 ]
+    },
+    "properties": {
+    "id":503,
+    "case":1,
+    "county":"Columbia",
+    "state":"NY",
     "note":""
     }
   },
@@ -6112,7 +8212,7 @@
        "coordinates":  [ -84.42,42.247 ]
     },
     "properties": {
-    "id":262,
+    "id":322,
     "case":1,
     "county":"Jackson",
     "state":"MI",
@@ -6126,8 +8226,8 @@
        "coordinates":  [ -83.21,42.25 ]
     },
     "properties": {
-    "id":247,
-    "case":23,
+    "id":314,
+    "case":67,
     "county":"Wayne County",
     "state":"MI",
     "note":"底特律大市区"
@@ -6140,7 +8240,7 @@
        "coordinates":  [ -73.81,42.26 ]
     },
     "properties": {
-    "id":375,
+    "id":490,
     "case":1,
     "county":"Greene County",
     "state":"NY",
@@ -6154,8 +8254,8 @@
        "coordinates":  [ -83.73,42.27 ]
     },
     "properties": {
-    "id":249,
-    "case":7,
+    "id":316,
+    "case":16,
     "county":"Washtenaw County",
     "state":"MI",
     "note":"底特律大市区/密歇根大学"
@@ -6165,10 +8265,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -74.15,42.28 ]
+    },
+    "properties": {
+    "id":509,
+    "case":2,
+    "county":"Greene",
+    "state":"NY",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -122.9,42.28 ]
     },
     "properties": {
-    "id":418,
+    "id":555,
     "case":1,
     "county":"Jackson County",
     "state":"OR",
@@ -6179,11 +8293,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -77.35,42.29 ]
+    },
+    "properties": {
+    "id":504,
+    "case":2,
+    "county":"Steuben",
+    "state":"NY",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -83,42.3 ]
     },
     "properties": {
-    "id":253,
-    "case":2,
+    "id":319,
+    "case":149,
     "county":"Detroit",
     "state":"MI",
     "note":"底特律大市区"
@@ -6196,8 +8324,8 @@
        "coordinates":  [ -87.974,42.32 ]
     },
     "properties": {
-    "id":160,
-    "case":18,
+    "id":190,
+    "case":37,
     "county":"Lake County",
     "state":"IL",
     "note":"芝加哥大市区"
@@ -6210,8 +8338,8 @@
        "coordinates":  [ -88.4513,42.32 ]
     },
     "properties": {
-    "id":165,
-    "case":4,
+    "id":193,
+    "case":6,
     "county":"McHenry County",
     "state":"IL",
     "note":""
@@ -6224,7 +8352,7 @@
        "coordinates":  [ -89.1702,42.32 ]
     },
     "properties": {
-    "id":172,
+    "id":203,
     "case":1,
     "county":"Winnebago County",
     "state":"IL",
@@ -6238,8 +8366,8 @@
        "coordinates":  [ -71.06,42.35 ]
     },
     "properties": {
-    "id":218,
-    "case":51,
+    "id":280,
+    "case":86,
     "county":"Suffolk",
     "state":"MA",
     "note":"波士顿大市区"
@@ -6249,10 +8377,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -72.559,42.363 ]
+    },
+    "properties": {
+    "id":290,
+    "case":2,
+    "county":"Hampshire",
+    "state":"MA",
+    "note":"麻省大学/阿莫斯特学院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -74.61,42.4 ]
     },
     "properties": {
-    "id":376,
+    "id":491,
     "case":1,
     "county":"Delaware County",
     "state":"NY",
@@ -6266,8 +8408,8 @@
        "coordinates":  [ -72.1,42.42 ]
     },
     "properties": {
-    "id":220,
-    "case":10,
+    "id":284,
+    "case":19,
     "county":"Worcester",
     "state":"MA",
     "note":"伍斯特"
@@ -6280,8 +8422,8 @@
        "coordinates":  [ -74.03,42.45 ]
     },
     "properties": {
-    "id":364,
-    "case":36,
+    "id":473,
+    "case":70,
     "county":"Albany County",
     "state":"NY",
     "note":"奥尔巴尼"
@@ -6294,7 +8436,7 @@
        "coordinates":  [ -92.3,42.469 ]
     },
     "properties": {
-    "id":153,
+    "id":180,
     "case":1,
     "county":"Black Hawk",
     "state":"IA",
@@ -6308,7 +8450,7 @@
        "coordinates":  [ -78.25,42.47 ]
     },
     "properties": {
-    "id":377,
+    "id":482,
     "case":2,
     "county":"Allegany",
     "state":"NY",
@@ -6322,7 +8464,7 @@
        "coordinates":  [ -75.591,42.47 ]
     },
     "properties": {
-    "id":387,
+    "id":492,
     "case":1,
     "county":"Chenango",
     "state":"NY",
@@ -6336,8 +8478,8 @@
        "coordinates":  [ -107.84,42.48 ]
     },
     "properties": {
-    "id":587,
-    "case":2,
+    "id":777,
+    "case":9,
     "county":"Fremont County",
     "state":"WY",
     "note":""
@@ -6350,8 +8492,8 @@
        "coordinates":  [ -76.29,42.49 ]
     },
     "properties": {
-    "id":369,
-    "case":3,
+    "id":481,
+    "case":6,
     "county":"Tompkins County",
     "state":"NY",
     "note":"康奈尔大学"
@@ -6364,7 +8506,7 @@
        "coordinates":  [ -88.24,42.52 ]
     },
     "properties": {
-    "id":575,
+    "id":751,
     "case":4,
     "county":"Kenosha County ",
     "state":"WI",
@@ -6375,11 +8517,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -114.45,42.561 ]
+    },
+    "properties": {
+    "id":187,
+    "case":1,
+    "county":"Twin Falls",
+    "state":"ID",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -83.14,42.58 ]
     },
     "properties": {
-    "id":246,
-    "case":59,
+    "id":313,
+    "case":184,
     "county":"Oakland County",
     "state":"MI",
     "note":"底特律大市区"
@@ -6389,11 +8545,39 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.8,42.59 ]
+    },
+    "properties": {
+    "id":332,
+    "case":2,
+    "county":"Eaton County",
+    "state":"MI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9,42.6 ]
+    },
+    "properties": {
+    "id":333,
+    "case":3,
+    "county":"Livingston",
+    "state":"MI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -71.14,42.65 ]
     },
     "properties": {
-    "id":221,
-    "case":14,
+    "id":283,
+    "case":29,
     "county":"Essex",
     "state":"MA",
     "note":"波士顿大市区"
@@ -6406,7 +8590,7 @@
        "coordinates":  [ -97.89,42.66 ]
     },
     "properties": {
-    "id":327,
+    "id":435,
     "case":2,
     "county":"Knox",
     "state":"NE",
@@ -6420,8 +8604,8 @@
        "coordinates":  [ -88.54,42.669 ]
     },
     "properties": {
-    "id":585,
-    "case":1,
+    "id":755,
+    "case":3,
     "county":"Walworth",
     "state":"WI",
     "note":""
@@ -6434,9 +8618,23 @@
        "coordinates":  [ -88.27,42.67 ]
     },
     "properties": {
-    "id":579,
-    "case":1,
+    "id":756,
+    "case":3,
     "county":"Racine County",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.6,42.678 ]
+    },
+    "properties": {
+    "id":768,
+    "case":1,
+    "county":"Green",
     "state":"WI",
     "note":""
     }
@@ -6448,8 +8646,8 @@
        "coordinates":  [ -71.81,42.68 ]
     },
     "properties": {
-    "id":216,
-    "case":100,
+    "id":279,
+    "case":144,
     "county":"Middlesex County",
     "state":"MA",
     "note":"波士顿大市区"
@@ -6459,11 +8657,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -78.22,42.69 ]
+    },
+    "properties": {
+    "id":506,
+    "case":2,
+    "county":"Wyoming",
+    "state":"NY",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -84.41,42.7 ]
     },
     "properties": {
-    "id":251,
-    "case":3,
+    "id":318,
+    "case":7,
     "county":"Ingham County",
     "state":"MI",
     "note":"密歇根州立大学"
@@ -6476,7 +8688,7 @@
        "coordinates":  [ -73.52,42.711 ]
     },
     "properties": {
-    "id":386,
+    "id":493,
     "case":1,
     "county":"Rensselaer",
     "state":"NY",
@@ -6487,10 +8699,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -78.84,42.8 ]
+    },
+    "properties": {
+    "id":475,
+    "case":31,
+    "county":"Erie County",
+    "state":"NY",
+    "note":"布法罗"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -76.07,42.81 ]
     },
     "properties": {
-    "id":370,
+    "id":483,
     "case":2,
     "county":"Onondaga County",
     "state":"NY",
@@ -6504,7 +8730,7 @@
        "coordinates":  [ -121.584,42.81 ]
     },
     "properties": {
-    "id":419,
+    "id":556,
     "case":1,
     "county":"Klamath County",
     "state":"OR",
@@ -6518,8 +8744,8 @@
        "coordinates":  [ -82.6655,42.82 ]
     },
     "properties": {
-    "id":252,
-    "case":2,
+    "id":320,
+    "case":7,
     "county":"St Clair",
     "state":"MI",
     "note":"底特律大市区"
@@ -6532,8 +8758,8 @@
        "coordinates":  [ -82.88,42.84 ]
     },
     "properties": {
-    "id":248,
-    "case":10,
+    "id":315,
+    "case":86,
     "county":"Macomb County",
     "state":"MI",
     "note":"底特律大市区"
@@ -6546,7 +8772,7 @@
        "coordinates":  [ -73.9,42.85 ]
     },
     "properties": {
-    "id":367,
+    "id":478,
     "case":14,
     "county":"Schenectady County",
     "state":"NY",
@@ -6560,7 +8786,7 @@
        "coordinates":  [ -71.61,42.86 ]
     },
     "properties": {
-    "id":329,
+    "id":436,
     "case":4,
     "county":"Hillsborough County",
     "state":"NH",
@@ -6574,8 +8800,8 @@
        "coordinates":  [ -89.53,42.86 ]
     },
     "properties": {
-    "id":573,
-    "case":23,
+    "id":748,
+    "case":32,
     "county":"Dane County",
     "state":"WI",
     "note":"威斯康辛大学麦迪逊分校"
@@ -6588,7 +8814,7 @@
        "coordinates":  [ -77.28,42.88 ]
     },
     "properties": {
-    "id":378,
+    "id":494,
     "case":1,
     "county":"Ontario County",
     "state":"NY",
@@ -6602,8 +8828,8 @@
        "coordinates":  [ -73.84,42.92 ]
     },
     "properties": {
-    "id":368,
-    "case":14,
+    "id":479,
+    "case":21,
     "county":"Saratoga County",
     "state":"NY",
     "note":""
@@ -6616,7 +8842,7 @@
        "coordinates":  [ -74.19,42.94 ]
     },
     "properties": {
-    "id":379,
+    "id":484,
     "case":2,
     "county":"Montgomery County",
     "state":"NY",
@@ -6630,8 +8856,8 @@
        "coordinates":  [ -87.86,42.94 ]
     },
     "properties": {
-    "id":572,
-    "case":47,
+    "id":747,
+    "case":85,
     "county":"Milwaukee County",
     "state":"WI",
     "note":"密尔沃基"
@@ -6641,11 +8867,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.6,42.944 ]
+    },
+    "properties": {
+    "id":330,
+    "case":1,
+    "county":"Clinton",
+    "state":"MI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -85.48,42.95 ]
     },
     "properties": {
-    "id":250,
-    "case":5,
+    "id":317,
+    "case":12,
     "county":"Kent County",
     "state":"MI",
     "note":""
@@ -6658,7 +8898,7 @@
        "coordinates":  [ -85.95,42.98 ]
     },
     "properties": {
-    "id":255,
+    "id":323,
     "case":1,
     "county":"Ottawa County",
     "state":"MI",
@@ -6672,7 +8912,7 @@
        "coordinates":  [ -78.1,42.99 ]
     },
     "properties": {
-    "id":385,
+    "id":495,
     "case":1,
     "county":"Genesee",
     "state":"NY",
@@ -6686,7 +8926,7 @@
        "coordinates":  [ -71.34,43 ]
     },
     "properties": {
-    "id":330,
+    "id":437,
     "case":14,
     "county":"Rockingham County",
     "state":"NH",
@@ -6697,10 +8937,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -88.7756,43.02 ]
+    },
+    "properties": {
+    "id":767,
+    "case":1,
+    "county":"Jefferson",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -98.18,43.03 ]
     },
     "properties": {
-    "id":459,
+    "id":606,
     "case":1,
     "county":"Charles Mix County",
     "state":"SD",
@@ -6714,8 +8968,8 @@
        "coordinates":  [ -88.11,43.06 ]
     },
     "properties": {
-    "id":576,
-    "case":5,
+    "id":750,
+    "case":15,
     "county":"Waukesha County",
     "state":"WI",
     "note":""
@@ -6728,7 +8982,7 @@
        "coordinates":  [ -97.71,43.14 ]
     },
     "properties": {
-    "id":460,
+    "id":607,
     "case":1,
     "county":"Bon Homme County",
     "state":"SD",
@@ -6742,7 +8996,7 @@
        "coordinates":  [ -84.84,43.17 ]
     },
     "properties": {
-    "id":256,
+    "id":324,
     "case":1,
     "county":"Montcalm County",
     "state":"MI",
@@ -6753,10 +9007,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -77.03,43.17 ]
+    },
+    "properties": {
+    "id":507,
+    "case":1,
+    "county":"Wayne",
+    "state":"NY",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -77.86,43.19 ]
     },
     "properties": {
-    "id":380,
+    "id":496,
     "case":1,
     "county":"Monroe County",
     "state":"NY",
@@ -6767,10 +9035,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -78.768,43.197 ]
+    },
+    "properties": {
+    "id":510,
+    "case":2,
+    "county":"Niagara",
+    "state":"NY",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -75.88,43.23 ]
     },
     "properties": {
-    "id":381,
+    "id":485,
     "case":2,
     "county":"Oneida",
     "state":"NY",
@@ -6784,7 +9066,7 @@
        "coordinates":  [ -72.89,43.23 ]
     },
     "properties": {
-    "id":541,
+    "id":715,
     "case":3,
     "county":"Bennington",
     "state":"VT",
@@ -6798,7 +9080,7 @@
        "coordinates":  [ -75.03,43.24 ]
     },
     "properties": {
-    "id":382,
+    "id":497,
     "case":1,
     "county":"Herkimer County",
     "state":"NY",
@@ -6812,7 +9094,21 @@
        "coordinates":  [ -123.132,43.3253 ]
     },
     "properties": {
-    "id":420,
+    "id":557,
+    "case":1,
+    "county":"Douglas",
+    "state":"OR",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.132,43.32538 ]
+    },
+    "properties": {
+    "id":561,
     "case":1,
     "county":"Douglas",
     "state":"OR",
@@ -6826,8 +9122,8 @@
        "coordinates":  [ -70.6,43.369 ]
     },
     "properties": {
-    "id":242,
-    "case":2,
+    "id":305,
+    "case":5,
     "county":"York County",
     "state":"ME",
     "note":""
@@ -6840,7 +9136,7 @@
        "coordinates":  [ -73.44,43.37 ]
     },
     "properties": {
-    "id":388,
+    "id":498,
     "case":1,
     "county":"Washington County",
     "state":"NY",
@@ -6854,8 +9150,8 @@
        "coordinates":  [ -114.24,43.39 ]
     },
     "properties": {
-    "id":154,
-    "case":4,
+    "id":182,
+    "case":16,
     "county":"Blaine",
     "state":"ID",
     "note":""
@@ -6868,7 +9164,7 @@
        "coordinates":  [ -91.51,43.46 ]
     },
     "properties": {
-    "id":151,
+    "id":181,
     "case":2,
     "county":"Allamakee County",
     "state":"IA",
@@ -6879,10 +9175,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -74.956,43.46 ]
+    },
+    "properties": {
+    "id":505,
+    "case":1,
+    "county":"Herkimer",
+    "state":"NY",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.395,43.4628 ]
+    },
+    "properties": {
+    "id":764,
+    "case":5,
+    "county":"Columbia",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -73.8,43.51 ]
     },
     "properties": {
-    "id":389,
+    "id":499,
     "case":1,
     "county":"Warren",
     "state":"NY",
@@ -6896,7 +9220,7 @@
        "coordinates":  [ -97.29,43.59 ]
     },
     "properties": {
-    "id":461,
+    "id":608,
     "case":1,
     "county":"McCook County",
     "state":"SD",
@@ -6910,7 +9234,7 @@
        "coordinates":  [ -84.07,43.6 ]
     },
     "properties": {
-    "id":257,
+    "id":325,
     "case":1,
     "county":"Bay County",
     "state":"MI",
@@ -6921,13 +9245,41 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -92.090663,43.6 ]
+    },
+    "properties": {
+    "id":352,
+    "case":2,
+    "county":"Fillmore",
+    "state":"MN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -87.94,43.62 ]
     },
     "properties": {
-    "id":577,
-    "case":4,
+    "id":752,
+    "case":6,
     "county":"Sheboygan County",
     "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3,43.64 ]
+    },
+    "properties": {
+    "id":331,
+    "case":1,
+    "county":"Midland",
+    "state":"MI",
     "note":""
     }
   },
@@ -6938,7 +9290,7 @@
        "coordinates":  [ -72.32,43.65 ]
     },
     "properties": {
-    "id":542,
+    "id":716,
     "case":3,
     "county":"Windsor",
     "state":"VT",
@@ -6952,7 +9304,7 @@
        "coordinates":  [ -74.4,43.66 ]
     },
     "properties": {
-    "id":390,
+    "id":500,
     "case":1,
     "county":"Hamilton County",
     "state":"NY",
@@ -6963,10 +9315,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -94.5,43.6753 ]
+    },
+    "properties": {
+    "id":347,
+    "case":4,
+    "county":"Martin",
+    "state":"MN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.749,43.67599 ]
+    },
+    "properties": {
+    "id":349,
+    "case":1,
+    "county":"Mower",
+    "state":"MN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -111.688,43.7 ]
     },
     "properties": {
-    "id":157,
+    "id":183,
     "case":1,
     "county":"Madison",
     "state":"ID",
@@ -6980,7 +9360,7 @@
        "coordinates":  [ -111.22,43.73 ]
     },
     "properties": {
-    "id":155,
+    "id":184,
     "case":1,
     "county":"Teton County",
     "state":"ID",
@@ -6994,8 +9374,8 @@
        "coordinates":  [ -69.99,43.73 ]
     },
     "properties": {
-    "id":238,
-    "case":24,
+    "id":306,
+    "case":35,
     "county":"Cumberland County",
     "state":"ME",
     "note":""
@@ -7008,7 +9388,7 @@
        "coordinates":  [ -98.03,43.73 ]
     },
     "properties": {
-    "id":462,
+    "id":609,
     "case":1,
     "county":"Davison County",
     "state":"SD",
@@ -7022,8 +9402,8 @@
        "coordinates":  [ -96.73,43.75 ]
     },
     "properties": {
-    "id":463,
-    "case":4,
+    "id":610,
+    "case":5,
     "county":"Minnehaha County",
     "state":"SD",
     "note":""
@@ -7036,8 +9416,8 @@
        "coordinates":  [ -88.44,43.77 ]
     },
     "properties": {
-    "id":574,
-    "case":12,
+    "id":749,
+    "case":14,
     "county":"Fond du Lac County",
     "state":"WI",
     "note":""
@@ -7050,7 +9430,7 @@
        "coordinates":  [ -73.97,43.78 ]
     },
     "properties": {
-    "id":383,
+    "id":501,
     "case":1,
     "county":"Essex",
     "state":"NY",
@@ -7064,7 +9444,7 @@
        "coordinates":  [ -116.38,43.79 ]
     },
     "properties": {
-    "id":156,
+    "id":185,
     "case":3,
     "county":"Ada",
     "state":"ID",
@@ -7078,8 +9458,8 @@
        "coordinates":  [ -91.21,43.82 ]
     },
     "properties": {
-    "id":583,
-    "case":2,
+    "id":754,
+    "case":4,
     "county":"La Crosse",
     "state":"WI",
     "note":""
@@ -7092,7 +9472,7 @@
        "coordinates":  [ -71.47,43.83 ]
     },
     "properties": {
-    "id":331,
+    "id":438,
     "case":1,
     "county":"Carroll County",
     "state":"NH",
@@ -7103,10 +9483,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -110.5,43.9 ]
+    },
+    "properties": {
+    "id":780,
+    "case":1,
+    "county":"Teton",
+    "state":"WY",
+    "note":"大提顿国家公园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -71.5,43.95 ]
     },
     "properties": {
-    "id":332,
+    "id":439,
     "case":7,
     "county":"Grafton County",
     "state":"NH",
@@ -7120,7 +9514,7 @@
        "coordinates":  [ -69.33,43.98 ]
     },
     "properties": {
-    "id":241,
+    "id":307,
     "case":1,
     "county":"Knox",
     "state":"ME",
@@ -7134,7 +9528,7 @@
        "coordinates":  [ -72.12,43.99 ]
     },
     "properties": {
-    "id":543,
+    "id":717,
     "case":1,
     "county":"Orange County",
     "state":"VT",
@@ -7148,8 +9542,8 @@
        "coordinates":  [ -92.47,44.01 ]
     },
     "properties": {
-    "id":266,
-    "case":5,
+    "id":337,
+    "case":11,
     "county":"Olmsted County",
     "state":"MN",
     "note":""
@@ -7162,8 +9556,8 @@
        "coordinates":  [ -88.55,44.01 ]
     },
     "properties": {
-    "id":578,
-    "case":3,
+    "id":753,
+    "case":5,
     "county":"Winnebago County",
     "state":"WI",
     "note":""
@@ -7176,7 +9570,7 @@
        "coordinates":  [ -73.089,44.028 ]
     },
     "properties": {
-    "id":545,
+    "id":718,
     "case":1,
     "county":"Addison",
     "state":"VT",
@@ -7187,10 +9581,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -123.073,44.05 ]
+    },
+    "properties": {
+    "id":565,
+    "case":2,
+    "county":"Lane",
+    "state":"OR",
+    "note":"俄勒冈大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -94.069,44.057 ]
     },
     "properties": {
-    "id":275,
+    "id":341,
     "case":1,
     "county":"Blue Earth",
     "state":"MN",
@@ -7201,11 +9609,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -88.223,44.06 ]
+    },
+    "properties": {
+    "id":761,
+    "case":1,
+    "county":"Calumet County",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -121.25,44.07 ]
     },
     "properties": {
-    "id":421,
-    "case":6,
+    "id":551,
+    "case":8,
     "county":"Deschutes County",
     "state":"OR",
     "note":""
@@ -7218,7 +9640,7 @@
        "coordinates":  [ -103.23,44.07 ]
     },
     "properties": {
-    "id":464,
+    "id":611,
     "case":1,
     "county":"Pennington County",
     "state":"SD",
@@ -7232,7 +9654,7 @@
        "coordinates":  [ -70.24,44.08 ]
     },
     "properties": {
-    "id":239,
+    "id":308,
     "case":3,
     "county":"Androscoggin",
     "state":"ME",
@@ -7246,7 +9668,7 @@
        "coordinates":  [ -93.7,44.11 ]
     },
     "properties": {
-    "id":270,
+    "id":342,
     "case":1,
     "county":"Waseca County",
     "state":"MN",
@@ -7260,7 +9682,7 @@
        "coordinates":  [ -70.511,44.13 ]
     },
     "properties": {
-    "id":245,
+    "id":309,
     "case":1,
     "county":"Oxford",
     "state":"ME",
@@ -7274,7 +9696,7 @@
        "coordinates":  [ -72.57,44.26 ]
     },
     "properties": {
-    "id":544,
+    "id":719,
     "case":1,
     "county":"Washington",
     "state":"VT",
@@ -7288,10 +9710,38 @@
        "coordinates":  [ -69.49,44.27 ]
     },
     "properties": {
-    "id":240,
-    "case":3,
+    "id":310,
+    "case":4,
     "county":"Lincoln County",
     "state":"ME",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.36,44.3 ]
+    },
+    "properties": {
+    "id":348,
+    "case":2,
+    "county":"Nicollet County",
+    "state":"MN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.28,44.37 ]
+    },
+    "properties": {
+    "id":351,
+    "case":1,
+    "county":"Rice",
+    "state":"MN",
     "note":""
     }
   },
@@ -7302,7 +9752,7 @@
        "coordinates":  [ -98.04,44.37 ]
     },
     "properties": {
-    "id":465,
+    "id":612,
     "case":1,
     "county":"Beadle County",
     "state":"SD",
@@ -7316,8 +9766,8 @@
        "coordinates":  [ -69.75,44.415 ]
     },
     "properties": {
-    "id":244,
-    "case":1,
+    "id":311,
+    "case":4,
     "county":"Kennebec",
     "state":"ME",
     "note":""
@@ -7330,8 +9780,8 @@
        "coordinates":  [ -88.005,44.46 ]
     },
     "properties": {
-    "id":584,
-    "case":1,
+    "id":757,
+    "case":2,
     "county":"Brown",
     "state":"WI",
     "note":"绿湾"
@@ -7344,10 +9794,24 @@
        "coordinates":  [ -88.45,44.47 ]
     },
     "properties": {
-    "id":580,
-    "case":1,
+    "id":758,
+    "case":2,
     "county":"Outagamie",
     "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.94,44.48 ]
+    },
+    "properties": {
+    "id":563,
+    "case":1,
+    "county":"Grant County",
+    "state":"OR",
     "note":""
     }
   },
@@ -7358,7 +9822,7 @@
        "coordinates":  [ -73.22,44.48 ]
     },
     "properties": {
-    "id":540,
+    "id":720,
     "case":4,
     "county":"Chittenden",
     "state":"VT",
@@ -7372,8 +9836,8 @@
        "coordinates":  [ -122.52,44.497 ]
     },
     "properties": {
-    "id":422,
-    "case":15,
+    "id":550,
+    "case":18,
     "county":"Linn",
     "state":"OR",
     "note":""
@@ -7383,11 +9847,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -123.26,44.56 ]
+    },
+    "properties": {
+    "id":566,
+    "case":3,
+    "county":"Benton",
+    "state":"OR",
+    "note":"俄勒冈州立大学"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -93.09,44.58 ]
     },
     "properties": {
-    "id":265,
-    "case":6,
+    "id":336,
+    "case":7,
     "county":"Dakota County ",
     "state":"MN",
     "note":"明尼苏达双城大市区"
@@ -7400,7 +9878,7 @@
        "coordinates":  [ -90.17,44.66 ]
     },
     "properties": {
-    "id":581,
+    "id":759,
     "case":1,
     "county":"Wood",
     "state":"WI",
@@ -7411,11 +9889,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -93.5,44.67 ]
+    },
+    "properties": {
+    "id":353,
+    "case":2,
+    "county":"Scott",
+    "state":"MN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -73.45,44.69 ]
     },
     "properties": {
-    "id":384,
-    "case":1,
+    "id":502,
+    "case":2,
     "county":"Clinton County",
     "state":"NY",
     "note":""
@@ -7428,7 +9920,7 @@
        "coordinates":  [ -85.48,44.76 ]
     },
     "properties": {
-    "id":258,
+    "id":326,
     "case":1,
     "county":"Grand Traverse County",
     "state":"MI",
@@ -7442,7 +9934,7 @@
        "coordinates":  [ -93.62,44.76 ]
     },
     "properties": {
-    "id":271,
+    "id":343,
     "case":1,
     "county":"Carver County",
     "state":"MN",
@@ -7456,7 +9948,7 @@
        "coordinates":  [ -94.89,44.76 ]
     },
     "properties": {
-    "id":272,
+    "id":344,
     "case":1,
     "county":"Renville County",
     "state":"MN",
@@ -7470,7 +9962,7 @@
        "coordinates":  [ -92.43,44.77 ]
     },
     "properties": {
-    "id":582,
+    "id":760,
     "case":1,
     "county":"Pierce County",
     "state":"WI",
@@ -7484,10 +9976,24 @@
        "coordinates":  [ -106.95,44.79 ]
     },
     "properties": {
-    "id":588,
-    "case":2,
+    "id":778,
+    "case":4,
     "county":"Sheridan County",
     "state":"WY",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.481,44.8192 ]
+    },
+    "properties": {
+    "id":762,
+    "case":1,
+    "county":"Eau Claire",
+    "state":"WI",
     "note":""
     }
   },
@@ -7498,8 +10004,8 @@
        "coordinates":  [ -68.677,44.881 ]
     },
     "properties": {
-    "id":243,
-    "case":1,
+    "id":312,
+    "case":2,
     "county":"Penobscot",
     "state":"ME",
     "note":"缅因大学"
@@ -7512,7 +10018,21 @@
        "coordinates":  [ -123.38,44.898 ]
     },
     "properties": {
-    "id":423,
+    "id":558,
+    "case":1,
+    "county":"Polk",
+    "state":"OR",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.381,44.898 ]
+    },
+    "properties": {
+    "id":562,
     "case":1,
     "county":"Polk",
     "state":"OR",
@@ -7526,8 +10046,8 @@
        "coordinates":  [ -92.81,44.9 ]
     },
     "properties": {
-    "id":268,
-    "case":2,
+    "id":340,
+    "case":3,
     "county":"Washington County",
     "state":"MN",
     "note":"明尼苏达双城大市区"
@@ -7537,11 +10057,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -89.76,44.9 ]
+    },
+    "properties": {
+    "id":766,
+    "case":1,
+    "county":"Marathon",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -93.1,44.94 ]
     },
     "properties": {
-    "id":264,
-    "case":11,
+    "id":335,
+    "case":16,
     "county":"Ramsey County",
     "state":"MN",
     "note":"明尼苏达双城大市区"
@@ -7551,11 +10085,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -91.9,44.94 ]
+    },
+    "properties": {
+    "id":769,
+    "case":1,
+    "county":"Dunn",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -122.45,44.985 ]
     },
     "properties": {
-    "id":424,
-    "case":4,
+    "id":552,
+    "case":17,
     "county":"Marion",
     "state":"OR",
     "note":""
@@ -7568,8 +10116,8 @@
        "coordinates":  [ -93.473,45.017 ]
     },
     "properties": {
-    "id":263,
-    "case":24,
+    "id":334,
+    "case":45,
     "county":"Hennepin County",
     "state":"MN",
     "note":"明尼苏达双城大市区"
@@ -7582,7 +10130,7 @@
        "coordinates":  [ -84.67,45.02 ]
     },
     "properties": {
-    "id":259,
+    "id":327,
     "case":1,
     "county":"Otsego County",
     "state":"MI",
@@ -7596,7 +10144,7 @@
        "coordinates":  [ -85.629,45.05 ]
     },
     "properties": {
-    "id":261,
+    "id":328,
     "case":1,
     "county":"Leelanau",
     "state":"MI",
@@ -7607,11 +10155,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -91.294,45.07 ]
+    },
+    "properties": {
+    "id":770,
+    "case":1,
+    "county":"Chippewa",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -122.25,45.17 ]
     },
     "properties": {
-    "id":425,
-    "case":1,
+    "id":559,
+    "case":10,
     "county":"Clackamas",
     "state":"OR",
     "note":"波特兰大市区"
@@ -7624,7 +10186,7 @@
        "coordinates":  [ -122.25,45.174 ]
     },
     "properties": {
-    "id":426,
+    "id":560,
     "case":1,
     "county":"Yamhill County",
     "state":"OR",
@@ -7638,7 +10200,7 @@
        "coordinates":  [ -93.66,45.23 ]
     },
     "properties": {
-    "id":273,
+    "id":345,
     "case":1,
     "county":"Wright County",
     "state":"MN",
@@ -7652,7 +10214,7 @@
        "coordinates":  [ -85.15,45.34 ]
     },
     "properties": {
-    "id":260,
+    "id":329,
     "case":1,
     "county":"Charlevoix County",
     "state":"MI",
@@ -7666,8 +10228,8 @@
        "coordinates":  [ -93.26,45.4 ]
     },
     "properties": {
-    "id":267,
-    "case":3,
+    "id":338,
+    "case":5,
     "county":"Anoka County",
     "state":"MN",
     "note":"明尼苏达双城大市区"
@@ -7680,9 +10242,37 @@
        "coordinates":  [ -94.04,45.41 ]
     },
     "properties": {
-    "id":269,
-    "case":3,
+    "id":339,
+    "case":4,
     "county":"Stearns County",
+    "state":"MN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9,45.41 ]
+    },
+    "properties": {
+    "id":564,
+    "case":1,
+    "county":"Union County",
+    "state":"OR",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.8936,45.514 ]
+    },
+    "properties": {
+    "id":350,
+    "case":1,
+    "county":"Chisago",
     "state":"MN",
     "note":""
     }
@@ -7694,8 +10284,8 @@
        "coordinates":  [ -123.11,45.549 ]
     },
     "properties": {
-    "id":427,
-    "case":21,
+    "id":549,
+    "case":31,
     "county":"Washington County",
     "state":"OR",
     "note":"波特兰大市区"
@@ -7708,8 +10298,8 @@
        "coordinates":  [ -122.374,45.58 ]
     },
     "properties": {
-    "id":428,
-    "case":2,
+    "id":553,
+    "case":12,
     "county":"Multnomah County",
     "state":"OR",
     "note":"波特兰大市区"
@@ -7722,7 +10312,7 @@
        "coordinates":  [ -93.9,45.66 ]
     },
     "properties": {
-    "id":274,
+    "id":346,
     "case":1,
     "county":"Benton County",
     "state":"MN",
@@ -7736,7 +10326,7 @@
        "coordinates":  [ -111.15,45.81 ]
     },
     "properties": {
-    "id":297,
+    "id":388,
     "case":3,
     "county":"Gallatin",
     "state":"MT",
@@ -7750,7 +10340,7 @@
        "coordinates":  [ -119.298,45.9 ]
     },
     "properties": {
-    "id":429,
+    "id":554,
     "case":2,
     "county":"Umatilla",
     "state":"OR",
@@ -7764,7 +10354,7 @@
        "coordinates":  [ -122.44,45.93 ]
     },
     "properties": {
-    "id":552,
+    "id":731,
     "case":4,
     "county":"Clark",
     "state":"WA",
@@ -7778,7 +10368,7 @@
        "coordinates":  [ -108.68,45.98 ]
     },
     "properties": {
-    "id":298,
+    "id":389,
     "case":2,
     "county":"Yellowstone",
     "state":"MT",
@@ -7792,7 +10382,7 @@
        "coordinates":  [ -112.44,46 ]
     },
     "properties": {
-    "id":299,
+    "id":390,
     "case":1,
     "county":"Silver Bow",
     "state":"MT",
@@ -7806,7 +10396,7 @@
        "coordinates":  [ -111.63,46.2 ]
     },
     "properties": {
-    "id":300,
+    "id":391,
     "case":1,
     "county":"Broadwater",
     "state":"MT",
@@ -7820,11 +10410,11 @@
        "coordinates":  [ -117.9,46.31 ]
     },
     "properties": {
-    "id":560,
+    "id":736,
     "case":1,
     "county":"Columbia",
     "state":"WA",
-    "note":"西雅图大市区"
+    "note":""
     }
   },
   {
@@ -7834,7 +10424,7 @@
        "coordinates":  [ -123.07,46.36 ]
     },
     "properties": {
-    "id":561,
+    "id":737,
     "case":1,
     "county":"Cowlitz County",
     "state":"WA",
@@ -7845,10 +10435,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -91.92,46.458 ]
+    },
+    "properties": {
+    "id":765,
+    "case":1,
+    "county":"Douglas",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -118.8,46.466 ]
     },
     "properties": {
-    "id":571,
+    "id":738,
     "case":1,
     "county":"Franklin County",
     "state":"WA",
@@ -7862,11 +10466,11 @@
        "coordinates":  [ -122.14,46.53 ]
     },
     "properties": {
-    "id":562,
+    "id":739,
     "case":1,
     "county":"Lewis",
     "state":"WA",
-    "note":"西雅图大市区"
+    "note":""
     }
   },
   {
@@ -7876,7 +10480,7 @@
        "coordinates":  [ -101.32,46.63 ]
     },
     "properties": {
-    "id":324,
+    "id":427,
     "case":1,
     "county":"Morton",
     "state":"ND",
@@ -7890,7 +10494,7 @@
        "coordinates":  [ -120.42,46.71 ]
     },
     "properties": {
-    "id":563,
+    "id":727,
     "case":7,
     "county":"Yakima",
     "state":"WA",
@@ -7901,14 +10505,28 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -90.8,46.815 ]
+    },
+    "properties": {
+    "id":763,
+    "case":1,
+    "county":"Bayfield",
+    "state":"WI",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -122.27,46.82 ]
     },
     "properties": {
-    "id":554,
-    "case":5,
+    "id":730,
+    "case":6,
     "county":"Thurston",
     "state":"WA",
-    "note":"西雅图大市区"
+    "note":""
     }
   },
   {
@@ -7918,7 +10536,7 @@
        "coordinates":  [ -113.99,46.85 ]
     },
     "properties": {
-    "id":301,
+    "id":392,
     "case":3,
     "county":"Missoula",
     "state":"MT",
@@ -7929,10 +10547,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -96.5,46.89 ]
+    },
+    "properties": {
+    "id":354,
+    "case":1,
+    "county":"Clay",
+    "state":"MN",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -97.22,46.9 ]
     },
     "properties": {
-    "id":323,
+    "id":428,
     "case":1,
     "county":"Cass County",
     "state":"ND",
@@ -7946,7 +10578,7 @@
        "coordinates":  [ -100.518,46.98 ]
     },
     "properties": {
-    "id":322,
+    "id":429,
     "case":2,
     "county":"Burleigh",
     "state":"ND",
@@ -7960,7 +10592,7 @@
        "coordinates":  [ -120.42,46.98 ]
     },
     "properties": {
-    "id":555,
+    "id":733,
     "case":3,
     "county":"Kittitas",
     "state":"WA",
@@ -7974,11 +10606,11 @@
        "coordinates":  [ -122.7,47.15 ]
     },
     "properties": {
-    "id":549,
-    "case":56,
+    "id":723,
+    "case":75,
     "county":"Pierce",
     "state":"WA",
-    "note":""
+    "note":"西雅图大市区"
     }
   },
   {
@@ -7988,7 +10620,7 @@
        "coordinates":  [ -123.8,47.16 ]
     },
     "properties": {
-    "id":570,
+    "id":740,
     "case":1,
     "county":"Grays Harbor",
     "state":"WA",
@@ -8002,8 +10634,8 @@
        "coordinates":  [ -119.59,47.27 ]
     },
     "properties": {
-    "id":556,
-    "case":7,
+    "id":728,
+    "case":8,
     "county":"Grant County",
     "state":"WA",
     "note":""
@@ -8016,7 +10648,7 @@
        "coordinates":  [ -119.59,47.27 ]
     },
     "properties": {
-    "id":564,
+    "id":741,
     "case":1,
     "county":"Grant",
     "state":"WA",
@@ -8030,7 +10662,7 @@
        "coordinates":  [ -123.153,47.34 ]
     },
     "properties": {
-    "id":569,
+    "id":742,
     "case":1,
     "county":"Mason",
     "state":"WA",
@@ -8044,7 +10676,7 @@
        "coordinates":  [ -117.92,47.51 ]
     },
     "properties": {
-    "id":565,
+    "id":743,
     "case":1,
     "county":"Lincoln",
     "state":"WA",
@@ -8055,12 +10687,26 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -116.6,47.6 ]
+    },
+    "properties": {
+    "id":186,
+    "case":1,
+    "county":"Kootenai",
+    "state":"ID",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -118.39,47.61 ]
     },
     "properties": {
-    "id":568,
-    "case":1,
-    "county":"Lincoln",
+    "id":746,
+    "case":2,
+    "county":"Benton",
     "state":"WA",
     "note":""
     }
@@ -8072,11 +10718,11 @@
        "coordinates":  [ -117.56,47.64 ]
     },
     "properties": {
-    "id":559,
+    "id":732,
     "case":4,
     "county":"Spokane County",
     "state":"WA",
-    "note":""
+    "note":"东华盛顿大学"
     }
   },
   {
@@ -8086,7 +10732,7 @@
        "coordinates":  [ -122.73,47.6868 ]
     },
     "properties": {
-    "id":557,
+    "id":734,
     "case":3,
     "county":"Kitsap",
     "state":"WA",
@@ -8100,7 +10746,7 @@
        "coordinates":  [ -122.99,47.69 ]
     },
     "properties": {
-    "id":558,
+    "id":735,
     "case":3,
     "county":"Jefferson",
     "state":"WA",
@@ -8114,11 +10760,11 @@
        "coordinates":  [ -122.22,47.71 ]
     },
     "properties": {
-    "id":546,
-    "case":569,
+    "id":721,
+    "case":693,
     "county":"King County",
     "state":"WA",
-    "note":"东华盛顿大学"
+    "note":"西雅图大市区"
     }
   },
   {
@@ -8128,8 +10774,8 @@
        "coordinates":  [ -122.22,47.85 ]
     },
     "properties": {
-    "id":548,
-    "case":55,
+    "id":724,
+    "case":151,
     "county":"Unassigned",
     "state":"WA",
     "note":""
@@ -8142,7 +10788,7 @@
        "coordinates":  [ -120.52,47.9 ]
     },
     "properties": {
-    "id":567,
+    "id":744,
     "case":1,
     "county":"Chelan",
     "state":"WA",
@@ -8156,11 +10802,11 @@
        "coordinates":  [ -122,47.92 ]
     },
     "properties": {
-    "id":547,
-    "case":310,
+    "id":722,
+    "case":347,
     "county":"Snohomish",
     "state":"WA",
-    "note":""
+    "note":"西雅图大市区"
     }
   },
   {
@@ -8170,8 +10816,8 @@
        "coordinates":  [ -122.41,47.95 ]
     },
     "properties": {
-    "id":550,
-    "case":14,
+    "id":725,
+    "case":17,
     "county":"Island",
     "state":"WA",
     "note":""
@@ -8184,7 +10830,7 @@
        "coordinates":  [ -101.29,48.23 ]
     },
     "properties": {
-    "id":321,
+    "id":430,
     "case":2,
     "county":"Ward County",
     "state":"ND",
@@ -8198,7 +10844,7 @@
        "coordinates":  [ -122.628,48.29 ]
     },
     "properties": {
-    "id":566,
+    "id":745,
     "case":1,
     "county":"Oak Harbor",
     "state":"WA",
@@ -8212,8 +10858,8 @@
        "coordinates":  [ -122.6,48.46 ]
     },
     "properties": {
-    "id":551,
-    "case":14,
+    "id":726,
+    "case":18,
     "county":"Skagit",
     "state":"WA",
     "note":""
@@ -8226,7 +10872,7 @@
        "coordinates":  [ -122.19,48.7 ]
     },
     "properties": {
-    "id":553,
+    "id":729,
     "case":7,
     "county":"Whatcom",
     "state":"WA",
@@ -8240,7 +10886,7 @@
        "coordinates":  [ -131.121,55.55 ]
     },
     "properties": {
-    "id":3,
+    "id":1,
     "case":1,
     "county":"Ketchikan Gateway Borough",
     "state":"AK",
@@ -8254,7 +10900,7 @@
        "coordinates":  [ -149.58,61.61 ]
     },
     "properties": {
-    "id":1,
+    "id":2,
     "case":2,
     "county":"Anchorage",
     "state":"AK",
@@ -8268,25 +10914,11 @@
        "coordinates":  [ -147.713,64.84 ]
     },
     "properties": {
-    "id":2,
+    "id":3,
     "case":3,
     "county":"Fairbanks North Star",
     "state":"AK",
     "note":"费尔班克斯"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -94.57,39.092 ]
-    },
-    "properties": {
-    "id":283,
-    "case":2,
-    "county":"Kansas City",
-    "state":"MO",
-    "note":"堪萨斯城"
     }
   }
 ]
