@@ -93,7 +93,7 @@ mini.append("g").selectAll("miniItems")
   .attr("class", function(d) {return "miniItem" + d.id;})
   .attr("x", function(d) {return x(d.start);})
   .attr("y", function(d) {return y2(d.lane + .5) - 5;})
-  .attr("width", function(d) {return x(d.end - d.start);})
+  .attr("width", function(d) {return x(d.start + 1000 - d.start);})
   .attr("height", 10);
 
 //mini labels
@@ -123,7 +123,7 @@ function display() {
   var rects, labels,
     minExtent = brush.extent()[0],
     maxExtent = brush.extent()[1],
-    visItems = items.filter(function(d) {return d.start < maxExtent && d.end > minExtent;});
+    visItems = items.filter(function(d) {return d.start < maxExtent && d.start + 1000 > minExtent;});
 
   mini.select(".brush")
     .call(brush.extent([minExtent, maxExtent]));
@@ -134,13 +134,13 @@ function display() {
   rects = itemRects.selectAll("rect")
           .data(visItems, function(d) { return d.id; })
     .attr("x", function(d) {return x1(d.start);})
-    .attr("width", function(d) {return x1(d.end) - x1(d.start);});
+    .attr("width", function(d) {return x1(d.start + 1000) - x1(d.start);});
 
   rects.enter().append("rect")
     .attr("class", function(d) {return "miniItem" + d.id;})
     .attr("x", function(d) {return x1(d.start);})
     .attr("y", function(d) {return y1(d.lane) + 10;})
-    .attr("width", function(d) {return x1(d.end) - x1(d.start);})
+    .attr("width", function(d) {return x1(d.start + 1000) - x1(d.start);})
     .attr("height", function(d) {return .8 * y1(1);});
 
   rects.exit().remove();
