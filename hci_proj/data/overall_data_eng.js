@@ -1,5 +1,5 @@
 //data
-var lanes = ["Place","Drank","Alcohol", "Emotion", "Risk"],
+var lanes = ["Place"],
 minilanes = ["Time"],
   laneLength = lanes.length,
   items_mini = items = [

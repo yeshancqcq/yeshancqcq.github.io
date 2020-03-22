@@ -90,7 +90,7 @@ var itemRects = main.append("g")
 mini.append("g").selectAll("miniItems")
   .data(items)
   .enter().append("rect")
-  .attr("class", function(d) {return "miniItem" + d.type;})
+  .attr("class", function(d) {return "miniItem" + d.id;})
   .attr("x", function(d) {return x(d.start);})
   .attr("y", function(d) {return y2(d.lane + .5) - 5;})
   .attr("width", function(d) {return x(d.end - d.start);})
@@ -137,7 +137,7 @@ function display() {
     .attr("width", function(d) {return x1(d.end) - x1(d.start);});
 
   rects.enter().append("rect")
-    .attr("class", function(d) {return "miniItem" + d.type;})
+    .attr("class", function(d) {return "miniItem" + d.id;})
     .attr("x", function(d) {return x1(d.start);})
     .attr("y", function(d) {return y1(d.lane) + 10;})
     .attr("width", function(d) {return x1(d.end) - x1(d.start);})
@@ -146,16 +146,16 @@ function display() {
   rects.exit().remove();
 
   //update the item labels
-  labels = itemRects.selectAll("text")
-    .data(visItems, function (d) { return d.id; })
-    .attr("x", function(d) {return x1(Math.max(d.start, minExtent) + 2);});
-
-  labels.enter().append("text")
-    .text(function(d) {return d.id;})
-    .attr("x", function(d) {return x1(Math.max(d.start, minExtent));})
-    .attr("y", function(d) {return y1(d.lane + .5);})
-    .attr("text-anchor", "start");
-
-  labels.exit().remove();
+  // labels = itemRects.selectAll("text")
+  //   .data(visItems, function (d) { return d.id; })
+  //   .attr("x", function(d) {return x1(Math.max(d.start, minExtent) + 2);});
+  //
+  // labels.enter().append("text")
+  //   .text(function(d) {return d.id;})
+  //   .attr("x", function(d) {return x1(Math.max(d.start, minExtent));})
+  //   .attr("y", function(d) {return y1(d.lane + .5);})
+  //   .attr("text-anchor", "start");
+  //
+  // labels.exit().remove();
 
 }
