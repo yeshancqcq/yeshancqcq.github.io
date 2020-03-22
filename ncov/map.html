@@ -286,7 +286,7 @@ box-shadow: none;
 				else if (field < 5000) r = 25;
 				else if (field < 10000) r = 30;
 				else if (field < 20000) r = 40;
-				else if (isNaN(field)) r = 2;
+				else if (isNaN(field)) r = 0;
 				else r = 50;
 				return r
 			}
@@ -294,16 +294,16 @@ box-shadow: none;
 			function getR_US(i){
 				var r
 				var field = i
-				if(field < 2) r = 5;
+				if(field < 5) r = 5;
 				else if (field < 10) r = 7;
-				else if (field < 15) r = 9;
-				else if (field < 20) r = 13;
-				else if (field < 25) r = 16;
-				else if (field < 30) r = 20;
-				else if (field < 35) r = 25;
-				else if (field < 40) r = 30;
-				else if (field < 50) r = 40;
-				else if (isNaN(field)) r = 2;
+				else if (field < 50) r = 9;
+				else if (field < 100) r = 13;
+				else if (field < 200) r = 16;
+				else if (field < 300) r = 20;
+				else if (field < 400) r = 25;
+				else if (field < 500) r = 30;
+				else if (field < 1000) r = 40;
+				else if (isNaN(field)) r = 0;
 				else r = 50;
 				return r
 			}
@@ -320,7 +320,7 @@ box-shadow: none;
 				else if (field < 3000) r = 25;
 				else if (field < 3500) r = 30;
 				else if (field < 4000) r = 40;
-				else if (isNaN(field)) r = 2;
+				else if (isNaN(field)) r = 0;
 				else r = 50;
 				return r
 			}
@@ -337,6 +337,21 @@ box-shadow: none;
 				else color="#fcbba1";
 
 
+				return color
+			}
+
+			function getColorUS(i){
+				var color
+				var field = i
+				if (field == 0) color = "none";
+				else color="yellow";
+				return color
+			}
+			function getColorUSStrike(i){
+				var color
+				var field = i
+				if (field == 0) color = "none";
+				else color="red";
 				return color
 			}
 
@@ -531,11 +546,11 @@ function getColor4(i){
 			}
 		}).addTo(recover);
 
-		var usa_cities = new L.GeoJSON.AJAX("data/county_data.geojson",{
+		var usa_cities = new L.GeoJSON.AJAX("data/us_data.geojson",{
 			style : function(feature) {
 				return {
-					color: "red",
-					fillColor: "yellow",
+					color: getColorUSStrike(feature.properties.case),
+					fillColor: getColorUS(feature.properties.case),
 					weight: 0.2,
 					radius: getR_US(feature.properties.case)
 				}
@@ -553,11 +568,11 @@ function getColor4(i){
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng);
-					$("#paneltext").html('<p>美国县级数据更新于3月20日<br>US County data updated: March 20th.</p>');
+					$("#paneltext").html('<p>美国县级数据更新于3月21日<br>US County data updated: March 21st.</p>');
 				}),
-				layer.bindPopup('<h3> '+feature.properties.county+', '
-									+feature.properties.state +'<br>'+
-									feature.properties.note+'</h3><p>确诊/Confirmed: '
+				layer.bindPopup('<h3> '+feature.properties.county+' County, '
+									+feature.properties.state +'<br>'
+									+'</h3><p>确诊/Confirmed: '
 									+feature.properties.case +'</p>', popup5)
 			}
 		}).addTo(usa_cities);
@@ -566,7 +581,7 @@ function getColor4(i){
 			style : function(feature) {
 				return {
 					color: "red",
-					fillColor: "yellow",
+					fillColor: getColorUS(feature.properties.case),
 					weight: 0.2,
 					radius: getR_US(feature.properties.case)
 				}
