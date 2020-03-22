@@ -1,6 +1,6 @@
 var m = [20, 15, 15, 120], //top right bottom left
   w = 960 - m[1] - m[3],
-  h = 500 - m[0] - m[2],
+  h = 280 - m[0] - m[2],
   miniHeight = laneLength * 12 + 50,
   mainHeight = h - miniHeight - 50;
 
