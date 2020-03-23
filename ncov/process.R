@@ -149,3 +149,18 @@ for(i in 1:nrow(county_data)){
 }
 
 write.csv(county_data, file="data/county_data.csv",fileEncoding="UTF-8")
+
+
+#=========================
+uk_new <- read_csv("Downloads/CountyUAs_cases_table.csv")
+uk <- read_csv("Documents/github/yeshancqcq.github.io/ncov/data/uk.csv")
+
+for(i in 1:nrow(uk)){
+  for(j in 1:nrow(uk_new)){
+    if(uk$id[i]==uk_new$GSS_CD[j]){
+      uk$case[i] <- uk_new$TotalCases[j]
+    }
+  }
+  cat("processing", i, "\n")
+}
+write.csv(uk, file="Documents/github/yeshancqcq.github.io/ncov/data/uk.csv",fileEncoding="UTF-8")

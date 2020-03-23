@@ -1,163 +1,163 @@
-cn	state	country	case	region	lat	lon
-奥弗涅-罗纳-阿尔卑斯	Auvergne-Rh_ne-Alpes	France	"1,101"		45.475	4.624
-勃艮第-弗朗什-孔泰	Bourgogne-Franche-Comté	France	770		47.2899	4.9938
-布列塔尼	Bretagne	France	346		47.59	6.9972
-卢瓦尔河谷中心	Centre-Val de Loire	France	219		47.66	1.59
-科西嘉岛	Corse	France	168		42.157	8.995
-大东区	Grand Est	France	"3,006"		48.81	5.8
-法兰西堡	Hauts-de-France	France	759		49.976	2.817
-法兰西岛	Ile-de-France	France	"3,818"		48.683	2.502
-诺曼底	Normandie	France	287		49.21	-0.778
-新阿基坦	Nouvelle-Aquitaine	France	432		45.018	0.4102
-奥西塔尼	Occitanie	France	537		43.7	2.25
-卢瓦尔河大区	Pays de la Loire	France	190		47.4	-0.85
-普罗旺斯阿尔卑斯蓝色海岸	Provence-Alpes-C_te d’Azur	France	826		44.06	5.97
-瓜达卢佩	Guadeloupe	France	51		16.17	-61.4
-圣巴泰勒米	Saint-Barthélémy	France	3		17.9	-62.825
-圣马丁	Saint-Martin	France	4		18.01	-63.05
-法属圭亚那	Guyane	France	15		4.2942	-53.05
-马丁尼克	Martinique	France	32		14.6	-61.019
-马约特岛	Mayotte	France	7		-12.82	45.12
-留尼汪	La Réunion	France	38		-21.13	55.5265
-巴登-符腾堡州	Baden-Württemberg	Germany	2746		48.67	9.0036
-巴伐利亚州	Bayern	Germany	2401		48.9445	11.407
-柏林	Berlin	Germany	731		52.5	13.42
-勃兰登堡	Brandenburg	Germany	192		52.472	13.0165
-不来梅	Bremen	Germany	121		53.081	8.82
-汉堡	Hamburg	Germany	586		53.553	10
-黑森	Hessen	Germany	813		50.54	9
-梅克伦堡-西波莫尼亚	Mecklenburg-Vorpommern	Germany	131		54	12.5
-下萨克森州	Niedersachsen	Germany	803		52.738	8.97
-北莱茵-威斯特法伦州	Nordrhein-Westfalen	Germany	3497		51.4	7.66
-莱茵兰-普法尔茨	Rheinland-Pfalz	Germany	801		49.96452	7.31
-萨尔	Saarland	Germany	146		49.376	6.88
-萨克森	Sachsen	Germany	394		50.9	13.457
-萨克森-安哈尔特	Sachsen-Anhalt	Germany	180		52	11.87
-施勒苏益格-荷尔斯泰因州	Schleswig-Holstein	Germany	266		54.23864	9.596
-图林根	Thüringen	Germany	149		47.1	9.7615
-安达路西亚	Andalucía	Spain	1287		37.383	-5.983
-阿拉贡	Aragón	Spain	360		41.403	-0.7
-阿斯图里亚斯公国	Principado de Asturias	Spain	344		43.274	-5.84
-巴利阿里群岛	Islas Baleares	Spain	203		39.5	3
-加纳利群岛	Canarias	Spain	287		28	-15.5
-坎塔布里亚	Cantabria	Spain	144		43.13	-4
-卡斯蒂利亚莱昂	Castilla y León	Spain	1147		42.6	-5.9
-卡斯蒂利亚拉曼恰	Castilla La Mancha	Spain	1044		39.08	-3.26
-加泰罗尼亚	Catalu_a	Spain	3270		41.392	2.14
-加利西亚	Galicia	Spain	578		42.8	-8.01
-瓦伦西亚	C. Valenciana	Spain	1105		39.46	-0.39
-埃斯特雷马杜拉	Extremadura	Spain	297		39.225	-6.09
-马德里	Comunidad de Madrid	Spain	7165		40.42	-3.685
-穆尔西亚地区	Región de Murcia	Spain	204		38	-1.4957
-纳瓦拉福拉	Comunidad Foral de Navarra	Spain	554		42.816	-1.65
-巴斯克地区	País Vasco	Spain	1465		42.966	-2.589
-拉里奥哈	La Rioja	Spain	497		42.28269	-2.406
-休达	Ceuta	Spain	5		35.89	-5.33
-梅利利亚	Melilla	Spain	24		35.292	-2.9466
-拉古萨	Ragusa	Italy	7	Sicilia	36.92509198	14.73069891
-锡拉库萨	Siracusa	Italy	40	Sicilia	37.05991687	15.29333182
-	Agrigento	Italy	31	Sicilia	37.30971088	13.5845749
-	Caltanissetta	Italy	18	Sicilia	37.49213171	14.06184973
-卡塔尼亚	Catania	Italy	162	Sicilia	37.50287803	15.08704691
-恩那	Enna	Italy	25	Sicilia	37.56705701	14.27909375
-特拉帕尼	Trapani	Italy	27	Sicilia	38.01850065	12.51365684
-卡拉布里亚	Reggio di Calabria	Italy	73	Calabria	38.10922769	15.6434527
-巴勒莫	Palermo	Italy	59	Sicilia	38.11569725	13.3623567
-墨西拿	Messina	Italy	39	Sicilia	38.19395845	15.55572302
-韦伯巴伦提亚	Vibo Valentia	Italy	8	Calabria	38.67624147	16.10157414
-卡坦萨洛	Catanzaro	Italy	34	Calabria	38.90597598	16.59440194
-克罗托恩	Crotone	Italy	45	Calabria	39.08036878	17.12538864
-萨尔德尼亚	Sud Sardegna	Italy	8	Sardegna	39.16641462	8.526242676
-卡利亚里	Cagliari	Italy	43	Sardegna	39.21531192	9.110616306
-科森萨	Cosenza	Italy	45	Calabria	39.29308681	16.25609692
-奥利斯塔诺	Oristano	Italy	4	Sardegna	39.90381075	8.591183151
-	Nuoro	Italy	22	Sardegna	40.32318834	9.330296393
-	Lecce	Italy	88	Puglia	40.35354285	18.1718973
-塔兰托	Taranto	Italy	33	Puglia	40.47354739	17.23237181
-布林迪西	Brindisi	Italy	84	Puglia	40.63848545	17.94601575
-博腾撒	Potenza	Italy	43	Basilicata	40.63947052	15.80514834
-马特拉	Matera	Italy	9	Basilicata	40.66751177	16.59792442
-萨勒莫	Salerno	Italy	115	Campania	40.67821961	14.7594026
-萨萨里	Sassari	Italy	216	Sardegna	40.72667657	8.559667131
-那不勒斯	Napoli	Italy	416	Campania	40.83956555	14.25084984
-阿维里诺	Avellino	Italy	97	Campania	40.91404699	14.79528803
-卡瑟尔塔	Caserta	Italy	96	Campania	41.07465878	14.33240464
-巴里	Bari	Italy	165	Puglia	41.12559576	16.86736689
-本内文托	Benevento	Italy	8	Campania	41.12969987	14.78151683
-	Barletta-Andria-Trani	Italy	30	Puglia	41.22705039	16.29520432
-佛吉亚	Foggia	Italy	163	Puglia	41.46226865	15.54305094
-拉蒂娜	Latina	Italy	115	Lazio	41.46759465	12.90368482
-坎波巴索	Campobasso	Italy	39	Molise	41.55774754	14.65916051
-伊瑟尼亚	Isernia	Italy	4	Molise	41.58800826	14.22575407
-弗洛塞诺恩	Frosinone	Italy	52	Lazio	41.63964569	13.35117161
-罗马	Roma	Italy	755	Lazio	41.89277044	12.48366722
-	Chieti	Italy	80	Abruzzo	42.35103167	14.16754574
-	L'Aquila	Italy	29	Abruzzo	42.35122196	13.39843823
-	Rieti	Italy	18	Lazio	42.40488444	12.86205939
-维特尔波	Viterbo	Italy	63	Lazio	42.4173828	12.10473416
-佩斯卡拉	Pescara	Italy	259	Abruzzo	42.46458398	14.21364822
-特尔尼	Terni	Italy	97	Umbria	42.56071258	12.6466875
-特拉莫	Teramo	Italy	81	Abruzzo	42.6589177	13.70439971
-格罗塞托	Grosseto	Italy	97	Toscana	42.76026758	11.11356398
-皮赛罗	Ascoli Piceno	Italy	43	Marche	42.85322304	13.57691127
-配路基亚	Perugia	Italy	280	Umbria	43.10675841	12.38824698
-费尔默	Fermo	Italy	80	Marche	43.16058534	13.71839535
-马瑟拉塔	Macerata	Italy	215	Marche	43.30023926	13.45307182
-锡耶纳	Siena	Italy	128	Toscana	43.31816374	11.33190988
-阿勒索	Arezzo	Italy	124	Toscana	43.46642752	11.88228844
-利沃诺	Livorno	Italy	117	Toscana	43.55234873	10.3086781
-安科那	Ancona	Italy	513	Marche	43.61675973	13.5188753
-比萨	Pisa	Italy	180	Toscana	43.71553206	10.40127259
-	Firenze	Italy	401	Toscana	43.76923077	11.25588885
-卢卡	Lucca	Italy	249	Toscana	43.84432283	10.50151366
-布拉托	Prato	Italy	94	Toscana	43.88062274	11.09703315
-恩培利亚	Imperia	Italy	145	Liguria	43.88570648	8.027850298
-	Pesaro e Urbino	Italy	1099	Marche	43.91014021	12.91345989
-皮斯托亚	Pistoia	Italy	171	Toscana	43.933465	10.91734146
-	Massa Carrara	Italy	232	Toscana	44.03674425	10.14173829
-	Rimini	Italy	757	Emilia Romagna	44.06090087	12.5656295
-	La Spezia	Italy	90	Liguria	44.10704991	9.8281897
-	Forlì-Cesena	Italy	250	Emilia Romagna	44.22268559	12.04068608
-萨沃纳	Savona	Italy	162	Liguria	44.30750461	8.481108654
-库内奥	Cuneo	Italy	221	Piemonte	44.39329625	7.551171632
-热那亚	Genova	Italy	527	Liguria	44.41149314	8.9326992
-拉文那	Ravenna	Italy	213	Emilia Romagna	44.41722493	12.19913936
-博洛尼亚	Bologna	Italy	552	Emilia Romagna	44.49436681	11.3417208
-默德纳	Modena	Italy	767	Emilia Romagna	44.64600009	10.92615487
-	Reggio nell'Emilia	Italy	773	Emilia Romagna	44.69735289	10.63007973
-帕尔马	Parma	Italy	979	Emilia Romagna	44.80107394	10.32834985
-费拉拉	Ferrara	Italy	102	Emilia Romagna	44.83599085	11.61868934
-阿斯提	Asti	Italy	151	Piemonte	44.89912921	8.204142547
-	Alessandria	Italy	595	Piemonte	44.91297351	8.615401155
-	Piacenza	Italy	1575	Emilia Romagna	45.05193462	9.692632596
-	Rovigo	Italy	67	Veneto	45.07107289	11.79007
-都灵	Torino	Italy	1556	Piemonte	45.0732745	7.680687483
-	Cremona	Italy	2392	Lombardia	45.13336675	10.02420865
-蒙托瓦	Mantova	Italy	723	Lombardia	45.15726772	10.79277363
-帕维亚	Pavia	Italy	1105	Lombardia	45.18509264	9.160157191
-罗蒂	Lodi	Italy	1597	Lombardia	45.31440693	9.503720769
-	Vercelli	Italy	203	Piemonte	45.32398135	8.423234312
-	Padova	Italy	1026	Veneto	45.40692987	11.87608718
-威尼斯	Venezia	Italy	574	Veneto	45.43490485	12.33845213
-维罗纳	Verona	Italy	784	Veneto	45.43839046	10.99352685
-诺瓦拉	Novara	Italy	293	Piemonte	45.44588506	8.621915884
-米兰	Milano	Italy	3804	Lombardia	45.46679409	9.190347404
-布雷西亚	Brescia	Italy	4648	Lombardia	45.53993052	10.21910323
-	Vicenza	Italy	518	Veneto	45.547497	11.54597109
-	Biella	Italy	175	Piemonte	45.5665112	8.054082167
-	Monza e della Brianza	Italy	816	Lombardia	45.58439043	9.273582472
-	Trieste	Italy	216	Friuli Venezia Giulia	45.6494354	13.76813649
-	Treviso	Italy	719	Veneto	45.66754571	12.24507363
-	Bergamo	Italy	5154	Lombardia	45.69441368	9.668424528
-	Aosta	Italy	264	Valle d'Aosta	45.73750286	7.320149366
-科莫	Como	Italy	380	Lombardia	45.8099912	9.085159546
-瓦雷斯	Varese	Italy	338	Lombardia	45.81701677	8.822868344
-	Lecco	Italy	676	Lombardia	45.85575781	9.393392246
-	Verbano-Cusio-Ossola	Italy	142	Piemonte	45.9214455	8.551078753
-	Gorizia	Italy	30	Friuli Venezia Giulia	45.94149817	13.62212502
-	Pordenone	Italy	114	Friuli Venezia Giulia	45.95443546	12.66002909
-乌迪内	Udine	Italy	296	Friuli Venezia Giulia	46.06255516	13.2348383
-特伦托	Trento	Italy	642	P.A. Trento	46.06893511	11.12123097
-	Belluno	Italy	195	Veneto	46.13837528	12.21704167
-桑德里奥	Sondrio	Italy	163	Lombardia	46.17099261	9.87147489
-博尔萨诺	Bolzano	Italy	548	P.A. Bolzano	46.49933453	11.35662422
+cn,state,country,case,region,lat,lon
+奥弗涅-罗纳-阿尔卑斯,Auvergne-Rh_ne-Alpes,France,1431,,45.475,4.624
+勃艮第-弗朗什-孔泰,Bourgogne-Franche-Comté,France,1178,,47.2899,4.9938
+布列塔尼,Bretagne,France,397,,47.59,6.9972
+卢瓦尔河谷中心,Centre-Val de Loire,France,291,,47.66,1.59
+科西嘉岛,Corse,France,183,,42.157,8.995
+大东区,Grand Est,France,3395,,48.81,5.8
+法兰西堡,Hauts-de-France,France,936,,49.976,2.817
+法兰西岛,Ile-de-France,France,5283,,48.683,2.502
+诺曼底,Normandie,France,462,,49.21,-0.778
+新阿基坦,Nouvelle-Aquitaine,France,612,,45.018,0.4102
+奥西塔尼,Occitanie,France,671,,43.7,2.25
+卢瓦尔河大区,Pays de la Loire,France,270,,47.4,-0.85
+普罗旺斯阿尔卑斯蓝色海岸,Provence-Alpes-C_te d’Azur,France,1372,,44.06,5.97
+瓜达卢佩,Guadeloupe,France,58,,16.17,-61.4
+圣巴泰勒米,Saint-Barthélémy,France,3,,17.9,-62.825
+圣马丁,Saint-Martin,France,6,,18.01,-63.05
+法属圭亚那,Guyane,France,19,,4.2942,-53.05
+马丁尼克,Martinique,France,44,,14.6,-61.019
+马约特岛,Mayotte,France,14,,-12.82,45.12
+留尼汪,La Réunion,France,64,,-21.13,55.5265
+巴登-符腾堡州,Baden-Württemberg,Germany,3807,,48.67,9.0036
+巴伐利亚州,Bayern,Germany,3650,,48.9445,11.407
+柏林,Berlin,Germany,1024,,52.5,13.42
+勃兰登堡,Brandenburg,Germany,274,,52.472,13.0165
+不来梅,Bremen,Germany,165,,53.081,8.82
+汉堡,Hamburg,Germany,872,,53.553,10
+黑森,Hessen,Germany,1175,,50.54,9
+梅克伦堡-西波莫尼亚,Mecklenburg-Vorpommern,Germany,172,,54,12.5
+下萨克森州,Niedersachsen,Germany,1306,,52.738,8.97
+北莱茵-威斯特法伦州,Nordrhein-Westfalen,Germany,3545,,51.4,7.66
+莱茵兰-普法尔茨,Rheinland-Pfalz,Germany,1053,,49.96452,7.31
+萨尔,Saarland,Germany,187,,49.376,6.88
+萨克森,Sachsen,Germany,606,,50.9,13.457
+萨克森-安哈尔特,Sachsen-Anhalt,Germany,211,,52,11.87
+施勒苏益格-荷尔斯泰因州,Schleswig-Holstein,Germany,347,,54.23864,9.596
+图林根,Thüringen,Germany,216,,47.1,9.7615
+安达路西亚,Andalucía,Spain,1725,,37.383,-5.983
+阿拉贡,Aragón,Spain,532,,41.403,-0.7
+阿斯图里亚斯公国,Principado de Asturias,Spain,545,,43.274,-5.84
+巴利阿里群岛,Islas Baleares,Spain,331,,39.5,3
+加纳利群岛,Canarias,Spain,414,,28,-15.5
+坎塔布里亚,Cantabria,Spain,282,,43.13,-4
+卡斯蒂利亚莱昂,Castilla y León,Spain,1744,,42.6,-5.9
+卡斯蒂利亚拉曼恰,Castilla La Mancha,Spain,1819,,39.08,-3.26
+加泰罗尼亚,Catalu_a,Spain,4704,,41.392,2.14
+加利西亚,Galicia,Spain,915,,42.8,-8.01
+瓦伦西亚,C. Valenciana,Spain,1604,,39.46,-0.39
+埃斯特雷马杜拉,Extremadura,Spain,384,,39.225,-6.09
+马德里,Comunidad de Madrid,Spain,9702,,40.42,-3.685
+穆尔西亚地区,Región de Murcia,Spain,296,,38,-1.4957
+纳瓦拉福拉,Comunidad Foral de Navarra,Spain,794,,42.816,-1.65
+巴斯克地区,País Vasco,Spain,2097,,42.966,-2.589
+拉里奥哈,La Rioja,Spain,654,,42.28269,-2.406
+休达,Ceuta,Spain,5,,35.89,-5.33
+梅利利亚,Melilla,Spain,25,,35.292,-2.9466
+拉古萨,Ragusa,Italy,9,Sicilia,36.92509198,14.73069891
+锡拉库萨,Siracusa,Italy,49,Sicilia,37.05991687,15.29333182
+,Agrigento,Italy,41,Sicilia,37.30971088,13.5845749
+,Caltanissetta,Italy,27,Sicilia,37.49213171,14.06184973
+卡塔尼亚,Catania,Italy,234,Sicilia,37.50287803,15.08704691
+恩那,Enna,Italy,34,Sicilia,37.56705701,14.27909375
+特拉帕尼,Trapani,Italy,32,Sicilia,38.01850065,12.51365684
+卡拉布里亚,Reggio di Calabria,Italy,88,Calabria,38.10922769,15.6434527
+巴勒莫,Palermo,Italy,92,Sicilia,38.11569725,13.3623567
+墨西拿,Messina,Italy,112,Sicilia,38.19395845,15.55572302
+韦伯巴伦提亚,Vibo Valentia,Italy,14,Calabria,38.67624147,16.10157414
+卡坦萨洛,Catanzaro,Italy,45,Calabria,38.90597598,16.59440194
+克罗托恩,Crotone,Italy,61,Calabria,39.08036878,17.12538864
+萨尔德尼亚,Sud Sardegna,Italy,8,Sardegna,39.16641462,8.526242676
+卡利亚里,Cagliari,Italy,52,Sardegna,39.21531192,9.110616306
+科森萨,Cosenza,Italy,63,Calabria,39.29308681,16.25609692
+奥利斯塔诺,Oristano,Italy,4,Sardegna,39.90381075,8.591183151
+,Nuoro,Italy,22,Sardegna,40.32318834,9.330296393
+,Lecce,Italy,120,Puglia,40.35354285,18.1718973
+塔兰托,Taranto,Italy,41,Puglia,40.47354739,17.23237181
+布林迪西,Brindisi,Italy,100,Puglia,40.63848545,17.94601575
+博腾撒,Potenza,Italy,65,Basilicata,40.63947052,15.80514834
+马特拉,Matera,Italy,16,Basilicata,40.66751177,16.59792442
+萨勒莫,Salerno,Italy,157,Campania,40.67821961,14.7594026
+萨萨里,Sassari,Italy,253,Sardegna,40.72667657,8.559667131
+那不勒斯,Napoli,Italy,504,Campania,40.83956555,14.25084984
+阿维里诺,Avellino,Italy,132,Campania,40.91404699,14.79528803
+卡瑟尔塔,Caserta,Italy,116,Campania,41.07465878,14.33240464
+巴里,Bari,Italy,231,Puglia,41.12559576,16.86736689
+本内文托,Benevento,Italy,13,Campania,41.12969987,14.78151683
+,Barletta-Andria-Trani,Italy,49,Puglia,41.22705039,16.29520432
+佛吉亚,Foggia,Italy,212,Puglia,41.46226865,15.54305094
+拉蒂娜,Latina,Italy,146,Lazio,41.46759465,12.90368482
+坎波巴索,Campobasso,Italy,53,Molise,41.55774754,14.65916051
+伊瑟尼亚,Isernia,Italy,4,Molise,41.58800826,14.22575407
+弗洛塞诺恩,Frosinone,Italy,78,Lazio,41.63964569,13.35117161
+罗马,Roma,Italy,1049,Lazio,41.89277044,12.48366722
+,Chieti,Italy,102,Abruzzo,42.35103167,14.16754574
+,L'Aquila,Italy,38,Abruzzo,42.35122196,13.39843823
+,Rieti,Italy,24,Lazio,42.40488444,12.86205939
+维特尔波,Viterbo,Italy,82,Lazio,42.4173828,12.10473416
+佩斯卡拉,Pescara,Italy,334,Abruzzo,42.46458398,14.21364822
+特尔尼,Terni,Italy,128,Umbria,42.56071258,12.6466875
+特拉莫,Teramo,Italy,113,Abruzzo,42.6589177,13.70439971
+格罗塞托,Grosseto,Italy,120,Toscana,42.76026758,11.11356398
+皮赛罗,Ascoli Piceno,Italy,56,Marche,42.85322304,13.57691127
+配路基亚,Perugia,Italy,376,Umbria,43.10675841,12.38824698
+费尔默,Fermo,Italy,113,Marche,43.16058534,13.71839535
+马瑟拉塔,Macerata,Italy,293,Marche,43.30023926,13.45307182
+锡耶纳,Siena,Italy,144,Toscana,43.31816374,11.33190988
+阿勒索,Arezzo,Italy,154,Toscana,43.46642752,11.88228844
+利沃诺,Livorno,Italy,130,Toscana,43.55234873,10.3086781
+安科那,Ancona,Italy,676,Marche,43.61675973,13.5188753
+比萨,Pisa,Italy,234,Toscana,43.71553206,10.40127259
+,Firenze,Italy,514,Toscana,43.76923077,11.25588885
+卢卡,Lucca,Italy,356,Toscana,43.84432283,10.50151366
+布拉托,Prato,Italy,129,Toscana,43.88062274,11.09703315
+恩培利亚,Imperia,Italy,168,Liguria,43.88570648,8.027850298
+,Pesaro e Urbino,Italy,1249,Marche,43.91014021,12.91345989
+皮斯托亚,Pistoia,Italy,215,Toscana,43.933465,10.91734146
+,Massa Carrara,Italy,281,Toscana,44.03674425,10.14173829
+,Rimini,Italy,942,Emilia Romagna,44.06090087,12.5656295
+,La Spezia,Italy,99,Liguria,44.10704991,9.8281897
+,Forlì-Cesena,Italy,329,Emilia Romagna,44.22268559,12.04068608
+萨沃纳,Savona,Italy,175,Liguria,44.30750461,8.481108654
+库内奥,Cuneo,Italy,303,Piemonte,44.39329625,7.551171632
+热那亚,Genova,Italy,677,Liguria,44.41149314,8.9326992
+拉文那,Ravenna,Italy,309,Emilia Romagna,44.41722493,12.19913936
+博洛尼亚,Bologna,Italy,674,Emilia Romagna,44.49436681,11.3417208
+默德纳,Modena,Italy,1010,Emilia Romagna,44.64600009,10.92615487
+,Reggio nell'Emilia,Italy,1167,Emilia Romagna,44.69735289,10.63007973
+帕尔马,Parma,Italy,1209,Emilia Romagna,44.80107394,10.32834985
+费拉拉,Ferrara,Italy,150,Emilia Romagna,44.83599085,11.61868934
+阿斯提,Asti,Italy,181,Piemonte,44.89912921,8.204142547
+,Alessandria,Italy,760,Piemonte,44.91297351,8.615401155
+,Piacenza,Italy,1765,Emilia Romagna,45.05193462,9.692632596
+,Rovigo,Italy,76,Veneto,45.07107289,11.79007
+都灵,Torino,Italy,1989,Piemonte,45.0732745,7.680687483
+,Cremona,Italy,2895,Lombardia,45.13336675,10.02420865
+蒙托瓦,Mantova,Italy,905,Lombardia,45.15726772,10.79277363
+帕维亚,Pavia,Italy,1306,Lombardia,45.18509264,9.160157191
+罗蒂,Lodi,Italy,1772,Lombardia,45.31440693,9.503720769
+,Vercelli,Italy,242,Piemonte,45.32398135,8.423234312
+,Padova,Italy,1277,Veneto,45.40692987,11.87608718
+威尼斯,Venezia,Italy,732,Veneto,45.43490485,12.33845213
+维罗纳,Verona,Italy,1046,Veneto,45.43839046,10.99352685
+诺瓦拉,Novara,Italy,398,Piemonte,45.44588506,8.621915884
+米兰,Milano,Italy,5096,Lombardia,45.46679409,9.190347404
+布雷西亚,Brescia,Italy,5317,Lombardia,45.53993052,10.21910323
+,Vicenza,Italy,631,Veneto,45.547497,11.54597109
+,Biella,Italy,243,Piemonte,45.5665112,8.054082167
+,Monza e della Brianza,Italy,1108,Lombardia,45.58439043,9.273582472
+,Trieste,Italy,297,Friuli Venezia Giulia,45.6494354,13.76813649
+,Treviso,Italy,935,Veneto,45.66754571,12.24507363
+,Bergamo,Italy,6216,Lombardia,45.69441368,9.668424528
+,Aosta,Italy,364,Valle d'Aosta,45.73750286,7.320149366
+科莫,Como,Italy,512,Lombardia,45.8099912,9.085159546
+瓦雷斯,Varese,Italy,386,Lombardia,45.81701677,8.822868344
+,Lecco,Italy,872,Lombardia,45.85575781,9.393392246
+,Verbano-Cusio-Ossola,Italy,159,Piemonte,45.9214455,8.551078753
+,Gorizia,Italy,44,Friuli Venezia Giulia,45.94149817,13.62212502
+,Pordenone,Italy,165,Friuli Venezia Giulia,45.95443546,12.66002909
+乌迪内,Udine,Italy,361,Friuli Venezia Giulia,46.06255516,13.2348383
+特伦托,Trento,Italy,954,P.A. Trento,46.06893511,11.12123097
+,Belluno,Italy,226,Veneto,46.13837528,12.21704167
+桑德里奥,Sondrio,Italy,205,Lombardia,46.17099261,9.87147489
+博尔萨诺,Bolzano,Italy,678,P.A. Bolzano,46.49933453,11.35662422
