@@ -274,56 +274,14 @@ box-shadow: none;
     opacity: 0.3,
     fillOpacity: 0.3};
 
+
 			function getR(i){
 				var r
 				var field = i
-				if(field < 10) r = 5;
-				else if (field < 50) r = 7;
-				else if (field < 100) r = 9;
-				else if (field < 500) r = 13;
-				else if (field < 1000) r = 16;
-				else if (field < 2000) r = 20;
-				else if (field < 5000) r = 25;
-				else if (field < 10000) r = 30;
-				else if (field < 20000) r = 40;
-				else if (isNaN(field)) r = 0;
-				else r = 50;
+				r = Math.log10(field)*5 + 3
 				return r
 			}
 
-			function getR_US(i){
-				var r
-				var field = i
-				if(field < 5) r = 5;
-				else if (field < 10) r = 7;
-				else if (field < 50) r = 9;
-				else if (field < 100) r = 13;
-				else if (field < 200) r = 16;
-				else if (field < 300) r = 20;
-				else if (field < 400) r = 25;
-				else if (field < 500) r = 30;
-				else if (field < 1000) r = 40;
-				else if (isNaN(field)) r = 0;
-				else r = 50;
-				return r
-			}
-
-			function getR_EU(i){
-				var r
-				var field = i
-				if(field < 200) r = 5;
-				else if (field < 500) r = 7;
-				else if (field < 1000) r = 9;
-				else if (field < 1500) r = 13;
-				else if (field < 2000) r = 16;
-				else if (field < 2500) r = 20;
-				else if (field < 3000) r = 25;
-				else if (field < 3500) r = 30;
-				else if (field < 4000) r = 40;
-				else if (isNaN(field)) r = 0;
-				else r = 50;
-				return r
-			}
 
 			function getColor(i){
 				var color
@@ -552,7 +510,7 @@ function getColor4(i){
 					color: getColorUSStrike(feature.properties.case),
 					fillColor: getColorUS(feature.properties.case),
 					weight: 0.2,
-					radius: getR_US(feature.properties.case)
+					radius: getR(feature.properties.case)
 				}
 			},
 			pointToLayer: function(geoJsonPoint, latlng) {
@@ -568,7 +526,7 @@ function getColor4(i){
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng);
-					$("#paneltext").html('<p>美国县级数据更新于3月21日<br>US County data updated: March 21.<br>美国、欧洲和英国的圆圈比例不同。<br>US, Europe and UK data are drawn in different scales.</p>');
+					$("#paneltext").html('<p>美国县级数据更新于3月21日<br>US County data updated: March 21.</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.county+', '
 									+feature.properties.state +'<br>'
@@ -583,7 +541,7 @@ function getColor4(i){
 					color: "red",
 					fillColor: getColorUS(feature.properties.case),
 					weight: 0.2,
-					radius: getR_US(feature.properties.case)
+					radius: getR(feature.properties.case)
 				}
 			},
 			pointToLayer: function(geoJsonPoint, latlng) {
@@ -599,7 +557,7 @@ function getColor4(i){
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng);
-					$("#paneltext").html('<p>英格兰数据更新于3月21日<br>England data updated: March 21.<br>美国、欧洲和英国的圆圈比例不同。<br>US, Europe and UK data are drawn in different scales.</p>');
+					$("#paneltext").html('<p>英格兰数据更新于3月21日<br>England data updated: March 21.</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.county+', UK'
 									+'</h3><p>确诊/Confirmed: '
@@ -613,7 +571,7 @@ function getColor4(i){
 					color: "red",
 					fillColor: "yellow",
 					weight: 0.2,
-					radius: getR_EU(feature.properties.case)
+					radius: getR(feature.properties.case)
 				}
 			},
 			pointToLayer: function(geoJsonPoint, latlng) {
@@ -629,7 +587,7 @@ function getColor4(i){
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng);
-					$("#paneltext").html('<p>欧洲数据更新于3月21日<br>European data updated: March 21.<br>美国、欧洲和英国的圆圈比例不同。<br>US, Europe and UK data are drawn in different scales.</p>');
+					$("#paneltext").html('<p>欧洲数据更新于3月21日<br>European data updated: March 21.</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.state+' '
 									+feature.properties.region+', '
