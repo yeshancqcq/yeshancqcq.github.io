@@ -278,7 +278,8 @@ box-shadow: none;
 			function getR(i){
 				var r
 				var field = i
-				r = Math.log10(field)*5 + 3
+				if (field == null) r = NaN;
+				else r = Math.log10(field)*5 + 3
 				return r
 			}
 
@@ -302,6 +303,7 @@ box-shadow: none;
 				var color
 				var field = i
 				if (field == 0) color = "none";
+				else if (field == null) color = "none";
 				else color="yellow";
 				return color
 			}
@@ -309,6 +311,7 @@ box-shadow: none;
 				var color
 				var field = i
 				if (field == 0) color = "none";
+				else if (field == null) color = "none";
 				else color="red";
 				return color
 			}

@@ -27259,7 +27259,7 @@
     "state":"KS",
     "county":"Seward",
     "FIPS":20175,
-    "case":null
+    "case":1
     }
   },
   {
@@ -42950,7 +42950,7 @@
     "state":"AK",
     "county":"Fairbanks North Star",
     "FIPS":2090,
-    "case":null
+    "case":7
     }
   },
   {
@@ -42976,7 +42976,7 @@
     "state":"AK",
     "county":"Matanuska-Susitna",
     "FIPS":2170,
-    "case":null
+    "case":1
     }
   },
   {
@@ -42989,7 +42989,7 @@
     "state":"AK",
     "county":"Anchorage",
     "FIPS":2020,
-    "case":null
+    "case":13
     }
   },
   {
@@ -43015,7 +43015,7 @@
     "state":"AK",
     "county":"Kenai Peninsula",
     "FIPS":2122,
-    "case":null
+    "case":3
     }
   },
   {
@@ -43119,7 +43119,7 @@
     "state":"AK",
     "county":"Juneau",
     "FIPS":2110,
-    "case":null
+    "case":1
     }
   },
   {
@@ -43145,7 +43145,7 @@
     "state":"AK",
     "county":"Ketchikan Gateway",
     "FIPS":2130,
-    "case":null
+    "case":2
     }
   },
   {
