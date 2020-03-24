@@ -141,7 +141,7 @@
     "state":"AK",
     "county":"Matanuska-Susitna",
     "FIPS":2170,
-    "case":null
+    "case":2
     }
   },
   {
@@ -154,7 +154,7 @@
     "state":"AK",
     "county":"Anchorage",
     "FIPS":2020,
-    "case":6
+    "case":17
     }
   },
   {
@@ -284,7 +284,7 @@
     "state":"AK",
     "county":"Juneau",
     "FIPS":2110,
-    "case":null
+    "case":1
     }
   },
   {
@@ -505,7 +505,7 @@
     "state":"AL",
     "county":"Franklin",
     "FIPS":1059,
-    "case":null
+    "case":1
     }
   },
   {
@@ -557,7 +557,7 @@
     "state":"AL",
     "county":"Houston",
     "FIPS":1069,
-    "case":null
+    "case":1
     }
   },
   {
@@ -570,7 +570,7 @@
     "state":"AL",
     "county":"Jefferson",
     "FIPS":1073,
-    "case":71
+    "case":86
     }
   },
   {
@@ -596,7 +596,7 @@
     "state":"AL",
     "county":"Lauderdale",
     "FIPS":1077,
-    "case":2
+    "case":3
     }
   },
   {
@@ -622,7 +622,7 @@
     "state":"AL",
     "county":"Lee",
     "FIPS":1081,
-    "case":16
+    "case":19
     }
   },
   {
@@ -674,7 +674,7 @@
     "state":"AL",
     "county":"Madison",
     "FIPS":1089,
-    "case":16
+    "case":21
     }
   },
   {
@@ -739,7 +739,7 @@
     "state":"AL",
     "county":"Montgomery",
     "FIPS":1101,
-    "case":3
+    "case":4
     }
   },
   {
@@ -765,7 +765,7 @@
     "state":"AL",
     "county":"Calhoun",
     "FIPS":1015,
-    "case":1
+    "case":2
     }
   },
   {
@@ -1064,7 +1064,7 @@
     "state":"AL",
     "county":"Shelby",
     "FIPS":1117,
-    "case":17
+    "case":22
     }
   },
   {
@@ -1103,7 +1103,7 @@
     "state":"AL",
     "county":"Tallapoosa",
     "FIPS":1123,
-    "case":null
+    "case":1
     }
   },
   {
@@ -1116,7 +1116,7 @@
     "state":"AL",
     "county":"Tuscaloosa",
     "FIPS":1125,
-    "case":7
+    "case":9
     }
   },
   {
@@ -1129,7 +1129,7 @@
     "state":"AL",
     "county":"Walker",
     "FIPS":1127,
-    "case":1
+    "case":3
     }
   },
   {
@@ -1233,7 +1233,7 @@
     "state":"AL",
     "county":"Baldwin",
     "FIPS":1003,
-    "case":2
+    "case":3
     }
   },
   {
@@ -1363,7 +1363,7 @@
     "state":"AR",
     "county":"Clark",
     "FIPS":5019,
-    "case":2
+    "case":7
     }
   },
   {
@@ -1389,7 +1389,7 @@
     "state":"AR",
     "county":"Cleburne",
     "FIPS":5023,
-    "case":25
+    "case":28
     }
   },
   {
@@ -1415,7 +1415,7 @@
     "state":"AR",
     "county":"Columbia",
     "FIPS":5027,
-    "case":1
+    "case":2
     }
   },
   {
@@ -1428,7 +1428,7 @@
     "state":"AR",
     "county":"Conway",
     "FIPS":5029,
-    "case":1
+    "case":2
     }
   },
   {
@@ -1467,7 +1467,7 @@
     "state":"AR",
     "county":"Crittenden",
     "FIPS":5035,
-    "case":1
+    "case":2
     }
   },
   {
@@ -1532,7 +1532,7 @@
     "state":"AR",
     "county":"Faulkner",
     "FIPS":5045,
-    "case":7
+    "case":10
     }
   },
   {
@@ -1597,7 +1597,7 @@
     "state":"AR",
     "county":"Greene",
     "FIPS":5055,
-    "case":1
+    "case":2
     }
   },
   {
@@ -1688,7 +1688,7 @@
     "state":"AR",
     "county":"Jefferson",
     "FIPS":5069,
-    "case":20
+    "case":21
     }
   },
   {
@@ -1987,7 +1987,7 @@
     "state":"AR",
     "county":"Pope",
     "FIPS":5115,
-    "case":1
+    "case":2
     }
   },
   {
@@ -2013,7 +2013,7 @@
     "state":"AR",
     "county":"Pulaski",
     "FIPS":5119,
-    "case":52
+    "case":62
     }
   },
   {
@@ -2091,7 +2091,7 @@
     "state":"AR",
     "county":"Sebastian",
     "FIPS":5131,
-    "case":1
+    "case":2
     }
   },
   {
@@ -2104,7 +2104,7 @@
     "state":"AR",
     "county":"Sevier",
     "FIPS":5133,
-    "case":1
+    "case":2
     }
   },
   {
@@ -2143,7 +2143,7 @@
     "state":"AR",
     "county":"Union",
     "FIPS":5139,
-    "case":1
+    "case":2
     }
   },
   {
@@ -2195,7 +2195,7 @@
     "state":"AR",
     "county":"Woodruff",
     "FIPS":5147,
-    "case":1
+    "case":2
     }
   },
   {
@@ -2221,7 +2221,7 @@
     "state":"AR",
     "county":"Boone",
     "FIPS":5009,
-    "case":1
+    "case":2
     }
   },
   {
@@ -2338,7 +2338,7 @@
     "state":"AZ",
     "county":"Maricopa",
     "FIPS":4013,
-    "case":81
+    "case":139
     }
   },
   {
@@ -2364,7 +2364,7 @@
     "state":"AZ",
     "county":"Pima",
     "FIPS":4019,
-    "case":17
+    "case":24
     }
   },
   {
@@ -2377,7 +2377,7 @@
     "state":"AZ",
     "county":"Pinal",
     "FIPS":4021,
-    "case":16
+    "case":17
     }
   },
   {
@@ -2429,7 +2429,7 @@
     "state":"AZ",
     "county":"Coconino",
     "FIPS":4005,
-    "case":14
+    "case":17
     }
   },
   {
@@ -2442,7 +2442,7 @@
     "state":"AZ",
     "county":"Navajo",
     "FIPS":4017,
-    "case":13
+    "case":25
     }
   },
   {
@@ -2455,7 +2455,7 @@
     "state":"AZ",
     "county":"Apache",
     "FIPS":4001,
-    "case":3
+    "case":4
     }
   },
   {
@@ -2624,7 +2624,7 @@
     "state":"CA",
     "county":"Stanislaus",
     "FIPS":6099,
-    "case":8
+    "case":10
     }
   },
   {
@@ -2637,7 +2637,7 @@
     "state":"CA",
     "county":"Yolo",
     "FIPS":6113,
-    "case":6
+    "case":8
     }
   },
   {
@@ -2663,7 +2663,7 @@
     "state":"CA",
     "county":"Monterey",
     "FIPS":6053,
-    "case":5
+    "case":20
     }
   },
   {
@@ -2676,7 +2676,7 @@
     "state":"CA",
     "county":"Marin",
     "FIPS":6041,
-    "case":38
+    "case":47
     }
   },
   {
@@ -2715,7 +2715,7 @@
     "state":"CA",
     "county":"San Diego",
     "FIPS":6073,
-    "case":194
+    "case":230
     }
   },
   {
@@ -2728,7 +2728,7 @@
     "state":"CA",
     "county":"Riverside",
     "FIPS":6065,
-    "case":45
+    "case":47
     }
   },
   {
@@ -2754,7 +2754,7 @@
     "state":"CA",
     "county":"Fresno",
     "FIPS":6019,
-    "case":6
+    "case":13
     }
   },
   {
@@ -2767,7 +2767,7 @@
     "state":"CA",
     "county":"Los Angeles",
     "FIPS":6037,
-    "case":409
+    "case":536
     }
   },
   {
@@ -2780,7 +2780,7 @@
     "state":"CA",
     "county":"Ventura",
     "FIPS":6111,
-    "case":30
+    "case":35
     }
   },
   {
@@ -2793,7 +2793,7 @@
     "state":"CA",
     "county":"Kern",
     "FIPS":6029,
-    "case":5
+    "case":13
     }
   },
   {
@@ -2858,7 +2858,7 @@
     "state":"CA",
     "county":"Madera",
     "FIPS":6039,
-    "case":2
+    "case":5
     }
   },
   {
@@ -2871,7 +2871,7 @@
     "state":"CA",
     "county":"Tulare",
     "FIPS":6107,
-    "case":12
+    "case":16
     }
   },
   {
@@ -2884,7 +2884,7 @@
     "state":"CA",
     "county":"Nevada",
     "FIPS":6057,
-    "case":1
+    "case":3
     }
   },
   {
@@ -2936,7 +2936,7 @@
     "state":"CA",
     "county":"San Joaquin",
     "FIPS":6077,
-    "case":41
+    "case":51
     }
   },
   {
@@ -2949,7 +2949,7 @@
     "state":"CA",
     "county":"Sutter",
     "FIPS":6101,
-    "case":1
+    "case":3
     }
   },
   {
@@ -2975,7 +2975,7 @@
     "state":"CA",
     "county":"Siskiyou",
     "FIPS":6093,
-    "case":2
+    "case":3
     }
   },
   {
@@ -3027,7 +3027,7 @@
     "state":"CA",
     "county":"Santa Clara",
     "FIPS":6085,
-    "case":302
+    "case":321
     }
   },
   {
@@ -3040,7 +3040,7 @@
     "state":"CA",
     "county":"Alameda",
     "FIPS":6001,
-    "case":106
+    "case":122
     }
   },
   {
@@ -3053,7 +3053,7 @@
     "state":"CA",
     "county":"Napa",
     "FIPS":6055,
-    "case":1
+    "case":2
     }
   },
   {
@@ -3079,7 +3079,7 @@
     "state":"CA",
     "county":"Placer",
     "FIPS":6061,
-    "case":12
+    "case":20
     }
   },
   {
@@ -3131,7 +3131,7 @@
     "state":"CA",
     "county":"Shasta",
     "FIPS":6089,
-    "case":2
+    "case":3
     }
   },
   {
@@ -3170,7 +3170,7 @@
     "state":"CA",
     "county":"Butte",
     "FIPS":6007,
-    "case":2
+    "case":3
     }
   },
   {
@@ -3196,7 +3196,7 @@
     "state":"CA",
     "county":"Solano",
     "FIPS":6095,
-    "case":14
+    "case":21
     }
   },
   {
@@ -3209,7 +3209,7 @@
     "state":"CA",
     "county":"Contra Costa",
     "FIPS":6013,
-    "case":61
+    "case":71
     }
   },
   {
@@ -3222,7 +3222,7 @@
     "state":"CA",
     "county":"Santa Cruz",
     "FIPS":6087,
-    "case":15
+    "case":22
     }
   },
   {
@@ -3235,7 +3235,7 @@
     "state":"CA",
     "county":"Sonoma",
     "FIPS":6097,
-    "case":25
+    "case":29
     }
   },
   {
@@ -3261,7 +3261,7 @@
     "state":"CA",
     "county":"San Mateo",
     "FIPS":6081,
-    "case":117
+    "case":142
     }
   },
   {
@@ -3274,7 +3274,7 @@
     "state":"CA",
     "county":"San Francisco",
     "FIPS":6075,
-    "case":108
+    "case":131
     }
   },
   {
@@ -3287,7 +3287,7 @@
     "state":"CA",
     "county":"San Luis Obispo",
     "FIPS":6079,
-    "case":27
+    "case":33
     }
   },
   {
@@ -3300,7 +3300,7 @@
     "state":"CA",
     "county":"Sacramento",
     "FIPS":6067,
-    "case":53
+    "case":88
     }
   },
   {
@@ -3326,7 +3326,7 @@
     "state":"CA",
     "county":"Orange",
     "FIPS":6059,
-    "case":95
+    "case":125
     }
   },
   {
@@ -3404,7 +3404,7 @@
     "state":"CO",
     "county":"Logan",
     "FIPS":8075,
-    "case":null
+    "case":2
     }
   },
   {
@@ -3417,7 +3417,7 @@
     "state":"CO",
     "county":"Morgan",
     "FIPS":8087,
-    "case":2
+    "case":3
     }
   },
   {
@@ -3521,7 +3521,7 @@
     "state":"CO",
     "county":"Denver",
     "FIPS":8031,
-    "case":125
+    "case":148
     }
   },
   {
@@ -3560,7 +3560,7 @@
     "state":"CO",
     "county":"Gunnison",
     "FIPS":8051,
-    "case":22
+    "case":28
     }
   },
   {
@@ -3573,7 +3573,7 @@
     "state":"CO",
     "county":"Arapahoe",
     "FIPS":8005,
-    "case":45
+    "case":58
     }
   },
   {
@@ -3586,7 +3586,7 @@
     "state":"CO",
     "county":"Weld",
     "FIPS":8123,
-    "case":37
+    "case":50
     }
   },
   {
@@ -3638,7 +3638,7 @@
     "state":"CO",
     "county":"Adams",
     "FIPS":8001,
-    "case":18
+    "case":25
     }
   },
   {
@@ -3677,7 +3677,7 @@
     "state":"CO",
     "county":"Jefferson",
     "FIPS":8059,
-    "case":51
+    "case":55
     }
   },
   {
@@ -3755,7 +3755,7 @@
     "state":"CO",
     "county":"Eagle",
     "FIPS":8037,
-    "case":80
+    "case":92
     }
   },
   {
@@ -3807,7 +3807,7 @@
     "state":"CO",
     "county":"Summit",
     "FIPS":8117,
-    "case":7
+    "case":8
     }
   },
   {
@@ -3833,7 +3833,7 @@
     "state":"CO",
     "county":"Larimer",
     "FIPS":8069,
-    "case":32
+    "case":34
     }
   },
   {
@@ -3859,7 +3859,7 @@
     "state":"CO",
     "county":"Douglas",
     "FIPS":8035,
-    "case":33
+    "case":48
     }
   },
   {
@@ -3885,7 +3885,7 @@
     "state":"CO",
     "county":"Boulder",
     "FIPS":8013,
-    "case":37
+    "case":39
     }
   },
   {
@@ -3898,7 +3898,7 @@
     "state":"CO",
     "county":"Teller",
     "FIPS":8119,
-    "case":null
+    "case":3
     }
   },
   {
@@ -4054,7 +4054,7 @@
     "state":"CO",
     "county":"El Paso",
     "FIPS":8041,
-    "case":51
+    "case":69
     }
   },
   {
@@ -4093,7 +4093,7 @@
     "state":"CO",
     "county":"Broomfield",
     "FIPS":8014,
-    "case":1
+    "case":2
     }
   },
   {
@@ -4158,7 +4158,7 @@
     "state":"CO",
     "county":"Pitkin",
     "FIPS":8097,
-    "case":16
+    "case":18
     }
   },
   {
@@ -4171,7 +4171,7 @@
     "state":"CT",
     "county":"Hartford",
     "FIPS":9003,
-    "case":54
+    "case":61
     }
   },
   {
@@ -4184,7 +4184,7 @@
     "state":"CT",
     "county":"Tolland",
     "FIPS":9013,
-    "case":14
+    "case":16
     }
   },
   {
@@ -4197,7 +4197,7 @@
     "state":"CT",
     "county":"Windham",
     "FIPS":9015,
-    "case":1
+    "case":2
     }
   },
   {
@@ -4210,7 +4210,7 @@
     "state":"CT",
     "county":"New Haven",
     "FIPS":9009,
-    "case":29
+    "case":41
     }
   },
   {
@@ -4223,7 +4223,7 @@
     "state":"CT",
     "county":"Litchfield",
     "FIPS":9005,
-    "case":12
+    "case":13
     }
   },
   {
@@ -4236,7 +4236,7 @@
     "state":"CT",
     "county":"New London",
     "FIPS":9011,
-    "case":3
+    "case":4
     }
   },
   {
@@ -4249,7 +4249,7 @@
     "state":"CT",
     "county":"Middlesex",
     "FIPS":9007,
-    "case":6
+    "case":8
     }
   },
   {
@@ -4262,7 +4262,7 @@
     "state":"CT",
     "county":"Fairfield",
     "FIPS":9001,
-    "case":208
+    "case":270
     }
   },
   {
@@ -4275,7 +4275,7 @@
     "state":"DC",
     "county":"District of Columbia",
     "FIPS":11001,
-    "case":116
+    "case":137
     }
   },
   {
@@ -4288,7 +4288,7 @@
     "state":"DE",
     "county":"New Castle",
     "FIPS":10003,
-    "case":39
+    "case":58
     }
   },
   {
@@ -4301,7 +4301,7 @@
     "state":"DE",
     "county":"Kent",
     "FIPS":10001,
-    "case":5
+    "case":9
     }
   },
   {
@@ -4314,7 +4314,7 @@
     "state":"DE",
     "county":"Sussex",
     "FIPS":10005,
-    "case":12
+    "case":20
     }
   },
   {
@@ -4340,7 +4340,7 @@
     "state":"FL",
     "county":"St. Lucie",
     "FIPS":12111,
-    "case":3
+    "case":5
     }
   },
   {
@@ -4379,7 +4379,7 @@
     "state":"FL",
     "county":"Highlands",
     "FIPS":12055,
-    "case":1
+    "case":2
     }
   },
   {
@@ -4392,7 +4392,7 @@
     "state":"FL",
     "county":"Osceola",
     "FIPS":12097,
-    "case":24
+    "case":25
     }
   },
   {
@@ -4405,7 +4405,7 @@
     "state":"FL",
     "county":"Polk",
     "FIPS":12105,
-    "case":11
+    "case":13
     }
   },
   {
@@ -4418,7 +4418,7 @@
     "state":"FL",
     "county":"Indian River",
     "FIPS":12061,
-    "case":8
+    "case":10
     }
   },
   {
@@ -4457,7 +4457,7 @@
     "state":"FL",
     "county":"Martin",
     "FIPS":12085,
-    "case":2
+    "case":4
     }
   },
   {
@@ -4470,7 +4470,7 @@
     "state":"FL",
     "county":"Mainland Monroe",
     "FIPS":12087,
-    "case":1
+    "case":2
     }
   },
   {
@@ -4483,7 +4483,7 @@
     "state":"FL",
     "county":"Pinellas",
     "FIPS":12103,
-    "case":38
+    "case":41
     }
   },
   {
@@ -4496,7 +4496,7 @@
     "state":"FL",
     "county":"Sarasota",
     "FIPS":12115,
-    "case":17
+    "case":21
     }
   },
   {
@@ -4509,7 +4509,7 @@
     "state":"FL",
     "county":"Sarasota",
     "FIPS":12115,
-    "case":17
+    "case":21
     }
   },
   {
@@ -4522,7 +4522,7 @@
     "state":"FL",
     "county":"Broward",
     "FIPS":12011,
-    "case":217
+    "case":263
     }
   },
   {
@@ -4535,7 +4535,7 @@
     "state":"FL",
     "county":"Collier",
     "FIPS":12021,
-    "case":33
+    "case":39
     }
   },
   {
@@ -4548,7 +4548,7 @@
     "state":"FL",
     "county":"Miami-Dade",
     "FIPS":12086,
-    "case":227
+    "case":278
     }
   },
   {
@@ -4561,7 +4561,7 @@
     "state":"FL",
     "county":"Palm Beach",
     "FIPS":12099,
-    "case":72
+    "case":89
     }
   },
   {
@@ -4574,7 +4574,7 @@
     "state":"FL",
     "county":"Clay",
     "FIPS":12019,
-    "case":7
+    "case":8
     }
   },
   {
@@ -4613,7 +4613,7 @@
     "state":"FL",
     "county":"Baker",
     "FIPS":12003,
-    "case":2
+    "case":3
     }
   },
   {
@@ -4626,7 +4626,7 @@
     "state":"FL",
     "county":"Alachua",
     "FIPS":12001,
-    "case":35
+    "case":36
     }
   },
   {
@@ -4665,7 +4665,7 @@
     "state":"FL",
     "county":"St. Johns",
     "FIPS":12109,
-    "case":16
+    "case":18
     }
   },
   {
@@ -4717,7 +4717,7 @@
     "state":"FL",
     "county":"Leon",
     "FIPS":12073,
-    "case":5
+    "case":6
     }
   },
   {
@@ -4769,7 +4769,7 @@
     "state":"FL",
     "county":"Marion",
     "FIPS":12083,
-    "case":3
+    "case":4
     }
   },
   {
@@ -4808,7 +4808,7 @@
     "state":"FL",
     "county":"Flagler",
     "FIPS":12035,
-    "case":1
+    "case":3
     }
   },
   {
@@ -4873,7 +4873,7 @@
     "state":"FL",
     "county":"Escambia",
     "FIPS":12033,
-    "case":4
+    "case":9
     }
   },
   {
@@ -4925,7 +4925,7 @@
     "state":"FL",
     "county":"Duval",
     "FIPS":12031,
-    "case":39
+    "case":50
     }
   },
   {
@@ -4938,7 +4938,7 @@
     "state":"FL",
     "county":"Nassau",
     "FIPS":12089,
-    "case":2
+    "case":1
     }
   },
   {
@@ -4951,7 +4951,7 @@
     "state":"FL",
     "county":"Walton",
     "FIPS":12131,
-    "case":4
+    "case":9
     }
   },
   {
@@ -4964,7 +4964,7 @@
     "state":"FL",
     "county":"Seminole",
     "FIPS":12117,
-    "case":19
+    "case":22
     }
   },
   {
@@ -4977,7 +4977,7 @@
     "state":"FL",
     "county":"Orange",
     "FIPS":12095,
-    "case":33
+    "case":48
     }
   },
   {
@@ -4990,7 +4990,7 @@
     "state":"FL",
     "county":"Sumter",
     "FIPS":12119,
-    "case":4
+    "case":8
     }
   },
   {
@@ -5003,7 +5003,7 @@
     "state":"FL",
     "county":"Lake",
     "FIPS":12069,
-    "case":6
+    "case":9
     }
   },
   {
@@ -5029,7 +5029,7 @@
     "state":"FL",
     "county":"Volusia",
     "FIPS":12127,
-    "case":14
+    "case":16
     }
   },
   {
@@ -5042,7 +5042,7 @@
     "state":"FL",
     "county":"Lee",
     "FIPS":12071,
-    "case":26
+    "case":30
     }
   },
   {
@@ -5055,7 +5055,7 @@
     "state":"FL",
     "county":"Lee",
     "FIPS":12071,
-    "case":26
+    "case":30
     }
   },
   {
@@ -5068,7 +5068,7 @@
     "state":"FL",
     "county":"Charlotte",
     "FIPS":12015,
-    "case":2
+    "case":3
     }
   },
   {
@@ -5081,7 +5081,7 @@
     "state":"FL",
     "county":"Charlotte",
     "FIPS":12015,
-    "case":2
+    "case":3
     }
   },
   {
@@ -5094,7 +5094,7 @@
     "state":"FL",
     "county":"Lower Keys in Monroe",
     "FIPS":12087,
-    "case":1
+    "case":2
     }
   },
   {
@@ -5107,7 +5107,7 @@
     "state":"FL",
     "county":"Middle Keys in Monroe",
     "FIPS":12087,
-    "case":1
+    "case":2
     }
   },
   {
@@ -5120,7 +5120,7 @@
     "state":"FL",
     "county":"Upper Keys in Monroe",
     "FIPS":12087,
-    "case":1
+    "case":2
     }
   },
   {
@@ -5159,7 +5159,7 @@
     "state":"FL",
     "county":"Walton",
     "FIPS":12131,
-    "case":4
+    "case":9
     }
   },
   {
@@ -5172,7 +5172,7 @@
     "state":"FL",
     "county":"Pinellas",
     "FIPS":12103,
-    "case":38
+    "case":41
     }
   },
   {
@@ -5263,7 +5263,7 @@
     "state":"FL",
     "county":"Citrus",
     "FIPS":12017,
-    "case":8
+    "case":9
     }
   },
   {
@@ -5276,7 +5276,7 @@
     "state":"FL",
     "county":"Citrus",
     "FIPS":12017,
-    "case":8
+    "case":9
     }
   },
   {
@@ -5289,7 +5289,7 @@
     "state":"FL",
     "county":"Hernando",
     "FIPS":12053,
-    "case":6
+    "case":5
     }
   },
   {
@@ -5302,7 +5302,7 @@
     "state":"FL",
     "county":"Pasco",
     "FIPS":12101,
-    "case":11
+    "case":14
     }
   },
   {
@@ -5315,7 +5315,7 @@
     "state":"FL",
     "county":"Manatee",
     "FIPS":12081,
-    "case":13
+    "case":15
     }
   },
   {
@@ -5328,7 +5328,7 @@
     "state":"FL",
     "county":"Manatee",
     "FIPS":12081,
-    "case":13
+    "case":15
     }
   },
   {
@@ -5341,7 +5341,7 @@
     "state":"FL",
     "county":"Hillsborough",
     "FIPS":12057,
-    "case":58
+    "case":75
     }
   },
   {
@@ -5354,7 +5354,7 @@
     "state":"FL",
     "county":"Hillsborough",
     "FIPS":12057,
-    "case":58
+    "case":75
     }
   },
   {
@@ -5419,7 +5419,7 @@
     "state":"GA",
     "county":"Liberty",
     "FIPS":13179,
-    "case":null
+    "case":1
     }
   },
   {
@@ -5523,7 +5523,7 @@
     "state":"GA",
     "county":"Washington",
     "FIPS":13303,
-    "case":null
+    "case":1
     }
   },
   {
@@ -5796,7 +5796,7 @@
     "state":"GA",
     "county":"Spalding",
     "FIPS":13255,
-    "case":2
+    "case":4
     }
   },
   {
@@ -5835,7 +5835,7 @@
     "state":"GA",
     "county":"Rockdale",
     "FIPS":13247,
-    "case":2
+    "case":5
     }
   },
   {
@@ -5848,7 +5848,7 @@
     "state":"GA",
     "county":"Richmond",
     "FIPS":13245,
-    "case":10
+    "case":11
     }
   },
   {
@@ -5939,7 +5939,7 @@
     "state":"GA",
     "county":"Pierce",
     "FIPS":13229,
-    "case":null
+    "case":1
     }
   },
   {
@@ -5952,7 +5952,7 @@
     "state":"GA",
     "county":"Pickens",
     "FIPS":13227,
-    "case":2
+    "case":3
     }
   },
   {
@@ -5978,7 +5978,7 @@
     "state":"GA",
     "county":"Paulding",
     "FIPS":13223,
-    "case":4
+    "case":5
     }
   },
   {
@@ -6004,7 +6004,7 @@
     "state":"GA",
     "county":"Oconee",
     "FIPS":13219,
-    "case":2
+    "case":3
     }
   },
   {
@@ -6069,7 +6069,7 @@
     "state":"GA",
     "county":"Dougherty",
     "FIPS":13095,
-    "case":52
+    "case":69
     }
   },
   {
@@ -6082,7 +6082,7 @@
     "state":"GA",
     "county":"Douglas",
     "FIPS":13097,
-    "case":4
+    "case":7
     }
   },
   {
@@ -6160,7 +6160,7 @@
     "state":"GA",
     "county":"Fayette",
     "FIPS":13113,
-    "case":9
+    "case":11
     }
   },
   {
@@ -6173,7 +6173,7 @@
     "state":"GA",
     "county":"Floyd",
     "FIPS":13115,
-    "case":9
+    "case":10
     }
   },
   {
@@ -6186,7 +6186,7 @@
     "state":"GA",
     "county":"Forsyth",
     "FIPS":13117,
-    "case":5
+    "case":7
     }
   },
   {
@@ -6238,7 +6238,7 @@
     "state":"GA",
     "county":"Gordon",
     "FIPS":13129,
-    "case":4
+    "case":6
     }
   },
   {
@@ -6277,7 +6277,7 @@
     "state":"GA",
     "county":"Gwinnett",
     "FIPS":13135,
-    "case":27
+    "case":35
     }
   },
   {
@@ -6303,7 +6303,7 @@
     "state":"GA",
     "county":"Hall",
     "FIPS":13139,
-    "case":9
+    "case":10
     }
   },
   {
@@ -6342,7 +6342,7 @@
     "state":"GA",
     "county":"Harris",
     "FIPS":13145,
-    "case":null
+    "case":1
     }
   },
   {
@@ -6381,7 +6381,7 @@
     "state":"GA",
     "county":"Henry",
     "FIPS":13151,
-    "case":7
+    "case":9
     }
   },
   {
@@ -6433,7 +6433,7 @@
     "state":"GA",
     "county":"Clayton",
     "FIPS":13063,
-    "case":13
+    "case":19
     }
   },
   {
@@ -6472,7 +6472,7 @@
     "state":"GA",
     "county":"Morgan",
     "FIPS":13211,
-    "case":null
+    "case":0
     }
   },
   {
@@ -6563,7 +6563,7 @@
     "state":"GA",
     "county":"Madison",
     "FIPS":13195,
-    "case":null
+    "case":1
     }
   },
   {
@@ -6589,7 +6589,7 @@
     "state":"GA",
     "county":"Lumpkin",
     "FIPS":13187,
-    "case":1
+    "case":2
     }
   },
   {
@@ -6771,7 +6771,7 @@
     "state":"GA",
     "county":"Lee",
     "FIPS":13177,
-    "case":16
+    "case":19
     }
   },
   {
@@ -6901,7 +6901,7 @@
     "state":"GA",
     "county":"Bartow",
     "FIPS":13015,
-    "case":56
+    "case":61
     }
   },
   {
@@ -6940,7 +6940,7 @@
     "state":"GA",
     "county":"Bibb",
     "FIPS":13021,
-    "case":1
+    "case":2
     }
   },
   {
@@ -6992,7 +6992,7 @@
     "state":"GA",
     "county":"Burke",
     "FIPS":13033,
-    "case":null
+    "case":1
     }
   },
   {
@@ -7044,7 +7044,7 @@
     "state":"GA",
     "county":"Carroll",
     "FIPS":13045,
-    "case":16
+    "case":21
     }
   },
   {
@@ -7057,7 +7057,7 @@
     "state":"GA",
     "county":"Catoosa",
     "FIPS":13047,
-    "case":null
+    "case":1
     }
   },
   {
@@ -7096,7 +7096,7 @@
     "state":"GA",
     "county":"Cherokee",
     "FIPS":13057,
-    "case":18
+    "case":24
     }
   },
   {
@@ -7109,7 +7109,7 @@
     "state":"GA",
     "county":"Clarke",
     "FIPS":13059,
-    "case":null
+    "case":14
     }
   },
   {
@@ -7122,7 +7122,7 @@
     "state":"GA",
     "county":"Worth",
     "FIPS":13321,
-    "case":2
+    "case":3
     }
   },
   {
@@ -7148,7 +7148,7 @@
     "state":"GA",
     "county":"Cobb",
     "FIPS":13067,
-    "case":67
+    "case":79
     }
   },
   {
@@ -7278,7 +7278,7 @@
     "state":"GA",
     "county":"DeKalb",
     "FIPS":13089,
-    "case":53
+    "case":74
     }
   },
   {
@@ -7382,7 +7382,7 @@
     "state":"GA",
     "county":"Clay",
     "FIPS":13061,
-    "case":10
+    "case":null
     }
   },
   {
@@ -7395,7 +7395,7 @@
     "state":"GA",
     "county":"Liberty",
     "FIPS":13179,
-    "case":null
+    "case":1
     }
   },
   {
@@ -7408,7 +7408,7 @@
     "state":"GA",
     "county":"Fulton",
     "FIPS":13121,
-    "case":111
+    "case":152
     }
   },
   {
@@ -7642,7 +7642,7 @@
     "state":"HI",
     "county":"Kahoolawe in Maui",
     "FIPS":15009,
-    "case":9
+    "case":11
     }
   },
   {
@@ -7655,7 +7655,7 @@
     "state":"HI",
     "county":"Lanai in Maui",
     "FIPS":15009,
-    "case":9
+    "case":11
     }
   },
   {
@@ -7668,7 +7668,7 @@
     "state":"HI",
     "county":"Maui in Maui",
     "FIPS":15009,
-    "case":9
+    "case":11
     }
   },
   {
@@ -7681,7 +7681,7 @@
     "state":"HI",
     "county":"Molokai in Maui",
     "FIPS":15009,
-    "case":9
+    "case":11
     }
   },
   {
@@ -7694,7 +7694,7 @@
     "state":"HI",
     "county":"Hawaii in Hawaii",
     "FIPS":15001,
-    "case":3
+    "case":5
     }
   },
   {
@@ -7707,7 +7707,7 @@
     "state":"HI",
     "county":"Oahu in Honolulu",
     "FIPS":15003,
-    "case":41
+    "case":53
     }
   },
   {
@@ -7811,7 +7811,7 @@
     "state":"IA",
     "county":"Woodbury",
     "FIPS":19193,
-    "case":1
+    "case":2
     }
   },
   {
@@ -7941,7 +7941,7 @@
     "state":"IA",
     "county":"Polk",
     "FIPS":19153,
-    "case":10
+    "case":12
     }
   },
   {
@@ -8032,7 +8032,7 @@
     "state":"IA",
     "county":"Muscatine",
     "FIPS":19139,
-    "case":2
+    "case":3
     }
   },
   {
@@ -8201,7 +8201,7 @@
     "state":"IA",
     "county":"Linn",
     "FIPS":19113,
-    "case":4
+    "case":6
     }
   },
   {
@@ -8253,7 +8253,7 @@
     "state":"IA",
     "county":"Johnson",
     "FIPS":19103,
-    "case":32
+    "case":35
     }
   },
   {
@@ -8331,7 +8331,7 @@
     "state":"IA",
     "county":"Wapello",
     "FIPS":19179,
-    "case":null
+    "case":1
     }
   },
   {
@@ -8526,7 +8526,7 @@
     "state":"IA",
     "county":"Hancock",
     "FIPS":19081,
-    "case":null
+    "case":2
     }
   },
   {
@@ -8656,7 +8656,7 @@
     "state":"IA",
     "county":"Dubuque",
     "FIPS":19061,
-    "case":4
+    "case":6
     }
   },
   {
@@ -8734,7 +8734,7 @@
     "state":"IA",
     "county":"Allamakee",
     "FIPS":19005,
-    "case":5
+    "case":6
     }
   },
   {
@@ -9020,7 +9020,7 @@
     "state":"ID",
     "county":"Ada",
     "FIPS":16001,
-    "case":13
+    "case":15
     }
   },
   {
@@ -9072,7 +9072,7 @@
     "state":"ID",
     "county":"Canyon",
     "FIPS":16027,
-    "case":1
+    "case":4
     }
   },
   {
@@ -9280,7 +9280,7 @@
     "state":"ID",
     "county":"Bingham",
     "FIPS":16011,
-    "case":3
+    "case":1
     }
   },
   {
@@ -9644,7 +9644,7 @@
     "state":"IL",
     "county":"Kane",
     "FIPS":17089,
-    "case":13
+    "case":18
     }
   },
   {
@@ -9670,7 +9670,7 @@
     "state":"IL",
     "county":"Kendall",
     "FIPS":17093,
-    "case":2
+    "case":4
     }
   },
   {
@@ -10190,7 +10190,7 @@
     "state":"IL",
     "county":"DuPage",
     "FIPS":17043,
-    "case":79
+    "case":95
     }
   },
   {
@@ -10502,7 +10502,7 @@
     "state":"IL",
     "county":"St. Clair",
     "FIPS":17163,
-    "case":3
+    "case":4
     }
   },
   {
@@ -10723,7 +10723,7 @@
     "state":"IL",
     "county":"Will",
     "FIPS":17197,
-    "case":21
+    "case":24
     }
   },
   {
@@ -10866,7 +10866,7 @@
     "state":"IL",
     "county":"Lake",
     "FIPS":17097,
-    "case":69
+    "case":96
     }
   },
   {
@@ -10879,7 +10879,7 @@
     "state":"IL",
     "county":"Cook",
     "FIPS":17031,
-    "case":805
+    "case":922
     }
   },
   {
@@ -10931,7 +10931,7 @@
     "state":"IN",
     "county":"Tipton",
     "FIPS":18159,
-    "case":1
+    "case":2
     }
   },
   {
@@ -11048,7 +11048,7 @@
     "state":"IN",
     "county":"St. Joseph",
     "FIPS":18141,
-    "case":8
+    "case":9
     }
   },
   {
@@ -11074,7 +11074,7 @@
     "state":"IN",
     "county":"Washington",
     "FIPS":18175,
-    "case":1
+    "case":2
     }
   },
   {
@@ -11191,7 +11191,7 @@
     "state":"IN",
     "county":"Owen",
     "FIPS":18119,
-    "case":1
+    "case":2
     }
   },
   {
@@ -11256,7 +11256,7 @@
     "state":"IN",
     "county":"Morgan",
     "FIPS":18109,
-    "case":1
+    "case":3
     }
   },
   {
@@ -11282,7 +11282,7 @@
     "state":"IN",
     "county":"Monroe",
     "FIPS":18105,
-    "case":1
+    "case":3
     }
   },
   {
@@ -11386,7 +11386,7 @@
     "state":"IN",
     "county":"Marion",
     "FIPS":18097,
-    "case":82
+    "case":110
     }
   },
   {
@@ -11399,7 +11399,7 @@
     "state":"IN",
     "county":"Madison",
     "FIPS":18095,
-    "case":2
+    "case":3
     }
   },
   {
@@ -11464,7 +11464,7 @@
     "state":"IN",
     "county":"Johnson",
     "FIPS":18081,
-    "case":12
+    "case":14
     }
   },
   {
@@ -11477,7 +11477,7 @@
     "state":"IN",
     "county":"Jennings",
     "FIPS":18079,
-    "case":1
+    "case":2
     }
   },
   {
@@ -11568,7 +11568,7 @@
     "state":"IN",
     "county":"Hendricks",
     "FIPS":18063,
-    "case":8
+    "case":12
     }
   },
   {
@@ -11594,7 +11594,7 @@
     "state":"IN",
     "county":"Hancock",
     "FIPS":18059,
-    "case":2
+    "case":3
     }
   },
   {
@@ -11607,7 +11607,7 @@
     "state":"IN",
     "county":"Hamilton",
     "FIPS":18057,
-    "case":18
+    "case":21
     }
   },
   {
@@ -11633,7 +11633,7 @@
     "state":"IN",
     "county":"Grant",
     "FIPS":18053,
-    "case":2
+    "case":3
     }
   },
   {
@@ -11698,7 +11698,7 @@
     "state":"IN",
     "county":"Floyd",
     "FIPS":18043,
-    "case":3
+    "case":4
     }
   },
   {
@@ -11724,7 +11724,7 @@
     "state":"IN",
     "county":"Allen",
     "FIPS":18003,
-    "case":4
+    "case":6
     }
   },
   {
@@ -11828,7 +11828,7 @@
     "state":"IN",
     "county":"Clark",
     "FIPS":18019,
-    "case":4
+    "case":5
     }
   },
   {
@@ -11932,7 +11932,7 @@
     "state":"IN",
     "county":"Delaware",
     "FIPS":18035,
-    "case":2
+    "case":3
     }
   },
   {
@@ -11958,7 +11958,7 @@
     "state":"IN",
     "county":"Elkhart",
     "FIPS":18039,
-    "case":1
+    "case":4
     }
   },
   {
@@ -12062,7 +12062,7 @@
     "state":"IN",
     "county":"Lake",
     "FIPS":18089,
-    "case":10
+    "case":11
     }
   },
   {
@@ -12413,7 +12413,7 @@
     "state":"KS",
     "county":"Riley",
     "FIPS":20161,
-    "case":1
+    "case":0
     }
   },
   {
@@ -12452,7 +12452,7 @@
     "state":"KS",
     "county":"Reno",
     "FIPS":20155,
-    "case":1
+    "case":2
     }
   },
   {
@@ -12491,7 +12491,7 @@
     "state":"KS",
     "county":"Pottawatomie",
     "FIPS":20149,
-    "case":null
+    "case":1
     }
   },
   {
@@ -12660,7 +12660,7 @@
     "state":"KS",
     "county":"Mitchell",
     "FIPS":20123,
-    "case":1
+    "case":2
     }
   },
   {
@@ -12738,7 +12738,7 @@
     "state":"KS",
     "county":"Lyon",
     "FIPS":20111,
-    "case":null
+    "case":2
     }
   },
   {
@@ -12764,7 +12764,7 @@
     "state":"KS",
     "county":"Linn",
     "FIPS":20107,
-    "case":1
+    "case":2
     }
   },
   {
@@ -12790,7 +12790,7 @@
     "state":"KS",
     "county":"Leavenworth",
     "FIPS":20103,
-    "case":4
+    "case":5
     }
   },
   {
@@ -12868,7 +12868,7 @@
     "state":"KS",
     "county":"Johnson",
     "FIPS":20091,
-    "case":28
+    "case":32
     }
   },
   {
@@ -13024,7 +13024,7 @@
     "state":"KS",
     "county":"Wyandotte",
     "FIPS":20209,
-    "case":14
+    "case":16
     }
   },
   {
@@ -13102,7 +13102,7 @@
     "state":"KS",
     "county":"Bourbon",
     "FIPS":20011,
-    "case":null
+    "case":1
     }
   },
   {
@@ -13167,7 +13167,7 @@
     "state":"KS",
     "county":"Cherokee",
     "FIPS":20021,
-    "case":1
+    "case":2
     }
   },
   {
@@ -13323,7 +13323,7 @@
     "state":"KS",
     "county":"Douglas",
     "FIPS":20045,
-    "case":4
+    "case":8
     }
   },
   {
@@ -13882,7 +13882,7 @@
     "state":"KY",
     "county":"Spencer",
     "FIPS":21215,
-    "case":1
+    "case":2
     }
   },
   {
@@ -13960,7 +13960,7 @@
     "state":"KY",
     "county":"Warren",
     "FIPS":21227,
-    "case":1
+    "case":2
     }
   },
   {
@@ -14168,7 +14168,7 @@
     "state":"KY",
     "county":"Boone",
     "FIPS":21015,
-    "case":null
+    "case":1
     }
   },
   {
@@ -14233,7 +14233,7 @@
     "state":"KY",
     "county":"Breathitt",
     "FIPS":21025,
-    "case":1
+    "case":2
     }
   },
   {
@@ -14311,7 +14311,7 @@
     "state":"KY",
     "county":"Campbell",
     "FIPS":21037,
-    "case":null
+    "case":1
     }
   },
   {
@@ -14454,7 +14454,7 @@
     "state":"KY",
     "county":"Daviess",
     "FIPS":21059,
-    "case":1
+    "case":11
     }
   },
   {
@@ -14506,7 +14506,7 @@
     "state":"KY",
     "county":"Fayette",
     "FIPS":21067,
-    "case":7
+    "case":16
     }
   },
   {
@@ -14688,7 +14688,7 @@
     "state":"KY",
     "county":"Harrison",
     "FIPS":21097,
-    "case":7
+    "case":15
     }
   },
   {
@@ -14727,7 +14727,7 @@
     "state":"KY",
     "county":"Henderson",
     "FIPS":21101,
-    "case":1
+    "case":2
     }
   },
   {
@@ -14779,7 +14779,7 @@
     "state":"KY",
     "county":"Jefferson",
     "FIPS":21111,
-    "case":17
+    "case":28
     }
   },
   {
@@ -14818,7 +14818,7 @@
     "state":"KY",
     "county":"Kenton",
     "FIPS":21117,
-    "case":1
+    "case":8
     }
   },
   {
@@ -15078,7 +15078,7 @@
     "state":"LA",
     "county":"St. James",
     "FIPS":22093,
-    "case":1
+    "case":8
     }
   },
   {
@@ -15104,7 +15104,7 @@
     "state":"LA",
     "county":"Richland",
     "FIPS":22083,
-    "case":null
+    "case":2
     }
   },
   {
@@ -15130,7 +15130,7 @@
     "state":"LA",
     "county":"Rapides",
     "FIPS":22079,
-    "case":3
+    "case":8
     }
   },
   {
@@ -15143,7 +15143,7 @@
     "state":"LA",
     "county":"Ouachita",
     "FIPS":22073,
-    "case":4
+    "case":9
     }
   },
   {
@@ -15156,7 +15156,7 @@
     "state":"LA",
     "county":"Natchitoches",
     "FIPS":22069,
-    "case":null
+    "case":2
     }
   },
   {
@@ -15182,7 +15182,7 @@
     "state":"LA",
     "county":"Lincoln",
     "FIPS":22061,
-    "case":null
+    "case":2
     }
   },
   {
@@ -15208,7 +15208,7 @@
     "state":"LA",
     "county":"Lafayette",
     "FIPS":22055,
-    "case":6
+    "case":9
     }
   },
   {
@@ -15234,7 +15234,7 @@
     "state":"LA",
     "county":"Grant",
     "FIPS":22043,
-    "case":null
+    "case":1
     }
   },
   {
@@ -15286,7 +15286,7 @@
     "state":"LA",
     "county":"De Soto",
     "FIPS":22031,
-    "case":2
+    "case":5
     }
   },
   {
@@ -15312,7 +15312,7 @@
     "state":"LA",
     "county":"Claiborne",
     "FIPS":22027,
-    "case":1
+    "case":2
     }
   },
   {
@@ -15351,7 +15351,7 @@
     "state":"LA",
     "county":"Caddo",
     "FIPS":22017,
-    "case":16
+    "case":34
     }
   },
   {
@@ -15364,7 +15364,7 @@
     "state":"LA",
     "county":"Bossier",
     "FIPS":22015,
-    "case":5
+    "case":7
     }
   },
   {
@@ -15390,7 +15390,7 @@
     "state":"LA",
     "county":"Beauregard",
     "FIPS":22011,
-    "case":1
+    "case":5
     }
   },
   {
@@ -15403,7 +15403,7 @@
     "state":"LA",
     "county":"Ascension",
     "FIPS":22005,
-    "case":17
+    "case":26
     }
   },
   {
@@ -15416,7 +15416,7 @@
     "state":"LA",
     "county":"Allen",
     "FIPS":22003,
-    "case":null
+    "case":2
     }
   },
   {
@@ -15455,7 +15455,7 @@
     "state":"LA",
     "county":"St. John The Baptist",
     "FIPS":22095,
-    "case":10
+    "case":16
     }
   },
   {
@@ -15468,7 +15468,7 @@
     "state":"LA",
     "county":"Webster",
     "FIPS":22119,
-    "case":1
+    "case":3
     }
   },
   {
@@ -15481,7 +15481,7 @@
     "state":"LA",
     "county":"West Baton Rouge",
     "FIPS":22121,
-    "case":3
+    "case":4
     }
   },
   {
@@ -15533,7 +15533,7 @@
     "state":"LA",
     "county":"St. Charles",
     "FIPS":22089,
-    "case":8
+    "case":15
     }
   },
   {
@@ -15585,7 +15585,7 @@
     "state":"LA",
     "county":"East Baton Rouge",
     "FIPS":22033,
-    "case":20
+    "case":43
     }
   },
   {
@@ -15611,7 +15611,7 @@
     "state":"LA",
     "county":"Livingston",
     "FIPS":22063,
-    "case":2
+    "case":5
     }
   },
   {
@@ -15663,7 +15663,7 @@
     "state":"LA",
     "county":"Iberville",
     "FIPS":22047,
-    "case":2
+    "case":10
     }
   },
   {
@@ -15689,7 +15689,7 @@
     "state":"LA",
     "county":"Iberia",
     "FIPS":22045,
-    "case":2
+    "case":3
     }
   },
   {
@@ -15702,7 +15702,7 @@
     "state":"LA",
     "county":"St. Tammany",
     "FIPS":22103,
-    "case":25
+    "case":47
     }
   },
   {
@@ -15715,7 +15715,7 @@
     "state":"LA",
     "county":"Orleans",
     "FIPS":22071,
-    "case":451
+    "case":567
     }
   },
   {
@@ -15728,7 +15728,7 @@
     "state":"LA",
     "county":"Lafourche",
     "FIPS":22057,
-    "case":12
+    "case":15
     }
   },
   {
@@ -15741,7 +15741,7 @@
     "state":"LA",
     "county":"Jefferson",
     "FIPS":22051,
-    "case":184
+    "case":252
     }
   },
   {
@@ -15754,7 +15754,7 @@
     "state":"LA",
     "county":"Plaquemines",
     "FIPS":22075,
-    "case":5
+    "case":8
     }
   },
   {
@@ -15793,7 +15793,7 @@
     "state":"LA",
     "county":"Terrebonne",
     "FIPS":22109,
-    "case":12
+    "case":14
     }
   },
   {
@@ -15832,7 +15832,7 @@
     "state":"LA",
     "county":"St. Bernard",
     "FIPS":22087,
-    "case":13
+    "case":15
     }
   },
   {
@@ -15884,7 +15884,7 @@
     "state":"MA",
     "county":"Middlesex",
     "FIPS":25017,
-    "case":199
+    "case":232
     }
   },
   {
@@ -15897,7 +15897,7 @@
     "state":"MA",
     "county":"Worcester",
     "FIPS":25027,
-    "case":37
+    "case":42
     }
   },
   {
@@ -15910,7 +15910,7 @@
     "state":"MA",
     "county":"Berkshire",
     "FIPS":25003,
-    "case":23
+    "case":26
     }
   },
   {
@@ -15936,7 +15936,7 @@
     "state":"MA",
     "county":"Hampshire",
     "FIPS":25015,
-    "case":4
+    "case":6
     }
   },
   {
@@ -15949,7 +15949,7 @@
     "state":"MA",
     "county":"Norfolk",
     "FIPS":25021,
-    "case":75
+    "case":82
     }
   },
   {
@@ -15962,7 +15962,7 @@
     "state":"MA",
     "county":"Essex",
     "FIPS":25009,
-    "case":60
+    "case":73
     }
   },
   {
@@ -15975,7 +15975,7 @@
     "state":"MA",
     "county":"Plymouth",
     "FIPS":25023,
-    "case":25
+    "case":32
     }
   },
   {
@@ -15988,7 +15988,7 @@
     "state":"MA",
     "county":"Hampden",
     "FIPS":25013,
-    "case":12
+    "case":15
     }
   },
   {
@@ -16001,7 +16001,7 @@
     "state":"MA",
     "county":"Suffolk",
     "FIPS":25025,
-    "case":126
+    "case":154
     }
   },
   {
@@ -16014,7 +16014,7 @@
     "state":"MA",
     "county":"Barnstable",
     "FIPS":25001,
-    "case":24
+    "case":30
     }
   },
   {
@@ -16027,7 +16027,7 @@
     "state":"MA",
     "county":"Bristol",
     "FIPS":25005,
-    "case":24
+    "case":25
     }
   },
   {
@@ -16040,7 +16040,7 @@
     "state":"MD",
     "county":"Garrett",
     "FIPS":24023,
-    "case":null
+    "case":3
     }
   },
   {
@@ -16053,7 +16053,7 @@
     "state":"MD",
     "county":"Carroll",
     "FIPS":24013,
-    "case":4
+    "case":5
     }
   },
   {
@@ -16066,7 +16066,7 @@
     "state":"MD",
     "county":"Howard",
     "FIPS":24027,
-    "case":24
+    "case":26
     }
   },
   {
@@ -16118,7 +16118,7 @@
     "state":"MD",
     "county":"Baltimore City",
     "FIPS":24510,
-    "case":24
+    "case":31
     }
   },
   {
@@ -16157,7 +16157,7 @@
     "state":"MD",
     "county":"Anne Arundel",
     "FIPS":24003,
-    "case":18
+    "case":20
     }
   },
   {
@@ -16209,7 +16209,7 @@
     "state":"MD",
     "county":"Baltimore City",
     "FIPS":24510,
-    "case":24
+    "case":31
     }
   },
   {
@@ -16222,7 +16222,7 @@
     "state":"MD",
     "county":"Prince Georges",
     "FIPS":24033,
-    "case":40
+    "case":47
     }
   },
   {
@@ -16287,7 +16287,7 @@
     "state":"MD",
     "county":"Queen Anne's",
     "FIPS":24035,
-    "case":null
+    "case":1
     }
   },
   {
@@ -16300,7 +16300,7 @@
     "state":"MD",
     "county":"Frederick",
     "FIPS":24021,
-    "case":1
+    "case":2
     }
   },
   {
@@ -16313,7 +16313,7 @@
     "state":"MD",
     "county":"Montgomery",
     "FIPS":24031,
-    "case":83
+    "case":93
     }
   },
   {
@@ -16352,7 +16352,7 @@
     "state":"MD",
     "county":"Baltimore",
     "FIPS":24005,
-    "case":28
+    "case":35
     }
   },
   {
@@ -16365,7 +16365,7 @@
     "state":"MD",
     "county":"Prince Georges",
     "FIPS":24033,
-    "case":40
+    "case":47
     }
   },
   {
@@ -16378,7 +16378,7 @@
     "state":"MD",
     "county":"Baltimore",
     "FIPS":24005,
-    "case":28
+    "case":35
     }
   },
   {
@@ -16391,7 +16391,7 @@
     "state":"MD",
     "county":"Anne Arundel",
     "FIPS":24003,
-    "case":18
+    "case":20
     }
   },
   {
@@ -16456,7 +16456,7 @@
     "state":"MD",
     "county":"Wicomico",
     "FIPS":24045,
-    "case":2
+    "case":4
     }
   },
   {
@@ -16482,7 +16482,7 @@
     "state":"MD",
     "county":"Wicomico",
     "FIPS":24045,
-    "case":2
+    "case":4
     }
   },
   {
@@ -16547,7 +16547,7 @@
     "state":"MD",
     "county":"Queen Anne's",
     "FIPS":24035,
-    "case":null
+    "case":1
     }
   },
   {
@@ -16586,7 +16586,7 @@
     "state":"ME",
     "county":"Knox",
     "FIPS":23013,
-    "case":0
+    "case":1
     }
   },
   {
@@ -16612,7 +16612,7 @@
     "state":"ME",
     "county":"Lincoln",
     "FIPS":23015,
-    "case":4
+    "case":5
     }
   },
   {
@@ -16664,7 +16664,7 @@
     "state":"ME",
     "county":"Oxford",
     "FIPS":23017,
-    "case":4
+    "case":5
     }
   },
   {
@@ -16677,7 +16677,7 @@
     "state":"ME",
     "county":"Penobscot",
     "FIPS":23019,
-    "case":2
+    "case":3
     }
   },
   {
@@ -16690,7 +16690,7 @@
     "state":"ME",
     "county":"York",
     "FIPS":23031,
-    "case":8
+    "case":12
     }
   },
   {
@@ -16703,7 +16703,7 @@
     "state":"ME",
     "county":"Cumberland",
     "FIPS":23005,
-    "case":53
+    "case":66
     }
   },
   {
@@ -16820,7 +16820,7 @@
     "state":"MI",
     "county":"Washtenaw",
     "FIPS":26161,
-    "case":35
+    "case":42
     }
   },
   {
@@ -16898,7 +16898,7 @@
     "state":"MI",
     "county":"Calhoun",
     "FIPS":26025,
-    "case":2
+    "case":3
     }
   },
   {
@@ -16989,7 +16989,7 @@
     "state":"MI",
     "county":"Genesee",
     "FIPS":26049,
-    "case":14
+    "case":23
     }
   },
   {
@@ -17041,7 +17041,7 @@
     "state":"MI",
     "county":"Ingham",
     "FIPS":26065,
-    "case":11
+    "case":12
     }
   },
   {
@@ -17106,7 +17106,7 @@
     "state":"MI",
     "county":"Kalamazoo",
     "FIPS":26077,
-    "case":null
+    "case":3
     }
   },
   {
@@ -17132,7 +17132,7 @@
     "state":"MI",
     "county":"Kent",
     "FIPS":26081,
-    "case":20
+    "case":28
     }
   },
   {
@@ -17184,7 +17184,7 @@
     "state":"MI",
     "county":"Livingston",
     "FIPS":26093,
-    "case":8
+    "case":9
     }
   },
   {
@@ -17275,7 +17275,7 @@
     "state":"MI",
     "county":"Newaygo",
     "FIPS":26123,
-    "case":null
+    "case":1
     }
   },
   {
@@ -17288,7 +17288,7 @@
     "state":"MI",
     "county":"Oakland",
     "FIPS":26125,
-    "case":277
+    "case":329
     }
   },
   {
@@ -17340,7 +17340,7 @@
     "state":"MI",
     "county":"Otsego",
     "FIPS":26137,
-    "case":1
+    "case":3
     }
   },
   {
@@ -17366,7 +17366,7 @@
     "state":"MI",
     "county":"Berrien",
     "FIPS":26021,
-    "case":3
+    "case":5
     }
   },
   {
@@ -17431,7 +17431,7 @@
     "state":"MI",
     "county":"Macomb",
     "FIPS":26099,
-    "case":140
+    "case":175
     }
   },
   {
@@ -17470,7 +17470,7 @@
     "state":"MI",
     "county":"Monroe",
     "FIPS":26115,
-    "case":6
+    "case":7
     }
   },
   {
@@ -17483,7 +17483,7 @@
     "state":"MI",
     "county":"Wayne",
     "FIPS":26163,
-    "case":477
+    "case":638
     }
   },
   {
@@ -17548,7 +17548,7 @@
     "state":"MI",
     "county":"Muskegon",
     "FIPS":26121,
-    "case":null
+    "case":1
     }
   },
   {
@@ -17561,7 +17561,7 @@
     "state":"MI",
     "county":"Muskegon",
     "FIPS":26121,
-    "case":null
+    "case":1
     }
   },
   {
@@ -17574,7 +17574,7 @@
     "state":"MI",
     "county":"Ottawa",
     "FIPS":26139,
-    "case":6
+    "case":11
     }
   },
   {
@@ -17587,7 +17587,7 @@
     "state":"MI",
     "county":"Ottawa",
     "FIPS":26139,
-    "case":6
+    "case":11
     }
   },
   {
@@ -17886,7 +17886,7 @@
     "state":"MI",
     "county":"Chippewa",
     "FIPS":26033,
-    "case":null
+    "case":1
     }
   },
   {
@@ -17912,7 +17912,7 @@
     "state":"MN",
     "county":"Lac qui Parle",
     "FIPS":27073,
-    "case":null
+    "case":1
     }
   },
   {
@@ -17925,7 +17925,7 @@
     "state":"MN",
     "county":"Anoka",
     "FIPS":27003,
-    "case":5
+    "case":7
     }
   },
   {
@@ -17964,7 +17964,7 @@
     "state":"MN",
     "county":"St. Louis",
     "FIPS":27137,
-    "case":1
+    "case":2
     }
   },
   {
@@ -17977,7 +17977,7 @@
     "state":"MN",
     "county":"Carver",
     "FIPS":27019,
-    "case":7
+    "case":8
     }
   },
   {
@@ -18042,7 +18042,7 @@
     "state":"MN",
     "county":"Dakota",
     "FIPS":27037,
-    "case":11
+    "case":18
     }
   },
   {
@@ -18094,7 +18094,7 @@
     "state":"MN",
     "county":"Fillmore",
     "FIPS":27045,
-    "case":2
+    "case":5
     }
   },
   {
@@ -18146,7 +18146,7 @@
     "state":"MN",
     "county":"Hennepin",
     "FIPS":27053,
-    "case":57
+    "case":89
     }
   },
   {
@@ -18432,7 +18432,7 @@
     "state":"MN",
     "county":"Olmsted",
     "FIPS":27109,
-    "case":14
+    "case":16
     }
   },
   {
@@ -18497,7 +18497,7 @@
     "state":"MN",
     "county":"Ramsey",
     "FIPS":27123,
-    "case":18
+    "case":24
     }
   },
   {
@@ -18549,7 +18549,7 @@
     "state":"MN",
     "county":"Rice",
     "FIPS":27131,
-    "case":1
+    "case":2
     }
   },
   {
@@ -18588,7 +18588,7 @@
     "state":"MN",
     "county":"Scott",
     "FIPS":27139,
-    "case":3
+    "case":5
     }
   },
   {
@@ -18601,7 +18601,7 @@
     "state":"MN",
     "county":"Sherburne",
     "FIPS":27141,
-    "case":null
+    "case":1
     }
   },
   {
@@ -18627,7 +18627,7 @@
     "state":"MN",
     "county":"Stearns",
     "FIPS":27145,
-    "case":4
+    "case":5
     }
   },
   {
@@ -18731,7 +18731,7 @@
     "state":"MN",
     "county":"Waseca",
     "FIPS":27161,
-    "case":1
+    "case":2
     }
   },
   {
@@ -18744,7 +18744,7 @@
     "state":"MN",
     "county":"Washington",
     "FIPS":27163,
-    "case":7
+    "case":10
     }
   },
   {
@@ -18809,7 +18809,7 @@
     "state":"MN",
     "county":"Big Stone",
     "FIPS":27011,
-    "case":null
+    "case":1
     }
   },
   {
@@ -18822,7 +18822,7 @@
     "state":"MN",
     "county":"Blue Earth",
     "FIPS":27013,
-    "case":4
+    "case":5
     }
   },
   {
@@ -18887,7 +18887,7 @@
     "state":"MN",
     "county":"Cass",
     "FIPS":27021,
-    "case":null
+    "case":1
     }
   },
   {
@@ -19082,7 +19082,7 @@
     "state":"MO",
     "county":"Boone",
     "FIPS":29019,
-    "case":10
+    "case":17
     }
   },
   {
@@ -19134,7 +19134,7 @@
     "state":"MO",
     "county":"Callaway",
     "FIPS":29027,
-    "case":null
+    "case":1
     }
   },
   {
@@ -19277,7 +19277,7 @@
     "state":"MO",
     "county":"Clinton",
     "FIPS":29049,
-    "case":null
+    "case":1
     }
   },
   {
@@ -19290,7 +19290,7 @@
     "state":"MO",
     "county":"Cole",
     "FIPS":29051,
-    "case":4
+    "case":5
     }
   },
   {
@@ -19433,7 +19433,7 @@
     "state":"MO",
     "county":"Greene",
     "FIPS":29077,
-    "case":14
+    "case":16
     }
   },
   {
@@ -19550,7 +19550,7 @@
     "state":"MO",
     "county":"Jackson",
     "FIPS":29095,
-    "case":19
+    "case":27
     }
   },
   {
@@ -19615,7 +19615,7 @@
     "state":"MO",
     "county":"Lafayette",
     "FIPS":29107,
-    "case":null
+    "case":1
     }
   },
   {
@@ -20109,7 +20109,7 @@
     "state":"MO",
     "county":"St. Charles",
     "FIPS":29183,
-    "case":2
+    "case":4
     }
   },
   {
@@ -20161,7 +20161,7 @@
     "state":"MO",
     "county":"St. Louis",
     "FIPS":29189,
-    "case":23
+    "case":69
     }
   },
   {
@@ -20291,7 +20291,7 @@
     "state":"MO",
     "county":"Taney",
     "FIPS":29213,
-    "case":null
+    "case":1
     }
   },
   {
@@ -20408,7 +20408,7 @@
     "state":"MO",
     "county":"St. Louis City",
     "FIPS":29510,
-    "case":10
+    "case":15
     }
   },
   {
@@ -20447,7 +20447,7 @@
     "state":"MO",
     "county":"Adair",
     "FIPS":29001,
-    "case":1
+    "case":2
     }
   },
   {
@@ -20564,7 +20564,7 @@
     "state":"MS",
     "county":"Adams",
     "FIPS":28001,
-    "case":1
+    "case":2
     }
   },
   {
@@ -20642,7 +20642,7 @@
     "state":"MS",
     "county":"Washington",
     "FIPS":28151,
-    "case":3
+    "case":4
     }
   },
   {
@@ -20720,7 +20720,7 @@
     "state":"MS",
     "county":"Tippah",
     "FIPS":28139,
-    "case":7
+    "case":9
     }
   },
   {
@@ -20746,7 +20746,7 @@
     "state":"MS",
     "county":"Tallahatchie",
     "FIPS":28135,
-    "case":null
+    "case":1
     }
   },
   {
@@ -20837,7 +20837,7 @@
     "state":"MS",
     "county":"Rankin",
     "FIPS":28121,
-    "case":7
+    "case":8
     }
   },
   {
@@ -20876,7 +20876,7 @@
     "state":"MS",
     "county":"Pontotoc",
     "FIPS":28115,
-    "case":null
+    "case":1
     }
   },
   {
@@ -20915,7 +20915,7 @@
     "state":"MS",
     "county":"Oktibbeha",
     "FIPS":28105,
-    "case":2
+    "case":5
     }
   },
   {
@@ -21006,7 +21006,7 @@
     "state":"MS",
     "county":"Marion",
     "FIPS":28091,
-    "case":null
+    "case":1
     }
   },
   {
@@ -21019,7 +21019,7 @@
     "state":"MS",
     "county":"Coahoma",
     "FIPS":28027,
-    "case":7
+    "case":8
     }
   },
   {
@@ -21084,7 +21084,7 @@
     "state":"MS",
     "county":"Chickasaw",
     "FIPS":28017,
-    "case":1
+    "case":3
     }
   },
   {
@@ -21123,7 +21123,7 @@
     "state":"MS",
     "county":"Bolivar",
     "FIPS":28011,
-    "case":3
+    "case":4
     }
   },
   {
@@ -21136,7 +21136,7 @@
     "state":"MS",
     "county":"Pearl River",
     "FIPS":28109,
-    "case":10
+    "case":12
     }
   },
   {
@@ -21175,7 +21175,7 @@
     "state":"MS",
     "county":"Madison",
     "FIPS":28089,
-    "case":9
+    "case":11
     }
   },
   {
@@ -21188,7 +21188,7 @@
     "state":"MS",
     "county":"Lowndes",
     "FIPS":28087,
-    "case":4
+    "case":6
     }
   },
   {
@@ -21214,7 +21214,7 @@
     "state":"MS",
     "county":"Leflore",
     "FIPS":28083,
-    "case":8
+    "case":9
     }
   },
   {
@@ -21227,7 +21227,7 @@
     "state":"MS",
     "county":"Lee",
     "FIPS":28081,
-    "case":6
+    "case":8
     }
   },
   {
@@ -21279,7 +21279,7 @@
     "state":"MS",
     "county":"Lamar",
     "FIPS":28073,
-    "case":null
+    "case":1
     }
   },
   {
@@ -21409,7 +21409,7 @@
     "state":"MS",
     "county":"Hinds",
     "FIPS":28049,
-    "case":20
+    "case":24
     }
   },
   {
@@ -21474,7 +21474,7 @@
     "state":"MS",
     "county":"DeSoto",
     "FIPS":28033,
-    "case":18
+    "case":23
     }
   },
   {
@@ -21526,7 +21526,7 @@
     "state":"MS",
     "county":"Jackson",
     "FIPS":28059,
-    "case":5
+    "case":7
     }
   },
   {
@@ -21539,7 +21539,7 @@
     "state":"MS",
     "county":"Harrison",
     "FIPS":28047,
-    "case":15
+    "case":21
     }
   },
   {
@@ -21552,7 +21552,7 @@
     "state":"MS",
     "county":"Pike",
     "FIPS":28113,
-    "case":3
+    "case":4
     }
   },
   {
@@ -21994,7 +21994,7 @@
     "state":"MT",
     "county":"Yellowstone",
     "FIPS":30111,
-    "case":6
+    "case":7
     }
   },
   {
@@ -22085,7 +22085,7 @@
     "state":"MT",
     "county":"Gallatin",
     "FIPS":30031,
-    "case":10
+    "case":16
     }
   },
   {
@@ -22098,7 +22098,7 @@
     "state":"MT",
     "county":"Missoula",
     "FIPS":30063,
-    "case":4
+    "case":6
     }
   },
   {
@@ -22189,7 +22189,7 @@
     "state":"MT",
     "county":"Flathead",
     "FIPS":30029,
-    "case":2
+    "case":4
     }
   },
   {
@@ -22332,7 +22332,7 @@
     "state":"NC",
     "county":"Alamance",
     "FIPS":37001,
-    "case":1
+    "case":3
     }
   },
   {
@@ -22592,7 +22592,7 @@
     "state":"NC",
     "county":"Franklin",
     "FIPS":37069,
-    "case":null
+    "case":4
     }
   },
   {
@@ -22605,7 +22605,7 @@
     "state":"NC",
     "county":"Gaston",
     "FIPS":37071,
-    "case":3
+    "case":4
     }
   },
   {
@@ -22774,7 +22774,7 @@
     "state":"NC",
     "county":"Mecklenburg",
     "FIPS":37119,
-    "case":66
+    "case":79
     }
   },
   {
@@ -22839,7 +22839,7 @@
     "state":"NC",
     "county":"Orange",
     "FIPS":37135,
-    "case":5
+    "case":6
     }
   },
   {
@@ -22878,7 +22878,7 @@
     "state":"NC",
     "county":"Randolph",
     "FIPS":37151,
-    "case":null
+    "case":1
     }
   },
   {
@@ -22904,7 +22904,7 @@
     "state":"NC",
     "county":"Robeson",
     "FIPS":37155,
-    "case":null
+    "case":1
     }
   },
   {
@@ -23008,7 +23008,7 @@
     "state":"NC",
     "county":"Union",
     "FIPS":37179,
-    "case":9
+    "case":12
     }
   },
   {
@@ -23021,7 +23021,7 @@
     "state":"NC",
     "county":"Vance",
     "FIPS":37181,
-    "case":null
+    "case":1
     }
   },
   {
@@ -23034,7 +23034,7 @@
     "state":"NC",
     "county":"Wake",
     "FIPS":37183,
-    "case":40
+    "case":46
     }
   },
   {
@@ -23112,7 +23112,7 @@
     "state":"NC",
     "county":"Nash",
     "FIPS":37127,
-    "case":null
+    "case":1
     }
   },
   {
@@ -23177,7 +23177,7 @@
     "state":"NC",
     "county":"Harnett",
     "FIPS":37085,
-    "case":8
+    "case":9
     }
   },
   {
@@ -23398,7 +23398,7 @@
     "state":"NC",
     "county":"New Hanover",
     "FIPS":37129,
-    "case":3
+    "case":4
     }
   },
   {
@@ -23424,7 +23424,7 @@
     "state":"NC",
     "county":"New Hanover",
     "FIPS":37129,
-    "case":3
+    "case":4
     }
   },
   {
@@ -23450,7 +23450,7 @@
     "state":"NC",
     "county":"Carteret",
     "FIPS":37031,
-    "case":2
+    "case":4
     }
   },
   {
@@ -24282,7 +24282,7 @@
     "state":"ND",
     "county":"Burleigh",
     "FIPS":38015,
-    "case":16
+    "case":17
     }
   },
   {
@@ -24425,7 +24425,7 @@
     "state":"ND",
     "county":"Walsh",
     "FIPS":38099,
-    "case":null
+    "case":1
     }
   },
   {
@@ -25153,7 +25153,7 @@
     "state":"NE",
     "county":"Madison",
     "FIPS":31119,
-    "case":null
+    "case":1
     }
   },
   {
@@ -25517,7 +25517,7 @@
     "state":"NE",
     "county":"Washington",
     "FIPS":31177,
-    "case":null
+    "case":2
     }
   },
   {
@@ -25660,7 +25660,7 @@
     "state":"NH",
     "county":"Belknap",
     "FIPS":33001,
-    "case":4
+    "case":7
     }
   },
   {
@@ -25686,7 +25686,7 @@
     "state":"NH",
     "county":"Strafford",
     "FIPS":33017,
-    "case":3
+    "case":4
     }
   },
   {
@@ -25699,7 +25699,7 @@
     "state":"NH",
     "county":"Merrimack",
     "FIPS":33013,
-    "case":4
+    "case":5
     }
   },
   {
@@ -25712,7 +25712,7 @@
     "state":"NH",
     "county":"Carroll",
     "FIPS":33003,
-    "case":6
+    "case":7
     }
   },
   {
@@ -25725,7 +25725,7 @@
     "state":"NH",
     "county":"Hillsborough",
     "FIPS":33011,
-    "case":16
+    "case":19
     }
   },
   {
@@ -25738,7 +25738,7 @@
     "state":"NH",
     "county":"Rockingham",
     "FIPS":33015,
-    "case":28
+    "case":38
     }
   },
   {
@@ -25764,7 +25764,7 @@
     "state":"NH",
     "county":"Grafton",
     "FIPS":33009,
-    "case":15
+    "case":20
     }
   },
   {
@@ -25777,7 +25777,7 @@
     "state":"NJ",
     "county":"Hudson",
     "FIPS":34017,
-    "case":126
+    "case":190
     }
   },
   {
@@ -25790,7 +25790,7 @@
     "state":"NJ",
     "county":"Essex",
     "FIPS":34013,
-    "case":172
+    "case":273
     }
   },
   {
@@ -25803,7 +25803,7 @@
     "state":"NJ",
     "county":"Hudson",
     "FIPS":34017,
-    "case":126
+    "case":190
     }
   },
   {
@@ -25816,7 +25816,7 @@
     "state":"NJ",
     "county":"Bergen",
     "FIPS":34003,
-    "case":457
+    "case":609
     }
   },
   {
@@ -25829,7 +25829,7 @@
     "state":"NJ",
     "county":"Union",
     "FIPS":34039,
-    "case":124
+    "case":189
     }
   },
   {
@@ -25842,7 +25842,7 @@
     "state":"NJ",
     "county":"Passaic",
     "FIPS":34031,
-    "case":95
+    "case":141
     }
   },
   {
@@ -25855,7 +25855,7 @@
     "state":"NJ",
     "county":"Union",
     "FIPS":34039,
-    "case":124
+    "case":189
     }
   },
   {
@@ -25868,7 +25868,7 @@
     "state":"NJ",
     "county":"Bergen",
     "FIPS":34003,
-    "case":457
+    "case":609
     }
   },
   {
@@ -25881,7 +25881,7 @@
     "state":"NJ",
     "county":"Essex",
     "FIPS":34013,
-    "case":172
+    "case":273
     }
   },
   {
@@ -25907,7 +25907,7 @@
     "state":"NJ",
     "county":"Monmouth",
     "FIPS":34025,
-    "case":158
+    "case":238
     }
   },
   {
@@ -25920,7 +25920,7 @@
     "state":"NJ",
     "county":"Atlantic",
     "FIPS":34001,
-    "case":5
+    "case":6
     }
   },
   {
@@ -25933,7 +25933,7 @@
     "state":"NJ",
     "county":"Ocean",
     "FIPS":34029,
-    "case":102
+    "case":144
     }
   },
   {
@@ -25972,7 +25972,7 @@
     "state":"NJ",
     "county":"Warren",
     "FIPS":34041,
-    "case":9
+    "case":12
     }
   },
   {
@@ -25985,7 +25985,7 @@
     "state":"NJ",
     "county":"Camden",
     "FIPS":34007,
-    "case":22
+    "case":33
     }
   },
   {
@@ -25998,7 +25998,7 @@
     "state":"NJ",
     "county":"Hunterdon",
     "FIPS":34019,
-    "case":16
+    "case":21
     }
   },
   {
@@ -26011,7 +26011,7 @@
     "state":"NJ",
     "county":"Mercer",
     "FIPS":34021,
-    "case":40
+    "case":50
     }
   },
   {
@@ -26024,7 +26024,7 @@
     "state":"NJ",
     "county":"Morris",
     "FIPS":34027,
-    "case":119
+    "case":177
     }
   },
   {
@@ -26037,7 +26037,7 @@
     "state":"NJ",
     "county":"Somerset",
     "FIPS":34035,
-    "case":51
+    "case":67
     }
   },
   {
@@ -26050,7 +26050,7 @@
     "state":"NJ",
     "county":"Sussex",
     "FIPS":34037,
-    "case":12
+    "case":15
     }
   },
   {
@@ -26063,7 +26063,7 @@
     "state":"NJ",
     "county":"Gloucester",
     "FIPS":34015,
-    "case":8
+    "case":13
     }
   },
   {
@@ -26076,7 +26076,7 @@
     "state":"NJ",
     "county":"Middlesex",
     "FIPS":34023,
-    "case":147
+    "case":210
     }
   },
   {
@@ -26089,7 +26089,7 @@
     "state":"NJ",
     "county":"Burlington",
     "FIPS":34005,
-    "case":26
+    "case":40
     }
   },
   {
@@ -26128,7 +26128,7 @@
     "state":"NM",
     "county":"Santa Fe",
     "FIPS":35049,
-    "case":10
+    "case":12
     }
   },
   {
@@ -26193,7 +26193,7 @@
     "state":"NM",
     "county":"Bernalillo",
     "FIPS":35001,
-    "case":34
+    "case":38
     }
   },
   {
@@ -26232,7 +26232,7 @@
     "state":"NM",
     "county":"San Juan",
     "FIPS":35045,
-    "case":1
+    "case":3
     }
   },
   {
@@ -26401,7 +26401,7 @@
     "state":"NM",
     "county":"Chaves",
     "FIPS":35005,
-    "case":null
+    "case":4
     }
   },
   {
@@ -26505,7 +26505,7 @@
     "state":"NM",
     "county":"Dona Ana",
     "FIPS":35013,
-    "case":4
+    "case":10
     }
   },
   {
@@ -26609,7 +26609,7 @@
     "state":"NV",
     "county":"Elko",
     "FIPS":32007,
-    "case":null
+    "case":2
     }
   },
   {
@@ -26635,7 +26635,7 @@
     "state":"NV",
     "county":"Clark",
     "FIPS":32003,
-    "case":126
+    "case":151
     }
   },
   {
@@ -26648,7 +26648,7 @@
     "state":"NV",
     "county":"Douglas",
     "FIPS":32005,
-    "case":null
+    "case":1
     }
   },
   {
@@ -26778,7 +26778,7 @@
     "state":"NY",
     "county":"Broome",
     "FIPS":36007,
-    "case":3
+    "case":7
     }
   },
   {
@@ -26830,7 +26830,7 @@
     "state":"NY",
     "county":"Cortland",
     "FIPS":36023,
-    "case":1
+    "case":2
     }
   },
   {
@@ -26895,7 +26895,7 @@
     "state":"NY",
     "county":"Livingston",
     "FIPS":36051,
-    "case":2
+    "case":3
     }
   },
   {
@@ -26908,7 +26908,7 @@
     "state":"NY",
     "county":"Madison",
     "FIPS":36053,
-    "case":1
+    "case":4
     }
   },
   {
@@ -26934,7 +26934,7 @@
     "state":"NY",
     "county":"Onondaga",
     "FIPS":36067,
-    "case":29
+    "case":52
     }
   },
   {
@@ -26960,7 +26960,7 @@
     "state":"NY",
     "county":"Orange",
     "FIPS":36071,
-    "case":247
+    "case":389
     }
   },
   {
@@ -26973,7 +26973,7 @@
     "state":"NY",
     "county":"Otsego",
     "FIPS":36077,
-    "case":null
+    "case":1
     }
   },
   {
@@ -26986,7 +26986,7 @@
     "state":"NY",
     "county":"Putnam",
     "FIPS":36079,
-    "case":37
+    "case":45
     }
   },
   {
@@ -26999,7 +26999,7 @@
     "state":"NY",
     "county":"Rockland",
     "FIPS":36087,
-    "case":455
+    "case":592
     }
   },
   {
@@ -27051,7 +27051,7 @@
     "state":"NY",
     "county":"Steuben",
     "FIPS":36101,
-    "case":3
+    "case":4
     }
   },
   {
@@ -27064,7 +27064,7 @@
     "state":"NY",
     "county":"Sullivan",
     "FIPS":36105,
-    "case":16
+    "case":23
     }
   },
   {
@@ -27090,7 +27090,7 @@
     "state":"NY",
     "county":"Tompkins",
     "FIPS":36109,
-    "case":13
+    "case":15
     }
   },
   {
@@ -27103,7 +27103,7 @@
     "state":"NY",
     "county":"Wyoming",
     "FIPS":36121,
-    "case":2
+    "case":6
     }
   },
   {
@@ -27142,7 +27142,7 @@
     "state":"NY",
     "county":"Westchester",
     "FIPS":36119,
-    "case":1873
+    "case":2894
     }
   },
   {
@@ -27168,7 +27168,7 @@
     "state":"NY",
     "county":"New York",
     "FIPS":36061,
-    "case":9045
+    "case":12305
     }
   },
   {
@@ -27194,7 +27194,7 @@
     "state":"NY",
     "county":"Niagara",
     "FIPS":36063,
-    "case":6
+    "case":10
     }
   },
   {
@@ -27207,7 +27207,7 @@
     "state":"NY",
     "county":"Wayne",
     "FIPS":36117,
-    "case":3
+    "case":6
     }
   },
   {
@@ -27220,7 +27220,7 @@
     "state":"NY",
     "county":"Oswego",
     "FIPS":36075,
-    "case":null
+    "case":1
     }
   },
   {
@@ -27246,7 +27246,7 @@
     "state":"NY",
     "county":"Monroe",
     "FIPS":36055,
-    "case":42
+    "case":76
     }
   },
   {
@@ -27259,7 +27259,7 @@
     "state":"NY",
     "county":"Westchester",
     "FIPS":36119,
-    "case":1873
+    "case":2894
     }
   },
   {
@@ -27272,7 +27272,7 @@
     "state":"NY",
     "county":"Washington",
     "FIPS":36115,
-    "case":1
+    "case":3
     }
   },
   {
@@ -27285,7 +27285,7 @@
     "state":"NY",
     "county":"Warren",
     "FIPS":36113,
-    "case":1
+    "case":2
     }
   },
   {
@@ -27324,7 +27324,7 @@
     "state":"NY",
     "county":"Clinton",
     "FIPS":36019,
-    "case":4
+    "case":6
     }
   },
   {
@@ -27350,7 +27350,7 @@
     "state":"NY",
     "county":"Cayuga",
     "FIPS":36011,
-    "case":null
+    "case":2
     }
   },
   {
@@ -27363,7 +27363,7 @@
     "state":"NY",
     "county":"Oneida",
     "FIPS":36065,
-    "case":5
+    "case":7
     }
   },
   {
@@ -27389,7 +27389,7 @@
     "state":"NY",
     "county":"Schenectady",
     "FIPS":36093,
-    "case":39
+    "case":44
     }
   },
   {
@@ -27402,7 +27402,7 @@
     "state":"NY",
     "county":"Albany",
     "FIPS":36001,
-    "case":123
+    "case":127
     }
   },
   {
@@ -27415,7 +27415,7 @@
     "state":"NY",
     "county":"Greene",
     "FIPS":36039,
-    "case":2
+    "case":4
     }
   },
   {
@@ -27428,7 +27428,7 @@
     "state":"NY",
     "county":"Ulster",
     "FIPS":36111,
-    "case":26
+    "case":35
     }
   },
   {
@@ -27441,7 +27441,7 @@
     "state":"NY",
     "county":"Dutchess",
     "FIPS":36027,
-    "case":82
+    "case":100
     }
   },
   {
@@ -27454,7 +27454,7 @@
     "state":"NY",
     "county":"Columbia",
     "FIPS":36021,
-    "case":5
+    "case":10
     }
   },
   {
@@ -27467,7 +27467,7 @@
     "state":"NY",
     "county":"Rensselaer",
     "FIPS":36083,
-    "case":26
+    "case":29
     }
   },
   {
@@ -27480,7 +27480,7 @@
     "state":"NY",
     "county":"Saratoga",
     "FIPS":36091,
-    "case":41
+    "case":53
     }
   },
   {
@@ -27506,7 +27506,7 @@
     "state":"NY",
     "county":"Nassau",
     "FIPS":36059,
-    "case":1900
+    "case":2442
     }
   },
   {
@@ -27532,7 +27532,7 @@
     "state":"NY",
     "county":"Suffolk",
     "FIPS":36103,
-    "case":1034
+    "case":1458
     }
   },
   {
@@ -27584,7 +27584,7 @@
     "state":"NY",
     "county":"Jefferson",
     "FIPS":36045,
-    "case":1
+    "case":2
     }
   },
   {
@@ -27597,7 +27597,7 @@
     "state":"NY",
     "county":"Erie",
     "FIPS":36029,
-    "case":54
+    "case":87
     }
   },
   {
@@ -27610,7 +27610,7 @@
     "state":"NY",
     "county":"New York (Manhattan)",
     "FIPS":36061,
-    "case":9045
+    "case":12305
     }
   },
   {
@@ -27727,7 +27727,7 @@
     "state":"OH",
     "county":"Carroll",
     "FIPS":39019,
-    "case":1
+    "case":2
     }
   },
   {
@@ -27779,7 +27779,7 @@
     "state":"OH",
     "county":"Clinton",
     "FIPS":39027,
-    "case":null
+    "case":1
     }
   },
   {
@@ -27857,7 +27857,7 @@
     "state":"OH",
     "county":"Delaware",
     "FIPS":39041,
-    "case":6
+    "case":7
     }
   },
   {
@@ -27896,7 +27896,7 @@
     "state":"OH",
     "county":"Franklin",
     "FIPS":39049,
-    "case":34
+    "case":44
     }
   },
   {
@@ -27961,7 +27961,7 @@
     "state":"OH",
     "county":"Hamilton",
     "FIPS":39061,
-    "case":19
+    "case":26
     }
   },
   {
@@ -28091,7 +28091,7 @@
     "state":"OH",
     "county":"Knox",
     "FIPS":39083,
-    "case":null
+    "case":1
     }
   },
   {
@@ -28130,7 +28130,7 @@
     "state":"OH",
     "county":"Logan",
     "FIPS":39091,
-    "case":null
+    "case":1
     }
   },
   {
@@ -28143,7 +28143,7 @@
     "state":"OH",
     "county":"Lorain",
     "FIPS":39093,
-    "case":19
+    "case":24
     }
   },
   {
@@ -28156,7 +28156,7 @@
     "state":"OH",
     "county":"Madison",
     "FIPS":39097,
-    "case":null
+    "case":1
     }
   },
   {
@@ -28169,7 +28169,7 @@
     "state":"OH",
     "county":"Mahoning",
     "FIPS":39099,
-    "case":18
+    "case":23
     }
   },
   {
@@ -28182,7 +28182,7 @@
     "state":"OH",
     "county":"Marion",
     "FIPS":39101,
-    "case":1
+    "case":3
     }
   },
   {
@@ -28195,7 +28195,7 @@
     "state":"OH",
     "county":"Medina",
     "FIPS":39103,
-    "case":10
+    "case":15
     }
   },
   {
@@ -28234,7 +28234,7 @@
     "state":"OH",
     "county":"Miami",
     "FIPS":39109,
-    "case":13
+    "case":17
     }
   },
   {
@@ -28260,7 +28260,7 @@
     "state":"OH",
     "county":"Montgomery",
     "FIPS":39113,
-    "case":5
+    "case":7
     }
   },
   {
@@ -28377,7 +28377,7 @@
     "state":"OH",
     "county":"Portage",
     "FIPS":39133,
-    "case":1
+    "case":2
     }
   },
   {
@@ -28650,7 +28650,7 @@
     "state":"OH",
     "county":"Highland",
     "FIPS":39071,
-    "case":null
+    "case":1
     }
   },
   {
@@ -28663,7 +28663,7 @@
     "state":"OH",
     "county":"Lucas",
     "FIPS":39095,
-    "case":5
+    "case":9
     }
   },
   {
@@ -28702,7 +28702,7 @@
     "state":"OH",
     "county":"Lake",
     "FIPS":39085,
-    "case":6
+    "case":8
     }
   },
   {
@@ -28715,7 +28715,7 @@
     "state":"OH",
     "county":"Sandusky",
     "FIPS":39143,
-    "case":null
+    "case":1
     }
   },
   {
@@ -28728,7 +28728,7 @@
     "state":"OH",
     "county":"Ashtabula",
     "FIPS":39007,
-    "case":2
+    "case":3
     }
   },
   {
@@ -28741,7 +28741,7 @@
     "state":"OH",
     "county":"Cuyahoga",
     "FIPS":39035,
-    "case":125
+    "case":149
     }
   },
   {
@@ -28871,7 +28871,7 @@
     "state":"OK",
     "county":"Cleveland",
     "FIPS":40027,
-    "case":13
+    "case":16
     }
   },
   {
@@ -29157,7 +29157,7 @@
     "state":"OK",
     "county":"Kay",
     "FIPS":40071,
-    "case":4
+    "case":5
     }
   },
   {
@@ -29404,7 +29404,7 @@
     "state":"OK",
     "county":"Oklahoma",
     "FIPS":40109,
-    "case":26
+    "case":29
     }
   },
   {
@@ -29469,7 +29469,7 @@
     "state":"OK",
     "county":"Payne",
     "FIPS":40119,
-    "case":2
+    "case":3
     }
   },
   {
@@ -29495,7 +29495,7 @@
     "state":"OK",
     "county":"Pontotoc",
     "FIPS":40123,
-    "case":null
+    "case":1
     }
   },
   {
@@ -29625,7 +29625,7 @@
     "state":"OK",
     "county":"Tulsa",
     "FIPS":40143,
-    "case":6
+    "case":11
     }
   },
   {
@@ -29911,7 +29911,7 @@
     "state":"OR",
     "county":"Washington",
     "FIPS":41067,
-    "case":55
+    "case":69
     }
   },
   {
@@ -29937,7 +29937,7 @@
     "state":"OR",
     "county":"Marion",
     "FIPS":41047,
-    "case":22
+    "case":30
     }
   },
   {
@@ -29950,7 +29950,7 @@
     "state":"OR",
     "county":"Linn",
     "FIPS":41043,
-    "case":19
+    "case":20
     }
   },
   {
@@ -29976,7 +29976,7 @@
     "state":"OR",
     "county":"Polk",
     "FIPS":41053,
-    "case":1
+    "case":3
     }
   },
   {
@@ -30119,7 +30119,7 @@
     "state":"OR",
     "county":"Multnomah",
     "FIPS":41051,
-    "case":19
+    "case":21
     }
   },
   {
@@ -30132,7 +30132,7 @@
     "state":"OR",
     "county":"Clackamas",
     "FIPS":41005,
-    "case":12
+    "case":14
     }
   },
   {
@@ -30236,7 +30236,7 @@
     "state":"PA",
     "county":"Adams",
     "FIPS":42001,
-    "case":5
+    "case":6
     }
   },
   {
@@ -30249,7 +30249,7 @@
     "state":"PA",
     "county":"Allegheny",
     "FIPS":42003,
-    "case":40
+    "case":48
     }
   },
   {
@@ -30327,7 +30327,7 @@
     "state":"PA",
     "county":"Butler",
     "FIPS":42019,
-    "case":1
+    "case":5
     }
   },
   {
@@ -30340,7 +30340,7 @@
     "state":"PA",
     "county":"Cambria",
     "FIPS":42021,
-    "case":null
+    "case":1
     }
   },
   {
@@ -30418,7 +30418,7 @@
     "state":"PA",
     "county":"Cumberland",
     "FIPS":42041,
-    "case":11
+    "case":12
     }
   },
   {
@@ -30561,7 +30561,7 @@
     "state":"PA",
     "county":"Lackawanna",
     "FIPS":42069,
-    "case":6
+    "case":7
     }
   },
   {
@@ -30574,7 +30574,7 @@
     "state":"PA",
     "county":"Lancaster",
     "FIPS":42071,
-    "case":6
+    "case":5
     }
   },
   {
@@ -30613,7 +30613,7 @@
     "state":"PA",
     "county":"Luzerne",
     "FIPS":42079,
-    "case":7
+    "case":10
     }
   },
   {
@@ -30717,7 +30717,7 @@
     "state":"PA",
     "county":"Schuylkill",
     "FIPS":42107,
-    "case":1
+    "case":3
     }
   },
   {
@@ -30899,7 +30899,7 @@
     "state":"PA",
     "county":"Westmoreland",
     "FIPS":42129,
-    "case":4
+    "case":6
     }
   },
   {
@@ -30912,7 +30912,7 @@
     "state":"PA",
     "county":"Centre",
     "FIPS":42027,
-    "case":1
+    "case":3
     }
   },
   {
@@ -30938,7 +30938,7 @@
     "state":"PA",
     "county":"Wayne",
     "FIPS":42127,
-    "case":2
+    "case":3
     }
   },
   {
@@ -30951,7 +30951,7 @@
     "state":"PA",
     "county":"Erie",
     "FIPS":42049,
-    "case":2
+    "case":3
     }
   },
   {
@@ -30977,7 +30977,7 @@
     "state":"PA",
     "county":"Berks",
     "FIPS":42011,
-    "case":13
+    "case":14
     }
   },
   {
@@ -30990,7 +30990,7 @@
     "state":"PA",
     "county":"Bucks",
     "FIPS":42017,
-    "case":32
+    "case":43
     }
   },
   {
@@ -31003,7 +31003,7 @@
     "state":"PA",
     "county":"Lehigh",
     "FIPS":42077,
-    "case":19
+    "case":25
     }
   },
   {
@@ -31016,7 +31016,7 @@
     "state":"PA",
     "county":"Monroe",
     "FIPS":42089,
-    "case":31
+    "case":43
     }
   },
   {
@@ -31029,7 +31029,7 @@
     "state":"PA",
     "county":"Montgomery",
     "FIPS":42091,
-    "case":87
+    "case":129
     }
   },
   {
@@ -31042,7 +31042,7 @@
     "state":"PA",
     "county":"Philadelphia",
     "FIPS":42101,
-    "case":91
+    "case":128
     }
   },
   {
@@ -31068,7 +31068,7 @@
     "state":"PA",
     "county":"Delaware",
     "FIPS":42045,
-    "case":43
+    "case":54
     }
   },
   {
@@ -31081,7 +31081,7 @@
     "state":"PA",
     "county":"Northampton",
     "FIPS":42095,
-    "case":21
+    "case":23
     }
   },
   {
@@ -31094,7 +31094,7 @@
     "state":"PA",
     "county":"Chester",
     "FIPS":42029,
-    "case":23
+    "case":40
     }
   },
   {
@@ -32212,7 +32212,7 @@
     "state":"SC",
     "county":"Anderson",
     "FIPS":45007,
-    "case":10
+    "case":15
     }
   },
   {
@@ -32251,7 +32251,7 @@
     "state":"SC",
     "county":"Chester",
     "FIPS":45023,
-    "case":null
+    "case":1
     }
   },
   {
@@ -32277,7 +32277,7 @@
     "state":"SC",
     "county":"Darlington",
     "FIPS":45031,
-    "case":5
+    "case":7
     }
   },
   {
@@ -32303,7 +32303,7 @@
     "state":"SC",
     "county":"Fairfield",
     "FIPS":45039,
-    "case":1
+    "case":2
     }
   },
   {
@@ -32316,7 +32316,7 @@
     "state":"SC",
     "county":"Greenwood",
     "FIPS":45047,
-    "case":3
+    "case":2
     }
   },
   {
@@ -32329,7 +32329,7 @@
     "state":"SC",
     "county":"Kershaw",
     "FIPS":45055,
-    "case":44
+    "case":54
     }
   },
   {
@@ -32342,7 +32342,7 @@
     "state":"SC",
     "county":"Lancaster",
     "FIPS":45057,
-    "case":5
+    "case":7
     }
   },
   {
@@ -32368,7 +32368,7 @@
     "state":"SC",
     "county":"Lee",
     "FIPS":45061,
-    "case":1
+    "case":2
     }
   },
   {
@@ -32381,7 +32381,7 @@
     "state":"SC",
     "county":"Lexington",
     "FIPS":45063,
-    "case":12
+    "case":17
     }
   },
   {
@@ -32407,7 +32407,7 @@
     "state":"SC",
     "county":"Marlboro",
     "FIPS":45069,
-    "case":1
+    "case":0
     }
   },
   {
@@ -32433,7 +32433,7 @@
     "state":"SC",
     "county":"Richland",
     "FIPS":45079,
-    "case":29
+    "case":43
     }
   },
   {
@@ -32459,7 +32459,7 @@
     "state":"SC",
     "county":"Spartanburg",
     "FIPS":45083,
-    "case":2
+    "case":3
     }
   },
   {
@@ -32472,7 +32472,7 @@
     "state":"SC",
     "county":"York",
     "FIPS":45091,
-    "case":4
+    "case":7
     }
   },
   {
@@ -32550,7 +32550,7 @@
     "state":"SC",
     "county":"Florence",
     "FIPS":45041,
-    "case":1
+    "case":3
     }
   },
   {
@@ -32563,7 +32563,7 @@
     "state":"SC",
     "county":"Sumter",
     "FIPS":45085,
-    "case":3
+    "case":4
     }
   },
   {
@@ -32576,7 +32576,7 @@
     "state":"SC",
     "county":"Clarendon",
     "FIPS":45027,
-    "case":1
+    "case":4
     }
   },
   {
@@ -32589,7 +32589,7 @@
     "state":"SC",
     "county":"Dorchester",
     "FIPS":45035,
-    "case":1
+    "case":2
     }
   },
   {
@@ -32602,7 +32602,7 @@
     "state":"SC",
     "county":"Orangeburg",
     "FIPS":45075,
-    "case":3
+    "case":8
     }
   },
   {
@@ -32641,7 +32641,7 @@
     "state":"SC",
     "county":"Charleston",
     "FIPS":45019,
-    "case":13
+    "case":31
     }
   },
   {
@@ -32654,7 +32654,7 @@
     "state":"SC",
     "county":"Charleston",
     "FIPS":45019,
-    "case":13
+    "case":31
     }
   },
   {
@@ -32667,7 +32667,7 @@
     "state":"SC",
     "county":"Greenville",
     "FIPS":45045,
-    "case":19
+    "case":31
     }
   },
   {
@@ -32680,7 +32680,7 @@
     "state":"SC",
     "county":"Oconee",
     "FIPS":45073,
-    "case":null
+    "case":2
     }
   },
   {
@@ -32706,7 +32706,7 @@
     "state":"SC",
     "county":"Berkeley",
     "FIPS":45015,
-    "case":2
+    "case":4
     }
   },
   {
@@ -32719,7 +32719,7 @@
     "state":"SC",
     "county":"Horry",
     "FIPS":45051,
-    "case":11
+    "case":16
     }
   },
   {
@@ -32771,7 +32771,7 @@
     "state":"SC",
     "county":"Georgetown",
     "FIPS":45043,
-    "case":null
+    "case":2
     }
   },
   {
@@ -32784,7 +32784,7 @@
     "state":"SC",
     "county":"Georgetown",
     "FIPS":45043,
-    "case":null
+    "case":2
     }
   },
   {
@@ -32810,7 +32810,7 @@
     "state":"SC",
     "county":"Beaufort",
     "FIPS":45013,
-    "case":14
+    "case":21
     }
   },
   {
@@ -32823,7 +32823,7 @@
     "state":"SC",
     "county":"Beaufort",
     "FIPS":45013,
-    "case":14
+    "case":21
     }
   },
   {
@@ -32862,7 +32862,7 @@
     "state":"SD",
     "county":"Hughes",
     "FIPS":46065,
-    "case":null
+    "case":1
     }
   },
   {
@@ -33044,7 +33044,7 @@
     "state":"SD",
     "county":"Davison",
     "FIPS":46035,
-    "case":1
+    "case":2
     }
   },
   {
@@ -33213,7 +33213,7 @@
     "state":"SD",
     "county":"Beadle",
     "FIPS":46005,
-    "case":10
+    "case":12
     }
   },
   {
@@ -33486,7 +33486,7 @@
     "state":"SD",
     "county":"McCook",
     "FIPS":46087,
-    "case":1
+    "case":2
     }
   },
   {
@@ -33499,7 +33499,7 @@
     "state":"SD",
     "county":"Lyman",
     "FIPS":46085,
-    "case":null
+    "case":1
     }
   },
   {
@@ -33707,7 +33707,7 @@
     "state":"TN",
     "county":"Perry",
     "FIPS":47135,
-    "case":1
+    "case":2
     }
   },
   {
@@ -33772,7 +33772,7 @@
     "state":"TN",
     "county":"Robertson",
     "FIPS":47147,
-    "case":3
+    "case":6
     }
   },
   {
@@ -33785,7 +33785,7 @@
     "state":"TN",
     "county":"Rutherford",
     "FIPS":47149,
-    "case":8
+    "case":9
     }
   },
   {
@@ -33824,7 +33824,7 @@
     "state":"TN",
     "county":"Shelby",
     "FIPS":47157,
-    "case":66
+    "case":93
     }
   },
   {
@@ -33863,7 +33863,7 @@
     "state":"TN",
     "county":"Sullivan",
     "FIPS":47163,
-    "case":1
+    "case":2
     }
   },
   {
@@ -33876,7 +33876,7 @@
     "state":"TN",
     "county":"Sumner",
     "FIPS":47165,
-    "case":22
+    "case":34
     }
   },
   {
@@ -33954,7 +33954,7 @@
     "state":"TN",
     "county":"Washington",
     "FIPS":47179,
-    "case":2
+    "case":6
     }
   },
   {
@@ -33980,7 +33980,7 @@
     "state":"TN",
     "county":"Weakley",
     "FIPS":47183,
-    "case":null
+    "case":1
     }
   },
   {
@@ -33993,7 +33993,7 @@
     "state":"TN",
     "county":"Williamson",
     "FIPS":47187,
-    "case":48
+    "case":53
     }
   },
   {
@@ -34006,7 +34006,7 @@
     "state":"TN",
     "county":"Wilson",
     "FIPS":47189,
-    "case":2
+    "case":6
     }
   },
   {
@@ -34032,7 +34032,7 @@
     "state":"TN",
     "county":"Dickson",
     "FIPS":47043,
-    "case":4
+    "case":5
     }
   },
   {
@@ -34110,7 +34110,7 @@
     "state":"TN",
     "county":"Bradley",
     "FIPS":47011,
-    "case":2
+    "case":1
     }
   },
   {
@@ -34188,7 +34188,7 @@
     "state":"TN",
     "county":"Claiborne",
     "FIPS":47025,
-    "case":null
+    "case":1
     }
   },
   {
@@ -34253,7 +34253,7 @@
     "state":"TN",
     "county":"Davidson",
     "FIPS":47037,
-    "case":167
+    "case":164
     }
   },
   {
@@ -34279,7 +34279,7 @@
     "state":"TN",
     "county":"De Kalb",
     "FIPS":47041,
-    "case":null
+    "case":1
     }
   },
   {
@@ -34305,7 +34305,7 @@
     "state":"TN",
     "county":"Fayette",
     "FIPS":47047,
-    "case":3
+    "case":2
     }
   },
   {
@@ -34396,7 +34396,7 @@
     "state":"TN",
     "county":"Hamblen",
     "FIPS":47063,
-    "case":2
+    "case":3
     }
   },
   {
@@ -34409,7 +34409,7 @@
     "state":"TN",
     "county":"Hamilton",
     "FIPS":47065,
-    "case":8
+    "case":12
     }
   },
   {
@@ -34448,7 +34448,7 @@
     "state":"TN",
     "county":"Hardin",
     "FIPS":47071,
-    "case":null
+    "case":1
     }
   },
   {
@@ -34565,7 +34565,7 @@
     "state":"TN",
     "county":"Jefferson",
     "FIPS":47089,
-    "case":2
+    "case":3
     }
   },
   {
@@ -34591,7 +34591,7 @@
     "state":"TN",
     "county":"Knox",
     "FIPS":47093,
-    "case":5
+    "case":12
     }
   },
   {
@@ -34656,7 +34656,7 @@
     "state":"TN",
     "county":"Lincoln",
     "FIPS":47103,
-    "case":null
+    "case":1
     }
   },
   {
@@ -34747,7 +34747,7 @@
     "state":"TN",
     "county":"Tipton",
     "FIPS":47167,
-    "case":5
+    "case":6
     }
   },
   {
@@ -34799,7 +34799,7 @@
     "state":"TN",
     "county":"Maury",
     "FIPS":47119,
-    "case":2
+    "case":6
     }
   },
   {
@@ -34838,7 +34838,7 @@
     "state":"TN",
     "county":"Monroe",
     "FIPS":47123,
-    "case":3
+    "case":2
     }
   },
   {
@@ -34890,7 +34890,7 @@
     "state":"TN",
     "county":"Greene",
     "FIPS":47059,
-    "case":2
+    "case":4
     }
   },
   {
@@ -34903,7 +34903,7 @@
     "state":"TN",
     "county":"Blount",
     "FIPS":47009,
-    "case":1
+    "case":2
     }
   },
   {
@@ -34955,7 +34955,7 @@
     "state":"TX",
     "county":"Hidalgo",
     "FIPS":48215,
-    "case":null
+    "case":2
     }
   },
   {
@@ -35163,7 +35163,7 @@
     "state":"TX",
     "county":"Dallas",
     "FIPS":48113,
-    "case":74
+    "case":155
     }
   },
   {
@@ -35215,7 +35215,7 @@
     "state":"TX",
     "county":"Denton",
     "FIPS":48121,
-    "case":12
+    "case":36
     }
   },
   {
@@ -35306,7 +35306,7 @@
     "state":"TX",
     "county":"Ellis",
     "FIPS":48139,
-    "case":3
+    "case":6
     }
   },
   {
@@ -35332,7 +35332,7 @@
     "state":"TX",
     "county":"Falls",
     "FIPS":48145,
-    "case":null
+    "case":1
     }
   },
   {
@@ -35696,7 +35696,7 @@
     "state":"TX",
     "county":"Hays",
     "FIPS":48209,
-    "case":6
+    "case":7
     }
   },
   {
@@ -35748,7 +35748,7 @@
     "state":"TX",
     "county":"Hockley",
     "FIPS":48219,
-    "case":2
+    "case":3
     }
   },
   {
@@ -36333,7 +36333,7 @@
     "state":"TX",
     "county":"Montgomery",
     "FIPS":48339,
-    "case":4
+    "case":19
     }
   },
   {
@@ -36801,7 +36801,7 @@
     "state":"TX",
     "county":"Smith",
     "FIPS":48423,
-    "case":5
+    "case":10
     }
   },
   {
@@ -36892,7 +36892,7 @@
     "state":"TX",
     "county":"Tarrant",
     "FIPS":48439,
-    "case":19
+    "case":57
     }
   },
   {
@@ -36983,7 +36983,7 @@
     "state":"TX",
     "county":"Travis",
     "FIPS":48453,
-    "case":41
+    "case":86
     }
   },
   {
@@ -37165,7 +37165,7 @@
     "state":"TX",
     "county":"Wichita",
     "FIPS":48485,
-    "case":3
+    "case":5
     }
   },
   {
@@ -37191,7 +37191,7 @@
     "state":"TX",
     "county":"Williamson",
     "FIPS":48491,
-    "case":9
+    "case":14
     }
   },
   {
@@ -37295,7 +37295,7 @@
     "state":"TX",
     "county":"Collin",
     "FIPS":48085,
-    "case":21
+    "case":45
     }
   },
   {
@@ -37386,7 +37386,7 @@
     "state":"TX",
     "county":"Castro",
     "FIPS":48069,
-    "case":1
+    "case":2
     }
   },
   {
@@ -37581,7 +37581,7 @@
     "state":"TX",
     "county":"Bexar",
     "FIPS":48029,
-    "case":24
+    "case":57
     }
   },
   {
@@ -37594,7 +37594,7 @@
     "state":"TX",
     "county":"Bell",
     "FIPS":48027,
-    "case":3
+    "case":16
     }
   },
   {
@@ -37763,7 +37763,7 @@
     "state":"TX",
     "county":"Comal",
     "FIPS":48091,
-    "case":1
+    "case":4
     }
   },
   {
@@ -37841,7 +37841,7 @@
     "state":"TX",
     "county":"Parker",
     "FIPS":48367,
-    "case":null
+    "case":1
     }
   },
   {
@@ -37867,7 +37867,7 @@
     "state":"TX",
     "county":"Brazoria",
     "FIPS":48039,
-    "case":12
+    "case":18
     }
   },
   {
@@ -37893,7 +37893,7 @@
     "state":"TX",
     "county":"Galveston",
     "FIPS":48167,
-    "case":9
+    "case":18
     }
   },
   {
@@ -38023,7 +38023,7 @@
     "state":"TX",
     "county":"Maverick",
     "FIPS":48323,
-    "case":null
+    "case":1
     }
   },
   {
@@ -38114,7 +38114,7 @@
     "state":"TX",
     "county":"Harris",
     "FIPS":48201,
-    "case":36
+    "case":54
     }
   },
   {
@@ -38127,7 +38127,7 @@
     "state":"TX",
     "county":"Harris",
     "FIPS":48201,
-    "case":36
+    "case":54
     }
   },
   {
@@ -38140,7 +38140,7 @@
     "state":"TX",
     "county":"El Paso",
     "FIPS":48141,
-    "case":6
+    "case":14
     }
   },
   {
@@ -38257,7 +38257,7 @@
     "state":"UT",
     "county":"Summit",
     "FIPS":49043,
-    "case":50
+    "case":73
     }
   },
   {
@@ -38478,7 +38478,7 @@
     "state":"UT",
     "county":"Tooele",
     "FIPS":49045,
-    "case":3
+    "case":2
     }
   },
   {
@@ -38491,7 +38491,7 @@
     "state":"UT",
     "county":"Utah",
     "FIPS":49049,
-    "case":7
+    "case":12
     }
   },
   {
@@ -38517,7 +38517,7 @@
     "state":"UT",
     "county":"Davis",
     "FIPS":49011,
-    "case":19
+    "case":29
     }
   },
   {
@@ -38543,7 +38543,7 @@
     "state":"UT",
     "county":"Wasatch",
     "FIPS":49051,
-    "case":8
+    "case":12
     }
   },
   {
@@ -38608,7 +38608,7 @@
     "state":"UT",
     "county":"Salt Lake",
     "FIPS":49035,
-    "case":84
+    "case":112
     }
   },
   {
@@ -38673,7 +38673,7 @@
     "state":"VA",
     "county":"Rockbridge",
     "FIPS":51163,
-    "case":null
+    "case":1
     }
   },
   {
@@ -39336,7 +39336,7 @@
     "state":"VA",
     "county":"City of Alexandria",
     "FIPS":51510,
-    "case":5
+    "case":6
     }
   },
   {
@@ -39362,7 +39362,7 @@
     "state":"VA",
     "county":"Fairfax",
     "FIPS":51059,
-    "case":31
+    "case":43
     }
   },
   {
@@ -39388,7 +39388,7 @@
     "state":"VA",
     "county":"Stafford",
     "FIPS":51179,
-    "case":5
+    "case":6
     }
   },
   {
@@ -39414,7 +39414,7 @@
     "state":"VA",
     "county":"Stafford",
     "FIPS":51179,
-    "case":5
+    "case":6
     }
   },
   {
@@ -39440,7 +39440,7 @@
     "state":"VA",
     "county":"Fairfax",
     "FIPS":51059,
-    "case":31
+    "case":43
     }
   },
   {
@@ -39544,7 +39544,7 @@
     "state":"VA",
     "county":"Hanover",
     "FIPS":51085,
-    "case":1
+    "case":2
     }
   },
   {
@@ -39570,7 +39570,7 @@
     "state":"VA",
     "county":"City of Norfolk",
     "FIPS":51710,
-    "case":3
+    "case":4
     }
   },
   {
@@ -39596,7 +39596,7 @@
     "state":"VA",
     "county":"City of Norfolk",
     "FIPS":51710,
-    "case":3
+    "case":4
     }
   },
   {
@@ -39622,7 +39622,7 @@
     "state":"VA",
     "county":"City of Danville",
     "FIPS":51590,
-    "case":null
+    "case":1
     }
   },
   {
@@ -39843,7 +39843,7 @@
     "state":"VA",
     "county":"Arlington",
     "FIPS":51013,
-    "case":26
+    "case":34
     }
   },
   {
@@ -39869,7 +39869,7 @@
     "state":"VA",
     "county":"Chesterfield",
     "FIPS":51041,
-    "case":8
+    "case":9
     }
   },
   {
@@ -39895,7 +39895,7 @@
     "state":"VA",
     "county":"Henrico",
     "FIPS":51087,
-    "case":8
+    "case":11
     }
   },
   {
@@ -40025,7 +40025,7 @@
     "state":"VA",
     "county":"Louisa",
     "FIPS":51109,
-    "case":1
+    "case":2
     }
   },
   {
@@ -40129,7 +40129,7 @@
     "state":"VA",
     "county":"City of Richmond",
     "FIPS":51760,
-    "case":6
+    "case":8
     }
   },
   {
@@ -40168,7 +40168,7 @@
     "state":"VA",
     "county":"James City",
     "FIPS":51095,
-    "case":32
+    "case":34
     }
   },
   {
@@ -40181,7 +40181,7 @@
     "state":"VA",
     "county":"City of Norfolk",
     "FIPS":51710,
-    "case":3
+    "case":4
     }
   },
   {
@@ -40298,7 +40298,7 @@
     "state":"VA",
     "county":"James City",
     "FIPS":51095,
-    "case":32
+    "case":34
     }
   },
   {
@@ -40922,7 +40922,7 @@
     "state":"WA",
     "county":"Whitman",
     "FIPS":53075,
-    "case":null
+    "case":2
     }
   },
   {
@@ -40974,7 +40974,7 @@
     "state":"WA",
     "county":"Spokane",
     "FIPS":53063,
-    "case":20
+    "case":29
     }
   },
   {
@@ -41026,7 +41026,7 @@
     "state":"WA",
     "county":"Douglas",
     "FIPS":53017,
-    "case":null
+    "case":1
     }
   },
   {
@@ -41052,7 +41052,7 @@
     "state":"WA",
     "county":"Kittitas",
     "FIPS":53037,
-    "case":4
+    "case":5
     }
   },
   {
@@ -41078,7 +41078,7 @@
     "state":"WA",
     "county":"Grant",
     "FIPS":53025,
-    "case":18
+    "case":23
     }
   },
   {
@@ -41091,7 +41091,7 @@
     "state":"WA",
     "county":"Chelan",
     "FIPS":53007,
-    "case":3
+    "case":6
     }
   },
   {
@@ -41104,7 +41104,7 @@
     "state":"WA",
     "county":"Adams",
     "FIPS":53001,
-    "case":null
+    "case":1
     }
   },
   {
@@ -41130,7 +41130,7 @@
     "state":"WA",
     "county":"Clark",
     "FIPS":53011,
-    "case":10
+    "case":13
     }
   },
   {
@@ -41156,7 +41156,7 @@
     "state":"WA",
     "county":"Island",
     "FIPS":53029,
-    "case":21
+    "case":25
     }
   },
   {
@@ -41182,7 +41182,7 @@
     "state":"WA",
     "county":"Yakima",
     "FIPS":53077,
-    "case":16
+    "case":25
     }
   },
   {
@@ -41221,7 +41221,7 @@
     "state":"WA",
     "county":"Snohomish",
     "FIPS":53061,
-    "case":480
+    "case":519
     }
   },
   {
@@ -41234,7 +41234,7 @@
     "state":"WA",
     "county":"Whatcom",
     "FIPS":53073,
-    "case":14
+    "case":48
     }
   },
   {
@@ -41273,7 +41273,7 @@
     "state":"WA",
     "county":"Skagit",
     "FIPS":53057,
-    "case":33
+    "case":45
     }
   },
   {
@@ -41286,7 +41286,7 @@
     "state":"WA",
     "county":"Pierce",
     "FIPS":53053,
-    "case":107
+    "case":126
     }
   },
   {
@@ -41299,7 +41299,7 @@
     "state":"WA",
     "county":"King",
     "FIPS":53033,
-    "case":1040
+    "case":1170
     }
   },
   {
@@ -41312,7 +41312,7 @@
     "state":"WA",
     "county":"Jefferson",
     "FIPS":53031,
-    "case":6
+    "case":7
     }
   },
   {
@@ -41364,7 +41364,7 @@
     "state":"WI",
     "county":"Milwaukee",
     "FIPS":55079,
-    "case":182
+    "case":204
     }
   },
   {
@@ -41377,7 +41377,7 @@
     "state":"WI",
     "county":"Racine",
     "FIPS":55101,
-    "case":4
+    "case":5
     }
   },
   {
@@ -41520,7 +41520,7 @@
     "state":"WI",
     "county":"Dodge",
     "FIPS":55027,
-    "case":null
+    "case":2
     }
   },
   {
@@ -41689,7 +41689,7 @@
     "state":"WI",
     "county":"La Crosse",
     "FIPS":55063,
-    "case":5
+    "case":0
     }
   },
   {
@@ -41858,7 +41858,7 @@
     "state":"WI",
     "county":"Waukesha",
     "FIPS":55133,
-    "case":30
+    "case":31
     }
   },
   {
@@ -41988,7 +41988,7 @@
     "state":"WI",
     "county":"St. Croix",
     "FIPS":55109,
-    "case":2
+    "case":3
     }
   },
   {
@@ -42079,7 +42079,7 @@
     "state":"WI",
     "county":"Pierce",
     "FIPS":55093,
-    "case":1
+    "case":3
     }
   },
   {
@@ -42118,7 +42118,7 @@
     "state":"WI",
     "county":"Kenosha",
     "FIPS":55059,
-    "case":10
+    "case":12
     }
   },
   {
@@ -42131,7 +42131,7 @@
     "state":"WI",
     "county":"Washington",
     "FIPS":55131,
-    "case":14
+    "case":15
     }
   },
   {
@@ -42196,7 +42196,7 @@
     "state":"WI",
     "county":"Douglas",
     "FIPS":55031,
-    "case":1
+    "case":2
     }
   },
   {
@@ -42274,7 +42274,7 @@
     "state":"WI",
     "county":"Ozaukee",
     "FIPS":55089,
-    "case":13
+    "case":14
     }
   },
   {
@@ -42404,7 +42404,7 @@
     "state":"WV",
     "county":"Monongalia",
     "FIPS":54061,
-    "case":2
+    "case":5
     }
   },
   {
@@ -42521,7 +42521,7 @@
     "state":"WV",
     "county":"Kanawha",
     "FIPS":54039,
-    "case":3
+    "case":4
     }
   },
   {
@@ -43080,7 +43080,7 @@
     "state":"WY",
     "county":"Natrona",
     "FIPS":56025,
-    "case":1
+    "case":2
     }
   },
   {
@@ -43223,7 +43223,7 @@
     "state":"WY",
     "county":"Carbon",
     "FIPS":56007,
-    "case":1
+    "case":2
     }
   },
   {
@@ -43275,7 +43275,7 @@
     "state":"WY",
     "county":"Laramie",
     "FIPS":56021,
-    "case":6
+    "case":7
     }
   },
   {

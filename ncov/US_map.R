@@ -19,9 +19,8 @@ require(gridExtra)
 library(ggpubr)
 
 my.cols <- brewer.pal(9, "Blues")
-us_data <- read_csv("~/Documents/corona/us_county_coronavirus.csv", 
-                                 col_types = cols(`c_County Name` = col_skip(), 
-                                 c_State = col_skip(), c_stateFIPS = col_skip()))
+us_data <- read_csv("~/Documents/corona/us_county_coronavirus.csv")
+
 
 
 world <- map_data("world")

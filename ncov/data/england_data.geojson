@@ -5,1183 +5,12 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0.12950601,51.54552078 ]
-    },
-    "properties": {
-    "FIELD1":1,
-    "id":"E09000002",
-    "county":"Barking and Dagenham",
-    "case":"35"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.21821,51.61108017 ]
-    },
-    "properties": {
-    "FIELD1":2,
-    "id":"E09000003",
-    "county":"Barnet",
-    "case":"88"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.54925001,53.52576828 ]
-    },
-    "properties": {
-    "FIELD1":3,
-    "id":"E08000016",
-    "county":"Barnsley",
-    "case":"10"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.48654008,51.35604095 ]
-    },
-    "properties": {
-    "FIELD1":4,
-    "id":"E06000022",
-    "county":"Bath and North East Somerset",
-    "case":"13"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.45462999,52.19628143 ]
-    },
-    "properties": {
-    "FIELD1":5,
-    "id":"E06000055",
-    "county":"Bedford",
-    "case":"4"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.146212,51.45820999 ]
-    },
-    "properties": {
-    "FIELD1":6,
-    "id":"E09000004",
-    "county":"Bexley",
-    "case":"39"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.88141,52.48403931 ]
-    },
-    "properties": {
-    "FIELD1":7,
-    "id":"E08000025",
-    "county":"Birmingham",
-    "case":"91"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.46359992,53.70080185 ]
-    },
-    "properties": {
-    "FIELD1":8,
-    "id":"E06000008",
-    "county":"Blackburn with Darwen",
-    "case":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.02284002,53.8216095 ]
-    },
-    "properties": {
-    "FIELD1":9,
-    "id":"E06000009",
-    "county":"Blackpool",
-    "case":"6"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.18592,51.75363922 ]
-    },
-    "properties": {
-    "FIELD1":10,
-    "id":"W06000019",
-    "county":"Blaenau Gwent",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.47952008,53.58449173 ]
-    },
-    "properties": {
-    "FIELD1":11,
-    "id":"E08000001",
-    "county":"Bolton",
-    "case":"17"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.85863996,50.7448616 ]
-    },
-    "properties": {
-    "FIELD1":12,
-    "id":"E06000028",
-    "county":"Bournemouth",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.73363,51.41130066 ]
-    },
-    "properties": {
-    "FIELD1":13,
-    "id":"E06000036",
-    "county":"Bracknell Forest",
-    "case":"3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.87389004,53.84381866 ]
-    },
-    "properties": {
-    "FIELD1":14,
-    "id":"E08000032",
-    "county":"Bradford",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.27568001,51.56441116 ]
-    },
-    "properties": {
-    "FIELD1":15,
-    "id":"E09000005",
-    "county":"Brent",
-    "case":"128"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.61359,51.56058121 ]
-    },
-    "properties": {
-    "FIELD1":16,
-    "id":"W06000013",
-    "county":"Bridgend",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.15079001,50.84648895 ]
-    },
-    "properties": {
-    "FIELD1":17,
-    "id":"E06000043",
-    "county":"Brighton and Hove",
-    "case":"17"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.57742,51.47114944 ]
-    },
-    "properties": {
-    "FIELD1":18,
-    "id":"E06000023",
-    "county":"Bristol, City of",
-    "case":"23"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.039246,51.37266922 ]
-    },
-    "properties": {
-    "FIELD1":19,
-    "id":"E09000006",
-    "county":"Bromley",
-    "case":"67"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.80568999,51.76966095 ]
-    },
-    "properties": {
-    "FIELD1":20,
-    "id":"E10000002",
-    "county":"Buckinghamshire",
-    "case":"44"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.30879998,53.5931015 ]
-    },
-    "properties": {
-    "FIELD1":21,
-    "id":"E08000002",
-    "county":"Bury",
-    "case":"14"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.19753003,51.65000916 ]
-    },
-    "properties": {
-    "FIELD1":22,
-    "id":"W06000018",
-    "county":"Caerphilly",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.96182001,53.72048187 ]
-    },
-    "properties": {
-    "FIELD1":23,
-    "id":"E08000033",
-    "county":"Calderdale",
-    "case":"5"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.23506001,52.34965897 ]
-    },
-    "properties": {
-    "FIELD1":24,
-    "id":"E10000003",
-    "county":"Cambridgeshire",
-    "case":"20"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.16289,51.5430603 ]
-    },
-    "properties": {
-    "FIELD1":25,
-    "id":"E09000007",
-    "county":"Camden",
-    "case":"53"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.22212005,51.50254059 ]
-    },
-    "properties": {
-    "FIELD1":26,
-    "id":"W06000015",
-    "county":"Cardiff",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -4.2111001,51.89495087 ]
-    },
-    "properties": {
-    "FIELD1":27,
-    "id":"W06000010",
-    "county":"Carmarthenshire",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.47753999,51.99903107 ]
-    },
-    "properties": {
-    "FIELD1":28,
-    "id":"E06000056",
-    "county":"Central Bedfordshire",
-    "case":"14"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.94993997,52.29795074 ]
-    },
-    "properties": {
-    "FIELD1":29,
-    "id":"W06000008",
-    "county":"Ceredigion",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.29298997,53.1679306 ]
-    },
-    "properties": {
-    "FIELD1":30,
-    "id":"E06000049",
-    "county":"Cheshire East",
-    "case":"18"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.70298004,53.1633606 ]
-    },
-    "properties": {
-    "FIELD1":31,
-    "id":"E06000050",
-    "county":"Cheshire West and Chester",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.09351,51.51564026 ]
-    },
-    "properties": {
-    "FIELD1":32,
-    "id":"E09000001",
-    "county":"City of London",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.74645996,53.14738846 ]
-    },
-    "properties": {
-    "FIELD1":33,
-    "id":"W06000003",
-    "county":"Conwy",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -4.64248991,50.45022964 ]
-    },
-    "properties": {
-    "FIELD1":34,
-    "id":"E06000052",
-    "county":"Cornwall",
-    "case":"20"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.8405,54.68513107 ]
-    },
-    "properties": {
-    "FIELD1":35,
-    "id":"E06000047",
-    "county":"County Durham",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.51908004,52.41423035 ]
-    },
-    "properties": {
-    "FIELD1":36,
-    "id":"E08000026",
-    "county":"Coventry",
-    "case":"14"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.07761,51.36597824 ]
-    },
-    "properties": {
-    "FIELD1":37,
-    "id":"E09000008",
-    "county":"Croydon",
-    "case":"84"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.90217996,54.63825989 ]
-    },
-    "properties": {
-    "FIELD1":38,
-    "id":"E10000006",
-    "county":"Cumbria",
-    "case":"79"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.56834996,54.5353508 ]
-    },
-    "properties": {
-    "FIELD1":39,
-    "id":"E06000005",
-    "county":"Darlington",
-    "case":"3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.34761,53.08832932 ]
-    },
-    "properties": {
-    "FIELD1":40,
-    "id":"W06000004",
-    "county":"Denbighshire",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.47188997,52.91463852 ]
-    },
-    "properties": {
-    "FIELD1":41,
-    "id":"E06000015",
-    "county":"Derby",
-    "case":"23"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.60210001,53.07857895 ]
-    },
-    "properties": {
-    "FIELD1":42,
-    "id":"E10000007",
-    "county":"Derbyshire",
-    "case":"75"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.65701008,50.72555923 ]
-    },
-    "properties": {
-    "FIELD1":43,
-    "id":"E10000008",
-    "county":"Devon",
-    "case":"43"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.10894001,53.52696991 ]
-    },
-    "properties": {
-    "FIELD1":44,
-    "id":"E08000017",
-    "county":"Doncaster",
-    "case":"7"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.41466999,50.79697037 ]
-    },
-    "properties": {
-    "FIELD1":45,
-    "id":"E10000009",
-    "county":"Dorset",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.10171008,52.49512863 ]
-    },
-    "properties": {
-    "FIELD1":46,
-    "id":"E08000027",
-    "county":"Dudley",
-    "case":"24"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.31406999,51.52442932 ]
-    },
-    "properties": {
-    "FIELD1":47,
-    "id":"E09000009",
-    "county":"Ealing",
-    "case":"97"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.66202998,53.88122177 ]
-    },
-    "properties": {
-    "FIELD1":48,
-    "id":"E06000011",
-    "county":"East Riding of Yorkshire",
-    "case":"15"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.33453,50.93832016 ]
-    },
-    "properties": {
-    "FIELD1":49,
-    "id":"E10000011",
-    "county":"East Sussex",
-    "case":"9"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.08147,51.64888 ]
-    },
-    "properties": {
-    "FIELD1":50,
-    "id":"E09000010",
-    "county":"Enfield",
-    "case":"68"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.54104602,51.80981827 ]
-    },
-    "properties": {
-    "FIELD1":51,
-    "id":"E10000012",
-    "county":"Essex",
-    "case":"53"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.17604995,53.21498108 ]
-    },
-    "properties": {
-    "FIELD1":52,
-    "id":"W06000005",
-    "county":"Flintshire",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.6868,54.93119812 ]
-    },
-    "properties": {
-    "FIELD1":53,
-    "id":"E08000037",
-    "county":"Gateshead",
-    "case":"3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.15234995,51.81970978 ]
-    },
-    "properties": {
-    "FIELD1":54,
-    "id":"E10000013",
-    "county":"Gloucestershire",
-    "case":"29"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.050108,51.46395874 ]
-    },
-    "properties": {
-    "FIELD1":55,
-    "id":"E09000011",
-    "county":"Greenwich",
-    "case":"61"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.8155899,52.89825821 ]
-    },
-    "properties": {
-    "FIELD1":56,
-    "id":"W06000002",
-    "county":"Gwynedd",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.06045,51.5549202 ]
-    },
-    "properties": {
-    "FIELD1":57,
-    "id":"E09000012",
-    "county":"Hackney",
-    "case":"64"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.68852997,53.33423996 ]
-    },
-    "properties": {
-    "FIELD1":58,
-    "id":"E06000006",
-    "county":"Halton",
-    "case":"7"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.21736,51.48736954 ]
-    },
-    "properties": {
-    "FIELD1":59,
-    "id":"E09000013",
-    "county":"Hammersmith and Fulham",
-    "case":"51"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.24735999,51.04473114 ]
-    },
-    "properties": {
-    "FIELD1":60,
-    "id":"E10000014",
-    "county":"Hampshire",
-    "case":"156"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.10667,51.58771133 ]
-    },
-    "properties": {
-    "FIELD1":61,
-    "id":"E09000014",
-    "county":"Haringey",
-    "case":"57"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.33603001,51.59466934 ]
-    },
-    "properties": {
-    "FIELD1":62,
-    "id":"E09000015",
-    "county":"Harrow",
-    "case":"103"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -1.27023005,54.67615891 ]
     },
     "properties": {
-    "FIELD1":63,
     "id":"E06000001",
     "county":"Hartlepool",
-    "case":"2"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.235368,51.56518936 ]
-    },
-    "properties": {
-    "FIELD1":64,
-    "id":"E09000016",
-    "county":"Havering",
-    "case":"35"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.73931003,52.08153915 ]
-    },
-    "properties": {
-    "FIELD1":65,
-    "id":"E06000019",
-    "county":"Herefordshire, County of",
-    "case":"7"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.27699,51.8087883 ]
-    },
-    "properties": {
-    "FIELD1":66,
-    "id":"E10000015",
-    "county":"Hertfordshire",
-    "case":"92"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.44182,51.53662872 ]
-    },
-    "properties": {
-    "FIELD1":67,
-    "id":"E09000017",
-    "county":"Hillingdon",
-    "case":"63"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.37843999,51.46242905 ]
-    },
-    "properties": {
-    "FIELD1":68,
-    "id":"E09000018",
-    "county":"Hounslow",
-    "case":"64"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -4.32290983,53.27944946 ]
-    },
-    "properties": {
-    "FIELD1":69,
-    "id":"W06000001",
-    "county":"Isle of Anglesey",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.33361995,50.67129898 ]
-    },
-    "properties": {
-    "FIELD1":70,
-    "id":"E06000046",
-    "county":"Isle of Wight",
-    "case":"2"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -6.3021698,49.92332077 ]
-    },
-    "properties": {
-    "FIELD1":71,
-    "id":"E06000053",
-    "county":"Isles of Scilly",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.10992,51.54547882 ]
-    },
-    "properties": {
-    "FIELD1":72,
-    "id":"E09000019",
-    "county":"Islington",
-    "case":"54"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.18976,51.49644089 ]
-    },
-    "properties": {
-    "FIELD1":73,
-    "id":"E09000020",
-    "county":"Kensington and Chelsea",
-    "case":"81"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.72155303,51.19290161 ]
-    },
-    "properties": {
-    "FIELD1":74,
-    "id":"E10000016",
-    "county":"Kent",
-    "case":"48"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.30379999,53.76979065 ]
-    },
-    "properties": {
-    "FIELD1":75,
-    "id":"E06000010",
-    "county":"Kingston upon Hull, City of",
-    "case":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.28367001,51.39295959 ]
-    },
-    "properties": {
-    "FIELD1":76,
-    "id":"E09000021",
-    "county":"Kingston upon Thames",
-    "case":"23"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.78085005,53.64233017 ]
-    },
-    "properties": {
-    "FIELD1":77,
-    "id":"E08000034",
-    "county":"Kirklees",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.8329699,53.43788147 ]
-    },
-    "properties": {
-    "FIELD1":78,
-    "id":"E08000011",
-    "county":"Knowsley",
-    "case":"4"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.11385,51.46442032 ]
-    },
-    "properties": {
-    "FIELD1":79,
-    "id":"E09000022",
-    "county":"Lambeth",
-    "case":"127"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.46091008,53.86215973 ]
-    },
-    "properties": {
-    "FIELD1":80,
-    "id":"E10000017",
-    "county":"Lancashire",
-    "case":"44"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.50735998,53.82273102 ]
-    },
-    "properties": {
-    "FIELD1":81,
-    "id":"E08000035",
-    "county":"Leeds",
-    "case":"29"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.13039994,52.63592148 ]
-    },
-    "properties": {
-    "FIELD1":82,
-    "id":"E06000016",
-    "county":"Leicester",
-    "case":"19"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.3779,52.68778992 ]
-    },
-    "properties": {
-    "FIELD1":83,
-    "id":"E10000018",
-    "county":"Leicestershire",
-    "case":"43"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.01733,51.44231033 ]
-    },
-    "properties": {
-    "FIELD1":84,
-    "id":"E09000023",
-    "county":"Lewisham",
-    "case":"67"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.23882,53.11104965 ]
-    },
-    "properties": {
-    "FIELD1":85,
-    "id":"E10000019",
-    "county":"Lincolnshire",
-    "case":"14"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.91364002,53.40829849 ]
-    },
-    "properties": {
-    "FIELD1":86,
-    "id":"E08000012",
-    "county":"Liverpool",
-    "case":"22"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.42319,51.89102173 ]
-    },
-    "properties": {
-    "FIELD1":87,
-    "id":"E06000032",
-    "county":"Luton",
-    "case":"8"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.23358989,53.47008896 ]
-    },
-    "properties": {
-    "FIELD1":88,
-    "id":"E08000003",
-    "county":"Manchester",
-    "case":"31"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.563173,51.44770813 ]
-    },
-    "properties": {
-    "FIELD1":89,
-    "id":"E06000035",
-    "county":"Medway",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.36424994,51.74858093 ]
-    },
-    "properties": {
-    "FIELD1":90,
-    "id":"W06000024",
-    "county":"Merthyr Tydfil",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.18866999,51.41056824 ]
-    },
-    "properties": {
-    "FIELD1":91,
-    "id":"E09000024",
-    "county":"Merton",
-    "case":"56"
+    "case":3
     }
   },
   {
@@ -1191,348 +20,9 @@
        "coordinates":  [ -1.21098995,54.5446701 ]
     },
     "properties": {
-    "FIELD1":92,
     "id":"E06000002",
     "county":"Middlesbrough",
-    "case":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.74070001,52.07241058 ]
-    },
-    "properties": {
-    "FIELD1":93,
-    "id":"E06000042",
-    "county":"Milton Keynes",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.90280008,51.77827072 ]
-    },
-    "properties": {
-    "FIELD1":94,
-    "id":"W06000021",
-    "county":"Monmouthshire",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.74638009,51.64450073 ]
-    },
-    "properties": {
-    "FIELD1":95,
-    "id":"W06000012",
-    "county":"Neath Port Talbot",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.65296996,55.02101135 ]
-    },
-    "properties": {
-    "FIELD1":96,
-    "id":"E08000021",
-    "county":"Newcastle upon Tyne",
-    "case":"34"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.027369,51.53131866 ]
-    },
-    "properties": {
-    "FIELD1":97,
-    "id":"E09000025",
-    "county":"Newham",
-    "case":"57"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.89769006,51.58232117 ]
-    },
-    "properties": {
-    "FIELD1":98,
-    "id":"W06000022",
-    "county":"Newport",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.96466202,52.67110825 ]
-    },
-    "properties": {
-    "FIELD1":99,
-    "id":"E10000020",
-    "county":"Norfolk",
-    "case":"34"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.13926999,53.52336121 ]
-    },
-    "properties": {
-    "FIELD1":100,
-    "id":"E06000012",
-    "county":"North East Lincolnshire",
-    "case":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.52410001,53.58644867 ]
-    },
-    "properties": {
-    "FIELD1":101,
-    "id":"E06000013",
-    "county":"North Lincolnshire",
-    "case":"2"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.75439,51.39707184 ]
-    },
-    "properties": {
-    "FIELD1":102,
-    "id":"E06000024",
-    "county":"North Somerset",
-    "case":"5"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.50923002,55.02896118 ]
-    },
-    "properties": {
-    "FIELD1":103,
-    "id":"E08000022",
-    "county":"North Tyneside",
-    "case":"18"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.55032003,54.09371185 ]
-    },
-    "properties": {
-    "FIELD1":104,
-    "id":"E10000023",
-    "county":"North Yorkshire",
-    "case":"20"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.86668003,52.31105042 ]
-    },
-    "properties": {
-    "FIELD1":105,
-    "id":"E10000021",
-    "county":"Northamptonshire",
-    "case":"21"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.07521009,55.30036926 ]
-    },
-    "properties": {
-    "FIELD1":106,
-    "id":"E06000057",
-    "county":"Northumberland",
-    "case":"10"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.16666996,52.9541893 ]
-    },
-    "properties": {
-    "FIELD1":107,
-    "id":"E06000018",
-    "county":"Nottingham",
-    "case":"34"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.00655997,53.12850189 ]
-    },
-    "properties": {
-    "FIELD1":108,
-    "id":"E10000024",
-    "county":"Nottinghamshire",
-    "case":"60"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.0527401,53.55767822 ]
-    },
-    "properties": {
-    "FIELD1":109,
-    "id":"E08000004",
-    "county":"Oldham",
-    "case":"23"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.29146004,51.77154922 ]
-    },
-    "properties": {
-    "FIELD1":110,
-    "id":"E10000025",
-    "county":"Oxfordshire",
-    "case":"52"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -4.90818024,51.85512161 ]
-    },
-    "properties": {
-    "FIELD1":111,
-    "id":"W06000009",
-    "county":"Pembrokeshire",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.26874,52.5921402 ]
-    },
-    "properties": {
-    "FIELD1":112,
-    "id":"E06000031",
-    "county":"Peterborough",
-    "case":"2"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -4.1129899,50.40494156 ]
-    },
-    "properties": {
-    "FIELD1":113,
-    "id":"E06000026",
-    "county":"Plymouth",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.95326996,50.74077988 ]
-    },
-    "properties": {
-    "FIELD1":114,
-    "id":"E06000029",
-    "county":"Poole",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.07023001,50.80804825 ]
-    },
-    "properties": {
-    "FIELD1":115,
-    "id":"E06000044",
-    "county":"Portsmouth",
-    "case":"25"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.43532991,52.348629 ]
-    },
-    "properties": {
-    "FIELD1":116,
-    "id":"W06000023",
-    "county":"Powys",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.99071002,51.45301819 ]
-    },
-    "properties": {
-    "FIELD1":117,
-    "id":"E06000038",
-    "county":"Reading",
-    "case":"8"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.070085,51.58589172 ]
-    },
-    "properties": {
-    "FIELD1":118,
-    "id":"E09000026",
-    "county":"Redbridge",
-    "case":"45"
+    "case":3
     }
   },
   {
@@ -1542,283 +32,9 @@
        "coordinates":  [ -1.00610995,54.56752014 ]
     },
     "properties": {
-    "FIELD1":119,
     "id":"E06000003",
     "county":"Redcar and Cleveland",
-    "case":"3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.41358995,51.62184906 ]
-    },
-    "properties": {
-    "FIELD1":120,
-    "id":"W06000016",
-    "county":"Rhondda Cynon Taf",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.28913999,51.44033051 ]
-    },
-    "properties": {
-    "FIELD1":121,
-    "id":"E09000027",
-    "county":"Richmond upon Thames",
-    "case":"25"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.14784002,53.60741043 ]
-    },
-    "properties": {
-    "FIELD1":122,
-    "id":"E08000005",
-    "county":"Rochdale",
-    "case":"15"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.28650999,53.3955307 ]
-    },
-    "properties": {
-    "FIELD1":123,
-    "id":"E08000018",
-    "county":"Rotherham",
-    "case":"9"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.62629998,52.66764832 ]
-    },
-    "properties": {
-    "FIELD1":124,
-    "id":"E06000017",
-    "county":"Rutland",
-    "case":"0"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.38485003,53.47927094 ]
-    },
-    "properties": {
-    "FIELD1":125,
-    "id":"E08000006",
-    "county":"Salford",
-    "case":"23"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.00770998,52.51477051 ]
-    },
-    "properties": {
-    "FIELD1":126,
-    "id":"E08000028",
-    "county":"Sandwell",
-    "case":"20"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.99203992,53.48210144 ]
-    },
-    "properties": {
-    "FIELD1":127,
-    "id":"E08000014",
-    "county":"Sefton",
-    "case":"8"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.54253995,53.40357971 ]
-    },
-    "properties": {
-    "FIELD1":128,
-    "id":"E08000019",
-    "county":"Sheffield",
-    "case":"82"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.73667002,52.6221199 ]
-    },
-    "properties": {
-    "FIELD1":129,
-    "id":"E06000051",
-    "county":"Shropshire",
-    "case":"3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.57617003,51.50350189 ]
-    },
-    "properties": {
-    "FIELD1":130,
-    "id":"E06000039",
-    "county":"Slough",
-    "case":"21"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.71557999,52.43099976 ]
-    },
-    "properties": {
-    "FIELD1":131,
-    "id":"E08000029",
-    "county":"Solihull",
-    "case":"4"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.29605007,51.07186127 ]
-    },
-    "properties": {
-    "FIELD1":132,
-    "id":"E10000027",
-    "county":"Somerset",
-    "case":"13"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.46921992,51.54671097 ]
-    },
-    "properties": {
-    "FIELD1":133,
-    "id":"E06000025",
-    "county":"South Gloucestershire",
-    "case":"17"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.44695997,54.96987915 ]
-    },
-    "properties": {
-    "FIELD1":134,
-    "id":"E08000023",
-    "county":"South Tyneside",
-    "case":"5"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.40024996,50.92037964 ]
-    },
-    "properties": {
-    "FIELD1":135,
-    "id":"E06000045",
-    "county":"Southampton",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.70690602,51.54914093 ]
-    },
-    "properties": {
-    "FIELD1":136,
-    "id":"E06000033",
-    "county":"Southend-on-Sea",
-    "case":"8"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.07309,51.46588898 ]
-    },
-    "properties": {
-    "FIELD1":137,
-    "id":"E09000028",
-    "county":"Southwark",
-    "case":"139"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.70309997,53.45861816 ]
-    },
-    "properties": {
-    "FIELD1":138,
-    "id":"E08000013",
-    "county":"St. Helens",
-    "case":"3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.02756,52.90930176 ]
-    },
-    "properties": {
-    "FIELD1":139,
-    "id":"E10000028",
-    "county":"Staffordshire",
-    "case":"41"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.12467003,53.39115906 ]
-    },
-    "properties": {
-    "FIELD1":140,
-    "id":"E08000007",
-    "county":"Stockport",
-    "case":"29"
+    "case":3
     }
   },
   {
@@ -1828,257 +44,33 @@
        "coordinates":  [ -1.30668998,54.55691147 ]
     },
     "properties": {
-    "FIELD1":141,
     "id":"E06000004",
     "county":"Stockton-on-Tees",
-    "case":"11"
+    "case":12
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -2.15888,53.01707077 ]
+       "coordinates":  [ -1.56834996,54.5353508 ]
     },
     "properties": {
-    "FIELD1":142,
-    "id":"E06000021",
-    "county":"Stoke-on-Trent",
-    "case":"2"
+    "id":"E06000005",
+    "county":"Darlington",
+    "case":3
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 1.04914796,52.2538681 ]
+       "coordinates":  [ -2.68852997,53.33423996 ]
     },
     "properties": {
-    "FIELD1":143,
-    "id":"E10000029",
-    "county":"Suffolk",
-    "case":"18"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.43343997,54.85720062 ]
-    },
-    "properties": {
-    "FIELD1":144,
-    "id":"E08000024",
-    "county":"Sunderland",
-    "case":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.33910999,51.26802826 ]
-    },
-    "properties": {
-    "FIELD1":145,
-    "id":"E10000030",
-    "county":"Surrey",
-    "case":"68"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.17227,51.3575592 ]
-    },
-    "properties": {
-    "FIELD1":146,
-    "id":"E09000029",
-    "county":"Sutton",
-    "case":"24"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.96723008,51.65805817 ]
-    },
-    "properties": {
-    "FIELD1":147,
-    "id":"W06000011",
-    "county":"Swansea",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.73367,51.57762909 ]
-    },
-    "properties": {
-    "FIELD1":148,
-    "id":"E06000030",
-    "county":"Swindon",
-    "case":"6"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.0769999,53.47866821 ]
-    },
-    "properties": {
-    "FIELD1":149,
-    "id":"E08000008",
-    "county":"Tameside",
-    "case":"21"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.48940992,52.71416855 ]
-    },
-    "properties": {
-    "FIELD1":150,
-    "id":"E06000020",
-    "county":"Telford and Wrekin",
-    "case":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0.33490199,51.5099411 ]
-    },
-    "properties": {
-    "FIELD1":151,
-    "id":"E06000034",
-    "county":"Thurrock",
-    "case":"10"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.5552299,50.4708786 ]
-    },
-    "properties": {
-    "FIELD1":152,
-    "id":"E06000027",
-    "county":"Torbay",
-    "case":"16"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.05100989,51.69836044 ]
-    },
-    "properties": {
-    "FIELD1":153,
-    "id":"W06000020",
-    "county":"Torfaen",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.0364,51.51552963 ]
-    },
-    "properties": {
-    "FIELD1":154,
-    "id":"E09000030",
-    "county":"Tower Hamlets",
-    "case":"57"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.36572003,53.4167099 ]
-    },
-    "properties": {
-    "FIELD1":155,
-    "id":"E08000009",
-    "county":"Trafford",
-    "case":"23"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.39803004,51.44837952 ]
-    },
-    "properties": {
-    "FIELD1":156,
-    "id":"W06000014",
-    "county":"Vale of Glamorgan",
-    "case":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.42092001,53.65922165 ]
-    },
-    "properties": {
-    "FIELD1":157,
-    "id":"E08000036",
-    "county":"Wakefield",
-    "case":"10"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -1.97044003,52.60503006 ]
-    },
-    "properties": {
-    "FIELD1":158,
-    "id":"E08000030",
-    "county":"Walsall",
-    "case":"29"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.01881,51.59460831 ]
-    },
-    "properties": {
-    "FIELD1":159,
-    "id":"E09000031",
-    "county":"Waltham Forest",
-    "case":"50"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.20021001,51.45238876 ]
-    },
-    "properties": {
-    "FIELD1":160,
-    "id":"E09000032",
-    "county":"Wandsworth",
-    "case":"110"
+    "id":"E06000006",
+    "county":"Halton",
+    "case":7
     }
   },
   {
@@ -2088,166 +80,81 @@
        "coordinates":  [ -2.56167006,53.39162827 ]
     },
     "properties": {
-    "FIELD1":161,
     "id":"E06000007",
     "county":"Warrington",
-    "case":"4"
+    "case":7
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -1.56874001,52.17977142 ]
+       "coordinates":  [ -2.46359992,53.70080185 ]
     },
     "properties": {
-    "FIELD1":162,
-    "id":"E10000031",
-    "county":"Warwickshire",
-    "case":"29"
+    "id":"E06000008",
+    "county":"Blackburn with Darwen",
+    "case":1
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -1.27364004,51.44559097 ]
+       "coordinates":  [ -3.02284002,53.8216095 ]
     },
     "properties": {
-    "FIELD1":163,
-    "id":"E06000037",
-    "county":"West Berkshire",
-    "case":"8"
+    "id":"E06000009",
+    "county":"Blackpool",
+    "case":6
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.45932999,50.95133972 ]
+       "coordinates":  [ -0.30379999,53.76979065 ]
     },
     "properties": {
-    "FIELD1":164,
-    "id":"E10000032",
-    "county":"West Sussex",
-    "case":"27"
+    "id":"E06000010",
+    "county":"Kingston upon Hull, City of",
+    "case":1
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.15295,51.51221085 ]
+       "coordinates":  [ -0.66202998,53.88122177 ]
     },
     "properties": {
-    "FIELD1":165,
-    "id":"E09000033",
-    "county":"Westminster",
-    "case":"117"
+    "id":"E06000011",
+    "county":"East Riding of Yorkshire",
+    "case":16
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -2.57246995,53.51445007 ]
+       "coordinates":  [ -0.13926999,53.52336121 ]
     },
     "properties": {
-    "FIELD1":166,
-    "id":"E08000010",
-    "county":"Wigan",
-    "case":"9"
+    "id":"E06000012",
+    "county":"North East Lincolnshire",
+    "case":1
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -1.92660999,51.32883072 ]
+       "coordinates":  [ -0.52410001,53.58644867 ]
     },
     "properties": {
-    "FIELD1":167,
-    "id":"E06000054",
-    "county":"Wiltshire",
-    "case":"23"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.67540997,51.48033905 ]
-    },
-    "properties": {
-    "FIELD1":168,
-    "id":"E06000040",
-    "county":"Windsor and Maidenhead",
-    "case":"13"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.06502008,53.37453842 ]
-    },
-    "properties": {
-    "FIELD1":169,
-    "id":"E08000015",
-    "county":"Wirral",
-    "case":"10"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.89934999,51.42295837 ]
-    },
-    "properties": {
-    "FIELD1":170,
-    "id":"E06000041",
-    "county":"Wokingham",
-    "case":"13"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.12746,52.59788132 ]
-    },
-    "properties": {
-    "FIELD1":171,
-    "id":"E08000031",
-    "county":"Wolverhampton",
-    "case":"52"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.20935011,52.21287155 ]
-    },
-    "properties": {
-    "FIELD1":172,
-    "id":"E10000034",
-    "county":"Worcestershire",
-    "case":"19"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -2.99202991,53.00167084 ]
-    },
-    "properties": {
-    "FIELD1":173,
-    "id":"W06000006",
-    "county":"Wrexham",
-    "case":"NA"
+    "id":"E06000013",
+    "county":"North Lincolnshire",
+    "case":3
     }
   },
   {
@@ -2257,10 +164,1929 @@
        "coordinates":  [ -1.07375002,53.96582031 ]
     },
     "properties": {
-    "FIELD1":174,
     "id":"E06000014",
     "county":"York",
-    "case":"10"
+    "case":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47188997,52.91463852 ]
+    },
+    "properties": {
+    "id":"E06000015",
+    "county":"Derby",
+    "case":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.13039994,52.63592148 ]
+    },
+    "properties": {
+    "id":"E06000016",
+    "county":"Leicester",
+    "case":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.62629998,52.66764832 ]
+    },
+    "properties": {
+    "id":"E06000017",
+    "county":"Rutland",
+    "case":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.16666996,52.9541893 ]
+    },
+    "properties": {
+    "id":"E06000018",
+    "county":"Nottingham",
+    "case":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73931003,52.08153915 ]
+    },
+    "properties": {
+    "id":"E06000019",
+    "county":"Herefordshire, County of",
+    "case":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.48940992,52.71416855 ]
+    },
+    "properties": {
+    "id":"E06000020",
+    "county":"Telford and Wrekin",
+    "case":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15888,53.01707077 ]
+    },
+    "properties": {
+    "id":"E06000021",
+    "county":"Stoke-on-Trent",
+    "case":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.48654008,51.35604095 ]
+    },
+    "properties": {
+    "id":"E06000022",
+    "county":"Bath and North East Somerset",
+    "case":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.57742,51.47114944 ]
+    },
+    "properties": {
+    "id":"E06000023",
+    "county":"Bristol, City of",
+    "case":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.75439,51.39707184 ]
+    },
+    "properties": {
+    "id":"E06000024",
+    "county":"North Somerset",
+    "case":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.46921992,51.54671097 ]
+    },
+    "properties": {
+    "id":"E06000025",
+    "county":"South Gloucestershire",
+    "case":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.1129899,50.40494156 ]
+    },
+    "properties": {
+    "id":"E06000026",
+    "county":"Plymouth",
+    "case":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.5552299,50.4708786 ]
+    },
+    "properties": {
+    "id":"E06000027",
+    "county":"Torbay",
+    "case":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.85863996,50.7448616 ]
+    },
+    "properties": {
+    "id":"E06000028",
+    "county":"Bournemouth",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.95326996,50.74077988 ]
+    },
+    "properties": {
+    "id":"E06000029",
+    "county":"Poole",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.73367,51.57762909 ]
+    },
+    "properties": {
+    "id":"E06000030",
+    "county":"Swindon",
+    "case":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.26874,52.5921402 ]
+    },
+    "properties": {
+    "id":"E06000031",
+    "county":"Peterborough",
+    "case":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.67540997,51.48033905 ]
+    },
+    "properties": {
+    "id":"E06000040",
+    "county":"Windsor and Maidenhead",
+    "case":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.89934999,51.42295837 ]
+    },
+    "properties": {
+    "id":"E06000041",
+    "county":"Wokingham",
+    "case":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.74070001,52.07241058 ]
+    },
+    "properties": {
+    "id":"E06000042",
+    "county":"Milton Keynes",
+    "case":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15079001,50.84648895 ]
+    },
+    "properties": {
+    "id":"E06000043",
+    "county":"Brighton and Hove",
+    "case":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.07023001,50.80804825 ]
+    },
+    "properties": {
+    "id":"E06000044",
+    "county":"Portsmouth",
+    "case":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.42319,51.89102173 ]
+    },
+    "properties": {
+    "id":"E06000032",
+    "county":"Luton",
+    "case":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.70690602,51.54914093 ]
+    },
+    "properties": {
+    "id":"E06000033",
+    "county":"Southend-on-Sea",
+    "case":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.33490199,51.5099411 ]
+    },
+    "properties": {
+    "id":"E06000034",
+    "county":"Thurrock",
+    "case":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.563173,51.44770813 ]
+    },
+    "properties": {
+    "id":"E06000035",
+    "county":"Medway",
+    "case":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.73363,51.41130066 ]
+    },
+    "properties": {
+    "id":"E06000036",
+    "county":"Bracknell Forest",
+    "case":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.27364004,51.44559097 ]
+    },
+    "properties": {
+    "id":"E06000037",
+    "county":"West Berkshire",
+    "case":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.40024996,50.92037964 ]
+    },
+    "properties": {
+    "id":"E06000045",
+    "county":"Southampton",
+    "case":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.33361995,50.67129898 ]
+    },
+    "properties": {
+    "id":"E06000046",
+    "county":"Isle of Wight",
+    "case":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8405,54.68513107 ]
+    },
+    "properties": {
+    "id":"E06000047",
+    "county":"County Durham",
+    "case":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.29298997,53.1679306 ]
+    },
+    "properties": {
+    "id":"E06000049",
+    "county":"Cheshire East",
+    "case":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.70298004,53.1633606 ]
+    },
+    "properties": {
+    "id":"E06000050",
+    "county":"Cheshire West and Chester",
+    "case":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73667002,52.6221199 ]
+    },
+    "properties": {
+    "id":"E06000051",
+    "county":"Shropshire",
+    "case":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.64248991,50.45022964 ]
+    },
+    "properties": {
+    "id":"E06000052",
+    "county":"Cornwall",
+    "case":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3021698,49.92332077 ]
+    },
+    "properties": {
+    "id":"E06000053",
+    "county":"Isles of Scilly",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.92660999,51.32883072 ]
+    },
+    "properties": {
+    "id":"E06000054",
+    "county":"Wiltshire",
+    "case":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.45462999,52.19628143 ]
+    },
+    "properties": {
+    "id":"E06000055",
+    "county":"Bedford",
+    "case":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.47753999,51.99903107 ]
+    },
+    "properties": {
+    "id":"E06000056",
+    "county":"Central Bedfordshire",
+    "case":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.07521009,55.30036926 ]
+    },
+    "properties": {
+    "id":"E06000057",
+    "county":"Northumberland",
+    "case":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.47952008,53.58449173 ]
+    },
+    "properties": {
+    "id":"E08000001",
+    "county":"Bolton",
+    "case":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.30879998,53.5931015 ]
+    },
+    "properties": {
+    "id":"E08000002",
+    "county":"Bury",
+    "case":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23358989,53.47008896 ]
+    },
+    "properties": {
+    "id":"E08000003",
+    "county":"Manchester",
+    "case":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0527401,53.55767822 ]
+    },
+    "properties": {
+    "id":"E08000004",
+    "county":"Oldham",
+    "case":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.14784002,53.60741043 ]
+    },
+    "properties": {
+    "id":"E08000005",
+    "county":"Rochdale",
+    "case":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.38485003,53.47927094 ]
+    },
+    "properties": {
+    "id":"E08000006",
+    "county":"Salford",
+    "case":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.12467003,53.39115906 ]
+    },
+    "properties": {
+    "id":"E08000007",
+    "county":"Stockport",
+    "case":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0769999,53.47866821 ]
+    },
+    "properties": {
+    "id":"E08000008",
+    "county":"Tameside",
+    "case":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.36572003,53.4167099 ]
+    },
+    "properties": {
+    "id":"E08000009",
+    "county":"Trafford",
+    "case":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.57246995,53.51445007 ]
+    },
+    "properties": {
+    "id":"E08000010",
+    "county":"Wigan",
+    "case":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8329699,53.43788147 ]
+    },
+    "properties": {
+    "id":"E08000011",
+    "county":"Knowsley",
+    "case":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.91364002,53.40829849 ]
+    },
+    "properties": {
+    "id":"E08000012",
+    "county":"Liverpool",
+    "case":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.70309997,53.45861816 ]
+    },
+    "properties": {
+    "id":"E08000013",
+    "county":"St. Helens",
+    "case":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.99203992,53.48210144 ]
+    },
+    "properties": {
+    "id":"E08000014",
+    "county":"Sefton",
+    "case":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.06502008,53.37453842 ]
+    },
+    "properties": {
+    "id":"E08000015",
+    "county":"Wirral",
+    "case":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.54925001,53.52576828 ]
+    },
+    "properties": {
+    "id":"E08000016",
+    "county":"Barnsley",
+    "case":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.10894001,53.52696991 ]
+    },
+    "properties": {
+    "id":"E08000017",
+    "county":"Doncaster",
+    "case":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.28650999,53.3955307 ]
+    },
+    "properties": {
+    "id":"E08000018",
+    "county":"Rotherham",
+    "case":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.99071002,51.45301819 ]
+    },
+    "properties": {
+    "id":"E06000038",
+    "county":"Reading",
+    "case":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.57617003,51.50350189 ]
+    },
+    "properties": {
+    "id":"E06000039",
+    "county":"Slough",
+    "case":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.54253995,53.40357971 ]
+    },
+    "properties": {
+    "id":"E08000019",
+    "county":"Sheffield",
+    "case":106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.65296996,55.02101135 ]
+    },
+    "properties": {
+    "id":"E08000021",
+    "county":"Newcastle upon Tyne",
+    "case":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.50923002,55.02896118 ]
+    },
+    "properties": {
+    "id":"E08000022",
+    "county":"North Tyneside",
+    "case":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.44695997,54.96987915 ]
+    },
+    "properties": {
+    "id":"E08000023",
+    "county":"South Tyneside",
+    "case":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.43343997,54.85720062 ]
+    },
+    "properties": {
+    "id":"E08000024",
+    "county":"Sunderland",
+    "case":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.88141,52.48403931 ]
+    },
+    "properties": {
+    "id":"E08000025",
+    "county":"Birmingham",
+    "case":137
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.51908004,52.41423035 ]
+    },
+    "properties": {
+    "id":"E08000026",
+    "county":"Coventry",
+    "case":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.10171008,52.49512863 ]
+    },
+    "properties": {
+    "id":"E08000027",
+    "county":"Dudley",
+    "case":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.00770998,52.51477051 ]
+    },
+    "properties": {
+    "id":"E08000028",
+    "county":"Sandwell",
+    "case":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.71557999,52.43099976 ]
+    },
+    "properties": {
+    "id":"E08000029",
+    "county":"Solihull",
+    "case":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.97044003,52.60503006 ]
+    },
+    "properties": {
+    "id":"E08000030",
+    "county":"Walsall",
+    "case":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.12746,52.59788132 ]
+    },
+    "properties": {
+    "id":"E08000031",
+    "county":"Wolverhampton",
+    "case":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.87389004,53.84381866 ]
+    },
+    "properties": {
+    "id":"E08000032",
+    "county":"Bradford",
+    "case":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.96182001,53.72048187 ]
+    },
+    "properties": {
+    "id":"E08000033",
+    "county":"Calderdale",
+    "case":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78085005,53.64233017 ]
+    },
+    "properties": {
+    "id":"E08000034",
+    "county":"Kirklees",
+    "case":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.50735998,53.82273102 ]
+    },
+    "properties": {
+    "id":"E08000035",
+    "county":"Leeds",
+    "case":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.42092001,53.65922165 ]
+    },
+    "properties": {
+    "id":"E08000036",
+    "county":"Wakefield",
+    "case":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6868,54.93119812 ]
+    },
+    "properties": {
+    "id":"E08000037",
+    "county":"Gateshead",
+    "case":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.09351,51.51564026 ]
+    },
+    "properties": {
+    "id":"E09000001",
+    "county":"City of London",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.12950601,51.54552078 ]
+    },
+    "properties": {
+    "id":"E09000002",
+    "county":"Barking and Dagenham",
+    "case":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.21821,51.61108017 ]
+    },
+    "properties": {
+    "id":"E09000003",
+    "county":"Barnet",
+    "case":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.146212,51.45820999 ]
+    },
+    "properties": {
+    "id":"E09000004",
+    "county":"Bexley",
+    "case":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.050108,51.46395874 ]
+    },
+    "properties": {
+    "id":"E09000011",
+    "county":"Greenwich",
+    "case":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.27568001,51.56441116 ]
+    },
+    "properties": {
+    "id":"E09000005",
+    "county":"Brent",
+    "case":143
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.039246,51.37266922 ]
+    },
+    "properties": {
+    "id":"E09000006",
+    "county":"Bromley",
+    "case":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.16289,51.5430603 ]
+    },
+    "properties": {
+    "id":"E09000007",
+    "county":"Camden",
+    "case":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07761,51.36597824 ]
+    },
+    "properties": {
+    "id":"E09000008",
+    "county":"Croydon",
+    "case":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.31406999,51.52442932 ]
+    },
+    "properties": {
+    "id":"E09000009",
+    "county":"Ealing",
+    "case":106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.2111001,51.89495087 ]
+    },
+    "properties": {
+    "id":"W06000010",
+    "county":"Carmarthenshire",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.96723008,51.65805817 ]
+    },
+    "properties": {
+    "id":"W06000011",
+    "county":"Swansea",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.74638009,51.64450073 ]
+    },
+    "properties": {
+    "id":"W06000012",
+    "county":"Neath Port Talbot",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.61359,51.56058121 ]
+    },
+    "properties": {
+    "id":"W06000013",
+    "county":"Bridgend",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.39803004,51.44837952 ]
+    },
+    "properties": {
+    "id":"W06000014",
+    "county":"Vale of Glamorgan",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.22212005,51.50254059 ]
+    },
+    "properties": {
+    "id":"W06000015",
+    "county":"Cardiff",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.41358995,51.62184906 ]
+    },
+    "properties": {
+    "id":"W06000016",
+    "county":"Rhondda Cynon Taf",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.19753003,51.65000916 ]
+    },
+    "properties": {
+    "id":"W06000018",
+    "county":"Caerphilly",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.18592,51.75363922 ]
+    },
+    "properties": {
+    "id":"W06000019",
+    "county":"Blaenau Gwent",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.05100989,51.69836044 ]
+    },
+    "properties": {
+    "id":"W06000020",
+    "county":"Torfaen",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.90280008,51.77827072 ]
+    },
+    "properties": {
+    "id":"W06000021",
+    "county":"Monmouthshire",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.89769006,51.58232117 ]
+    },
+    "properties": {
+    "id":"W06000022",
+    "county":"Newport",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.43532991,52.348629 ]
+    },
+    "properties": {
+    "id":"W06000023",
+    "county":"Powys",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.36424994,51.74858093 ]
+    },
+    "properties": {
+    "id":"W06000024",
+    "county":"Merthyr Tydfil",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.08147,51.64888 ]
+    },
+    "properties": {
+    "id":"E09000010",
+    "county":"Enfield",
+    "case":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.06045,51.5549202 ]
+    },
+    "properties": {
+    "id":"E09000012",
+    "county":"Hackney",
+    "case":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.21736,51.48736954 ]
+    },
+    "properties": {
+    "id":"E09000013",
+    "county":"Hammersmith and Fulham",
+    "case":58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10667,51.58771133 ]
+    },
+    "properties": {
+    "id":"E09000014",
+    "county":"Haringey",
+    "case":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.33603001,51.59466934 ]
+    },
+    "properties": {
+    "id":"E09000015",
+    "county":"Harrow",
+    "case":113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.235368,51.56518936 ]
+    },
+    "properties": {
+    "id":"E09000016",
+    "county":"Havering",
+    "case":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.44182,51.53662872 ]
+    },
+    "properties": {
+    "id":"E09000017",
+    "county":"Hillingdon",
+    "case":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.37843999,51.46242905 ]
+    },
+    "properties": {
+    "id":"E09000018",
+    "county":"Hounslow",
+    "case":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10992,51.54547882 ]
+    },
+    "properties": {
+    "id":"E09000019",
+    "county":"Islington",
+    "case":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18976,51.49644089 ]
+    },
+    "properties": {
+    "id":"E09000020",
+    "county":"Kensington and Chelsea",
+    "case":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.28367001,51.39295959 ]
+    },
+    "properties": {
+    "id":"E09000021",
+    "county":"Kingston upon Thames",
+    "case":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.11385,51.46442032 ]
+    },
+    "properties": {
+    "id":"E09000022",
+    "county":"Lambeth",
+    "case":134
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.01733,51.44231033 ]
+    },
+    "properties": {
+    "id":"E09000023",
+    "county":"Lewisham",
+    "case":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18866999,51.41056824 ]
+    },
+    "properties": {
+    "id":"E09000024",
+    "county":"Merton",
+    "case":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.027369,51.53131866 ]
+    },
+    "properties": {
+    "id":"E09000025",
+    "county":"Newham",
+    "case":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.070085,51.58589172 ]
+    },
+    "properties": {
+    "id":"E09000026",
+    "county":"Redbridge",
+    "case":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.28913999,51.44033051 ]
+    },
+    "properties": {
+    "id":"E09000027",
+    "county":"Richmond upon Thames",
+    "case":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07309,51.46588898 ]
+    },
+    "properties": {
+    "id":"E09000028",
+    "county":"Southwark",
+    "case":154
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17227,51.3575592 ]
+    },
+    "properties": {
+    "id":"E09000029",
+    "county":"Sutton",
+    "case":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0364,51.51552963 ]
+    },
+    "properties": {
+    "id":"E09000030",
+    "county":"Tower Hamlets",
+    "case":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.01881,51.59460831 ]
+    },
+    "properties": {
+    "id":"E09000031",
+    "county":"Waltham Forest",
+    "case":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.20021001,51.45238876 ]
+    },
+    "properties": {
+    "id":"E09000032",
+    "county":"Wandsworth",
+    "case":113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15295,51.51221085 ]
+    },
+    "properties": {
+    "id":"E09000033",
+    "county":"Westminster",
+    "case":134
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.80568999,51.76966095 ]
+    },
+    "properties": {
+    "id":"E10000002",
+    "county":"Buckinghamshire",
+    "case":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.23506001,52.34965897 ]
+    },
+    "properties": {
+    "id":"E10000003",
+    "county":"Cambridgeshire",
+    "case":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.90217996,54.63825989 ]
+    },
+    "properties": {
+    "id":"E10000006",
+    "county":"Cumbria",
+    "case":110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.60210001,53.07857895 ]
+    },
+    "properties": {
+    "id":"E10000007",
+    "county":"Derbyshire",
+    "case":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.65701008,50.72555923 ]
+    },
+    "properties": {
+    "id":"E10000008",
+    "county":"Devon",
+    "case":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.41466999,50.79697037 ]
+    },
+    "properties": {
+    "id":"E10000009",
+    "county":"Dorset",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.33453,50.93832016 ]
+    },
+    "properties": {
+    "id":"E10000011",
+    "county":"East Sussex",
+    "case":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.54104602,51.80981827 ]
+    },
+    "properties": {
+    "id":"E10000012",
+    "county":"Essex",
+    "case":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15234995,51.81970978 ]
+    },
+    "properties": {
+    "id":"E10000013",
+    "county":"Gloucestershire",
+    "case":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.24735999,51.04473114 ]
+    },
+    "properties": {
+    "id":"E10000014",
+    "county":"Hampshire",
+    "case":171
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.27699,51.8087883 ]
+    },
+    "properties": {
+    "id":"E10000015",
+    "county":"Hertfordshire",
+    "case":115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.72155303,51.19290161 ]
+    },
+    "properties": {
+    "id":"E10000016",
+    "county":"Kent",
+    "case":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.46091008,53.86215973 ]
+    },
+    "properties": {
+    "id":"E10000017",
+    "county":"Lancashire",
+    "case":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3779,52.68778992 ]
+    },
+    "properties": {
+    "id":"E10000018",
+    "county":"Leicestershire",
+    "case":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.23882,53.11104965 ]
+    },
+    "properties": {
+    "id":"E10000019",
+    "county":"Lincolnshire",
+    "case":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.96466202,52.67110825 ]
+    },
+    "properties": {
+    "id":"E10000020",
+    "county":"Norfolk",
+    "case":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.86668003,52.31105042 ]
+    },
+    "properties": {
+    "id":"E10000021",
+    "county":"Northamptonshire",
+    "case":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.55032003,54.09371185 ]
+    },
+    "properties": {
+    "id":"E10000023",
+    "county":"North Yorkshire",
+    "case":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.00655997,53.12850189 ]
+    },
+    "properties": {
+    "id":"E10000024",
+    "county":"Nottinghamshire",
+    "case":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.29146004,51.77154922 ]
+    },
+    "properties": {
+    "id":"E10000025",
+    "county":"Oxfordshire",
+    "case":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.29605007,51.07186127 ]
+    },
+    "properties": {
+    "id":"E10000027",
+    "county":"Somerset",
+    "case":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.02756,52.90930176 ]
+    },
+    "properties": {
+    "id":"E10000028",
+    "county":"Staffordshire",
+    "case":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.04914796,52.2538681 ]
+    },
+    "properties": {
+    "id":"E10000029",
+    "county":"Suffolk",
+    "case":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.33910999,51.26802826 ]
+    },
+    "properties": {
+    "id":"E10000030",
+    "county":"Surrey",
+    "case":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.56874001,52.17977142 ]
+    },
+    "properties": {
+    "id":"E10000031",
+    "county":"Warwickshire",
+    "case":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.45932999,50.95133972 ]
+    },
+    "properties": {
+    "id":"E10000032",
+    "county":"West Sussex",
+    "case":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.20935011,52.21287155 ]
+    },
+    "properties": {
+    "id":"E10000034",
+    "county":"Worcestershire",
+    "case":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.32290983,53.27944946 ]
+    },
+    "properties": {
+    "id":"W06000001",
+    "county":"Isle of Anglesey",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8155899,52.89825821 ]
+    },
+    "properties": {
+    "id":"W06000002",
+    "county":"Gwynedd",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.74645996,53.14738846 ]
+    },
+    "properties": {
+    "id":"W06000003",
+    "county":"Conwy",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.34761,53.08832932 ]
+    },
+    "properties": {
+    "id":"W06000004",
+    "county":"Denbighshire",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.17604995,53.21498108 ]
+    },
+    "properties": {
+    "id":"W06000005",
+    "county":"Flintshire",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.99202991,53.00167084 ]
+    },
+    "properties": {
+    "id":"W06000006",
+    "county":"Wrexham",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.94993997,52.29795074 ]
+    },
+    "properties": {
+    "id":"W06000008",
+    "county":"Ceredigion",
+    "case":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.90818024,51.85512161 ]
+    },
+    "properties": {
+    "id":"W06000009",
+    "county":"Pembrokeshire",
+    "case":null
     }
   }
 ]
