@@ -8025,7 +8025,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -59.5432,13.1939 ]
+       "coordinates":  [ -88.5989,17.43 ]
     },
     "properties": {
     "FIELD1":402,
@@ -8769,7 +8769,7 @@
     },
     "properties": {
     "FIELD1":439,
-    "city_cn":"本土",
+    "city_cn":"法罗群岛",
     "province_cn":"丹麦",
     "city":"Faroe Islands",
     "province":"Denmark",
@@ -8789,7 +8789,7 @@
     },
     "properties": {
     "FIELD1":440,
-    "city_cn":"法罗群岛",
+    "city_cn":"格陵兰",
     "province_cn":"丹麦",
     "city":"Greenland",
     "province":"Denmark",
@@ -8809,7 +8809,7 @@
     },
     "properties": {
     "FIELD1":441,
-    "city_cn":"格陵兰岛",
+    "city_cn":"本土",
     "province_cn":"丹麦",
     "city":"",
     "province":"Denmark",
