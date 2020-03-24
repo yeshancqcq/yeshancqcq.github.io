@@ -9105,6 +9105,26 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.947083,46.316 ]
+    },
+    "properties": {
+    "FIELD1":456,
+    "city_cn":"本土",
+    "province_cn":"法国",
+    "city":"",
+    "province":"France",
+    "case":"19874",
+    "death":"860",
+    "cure":"2200",
+    "remain":"16814",
+    "death_rate":"4.327261749",
+    "cure_rate":"11.06973936"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -149.4068,-17.6797 ]
     },
     "properties": {
@@ -9113,12 +9133,12 @@
     "province_cn":"法国",
     "city":"French Polynesia",
     "province":"France",
-    "case":"19874",
-    "death":"860",
-    "cure":"2200",
-    "remain":"16814",
-    "death_rate":"4.327261749",
-    "cure_rate":"11.06973936"
+    "case":"23",
+    "death":"0",
+    "cure":"0",
+    "remain":"23",
+    "death_rate":"0",
+    "cure_rate":"0"
     }
   },
   {
