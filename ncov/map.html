@@ -182,7 +182,7 @@ box-shadow: none;
 		<a href="https://github.com/pcm-dpc/COVID-19/blob/master/dati-province/dpc-covid19-ita-province-20200317.csv">Italy</a> |
 		<a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html">Germany</a>
 	</p2><br>
-		<p2>截止到/Last Updated: <br>  2020-03-23 22:00 (CST 芝加哥时间)</p2>
+		<p2>截止到/Last Updated: <br>  2020-03-24 22:00 (CST 芝加哥时间)</p2>
 		<div><center>右上角可切换底图和数据类型<br>Add or change basemaps and data types at the upper-right menu.</center></div>
 	<div><center><a href="https://yeshancqcq.github.io/">返回主页/Shan Ye's Homepage</a></center></div>
 </center>
@@ -529,7 +529,7 @@ function getColor4(i){
 			onEachFeature: function(feature, layer) {
 				layer.on('click',function(e) {
 					map.setView(e.latlng);
-					$("#paneltext").html('<p>美国县级数据更新于3月23日<br>US County data updated: March 23.</p>');
+					$("#paneltext").html('<p>美国县级数据更新于3月24日<br>US County data updated: March 24.</p>');
 				}),
 				layer.bindPopup('<h3> '+feature.properties.county+', '
 									+feature.properties.state +'<br>'
