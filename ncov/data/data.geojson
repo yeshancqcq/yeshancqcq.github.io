@@ -11965,7 +11965,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -100,35 ]
+       "coordinates":  [ -100,40 ]
     },
     "properties": {
     "FIELD1":null,
