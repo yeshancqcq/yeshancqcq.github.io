@@ -11,7 +11,7 @@
     "cn":"奥弗涅-罗纳-阿尔卑斯",
     "state":"Auvergne-Rh_ne-Alpes",
     "country":"France",
-    "case":1730,
+    "case":5548,
     "region":""
     }
   },
@@ -25,7 +25,7 @@
     "cn":"勃艮第-弗朗什-孔泰",
     "state":"Bourgogne-Franche-Comté",
     "country":"France",
-    "case":1347,
+    "case":2431,
     "region":""
     }
   },
@@ -39,7 +39,7 @@
     "cn":"布列塔尼",
     "state":"Bretagne",
     "country":"France",
-    "case":490,
+    "case":839,
     "region":""
     }
   },
@@ -53,7 +53,7 @@
     "cn":"卢瓦尔河谷中心",
     "state":"Centre-Val de Loire",
     "country":"France",
-    "case":361,
+    "case":1179,
     "region":""
     }
   },
@@ -67,7 +67,7 @@
     "cn":"科西嘉岛",
     "state":"Corse",
     "country":"France",
-    "case":194,
+    "case":175,
     "region":""
     }
   },
@@ -81,7 +81,7 @@
     "cn":"大东区",
     "state":"Grand Est",
     "country":"France",
-    "case":4256,
+    "case":9537,
     "region":""
     }
   },
@@ -95,7 +95,7 @@
     "cn":"法兰西堡",
     "state":"Hauts-de-France",
     "country":"France",
-    "case":1269,
+    "case":3936,
     "region":""
     }
   },
@@ -109,7 +109,7 @@
     "cn":"法兰西岛",
     "state":"Ile-de-France",
     "country":"France",
-    "case":6211,
+    "case":19407,
     "region":""
     }
   },
@@ -123,7 +123,7 @@
     "cn":"诺曼底",
     "state":"Normandie",
     "country":"France",
-    "case":511,
+    "case":1198,
     "region":""
     }
   },
@@ -137,7 +137,7 @@
     "cn":"新阿基坦",
     "state":"Nouvelle-Aquitaine",
     "country":"France",
-    "case":676,
+    "case":1581,
     "region":""
     }
   },
@@ -151,7 +151,7 @@
     "cn":"奥西塔尼",
     "state":"Occitanie",
     "country":"France",
-    "case":767,
+    "case":2117,
     "region":""
     }
   },
@@ -165,7 +165,7 @@
     "cn":"卢瓦尔河大区",
     "state":"Pays de la Loire",
     "country":"France",
-    "case":293,
+    "case":1273,
     "region":""
     }
   },
@@ -179,105 +179,7 @@
     "cn":"普罗旺斯阿尔卑斯蓝色海岸",
     "state":"Provence-Alpes-C_te d’Azur",
     "country":"France",
-    "case":1510,
-    "region":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -61.4,16.17 ]
-    },
-    "properties": {
-    "cn":"瓜达卢佩",
-    "state":"Guadeloupe",
-    "country":"France",
-    "case":62,
-    "region":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -62.825,17.9 ]
-    },
-    "properties": {
-    "cn":"圣巴泰勒米",
-    "state":"Saint-Barthélémy",
-    "country":"France",
-    "case":3,
-    "region":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -63.05,18.01 ]
-    },
-    "properties": {
-    "cn":"圣马丁",
-    "state":"Saint-Martin",
-    "country":"France",
-    "case":8,
-    "region":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -53.05,4.2942 ]
-    },
-    "properties": {
-    "cn":"法属圭亚那",
-    "state":"Guyane",
-    "country":"France",
-    "case":20,
-    "region":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -61.019,14.6 ]
-    },
-    "properties": {
-    "cn":"马丁尼克",
-    "state":"Martinique",
-    "country":"France",
-    "case":53,
-    "region":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 45.12,-12.82 ]
-    },
-    "properties": {
-    "cn":"马约特岛",
-    "state":"Mayotte",
-    "country":"France",
-    "case":24,
-    "region":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 55.5265,-21.13 ]
-    },
-    "properties": {
-    "cn":"留尼汪",
-    "state":"La Réunion",
-    "country":"France",
-    "case":71,
+    "case":3328,
     "region":""
     }
   },
@@ -291,7 +193,7 @@
     "cn":"巴登-符腾堡州",
     "state":"Baden-Württemberg",
     "country":"Germany",
-    "case":8161,
+    "case":16059,
     "region":""
     }
   },
@@ -305,7 +207,7 @@
     "cn":"巴伐利亚州",
     "state":"Bayern",
     "country":"Germany",
-    "case":9481,
+    "case":20237,
     "region":""
     }
   },
@@ -319,7 +221,7 @@
     "cn":"柏林",
     "state":"Berlin",
     "country":"Germany",
-    "case":1955,
+    "case":3202,
     "region":""
     }
   },
@@ -333,7 +235,7 @@
     "cn":"勃兰登堡",
     "state":"Brandenburg",
     "country":"Germany",
-    "case":537,
+    "case":1075,
     "region":""
     }
   },
@@ -347,7 +249,7 @@
     "cn":"不来梅",
     "state":"Bremen",
     "country":"Germany",
-    "case":241,
+    "case":341,
     "region":""
     }
   },
@@ -361,7 +263,7 @@
     "cn":"汉堡",
     "state":"Hamburg",
     "country":"Germany",
-    "case":1693,
+    "case":2596,
     "region":""
     }
   },
@@ -375,7 +277,7 @@
     "cn":"黑森",
     "state":"Hessen",
     "country":"Germany",
-    "case":2323,
+    "case":3993,
     "region":""
     }
   },
@@ -389,7 +291,7 @@
     "cn":"梅克伦堡-西波莫尼亚",
     "state":"Mecklenburg-Vorpommern",
     "country":"Germany",
-    "case":259,
+    "case":468,
     "region":""
     }
   },
@@ -403,7 +305,7 @@
     "cn":"下萨克森州",
     "state":"Niedersachsen",
     "country":"Germany",
-    "case":2810,
+    "case":5081,
     "region":""
     }
   },
@@ -417,7 +319,7 @@
     "cn":"北莱茵-威斯特法伦州",
     "state":"Nordrhein-Westfalen",
     "country":"Germany",
-    "case":9235,
+    "case":16606,
     "region":""
     }
   },
@@ -431,7 +333,7 @@
     "cn":"莱茵兰-普法尔茨",
     "state":"Rheinland-Pfalz",
     "country":"Germany",
-    "case":1971,
+    "case":3362,
     "region":""
     }
   },
@@ -445,7 +347,7 @@
     "cn":"萨尔",
     "state":"Saarland",
     "country":"Germany",
-    "case":505,
+    "case":1079,
     "region":""
     }
   },
@@ -459,7 +361,7 @@
     "cn":"萨克森",
     "state":"Sachsen",
     "country":"Germany",
-    "case":1305,
+    "case":2336,
     "region":""
     }
   },
@@ -473,7 +375,7 @@
     "cn":"萨克森-安哈尔特",
     "state":"Sachsen-Anhalt",
     "country":"Germany",
-    "case":458,
+    "case":836,
     "region":""
     }
   },
@@ -487,7 +389,7 @@
     "cn":"施勒苏益格-荷尔斯泰因州",
     "state":"Schleswig-Holstein",
     "country":"Germany",
-    "case":812,
+    "case":1443,
     "region":""
     }
   },
@@ -501,7 +403,7 @@
     "cn":"图林根",
     "state":"Thüringen",
     "country":"Germany",
-    "case":542,
+    "case":982,
     "region":""
     }
   },
@@ -515,7 +417,7 @@
     "cn":"安达路西亚",
     "state":"Andalucía",
     "country":"Spain",
-    "case":3793,
+    "case":7374,
     "region":""
     }
   },
@@ -529,7 +431,7 @@
     "cn":"阿拉贡",
     "state":"Aragón",
     "country":"Spain",
-    "case":1338,
+    "case":2889,
     "region":""
     }
   },
@@ -543,7 +445,7 @@
     "cn":"阿斯图里亚斯公国",
     "state":"Principado de Asturias",
     "country":"Spain",
-    "case":900,
+    "case":1433,
     "region":""
     }
   },
@@ -557,7 +459,7 @@
     "cn":"巴利阿里群岛",
     "state":"Islas Baleares",
     "country":"Spain",
-    "case":755,
+    "case":1257,
     "region":""
     }
   },
@@ -571,7 +473,7 @@
     "cn":"加纳利群岛",
     "state":"Canarias",
     "country":"Spain",
-    "case":878,
+    "case":1490,
     "region":""
     }
   },
@@ -585,7 +487,7 @@
     "cn":"坎塔布里亚",
     "state":"Cantabria",
     "country":"Spain",
-    "case":810,
+    "case":1321,
     "region":""
     }
   },
@@ -599,7 +501,7 @@
     "cn":"卡斯蒂利亚莱昂",
     "state":"Castilla y León",
     "country":"Spain",
-    "case":4132,
+    "case":7875,
     "region":""
     }
   },
@@ -613,7 +515,7 @@
     "cn":"卡斯蒂利亚拉曼恰",
     "state":"Castilla La Mancha",
     "country":"Spain",
-    "case":3934,
+    "case":8523,
     "region":""
     }
   },
@@ -627,7 +529,7 @@
     "cn":"加泰罗尼亚",
     "state":"Catalu_a",
     "country":"Spain",
-    "case":12940,
+    "case":23460,
     "region":""
     }
   },
@@ -641,7 +543,7 @@
     "cn":"加利西亚",
     "state":"Galicia",
     "country":"Spain",
-    "case":2322,
+    "case":5219,
     "region":""
     }
   },
@@ -655,7 +557,7 @@
     "cn":"瓦伦西亚",
     "state":"C. Valenciana",
     "country":"Spain",
-    "case":3532,
+    "case":6624,
     "region":""
     }
   },
@@ -669,7 +571,7 @@
     "cn":"埃斯特雷马杜拉",
     "state":"Extremadura",
     "country":"Spain",
-    "case":1231,
+    "case":1893,
     "region":""
     }
   },
@@ -683,7 +585,7 @@
     "cn":"马德里",
     "state":"Comunidad de Madrid",
     "country":"Spain",
-    "case":19243,
+    "case":34188,
     "region":""
     }
   },
@@ -697,7 +599,7 @@
     "cn":"穆尔西亚地区",
     "state":"Región de Murcia",
     "country":"Spain",
-    "case":714,
+    "case":1145,
     "region":""
     }
   },
@@ -711,7 +613,7 @@
     "cn":"纳瓦拉福拉",
     "state":"Comunidad Foral de Navarra",
     "country":"Spain",
-    "case":1641,
+    "case":2836,
     "region":""
     }
   },
@@ -725,7 +627,7 @@
     "cn":"巴斯克地区",
     "state":"País Vasco",
     "country":"Spain",
-    "case":4601,
+    "case":7827,
     "region":""
     }
   },
@@ -739,7 +641,7 @@
     "cn":"拉里奥哈",
     "state":"La Rioja",
     "country":"Spain",
-    "case":1236,
+    "case":2224,
     "region":""
     }
   },
@@ -753,7 +655,7 @@
     "cn":"休达",
     "state":"Ceuta",
     "country":"Spain",
-    "case":17,
+    "case":62,
     "region":""
     }
   },
@@ -767,7 +669,7 @@
     "cn":"梅利利亚",
     "state":"Melilla",
     "country":"Spain",
-    "case":42,
+    "case":70,
     "region":""
     }
   },
@@ -781,7 +683,7 @@
     "cn":"拉古萨",
     "state":"Ragusa",
     "country":"Italy",
-    "case":32,
+    "case":46,
     "region":"Sicilia"
     }
   },
@@ -795,7 +697,7 @@
     "cn":"锡拉库萨",
     "state":"Siracusa",
     "country":"Italy",
-    "case":79,
+    "case":106,
     "region":"Sicilia"
     }
   },
@@ -809,7 +711,7 @@
     "cn":"",
     "state":"Agrigento",
     "country":"Italy",
-    "case":58,
+    "case":100,
     "region":"Sicilia"
     }
   },
@@ -823,7 +725,7 @@
     "cn":"",
     "state":"Caltanissetta",
     "country":"Italy",
-    "case":55,
+    "case":83,
     "region":"Sicilia"
     }
   },
@@ -837,7 +739,7 @@
     "cn":"卡塔尼亚",
     "state":"Catania",
     "country":"Italy",
-    "case":365,
+    "case":559,
     "region":"Sicilia"
     }
   },
@@ -851,7 +753,7 @@
     "cn":"恩那",
     "state":"Enna",
     "country":"Italy",
-    "case":155,
+    "case":257,
     "region":"Sicilia"
     }
   },
@@ -865,7 +767,7 @@
     "cn":"特拉帕尼",
     "state":"Trapani",
     "country":"Italy",
-    "case":61,
+    "case":81,
     "region":"Sicilia"
     }
   },
@@ -879,7 +781,7 @@
     "cn":"卡拉布里亚",
     "state":"Reggio di Calabria",
     "country":"Italy",
-    "case":140,
+    "case":218,
     "region":"Calabria"
     }
   },
@@ -893,7 +795,7 @@
     "cn":"巴勒莫",
     "state":"Palermo",
     "country":"Italy",
-    "case":218,
+    "case":290,
     "region":"Sicilia"
     }
   },
@@ -907,7 +809,7 @@
     "cn":"墨西拿",
     "state":"Messina",
     "country":"Italy",
-    "case":227,
+    "case":337,
     "region":"Sicilia"
     }
   },
@@ -921,7 +823,7 @@
     "cn":"韦伯巴伦提亚",
     "state":"Vibo Valentia",
     "country":"Italy",
-    "case":29,
+    "case":54,
     "region":"Calabria"
     }
   },
@@ -935,7 +837,7 @@
     "cn":"卡坦萨洛",
     "state":"Catanzaro",
     "country":"Italy",
-    "case":115,
+    "case":150,
     "region":"Calabria"
     }
   },
@@ -949,7 +851,7 @@
     "cn":"克罗托恩",
     "state":"Crotone",
     "country":"Italy",
-    "case":80,
+    "case":106,
     "region":"Calabria"
     }
   },
@@ -963,7 +865,7 @@
     "cn":"萨尔德尼亚",
     "state":"Sud Sardegna",
     "country":"Italy",
-    "case":50,
+    "case":63,
     "region":"Sardegna"
     }
   },
@@ -977,7 +879,7 @@
     "cn":"卡利亚里",
     "state":"Cagliari",
     "country":"Italy",
-    "case":83,
+    "case":134,
     "region":"Sardegna"
     }
   },
@@ -991,7 +893,7 @@
     "cn":"科森萨",
     "state":"Cosenza",
     "country":"Italy",
-    "case":128,
+    "case":203,
     "region":"Calabria"
     }
   },
@@ -1005,7 +907,7 @@
     "cn":"奥利斯塔诺",
     "state":"Oristano",
     "country":"Italy",
-    "case":9,
+    "case":19,
     "region":"Sardegna"
     }
   },
@@ -1019,7 +921,7 @@
     "cn":"",
     "state":"Nuoro",
     "country":"Italy",
-    "case":52,
+    "case":62,
     "region":"Sardegna"
     }
   },
@@ -1033,7 +935,7 @@
     "cn":"",
     "state":"Lecce",
     "country":"Italy",
-    "case":215,
+    "case":359,
     "region":"Puglia"
     }
   },
@@ -1047,7 +949,7 @@
     "cn":"塔兰托",
     "state":"Taranto",
     "country":"Italy",
-    "case":78,
+    "case":178,
     "region":"Puglia"
     }
   },
@@ -1061,7 +963,7 @@
     "cn":"布林迪西",
     "state":"Brindisi",
     "country":"Italy",
-    "case":125,
+    "case":218,
     "region":"Puglia"
     }
   },
@@ -1075,7 +977,7 @@
     "cn":"博腾撒",
     "state":"Potenza",
     "country":"Italy",
-    "case":98,
+    "case":137,
     "region":"Basilicata"
     }
   },
@@ -1089,7 +991,7 @@
     "cn":"马特拉",
     "state":"Matera",
     "country":"Italy",
-    "case":53,
+    "case":124,
     "region":"Basilicata"
     }
   },
@@ -1103,7 +1005,7 @@
     "cn":"萨勒莫",
     "state":"Salerno",
     "country":"Italy",
-    "case":244,
+    "case":400,
     "region":"Campania"
     }
   },
@@ -1117,7 +1019,7 @@
     "cn":"萨萨里",
     "state":"Sassari",
     "country":"Italy",
-    "case":336,
+    "case":547,
     "region":"Sardegna"
     }
   },
@@ -1131,7 +1033,7 @@
     "cn":"那不勒斯",
     "state":"Napoli",
     "country":"Italy",
-    "case":734,
+    "case":1428,
     "region":"Campania"
     }
   },
@@ -1145,7 +1047,7 @@
     "cn":"阿维里诺",
     "state":"Avellino",
     "country":"Italy",
-    "case":182,
+    "case":340,
     "region":"Campania"
     }
   },
@@ -1159,7 +1061,7 @@
     "cn":"卡瑟尔塔",
     "state":"Caserta",
     "country":"Italy",
-    "case":179,
+    "case":264,
     "region":"Campania"
     }
   },
@@ -1173,7 +1075,7 @@
     "cn":"巴里",
     "state":"Bari",
     "country":"Italy",
-    "case":444,
+    "case":741,
     "region":"Puglia"
     }
   },
@@ -1187,7 +1089,7 @@
     "cn":"本内文托",
     "state":"Benevento",
     "country":"Italy",
-    "case":15,
+    "case":85,
     "region":"Campania"
     }
   },
@@ -1201,7 +1103,7 @@
     "cn":"",
     "state":"Barletta-Andria-Trani",
     "country":"Italy",
-    "case":92,
+    "case":129,
     "region":"Puglia"
     }
   },
@@ -1215,7 +1117,7 @@
     "cn":"佛吉亚",
     "state":"Foggia",
     "country":"Italy",
-    "case":325,
+    "case":527,
     "region":"Puglia"
     }
   },
@@ -1229,7 +1131,7 @@
     "cn":"拉蒂娜",
     "state":"Latina",
     "country":"Italy",
-    "case":212,
+    "case":304,
     "region":"Lazio"
     }
   },
@@ -1243,7 +1145,7 @@
     "cn":"坎波巴索",
     "state":"Campobasso",
     "country":"Italy",
-    "case":91,
+    "case":149,
     "region":"Molise"
     }
   },
@@ -1257,7 +1159,7 @@
     "cn":"伊瑟尼亚",
     "state":"Isernia",
     "country":"Italy",
-    "case":9,
+    "case":15,
     "region":"Molise"
     }
   },
@@ -1271,7 +1173,7 @@
     "cn":"弗洛塞诺恩",
     "state":"Frosinone",
     "country":"Italy",
-    "case":191,
+    "case":354,
     "region":"Lazio"
     }
   },
@@ -1285,7 +1187,7 @@
     "cn":"罗马",
     "state":"Roma",
     "country":"Italy",
-    "case":1703,
+    "case":2503,
     "region":"Lazio"
     }
   },
@@ -1299,7 +1201,7 @@
     "cn":"",
     "state":"Chieti",
     "country":"Italy",
-    "case":189,
+    "case":310,
     "region":"Abruzzo"
     }
   },
@@ -1313,7 +1215,7 @@
     "cn":"",
     "state":"L'Aquila",
     "country":"Italy",
-    "case":75,
+    "case":166,
     "region":"Abruzzo"
     }
   },
@@ -1327,7 +1229,7 @@
     "cn":"",
     "state":"Rieti",
     "country":"Italy",
-    "case":43,
+    "case":188,
     "region":"Lazio"
     }
   },
@@ -1341,7 +1243,7 @@
     "cn":"维特尔波",
     "state":"Viterbo",
     "country":"Italy",
-    "case":124,
+    "case":226,
     "region":"Lazio"
     }
   },
@@ -1355,7 +1257,7 @@
     "cn":"佩斯卡拉",
     "state":"Pescara",
     "country":"Italy",
-    "case":476,
+    "case":669,
     "region":"Abruzzo"
     }
   },
@@ -1369,7 +1271,7 @@
     "cn":"特尔尼",
     "state":"Terni",
     "country":"Italy",
-    "case":195,
+    "case":257,
     "region":"Umbria"
     }
   },
@@ -1383,7 +1285,7 @@
     "cn":"特拉莫",
     "state":"Teramo",
     "country":"Italy",
-    "case":277,
+    "case":418,
     "region":"Abruzzo"
     }
   },
@@ -1397,7 +1299,7 @@
     "cn":"格罗塞托",
     "state":"Grosseto",
     "country":"Italy",
-    "case":174,
+    "case":264,
     "region":"Toscana"
     }
   },
@@ -1411,7 +1313,7 @@
     "cn":"皮赛罗",
     "state":"Ascoli Piceno",
     "country":"Italy",
-    "case":118,
+    "case":232,
     "region":"Marche"
     }
   },
@@ -1425,7 +1327,7 @@
     "cn":"配路基亚",
     "state":"Perugia",
     "country":"Italy",
-    "case":658,
+    "case":884,
     "region":"Umbria"
     }
   },
@@ -1439,7 +1341,7 @@
     "cn":"费尔默",
     "state":"Fermo",
     "country":"Italy",
-    "case":233,
+    "case":298,
     "region":"Marche"
     }
   },
@@ -1453,7 +1355,7 @@
     "cn":"马瑟拉塔",
     "state":"Macerata",
     "country":"Italy",
-    "case":411,
+    "case":561,
     "region":"Marche"
     }
   },
@@ -1467,7 +1369,7 @@
     "cn":"锡耶纳",
     "state":"Siena",
     "country":"Italy",
-    "case":216,
+    "case":337,
     "region":"Toscana"
     }
   },
@@ -1481,7 +1383,7 @@
     "cn":"阿勒索",
     "state":"Arezzo",
     "country":"Italy",
-    "case":249,
+    "case":358,
     "region":"Toscana"
     }
   },
@@ -1495,7 +1397,7 @@
     "cn":"利沃诺",
     "state":"Livorno",
     "country":"Italy",
-    "case":204,
+    "case":307,
     "region":"Toscana"
     }
   },
@@ -1509,7 +1411,7 @@
     "cn":"安科那",
     "state":"Ancona",
     "country":"Italy",
-    "case":905,
+    "case":1263,
     "region":"Marche"
     }
   },
@@ -1523,7 +1425,7 @@
     "cn":"比萨",
     "state":"Pisa",
     "country":"Italy",
-    "case":350,
+    "case":519,
     "region":"Toscana"
     }
   },
@@ -1537,7 +1439,7 @@
     "cn":"",
     "state":"Firenze",
     "country":"Italy",
-    "case":764,
+    "case":1543,
     "region":"Toscana"
     }
   },
@@ -1551,7 +1453,7 @@
     "cn":"卢卡",
     "state":"Lucca",
     "country":"Italy",
-    "case":481,
+    "case":843,
     "region":"Toscana"
     }
   },
@@ -1565,7 +1467,7 @@
     "cn":"布拉托",
     "state":"Prato",
     "country":"Italy",
-    "case":189,
+    "case":323,
     "region":"Toscana"
     }
   },
@@ -1579,7 +1481,7 @@
     "cn":"恩培利亚",
     "state":"Imperia",
     "country":"Italy",
-    "case":214,
+    "case":223,
     "region":"Liguria"
     }
   },
@@ -1593,7 +1495,7 @@
     "cn":"",
     "state":"Pesaro e Urbino",
     "country":"Italy",
-    "case":1475,
+    "case":1786,
     "region":"Marche"
     }
   },
@@ -1607,7 +1509,7 @@
     "cn":"皮斯托亚",
     "state":"Pistoia",
     "country":"Italy",
-    "case":264,
+    "case":361,
     "region":"Toscana"
     }
   },
@@ -1621,7 +1523,7 @@
     "cn":"",
     "state":"Massa Carrara",
     "country":"Italy",
-    "case":334,
+    "case":644,
     "region":"Toscana"
     }
   },
@@ -1635,7 +1537,7 @@
     "cn":"",
     "state":"Rimini",
     "country":"Italy",
-    "case":1264,
+    "case":1511,
     "region":"Emilia Romagna"
     }
   },
@@ -1649,7 +1551,7 @@
     "cn":"",
     "state":"La Spezia",
     "country":"Italy",
-    "case":213,
+    "case":323,
     "region":"Liguria"
     }
   },
@@ -1663,7 +1565,7 @@
     "cn":"",
     "state":"Forlì-Cesena",
     "country":"Italy",
-    "case":580,
+    "case":866,
     "region":"Emilia Romagna"
     }
   },
@@ -1677,7 +1579,7 @@
     "cn":"萨沃纳",
     "state":"Savona",
     "country":"Italy",
-    "case":223,
+    "case":264,
     "region":"Liguria"
     }
   },
@@ -1691,7 +1593,7 @@
     "cn":"库内奥",
     "state":"Cuneo",
     "country":"Italy",
-    "case":518,
+    "case":850,
     "region":"Piemonte"
     }
   },
@@ -1705,7 +1607,7 @@
     "cn":"热那亚",
     "state":"Genova",
     "country":"Italy",
-    "case":817,
+    "case":1180,
     "region":"Liguria"
     }
   },
@@ -1719,7 +1621,7 @@
     "cn":"拉文那",
     "state":"Ravenna",
     "country":"Italy",
-    "case":488,
+    "case":656,
     "region":"Emilia Romagna"
     }
   },
@@ -1733,7 +1635,7 @@
     "cn":"博洛尼亚",
     "state":"Bologna",
     "country":"Italy",
-    "case":1413,
+    "case":2339,
     "region":"Emilia Romagna"
     }
   },
@@ -1747,7 +1649,7 @@
     "cn":"默德纳",
     "state":"Modena",
     "country":"Italy",
-    "case":1772,
+    "case":2498,
     "region":"Emilia Romagna"
     }
   },
@@ -1761,7 +1663,7 @@
     "cn":"",
     "state":"Reggio nell'Emilia",
     "country":"Italy",
-    "case":1861,
+    "case":2800,
     "region":"Emilia Romagna"
     }
   },
@@ -1775,7 +1677,7 @@
     "cn":"帕尔马",
     "state":"Parma",
     "country":"Italy",
-    "case":1690,
+    "case":2083,
     "region":"Emilia Romagna"
     }
   },
@@ -1789,7 +1691,7 @@
     "cn":"费拉拉",
     "state":"Ferrara",
     "country":"Italy",
-    "case":244,
+    "case":368,
     "region":"Emilia Romagna"
     }
   },
@@ -1803,7 +1705,7 @@
     "cn":"阿斯提",
     "state":"Asti",
     "country":"Italy",
-    "case":303,
+    "case":523,
     "region":"Piemonte"
     }
   },
@@ -1817,7 +1719,7 @@
     "cn":"",
     "state":"Alessandria",
     "country":"Italy",
-    "case":1106,
+    "case":1491,
     "region":"Piemonte"
     }
   },
@@ -1831,7 +1733,7 @@
     "cn":"",
     "state":"Piacenza",
     "country":"Italy",
-    "case":2276,
+    "case":2811,
     "region":"Emilia Romagna"
     }
   },
@@ -1845,7 +1747,7 @@
     "cn":"",
     "state":"Rovigo",
     "country":"Italy",
-    "case":122,
+    "case":180,
     "region":"Veneto"
     }
   },
@@ -1859,7 +1761,7 @@
     "cn":"都灵",
     "state":"Torino",
     "country":"Italy",
-    "case":3361,
+    "case":5295,
     "region":"Piemonte"
     }
   },
@@ -1873,7 +1775,7 @@
     "cn":"",
     "state":"Cremona",
     "country":"Italy",
-    "case":3496,
+    "case":4097,
     "region":"Lombardia"
     }
   },
@@ -1887,7 +1789,7 @@
     "cn":"蒙托瓦",
     "state":"Mantova",
     "country":"Italy",
-    "case":1398,
+    "case":1884,
     "region":"Lombardia"
     }
   },
@@ -1901,7 +1803,7 @@
     "cn":"帕维亚",
     "state":"Pavia",
     "country":"Italy",
-    "case":1712,
+    "case":2331,
     "region":"Lombardia"
     }
   },
@@ -1915,7 +1817,7 @@
     "cn":"罗蒂",
     "state":"Lodi",
     "country":"Italy",
-    "case":2006,
+    "case":2214,
     "region":"Lombardia"
     }
   },
@@ -1929,7 +1831,7 @@
     "cn":"",
     "state":"Vercelli",
     "country":"Italy",
-    "case":358,
+    "case":565,
     "region":"Piemonte"
     }
   },
@@ -1943,7 +1845,7 @@
     "cn":"",
     "state":"Padova",
     "country":"Italy",
-    "case":1891,
+    "case":2553,
     "region":"Veneto"
     }
   },
@@ -1957,7 +1859,7 @@
     "cn":"威尼斯",
     "state":"Venezia",
     "country":"Italy",
-    "case":955,
+    "case":1321,
     "region":"Veneto"
     }
   },
@@ -1971,7 +1873,7 @@
     "cn":"维罗纳",
     "state":"Verona",
     "country":"Italy",
-    "case":1645,
+    "case":2488,
     "region":"Veneto"
     }
   },
@@ -1985,7 +1887,7 @@
     "cn":"诺瓦拉",
     "state":"Novara",
     "country":"Italy",
-    "case":609,
+    "case":930,
     "region":"Piemonte"
     }
   },
@@ -1999,7 +1901,7 @@
     "cn":"米兰",
     "state":"Milano",
     "country":"Italy",
-    "case":7469,
+    "case":10391,
     "region":"Lombardia"
     }
   },
@@ -2013,7 +1915,7 @@
     "cn":"布雷西亚",
     "state":"Brescia",
     "country":"Italy",
-    "case":7305,
+    "case":9014,
     "region":"Lombardia"
     }
   },
@@ -2027,7 +1929,7 @@
     "cn":"",
     "state":"Vicenza",
     "country":"Italy",
-    "case":966,
+    "case":1514,
     "region":"Veneto"
     }
   },
@@ -2041,7 +1943,7 @@
     "cn":"",
     "state":"Biella",
     "country":"Italy",
-    "case":367,
+    "case":542,
     "region":"Piemonte"
     }
   },
@@ -2055,7 +1957,7 @@
     "cn":"",
     "state":"Monza e della Brianza",
     "country":"Italy",
-    "case":1948,
+    "case":2774,
     "region":"Lombardia"
     }
   },
@@ -2069,7 +1971,7 @@
     "cn":"",
     "state":"Trieste",
     "country":"Italy",
-    "case":411,
+    "case":629,
     "region":"Friuli Venezia Giulia"
     }
   },
@@ -2083,7 +1985,7 @@
     "cn":"",
     "state":"Treviso",
     "country":"Italy",
-    "case":1310,
+    "case":1657,
     "region":"Veneto"
     }
   },
@@ -2097,7 +1999,7 @@
     "cn":"",
     "state":"Bergamo",
     "country":"Italy",
-    "case":8060,
+    "case":9315,
     "region":"Lombardia"
     }
   },
@@ -2111,7 +2013,7 @@
     "cn":"",
     "state":"Aosta",
     "country":"Italy",
-    "case":452,
+    "case":719,
     "region":"Valle d'Aosta"
     }
   },
@@ -2125,7 +2027,7 @@
     "cn":"科莫",
     "state":"Como",
     "country":"Italy",
-    "case":816,
+    "case":1256,
     "region":"Lombardia"
     }
   },
@@ -2139,7 +2041,7 @@
     "cn":"瓦雷斯",
     "state":"Varese",
     "country":"Italy",
-    "case":711,
+    "case":1085,
     "region":"Lombardia"
     }
   },
@@ -2153,7 +2055,7 @@
     "cn":"",
     "state":"Lecco",
     "country":"Italy",
-    "case":1210,
+    "case":1594,
     "region":"Lombardia"
     }
   },
@@ -2167,7 +2069,7 @@
     "cn":"",
     "state":"Verbano-Cusio-Ossola",
     "country":"Italy",
-    "case":288,
+    "case":505,
     "region":"Piemonte"
     }
   },
@@ -2181,7 +2083,7 @@
     "cn":"",
     "state":"Gorizia",
     "country":"Italy",
-    "case":79,
+    "case":111,
     "region":"Friuli Venezia Giulia"
     }
   },
@@ -2195,7 +2097,7 @@
     "cn":"",
     "state":"Pordenone",
     "country":"Italy",
-    "case":332,
+    "case":452,
     "region":"Friuli Venezia Giulia"
     }
   },
@@ -2209,7 +2111,7 @@
     "cn":"乌迪内",
     "state":"Udine",
     "country":"Italy",
-    "case":487,
+    "case":681,
     "region":"Friuli Venezia Giulia"
     }
   },
@@ -2223,7 +2125,7 @@
     "cn":"特伦托",
     "state":"Trento",
     "country":"Italy",
-    "case":1391,
+    "case":2109,
     "region":"P.A. Trento"
     }
   },
@@ -2237,7 +2139,7 @@
     "cn":"",
     "state":"Belluno",
     "country":"Italy",
-    "case":329,
+    "case":499,
     "region":"Veneto"
     }
   },
@@ -2251,7 +2153,7 @@
     "cn":"桑德里奥",
     "state":"Sondrio",
     "country":"Italy",
-    "case":362,
+    "case":537,
     "region":"Lombardia"
     }
   },
@@ -2265,7 +2167,7 @@
     "cn":"博尔萨诺",
     "state":"Bolzano",
     "country":"Italy",
-    "case":1003,
+    "case":1559,
     "region":"P.A. Bolzano"
     }
   }
