@@ -9,7 +9,7 @@
     },
     "properties": {
     "county":"Hartlepool",
-    "case":6
+    "case":23
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "properties": {
     "county":"Middlesbrough",
-    "case":17
+    "case":92
     }
   },
   {
@@ -31,7 +31,7 @@
     },
     "properties": {
     "county":"Redcar and Cleveland",
-    "case":13
+    "case":64
     }
   },
   {
@@ -42,7 +42,7 @@
     },
     "properties": {
     "county":"Stockton-on-Tees",
-    "case":24
+    "case":77
     }
   },
   {
@@ -53,7 +53,7 @@
     },
     "properties": {
     "county":"Darlington",
-    "case":11
+    "case":32
     }
   },
   {
@@ -64,7 +64,7 @@
     },
     "properties": {
     "county":"Halton",
-    "case":10
+    "case":51
     }
   },
   {
@@ -75,7 +75,7 @@
     },
     "properties": {
     "county":"Warrington",
-    "case":15
+    "case":82
     }
   },
   {
@@ -86,7 +86,7 @@
     },
     "properties": {
     "county":"Blackburn with Darwen",
-    "case":7
+    "case":43
     }
   },
   {
@@ -97,7 +97,7 @@
     },
     "properties": {
     "county":"Blackpool",
-    "case":9
+    "case":41
     }
   },
   {
@@ -108,7 +108,7 @@
     },
     "properties": {
     "county":"Kingston upon Hull, City of",
-    "case":5
+    "case":21
     }
   },
   {
@@ -119,7 +119,7 @@
     },
     "properties": {
     "county":"East Riding of Yorkshire",
-    "case":23
+    "case":72
     }
   },
   {
@@ -130,7 +130,7 @@
     },
     "properties": {
     "county":"North East Lincolnshire",
-    "case":5
+    "case":29
     }
   },
   {
@@ -141,7 +141,7 @@
     },
     "properties": {
     "county":"North Lincolnshire",
-    "case":6
+    "case":29
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "properties": {
     "county":"York",
-    "case":17
+    "case":57
     }
   },
   {
@@ -163,7 +163,7 @@
     },
     "properties": {
     "county":"Derby",
-    "case":77
+    "case":187
     }
   },
   {
@@ -174,7 +174,7 @@
     },
     "properties": {
     "county":"Leicester",
-    "case":61
+    "case":149
     }
   },
   {
@@ -185,7 +185,7 @@
     },
     "properties": {
     "county":"Rutland",
-    "case":0
+    "case":6
     }
   },
   {
@@ -196,7 +196,7 @@
     },
     "properties": {
     "county":"Nottingham",
-    "case":79
+    "case":161
     }
   },
   {
@@ -207,7 +207,7 @@
     },
     "properties": {
     "county":"Herefordshire, County of",
-    "case":23
+    "case":51
     }
   },
   {
@@ -218,7 +218,7 @@
     },
     "properties": {
     "county":"Telford and Wrekin",
-    "case":21
+    "case":62
     }
   },
   {
@@ -229,7 +229,7 @@
     },
     "properties": {
     "county":"Stoke-on-Trent",
-    "case":21
+    "case":76
     }
   },
   {
@@ -240,7 +240,7 @@
     },
     "properties": {
     "county":"Bath and North East Somerset",
-    "case":26
+    "case":52
     }
   },
   {
@@ -251,7 +251,7 @@
     },
     "properties": {
     "county":"Bristol, City of",
-    "case":56
+    "case":156
     }
   },
   {
@@ -262,7 +262,7 @@
     },
     "properties": {
     "county":"North Somerset",
-    "case":24
+    "case":58
     }
   },
   {
@@ -273,7 +273,7 @@
     },
     "properties": {
     "county":"South Gloucestershire",
-    "case":37
+    "case":104
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "properties": {
     "county":"Plymouth",
-    "case":32
+    "case":71
     }
   },
   {
@@ -295,7 +295,7 @@
     },
     "properties": {
     "county":"Torbay",
-    "case":23
+    "case":51
     }
   },
   {
@@ -328,7 +328,7 @@
     },
     "properties": {
     "county":"Swindon",
-    "case":16
+    "case":44
     }
   },
   {
@@ -339,7 +339,7 @@
     },
     "properties": {
     "county":"Peterborough",
-    "case":11
+    "case":48
     }
   },
   {
@@ -350,7 +350,7 @@
     },
     "properties": {
     "county":"Windsor and Maidenhead",
-    "case":37
+    "case":76
     }
   },
   {
@@ -361,7 +361,7 @@
     },
     "properties": {
     "county":"Wokingham",
-    "case":22
+    "case":69
     }
   },
   {
@@ -372,7 +372,7 @@
     },
     "properties": {
     "county":"Milton Keynes",
-    "case":58
+    "case":141
     }
   },
   {
@@ -383,7 +383,7 @@
     },
     "properties": {
     "county":"Brighton and Hove",
-    "case":33
+    "case":71
     }
   },
   {
@@ -394,7 +394,7 @@
     },
     "properties": {
     "county":"Portsmouth",
-    "case":50
+    "case":85
     }
   },
   {
@@ -405,7 +405,7 @@
     },
     "properties": {
     "county":"Luton",
-    "case":47
+    "case":116
     }
   },
   {
@@ -416,7 +416,7 @@
     },
     "properties": {
     "county":"Southend-on-Sea",
-    "case":17
+    "case":76
     }
   },
   {
@@ -427,7 +427,7 @@
     },
     "properties": {
     "county":"Thurrock",
-    "case":26
+    "case":83
     }
   },
   {
@@ -438,7 +438,7 @@
     },
     "properties": {
     "county":"Medway",
-    "case":48
+    "case":116
     }
   },
   {
@@ -449,7 +449,7 @@
     },
     "properties": {
     "county":"Bracknell Forest",
-    "case":16
+    "case":36
     }
   },
   {
@@ -460,7 +460,7 @@
     },
     "properties": {
     "county":"West Berkshire",
-    "case":32
+    "case":69
     }
   },
   {
@@ -471,7 +471,7 @@
     },
     "properties": {
     "county":"Southampton",
-    "case":37
+    "case":128
     }
   },
   {
@@ -482,7 +482,7 @@
     },
     "properties": {
     "county":"Isle of Wight",
-    "case":8
+    "case":19
     }
   },
   {
@@ -493,7 +493,7 @@
     },
     "properties": {
     "county":"County Durham",
-    "case":56
+    "case":198
     }
   },
   {
@@ -504,7 +504,7 @@
     },
     "properties": {
     "county":"Cheshire East",
-    "case":35
+    "case":111
     }
   },
   {
@@ -515,7 +515,7 @@
     },
     "properties": {
     "county":"Cheshire West and Chester",
-    "case":25
+    "case":116
     }
   },
   {
@@ -526,7 +526,7 @@
     },
     "properties": {
     "county":"Shropshire",
-    "case":53
+    "case":120
     }
   },
   {
@@ -537,7 +537,7 @@
     },
     "properties": {
     "county":"Cornwall",
-    "case":48
+    "case":125
     }
   },
   {
@@ -559,7 +559,7 @@
     },
     "properties": {
     "county":"Wiltshire",
-    "case":54
+    "case":110
     }
   },
   {
@@ -570,7 +570,7 @@
     },
     "properties": {
     "county":"Bedford",
-    "case":20
+    "case":74
     }
   },
   {
@@ -581,7 +581,7 @@
     },
     "properties": {
     "county":"Central Bedfordshire",
-    "case":42
+    "case":99
     }
   },
   {
@@ -592,7 +592,7 @@
     },
     "properties": {
     "county":"Northumberland",
-    "case":45
+    "case":142
     }
   },
   {
@@ -603,7 +603,7 @@
     },
     "properties": {
     "county":"Bolton",
-    "case":27
+    "case":80
     }
   },
   {
@@ -614,7 +614,7 @@
     },
     "properties": {
     "county":"Bury",
-    "case":30
+    "case":102
     }
   },
   {
@@ -625,7 +625,7 @@
     },
     "properties": {
     "county":"Manchester",
-    "case":63
+    "case":224
     }
   },
   {
@@ -636,7 +636,7 @@
     },
     "properties": {
     "county":"Oldham",
-    "case":51
+    "case":149
     }
   },
   {
@@ -647,7 +647,7 @@
     },
     "properties": {
     "county":"Rochdale",
-    "case":40
+    "case":126
     }
   },
   {
@@ -658,7 +658,7 @@
     },
     "properties": {
     "county":"Salford",
-    "case":58
+    "case":190
     }
   },
   {
@@ -669,7 +669,7 @@
     },
     "properties": {
     "county":"Stockport",
-    "case":59
+    "case":156
     }
   },
   {
@@ -680,7 +680,7 @@
     },
     "properties": {
     "county":"Tameside",
-    "case":43
+    "case":109
     }
   },
   {
@@ -691,7 +691,7 @@
     },
     "properties": {
     "county":"Trafford",
-    "case":53
+    "case":139
     }
   },
   {
@@ -702,7 +702,7 @@
     },
     "properties": {
     "county":"Wigan",
-    "case":21
+    "case":110
     }
   },
   {
@@ -713,7 +713,7 @@
     },
     "properties": {
     "county":"Knowsley",
-    "case":15
+    "case":89
     }
   },
   {
@@ -724,7 +724,7 @@
     },
     "properties": {
     "county":"Liverpool",
-    "case":100
+    "case":342
     }
   },
   {
@@ -735,7 +735,7 @@
     },
     "properties": {
     "county":"St. Helens",
-    "case":32
+    "case":122
     }
   },
   {
@@ -746,7 +746,7 @@
     },
     "properties": {
     "county":"Sefton",
-    "case":30
+    "case":142
     }
   },
   {
@@ -757,7 +757,7 @@
     },
     "properties": {
     "county":"Wirral",
-    "case":32
+    "case":130
     }
   },
   {
@@ -768,7 +768,7 @@
     },
     "properties": {
     "county":"Barnsley",
-    "case":42
+    "case":154
     }
   },
   {
@@ -779,7 +779,7 @@
     },
     "properties": {
     "county":"Doncaster",
-    "case":24
+    "case":116
     }
   },
   {
@@ -790,7 +790,7 @@
     },
     "properties": {
     "county":"Rotherham",
-    "case":39
+    "case":154
     }
   },
   {
@@ -801,7 +801,7 @@
     },
     "properties": {
     "county":"Reading",
-    "case":25
+    "case":67
     }
   },
   {
@@ -812,7 +812,7 @@
     },
     "properties": {
     "county":"Slough",
-    "case":59
+    "case":117
     }
   },
   {
@@ -823,7 +823,7 @@
     },
     "properties": {
     "county":"Sheffield",
-    "case":286
+    "case":715
     }
   },
   {
@@ -834,7 +834,7 @@
     },
     "properties": {
     "county":"Newcastle upon Tyne",
-    "case":121
+    "case":284
     }
   },
   {
@@ -845,7 +845,7 @@
     },
     "properties": {
     "county":"North Tyneside",
-    "case":36
+    "case":133
     }
   },
   {
@@ -856,7 +856,7 @@
     },
     "properties": {
     "county":"South Tyneside",
-    "case":19
+    "case":56
     }
   },
   {
@@ -867,7 +867,7 @@
     },
     "properties": {
     "county":"Sunderland",
-    "case":55
+    "case":152
     }
   },
   {
@@ -878,7 +878,7 @@
     },
     "properties": {
     "county":"Birmingham",
-    "case":366
+    "case":984
     }
   },
   {
@@ -889,7 +889,7 @@
     },
     "properties": {
     "county":"Coventry",
-    "case":47
+    "case":188
     }
   },
   {
@@ -900,7 +900,7 @@
     },
     "properties": {
     "county":"Dudley",
-    "case":81
+    "case":226
     }
   },
   {
@@ -911,7 +911,7 @@
     },
     "properties": {
     "county":"Sandwell",
-    "case":103
+    "case":252
     }
   },
   {
@@ -922,7 +922,7 @@
     },
     "properties": {
     "county":"Solihull",
-    "case":39
+    "case":164
     }
   },
   {
@@ -933,7 +933,7 @@
     },
     "properties": {
     "county":"Walsall",
-    "case":100
+    "case":270
     }
   },
   {
@@ -944,7 +944,7 @@
     },
     "properties": {
     "county":"Wolverhampton",
-    "case":128
+    "case":251
     }
   },
   {
@@ -955,7 +955,7 @@
     },
     "properties": {
     "county":"Bradford",
-    "case":29
+    "case":135
     }
   },
   {
@@ -966,7 +966,7 @@
     },
     "properties": {
     "county":"Calderdale",
-    "case":11
+    "case":69
     }
   },
   {
@@ -977,7 +977,7 @@
     },
     "properties": {
     "county":"Kirklees",
-    "case":33
+    "case":142
     }
   },
   {
@@ -988,7 +988,7 @@
     },
     "properties": {
     "county":"Leeds",
-    "case":80
+    "case":219
     }
   },
   {
@@ -999,7 +999,7 @@
     },
     "properties": {
     "county":"Wakefield",
-    "case":34
+    "case":105
     }
   },
   {
@@ -1010,7 +1010,7 @@
     },
     "properties": {
     "county":"Gateshead",
-    "case":23
+    "case":108
     }
   },
   {
@@ -1032,7 +1032,7 @@
     },
     "properties": {
     "county":"Barking and Dagenham",
-    "case":82
+    "case":178
     }
   },
   {
@@ -1043,7 +1043,7 @@
     },
     "properties": {
     "county":"Barnet",
-    "case":115
+    "case":547
     }
   },
   {
@@ -1054,7 +1054,7 @@
     },
     "properties": {
     "county":"Bexley",
-    "case":85
+    "case":217
     }
   },
   {
@@ -1065,7 +1065,7 @@
     },
     "properties": {
     "county":"Greenwich",
-    "case":128
+    "case":277
     }
   },
   {
@@ -1076,7 +1076,7 @@
     },
     "properties": {
     "county":"Brent",
-    "case":265
+    "case":601
     }
   },
   {
@@ -1087,7 +1087,7 @@
     },
     "properties": {
     "county":"Bromley",
-    "case":188
+    "case":405
     }
   },
   {
@@ -1098,7 +1098,7 @@
     },
     "properties": {
     "county":"Camden",
-    "case":99
+    "case":244
     }
   },
   {
@@ -1109,7 +1109,7 @@
     },
     "properties": {
     "county":"Croydon",
-    "case":219
+    "case":497
     }
   },
   {
@@ -1120,7 +1120,7 @@
     },
     "properties": {
     "county":"Ealing",
-    "case":209
+    "case":414
     }
   },
   {
@@ -1285,7 +1285,7 @@
     },
     "properties": {
     "county":"Enfield",
-    "case":136
+    "case":282
     }
   },
   {
@@ -1296,7 +1296,7 @@
     },
     "properties": {
     "county":"Hackney",
-    "case":134
+    "case":298
     }
   },
   {
@@ -1307,7 +1307,7 @@
     },
     "properties": {
     "county":"Hammersmith and Fulham",
-    "case":112
+    "case":207
     }
   },
   {
@@ -1318,7 +1318,7 @@
     },
     "properties": {
     "county":"Haringey",
-    "case":113
+    "case":233
     }
   },
   {
@@ -1329,7 +1329,7 @@
     },
     "properties": {
     "county":"Harrow",
-    "case":196
+    "case":401
     }
   },
   {
@@ -1340,7 +1340,7 @@
     },
     "properties": {
     "county":"Havering",
-    "case":82
+    "case":183
     }
   },
   {
@@ -1351,7 +1351,7 @@
     },
     "properties": {
     "county":"Hillingdon",
-    "case":129
+    "case":274
     }
   },
   {
@@ -1362,7 +1362,7 @@
     },
     "properties": {
     "county":"Hounslow",
-    "case":126
+    "case":253
     }
   },
   {
@@ -1373,7 +1373,7 @@
     },
     "properties": {
     "county":"Islington",
-    "case":120
+    "case":210
     }
   },
   {
@@ -1384,7 +1384,7 @@
     },
     "properties": {
     "county":"Kensington and Chelsea",
-    "case":116
+    "case":222
     }
   },
   {
@@ -1395,7 +1395,7 @@
     },
     "properties": {
     "county":"Kingston upon Thames",
-    "case":52
+    "case":140
     }
   },
   {
@@ -1406,7 +1406,7 @@
     },
     "properties": {
     "county":"Lambeth",
-    "case":276
+    "case":563
     }
   },
   {
@@ -1417,7 +1417,7 @@
     },
     "properties": {
     "county":"Lewisham",
-    "case":158
+    "case":401
     }
   },
   {
@@ -1428,7 +1428,7 @@
     },
     "properties": {
     "county":"Merton",
-    "case":128
+    "case":262
     }
   },
   {
@@ -1439,7 +1439,7 @@
     },
     "properties": {
     "county":"Newham",
-    "case":148
+    "case":409
     }
   },
   {
@@ -1450,7 +1450,7 @@
     },
     "properties": {
     "county":"Redbridge",
-    "case":115
+    "case":247
     }
   },
   {
@@ -1461,7 +1461,7 @@
     },
     "properties": {
     "county":"Richmond upon Thames",
-    "case":68
+    "case":167
     }
   },
   {
@@ -1472,7 +1472,7 @@
     },
     "properties": {
     "county":"Southwark",
-    "case":290
+    "case":566
     }
   },
   {
@@ -1483,7 +1483,7 @@
     },
     "properties": {
     "county":"Sutton",
-    "case":69
+    "case":197
     }
   },
   {
@@ -1494,7 +1494,7 @@
     },
     "properties": {
     "county":"Tower Hamlets",
-    "case":129
+    "case":287
     }
   },
   {
@@ -1505,7 +1505,7 @@
     },
     "properties": {
     "county":"Waltham Forest",
-    "case":130
+    "case":309
     }
   },
   {
@@ -1516,7 +1516,7 @@
     },
     "properties": {
     "county":"Wandsworth",
-    "case":228
+    "case":434
     }
   },
   {
@@ -1527,7 +1527,7 @@
     },
     "properties": {
     "county":"Westminster",
-    "case":189
+    "case":322
     }
   },
   {
@@ -1538,7 +1538,7 @@
     },
     "properties": {
     "county":"Buckinghamshire",
-    "case":106
+    "case":222
     }
   },
   {
@@ -1549,7 +1549,7 @@
     },
     "properties": {
     "county":"Cambridgeshire",
-    "case":68
+    "case":172
     }
   },
   {
@@ -1560,7 +1560,7 @@
     },
     "properties": {
     "county":"Cumbria",
-    "case":211
+    "case":564
     }
   },
   {
@@ -1571,7 +1571,7 @@
     },
     "properties": {
     "county":"Derbyshire",
-    "case":170
+    "case":383
     }
   },
   {
@@ -1582,7 +1582,7 @@
     },
     "properties": {
     "county":"Devon",
-    "case":65
+    "case":163
     }
   },
   {
@@ -1604,7 +1604,7 @@
     },
     "properties": {
     "county":"East Sussex",
-    "case":39
+    "case":129
     }
   },
   {
@@ -1615,7 +1615,7 @@
     },
     "properties": {
     "county":"Essex",
-    "case":166
+    "case":547
     }
   },
   {
@@ -1626,7 +1626,7 @@
     },
     "properties": {
     "county":"Gloucestershire",
-    "case":78
+    "case":224
     }
   },
   {
@@ -1637,7 +1637,7 @@
     },
     "properties": {
     "county":"Hampshire",
-    "case":317
+    "case":749
     }
   },
   {
@@ -1648,7 +1648,7 @@
     },
     "properties": {
     "county":"Hertfordshire",
-    "case":206
+    "case":637
     }
   },
   {
@@ -1659,7 +1659,7 @@
     },
     "properties": {
     "county":"Kent",
-    "case":182
+    "case":621
     }
   },
   {
@@ -1670,7 +1670,7 @@
     },
     "properties": {
     "county":"Lancashire",
-    "case":141
+    "case":536
     }
   },
   {
@@ -1681,7 +1681,7 @@
     },
     "properties": {
     "county":"Leicestershire",
-    "case":128
+    "case":267
     }
   },
   {
@@ -1692,7 +1692,7 @@
     },
     "properties": {
     "county":"Lincolnshire",
-    "case":39
+    "case":182
     }
   },
   {
@@ -1703,7 +1703,7 @@
     },
     "properties": {
     "county":"Norfolk",
-    "case":70
+    "case":225
     }
   },
   {
@@ -1714,7 +1714,7 @@
     },
     "properties": {
     "county":"Northamptonshire",
-    "case":86
+    "case":264
     }
   },
   {
@@ -1725,7 +1725,7 @@
     },
     "properties": {
     "county":"North Yorkshire",
-    "case":69
+    "case":193
     }
   },
   {
@@ -1736,7 +1736,7 @@
     },
     "properties": {
     "county":"Nottinghamshire",
-    "case":135
+    "case":336
     }
   },
   {
@@ -1747,7 +1747,7 @@
     },
     "properties": {
     "county":"Oxfordshire",
-    "case":113
+    "case":315
     }
   },
   {
@@ -1758,7 +1758,7 @@
     },
     "properties": {
     "county":"Somerset",
-    "case":25
+    "case":72
     }
   },
   {
@@ -1769,7 +1769,7 @@
     },
     "properties": {
     "county":"Staffordshire",
-    "case":145
+    "case":439
     }
   },
   {
@@ -1780,7 +1780,7 @@
     },
     "properties": {
     "county":"Suffolk",
-    "case":61
+    "case":161
     }
   },
   {
@@ -1791,7 +1791,7 @@
     },
     "properties": {
     "county":"Surrey",
-    "case":271
+    "case":649
     }
   },
   {
@@ -1802,7 +1802,7 @@
     },
     "properties": {
     "county":"Warwickshire",
-    "case":101
+    "case":279
     }
   },
   {
@@ -1813,7 +1813,7 @@
     },
     "properties": {
     "county":"West Sussex",
-    "case":86
+    "case":199
     }
   },
   {
@@ -1824,7 +1824,7 @@
     },
     "properties": {
     "county":"Worcestershire",
-    "case":93
+    "case":277
     }
   },
   {
