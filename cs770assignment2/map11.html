@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>2019-nCoV Map</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="shortcut icon" type="../image/x-icon" href="../docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+		<link rel="stylesheet" href="../ncov/style.css">
+    <script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA==" crossorigin=""></script>
+		<script src="../anomaly/js/leaflet.ajax.min.js"></script>
+
+		<style>
+		#mapid {
+			width: 100%;
+		}
+		.leaflet-popup-content-wrapper {
+	    background: #2ca25f;
+			color: white;
+			font-family:  Georgia;
+		  font-size: 16px;
+		  line-height: 24px;
+		  border-radius: 0;
+			opacity: 0.7;
+		}
+		.leaflet-popup-content {
+			margin: 5px;
+		}
+		.leaflet-popup-tip {
+			background: #2ca25f;
+			opacity: 0.7;
+			border: none;
+			box-shadow: none;
+		}
+		.leaflet-popup-tip-container {
+		  width: 50px;
+		  height: 15px;
+		}
+
+		/*another-popop style*/
+.another-popup .leaflet-popup-content-wrapper {
+  background: #9c1309;
+  color: white;
+	font-family:  Georgia;
+	opacity: 0.7;
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 0;
+}
+.another-popup.leaflet-popup-content {
+	margin: 5px;
+}
+.another-popup .leaflet-popup-tip-container {
+  width: 50px;
+  height: 15px;
+}
+.another-popup .leaflet-popup-tip {
+  background: #9c1309;
+	opacity: 0.7;
+  border: none;
+  box-shadow: none;
+}
+
+/*another-popop style*/
+.another-popup2 .leaflet-popup-content-wrapper {
+background: #756bb1;
+color: white;
+font-family: : Georgia;
+opacity: 0.7;
+font-size: 16px;
+line-height: 24px;
+border-radius: 0;
+}
+.another-popup2.leaflet-popup-content {
+margin: 5px;
+}
+.another-popup2 .leaflet-popup-tip-container {
+width: 50px;
+height: 15px;
+}
+.another-popup2 .leaflet-popup-tip {
+background: #756bb1;
+opacity: 0.7;
+border: none;
+box-shadow: none;
+}
+
+/*another-popop style*/
+.another-popup3 .leaflet-popup-content-wrapper {
+background: #3182bd;
+color: white;
+font-family:  Georgia;
+opacity: 0.7;
+font-size: 16px;
+line-height: 24px;
+border-radius: 0;
+}
+.another-popup3.leaflet-popup-content {
+margin: 5px;
+}
+.another-popup3 .leaflet-popup-tip-container {
+width: 50px;
+height: 15px;
+}
+.another-popup3 .leaflet-popup-tip {
+background: #3182bd;
+opacity: 0.7;
+border: none;
+box-shadow: none;
+}
+
+/*another-popop style*/
+.another-popup4 .leaflet-popup-content-wrapper {
+background: yellow;
+color: red;
+font-family:  Georgia;
+opacity: 0.7;
+font-size: 16px;
+line-height: 24px;
+border-radius: 0;
+}
+.another-popup4.leaflet-popup-content {
+margin: 5px;
+}
+.another-popup4 .leaflet-popup-tip-container {
+width: 50px;
+height: 15px;
+}
+.another-popup4 .leaflet-popup-tip {
+background: yellow;
+opacity: 0.7;
+border: none;
+box-shadow: none;
+}
+
+/*leaflet layer control*/
+.leaflet-control-layers-toggle{
+    width:auto;
+		background-color: #e3cea8;
+		background-size: 20px 20px;
+    text-decoration:none;
+    line-height:36px;
+		font-family:  Georgia;
+}
+.leaflet-control-layers-expanded {
+  color: white;
+	background-color: black;
+	text-align: left;
+	font-family:  Georgia;
+	font-size: 10pt;
+}
+
+.leaflet-control-zoomControl-toggle {
+	color: black;
+	background-size: 20px 20px;
+  }
+
+
+
+		</style>
+
+
+</head>
+<body>
+
+
+<div id="about">
+<div id ="intro"><center><h3>USA COVID-19 Map</h3>
+
+</center></div>
+<center>
+	<div id="wrapper">
+	<div id="map">
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+<script id="mapHere">
+
+//	$(document).ready(function()
+		// Initiating base map layers
+		var
+		topographic = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+			maxZoom: 30,
+      minZoom: 2,
+			bounds: mybounds,
+			attribution: 'Tiles &copy; Esri &mdash; Source: Esri'
+		}),
+		satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+			maxZoom: 30,
+      minZoom: 2,
+			bounds: mybounds,
+			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+		}),
+
+		boundary = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
+			maxZoom: 30,
+			minZoom: 2,
+			bounds: mybounds,
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+		});
+
+		var default1 = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+			subdomains: 'abcd',
+			maxZoom: 30,
+			minZoom: 2,
+			bounds: mybounds
+		});
+
+		//Initiating map layer groups
+
+		var sites = L.layerGroup();
+		var remain = L.layerGroup();
+		var recover = L.layerGroup();
+		var death = L.layerGroup();
+		var usa_cities = L.layerGroup();
+		var uk = L.layerGroup();
+		var europe = L.layerGroup();
+		var southWest = L.latLng(-85, -200),
+				northEast = L.latLng(85, 200),
+				mybounds = L.latLngBounds(southWest, northEast);
+
+
+		//Initiating 2 different popups
+		var popup1 = {
+      'minWidth': '100',
+      'className' : 'popup' // classname for another popup
+    };
+		var popup2 =
+    {
+      'minWidth': '100',
+      'className' : 'another-popup' // classname for another popup
+    };
+		var popup3 =
+		{
+			'minWidth': '100',
+			'className' : 'another-popup2' // classname for another popup
+		};
+		var popup4 =
+		{
+			'minWidth': '100',
+			'className' : 'another-popup3' // classname for another popup
+		}
+		var popup5 =
+		{
+			'minWidth': '100',
+			'className' : 'another-popup4' // classname for another popup
+		}
+
+		var datacircles = {
+    radius: 5,
+    fillColor: "red",
+    color: "#000",
+    weight: 5,
+    opacity: 0.3,
+    fillOpacity: 0.3};
+
+
+			function getR(i){
+				var r
+				var field = i
+				if (field == null) r = NaN;
+				else r = Math.log10(field)*5 + 3
+				return r
+			}
+
+
+			function getColor(i){
+				var color
+				var field = i
+				if (field == 0) color = "none";
+				else if (field < 10) color="#a50f15";
+				else if (field < 100) color="#de2d26";
+				else if (field < 1000) color="#fb6a4a";
+				else if (field < 2000) color="#fcae91";
+				else if (isNaN(field)) color = "none";
+				else color="#fee5d9";
+
+
+				return color
+			}
+
+
+
+// remains
+
+
+function getColor2(i){
+	var color
+	var field = i
+	if (field == 0) color = "none";
+	else if (field < 10) color="#08519c";
+	else if (field < 100) color="#3182bd";
+	else if (field < 1000) color="#6baed6";
+	else if (field < 2000) color="#bdd7e7";
+	else if (isNaN(field)) color = "none";
+	else color="#eff3ff";
+	return color
+}
+
+function getColor3(i){
+	var color
+	var field = i
+	if (field == 0) color = "none";
+	else if (field < 10) color="#bd0026";
+	else if (field < 100) color="#f03b20";
+	else if (field < 1000) color="#fd8d3c";
+	else if (field < 2000) color="#fecc5c";
+	else if (isNaN(field)) color = "none";
+	else color="#ffffb2";
+	return color
+}
+
+function getColor4(i){
+	var color
+	var field = i
+	if (field == 0) color = "none";
+	else if (field < 10) color="#045a8d";
+	else if (field < 100) color="#2b8cbe";
+	else if (field < 1000) color="#74a9cf";
+	else if (field < 2000) color="#bdc9e1";
+	else if (isNaN(field)) color = "none";
+	else color="#f1eef6";
+	return color
+}
+
+
+		var usa_cities = new L.GeoJSON.AJAX("../ncov/data/us_data.geojson",{
+			style : function(feature) {
+				return {
+					color: getColor3(feature.properties.case),
+					fillColor: getColor3(feature.properties.case),
+					weight: 0.2,
+					radius: getR(feature.properties.case)
+				}
+			},
+			pointToLayer: function(geoJsonPoint, latlng) {
+			return L.circleMarker(latlng,
+				{
+				color: "red",
+				weight: 5,
+				opacity: 0.9,
+				fillOpacity: 0.4}
+
+			)
+			},
+			onEachFeature: function(feature, layer) {
+				layer.on('click',function(e) {
+					map.setView(e.latlng);
+					$("#paneltext").html('<p>US County data updated: April 11.</p>');
+				}),
+				layer.bindPopup('<h3> '+feature.properties.county+', '
+									+feature.properties.state +'<br>'
+									+'</h3><p>Confirmed cases: '
+									+feature.properties.case +'</p>', popup4)
+			}
+		}).addTo(usa_cities);
+
+
+
+
+	//Add map
+	var map = L.map('map', {
+			center: [40,-100],
+		  zoom:4,
+			zoomControl: true,
+			maxBounds: [
+        //south west
+        [-89,-180],
+        //north east
+        [89,180]
+			],
+			layers: [default1, usa_cities]
+	});
+
+
+		//Setting base layer and overlay layers
+
+	var baseLayers = {
+		"Default": default1
+	};
+
+	var overlays = {
+		"Cases in United States": usa_cities
+
+	};
+
+//Add layer control
+L.control.layers(baseLayers, overlays).addTo(map);
+map.zoomControl.setPosition('bottomright');
+
+
+//	});
+
+</script>
+</div>
+</div>
+</center>
+ <div id="paneltext" align="left"></div>
+
+
+</div>
+</body>
+</html>
