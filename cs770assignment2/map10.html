@@ -221,8 +221,8 @@ function getColor4(i){
 		var usa_cities = new L.GeoJSON.AJAX("../ncov/data/us_data.geojson",{
 			style : function(feature) {
 				return {
-					color: getColor1(feature.properties.case),
-					fillColor: getColor1(feature.properties.case),
+					color: getColor3(feature.properties.case),
+					fillColor: getColor3(feature.properties.case),
 					weight: 0.2,
 					radius: getR(feature.properties.case)
 				}
