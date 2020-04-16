@@ -28,7 +28,8 @@ newdata$check <- 0
 
 for(i in 1:nrow(data2)){
   for(j in 1:nrow(data3)){
-    if(data2$city[i] == data3$city[j]){
+    if(data2$city[i] == data3$city[j]&&
+       data2$X<=377){
       data3$city_cn[j] <- toString(data2$city_cn[i])
     }
   }
