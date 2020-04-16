@@ -8,8 +8,9 @@
        "coordinates":  [ -1.27023005,54.67615891 ]
     },
     "properties": {
+    "ctyua16cd":"E06000001",
     "county":"Hartlepool",
-    "case":23
+    "case":75
     }
   },
   {
@@ -19,8 +20,9 @@
        "coordinates":  [ -1.21098995,54.5446701 ]
     },
     "properties": {
+    "ctyua16cd":"E06000002",
     "county":"Middlesbrough",
-    "case":92
+    "case":302
     }
   },
   {
@@ -30,8 +32,9 @@
        "coordinates":  [ -1.00610995,54.56752014 ]
     },
     "properties": {
+    "ctyua16cd":"E06000003",
     "county":"Redcar and Cleveland",
-    "case":64
+    "case":184
     }
   },
   {
@@ -41,8 +44,9 @@
        "coordinates":  [ -1.30668998,54.55691147 ]
     },
     "properties": {
+    "ctyua16cd":"E06000004",
     "county":"Stockton-on-Tees",
-    "case":77
+    "case":209
     }
   },
   {
@@ -52,8 +56,9 @@
        "coordinates":  [ -1.56834996,54.5353508 ]
     },
     "properties": {
+    "ctyua16cd":"E06000005",
     "county":"Darlington",
-    "case":32
+    "case":151
     }
   },
   {
@@ -63,8 +68,9 @@
        "coordinates":  [ -2.68852997,53.33423996 ]
     },
     "properties": {
+    "ctyua16cd":"E06000006",
     "county":"Halton",
-    "case":51
+    "case":215
     }
   },
   {
@@ -74,8 +80,9 @@
        "coordinates":  [ -2.56167006,53.39162827 ]
     },
     "properties": {
+    "ctyua16cd":"E06000007",
     "county":"Warrington",
-    "case":82
+    "case":363
     }
   },
   {
@@ -85,8 +92,9 @@
        "coordinates":  [ -2.46359992,53.70080185 ]
     },
     "properties": {
+    "ctyua16cd":"E06000008",
     "county":"Blackburn with Darwen",
-    "case":43
+    "case":173
     }
   },
   {
@@ -96,8 +104,9 @@
        "coordinates":  [ -3.02284002,53.8216095 ]
     },
     "properties": {
+    "ctyua16cd":"E06000009",
     "county":"Blackpool",
-    "case":41
+    "case":174
     }
   },
   {
@@ -107,8 +116,9 @@
        "coordinates":  [ -0.30379999,53.76979065 ]
     },
     "properties": {
+    "ctyua16cd":"E06000010",
     "county":"Kingston upon Hull, City of",
-    "case":21
+    "case":150
     }
   },
   {
@@ -118,8 +128,9 @@
        "coordinates":  [ -0.66202998,53.88122177 ]
     },
     "properties": {
+    "ctyua16cd":"E06000011",
     "county":"East Riding of Yorkshire",
-    "case":72
+    "case":248
     }
   },
   {
@@ -129,8 +140,9 @@
        "coordinates":  [ -0.13926999,53.52336121 ]
     },
     "properties": {
+    "ctyua16cd":"E06000012",
     "county":"North East Lincolnshire",
-    "case":29
+    "case":84
     }
   },
   {
@@ -140,8 +152,9 @@
        "coordinates":  [ -0.52410001,53.58644867 ]
     },
     "properties": {
+    "ctyua16cd":"E06000013",
     "county":"North Lincolnshire",
-    "case":29
+    "case":136
     }
   },
   {
@@ -151,8 +164,9 @@
        "coordinates":  [ -1.07375002,53.96582031 ]
     },
     "properties": {
+    "ctyua16cd":"E06000014",
     "county":"York",
-    "case":57
+    "case":149
     }
   },
   {
@@ -162,8 +176,9 @@
        "coordinates":  [ -1.47188997,52.91463852 ]
     },
     "properties": {
+    "ctyua16cd":"E06000015",
     "county":"Derby",
-    "case":187
+    "case":374
     }
   },
   {
@@ -173,8 +188,9 @@
        "coordinates":  [ -1.13039994,52.63592148 ]
     },
     "properties": {
+    "ctyua16cd":"E06000016",
     "county":"Leicester",
-    "case":149
+    "case":416
     }
   },
   {
@@ -184,8 +200,9 @@
        "coordinates":  [ -0.62629998,52.66764832 ]
     },
     "properties": {
+    "ctyua16cd":"E06000017",
     "county":"Rutland",
-    "case":6
+    "case":12
     }
   },
   {
@@ -195,8 +212,9 @@
        "coordinates":  [ -1.16666996,52.9541893 ]
     },
     "properties": {
+    "ctyua16cd":"E06000018",
     "county":"Nottingham",
-    "case":161
+    "case":334
     }
   },
   {
@@ -206,8 +224,9 @@
        "coordinates":  [ -2.73931003,52.08153915 ]
     },
     "properties": {
+    "ctyua16cd":"E06000019",
     "county":"Herefordshire, County of",
-    "case":51
+    "case":122
     }
   },
   {
@@ -217,8 +236,9 @@
        "coordinates":  [ -2.48940992,52.71416855 ]
     },
     "properties": {
+    "ctyua16cd":"E06000020",
     "county":"Telford and Wrekin",
-    "case":62
+    "case":139
     }
   },
   {
@@ -228,8 +248,9 @@
        "coordinates":  [ -2.15888,53.01707077 ]
     },
     "properties": {
+    "ctyua16cd":"E06000021",
     "county":"Stoke-on-Trent",
-    "case":76
+    "case":230
     }
   },
   {
@@ -239,8 +260,9 @@
        "coordinates":  [ -2.48654008,51.35604095 ]
     },
     "properties": {
+    "ctyua16cd":"E06000022",
     "county":"Bath and North East Somerset",
-    "case":52
+    "case":139
     }
   },
   {
@@ -250,8 +272,9 @@
        "coordinates":  [ -2.57742,51.47114944 ]
     },
     "properties": {
+    "ctyua16cd":"E06000023",
     "county":"Bristol, City of",
-    "case":156
+    "case":369
     }
   },
   {
@@ -261,8 +284,9 @@
        "coordinates":  [ -2.75439,51.39707184 ]
     },
     "properties": {
+    "ctyua16cd":"E06000024",
     "county":"North Somerset",
-    "case":58
+    "case":124
     }
   },
   {
@@ -272,8 +296,9 @@
        "coordinates":  [ -2.46921992,51.54671097 ]
     },
     "properties": {
+    "ctyua16cd":"E06000025",
     "county":"South Gloucestershire",
-    "case":104
+    "case":222
     }
   },
   {
@@ -283,8 +308,9 @@
        "coordinates":  [ -4.1129899,50.40494156 ]
     },
     "properties": {
+    "ctyua16cd":"E06000026",
     "county":"Plymouth",
-    "case":71
+    "case":163
     }
   },
   {
@@ -294,8 +320,9 @@
        "coordinates":  [ -3.5552299,50.4708786 ]
     },
     "properties": {
+    "ctyua16cd":"E06000027",
     "county":"Torbay",
-    "case":51
+    "case":103
     }
   },
   {
@@ -305,6 +332,7 @@
        "coordinates":  [ -1.85863996,50.7448616 ]
     },
     "properties": {
+    "ctyua16cd":"E06000028",
     "county":"Bournemouth",
     "case":null
     }
@@ -316,6 +344,7 @@
        "coordinates":  [ -1.95326996,50.74077988 ]
     },
     "properties": {
+    "ctyua16cd":"E06000029",
     "county":"Poole",
     "case":null
     }
@@ -327,8 +356,9 @@
        "coordinates":  [ -1.73367,51.57762909 ]
     },
     "properties": {
+    "ctyua16cd":"E06000030",
     "county":"Swindon",
-    "case":44
+    "case":199
     }
   },
   {
@@ -338,8 +368,9 @@
        "coordinates":  [ -0.26874,52.5921402 ]
     },
     "properties": {
+    "ctyua16cd":"E06000031",
     "county":"Peterborough",
-    "case":48
+    "case":108
     }
   },
   {
@@ -349,8 +380,9 @@
        "coordinates":  [ -0.67540997,51.48033905 ]
     },
     "properties": {
+    "ctyua16cd":"E06000040",
     "county":"Windsor and Maidenhead",
-    "case":76
+    "case":162
     }
   },
   {
@@ -360,8 +392,9 @@
        "coordinates":  [ -0.89934999,51.42295837 ]
     },
     "properties": {
+    "ctyua16cd":"E06000041",
     "county":"Wokingham",
-    "case":69
+    "case":193
     }
   },
   {
@@ -371,8 +404,9 @@
        "coordinates":  [ -0.74070001,52.07241058 ]
     },
     "properties": {
+    "ctyua16cd":"E06000042",
     "county":"Milton Keynes",
-    "case":141
+    "case":316
     }
   },
   {
@@ -382,8 +416,9 @@
        "coordinates":  [ -0.15079001,50.84648895 ]
     },
     "properties": {
+    "ctyua16cd":"E06000043",
     "county":"Brighton and Hove",
-    "case":71
+    "case":227
     }
   },
   {
@@ -393,8 +428,9 @@
        "coordinates":  [ -1.07023001,50.80804825 ]
     },
     "properties": {
+    "ctyua16cd":"E06000044",
     "county":"Portsmouth",
-    "case":85
+    "case":193
     }
   },
   {
@@ -404,8 +440,9 @@
        "coordinates":  [ -0.42319,51.89102173 ]
     },
     "properties": {
+    "ctyua16cd":"E06000032",
     "county":"Luton",
-    "case":116
+    "case":367
     }
   },
   {
@@ -415,8 +452,9 @@
        "coordinates":  [ 0.70690602,51.54914093 ]
     },
     "properties": {
+    "ctyua16cd":"E06000033",
     "county":"Southend-on-Sea",
-    "case":76
+    "case":224
     }
   },
   {
@@ -426,8 +464,9 @@
        "coordinates":  [ 0.33490199,51.5099411 ]
     },
     "properties": {
+    "ctyua16cd":"E06000034",
     "county":"Thurrock",
-    "case":83
+    "case":201
     }
   },
   {
@@ -437,8 +476,9 @@
        "coordinates":  [ 0.563173,51.44770813 ]
     },
     "properties": {
+    "ctyua16cd":"E06000035",
     "county":"Medway",
-    "case":116
+    "case":409
     }
   },
   {
@@ -448,8 +488,9 @@
        "coordinates":  [ -0.73363,51.41130066 ]
     },
     "properties": {
+    "ctyua16cd":"E06000036",
     "county":"Bracknell Forest",
-    "case":36
+    "case":134
     }
   },
   {
@@ -459,8 +500,9 @@
        "coordinates":  [ -1.27364004,51.44559097 ]
     },
     "properties": {
+    "ctyua16cd":"E06000037",
     "county":"West Berkshire",
-    "case":69
+    "case":180
     }
   },
   {
@@ -470,8 +512,9 @@
        "coordinates":  [ -1.40024996,50.92037964 ]
     },
     "properties": {
+    "ctyua16cd":"E06000045",
     "county":"Southampton",
-    "case":128
+    "case":283
     }
   },
   {
@@ -481,8 +524,9 @@
        "coordinates":  [ -1.33361995,50.67129898 ]
     },
     "properties": {
+    "ctyua16cd":"E06000046",
     "county":"Isle of Wight",
-    "case":19
+    "case":55
     }
   },
   {
@@ -492,8 +536,9 @@
        "coordinates":  [ -1.8405,54.68513107 ]
     },
     "properties": {
+    "ctyua16cd":"E06000047",
     "county":"County Durham",
-    "case":198
+    "case":728
     }
   },
   {
@@ -503,8 +548,9 @@
        "coordinates":  [ -2.29298997,53.1679306 ]
     },
     "properties": {
+    "ctyua16cd":"E06000049",
     "county":"Cheshire East",
-    "case":111
+    "case":449
     }
   },
   {
@@ -514,8 +560,9 @@
        "coordinates":  [ -2.70298004,53.1633606 ]
     },
     "properties": {
+    "ctyua16cd":"E06000050",
     "county":"Cheshire West and Chester",
-    "case":116
+    "case":461
     }
   },
   {
@@ -525,8 +572,9 @@
        "coordinates":  [ -2.73667002,52.6221199 ]
     },
     "properties": {
+    "ctyua16cd":"E06000051",
     "county":"Shropshire",
-    "case":120
+    "case":265
     }
   },
   {
@@ -536,8 +584,9 @@
        "coordinates":  [ -4.64248991,50.45022964 ]
     },
     "properties": {
+    "ctyua16cd":"E06000052",
     "county":"Cornwall",
-    "case":125
+    "case":339
     }
   },
   {
@@ -547,6 +596,7 @@
        "coordinates":  [ -6.3021698,49.92332077 ]
     },
     "properties": {
+    "ctyua16cd":"E06000053",
     "county":"Isles of Scilly",
     "case":null
     }
@@ -558,8 +608,9 @@
        "coordinates":  [ -1.92660999,51.32883072 ]
     },
     "properties": {
+    "ctyua16cd":"E06000054",
     "county":"Wiltshire",
-    "case":110
+    "case":256
     }
   },
   {
@@ -569,8 +620,9 @@
        "coordinates":  [ -0.45462999,52.19628143 ]
     },
     "properties": {
+    "ctyua16cd":"E06000055",
     "county":"Bedford",
-    "case":74
+    "case":239
     }
   },
   {
@@ -580,8 +632,9 @@
        "coordinates":  [ -0.47753999,51.99903107 ]
     },
     "properties": {
+    "ctyua16cd":"E06000056",
     "county":"Central Bedfordshire",
-    "case":99
+    "case":291
     }
   },
   {
@@ -591,8 +644,9 @@
        "coordinates":  [ -2.07521009,55.30036926 ]
     },
     "properties": {
+    "ctyua16cd":"E06000057",
     "county":"Northumberland",
-    "case":142
+    "case":450
     }
   },
   {
@@ -602,8 +656,9 @@
        "coordinates":  [ -2.47952008,53.58449173 ]
     },
     "properties": {
+    "ctyua16cd":"E08000001",
     "county":"Bolton",
-    "case":80
+    "case":424
     }
   },
   {
@@ -613,8 +668,9 @@
        "coordinates":  [ -2.30879998,53.5931015 ]
     },
     "properties": {
+    "ctyua16cd":"E08000002",
     "county":"Bury",
-    "case":102
+    "case":256
     }
   },
   {
@@ -624,8 +680,9 @@
        "coordinates":  [ -2.23358989,53.47008896 ]
     },
     "properties": {
+    "ctyua16cd":"E08000003",
     "county":"Manchester",
-    "case":224
+    "case":724
     }
   },
   {
@@ -635,8 +692,9 @@
        "coordinates":  [ -2.0527401,53.55767822 ]
     },
     "properties": {
+    "ctyua16cd":"E08000004",
     "county":"Oldham",
-    "case":149
+    "case":370
     }
   },
   {
@@ -646,8 +704,9 @@
        "coordinates":  [ -2.14784002,53.60741043 ]
     },
     "properties": {
+    "ctyua16cd":"E08000005",
     "county":"Rochdale",
-    "case":126
+    "case":275
     }
   },
   {
@@ -657,8 +716,9 @@
        "coordinates":  [ -2.38485003,53.47927094 ]
     },
     "properties": {
+    "ctyua16cd":"E08000006",
     "county":"Salford",
-    "case":190
+    "case":368
     }
   },
   {
@@ -668,8 +728,9 @@
        "coordinates":  [ -2.12467003,53.39115906 ]
     },
     "properties": {
+    "ctyua16cd":"E08000007",
     "county":"Stockport",
-    "case":156
+    "case":511
     }
   },
   {
@@ -679,8 +740,9 @@
        "coordinates":  [ -2.0769999,53.47866821 ]
     },
     "properties": {
+    "ctyua16cd":"E08000008",
     "county":"Tameside",
-    "case":109
+    "case":308
     }
   },
   {
@@ -690,8 +752,9 @@
        "coordinates":  [ -2.36572003,53.4167099 ]
     },
     "properties": {
+    "ctyua16cd":"E08000009",
     "county":"Trafford",
-    "case":139
+    "case":388
     }
   },
   {
@@ -701,8 +764,9 @@
        "coordinates":  [ -2.57246995,53.51445007 ]
     },
     "properties": {
+    "ctyua16cd":"E08000010",
     "county":"Wigan",
-    "case":110
+    "case":330
     }
   },
   {
@@ -712,8 +776,9 @@
        "coordinates":  [ -2.8329699,53.43788147 ]
     },
     "properties": {
+    "ctyua16cd":"E08000011",
     "county":"Knowsley",
-    "case":89
+    "case":329
     }
   },
   {
@@ -723,8 +788,9 @@
        "coordinates":  [ -2.91364002,53.40829849 ]
     },
     "properties": {
+    "ctyua16cd":"E08000012",
     "county":"Liverpool",
-    "case":342
+    "case":979
     }
   },
   {
@@ -734,8 +800,9 @@
        "coordinates":  [ -2.70309997,53.45861816 ]
     },
     "properties": {
+    "ctyua16cd":"E08000013",
     "county":"St. Helens",
-    "case":122
+    "case":399
     }
   },
   {
@@ -745,8 +812,9 @@
        "coordinates":  [ -2.99203992,53.48210144 ]
     },
     "properties": {
+    "ctyua16cd":"E08000014",
     "county":"Sefton",
-    "case":142
+    "case":532
     }
   },
   {
@@ -756,8 +824,9 @@
        "coordinates":  [ -3.06502008,53.37453842 ]
     },
     "properties": {
+    "ctyua16cd":"E08000015",
     "county":"Wirral",
-    "case":130
+    "case":593
     }
   },
   {
@@ -767,8 +836,9 @@
        "coordinates":  [ -1.54925001,53.52576828 ]
     },
     "properties": {
+    "ctyua16cd":"E08000016",
     "county":"Barnsley",
-    "case":154
+    "case":379
     }
   },
   {
@@ -778,8 +848,9 @@
        "coordinates":  [ -1.10894001,53.52696991 ]
     },
     "properties": {
+    "ctyua16cd":"E08000017",
     "county":"Doncaster",
-    "case":116
+    "case":210
     }
   },
   {
@@ -789,8 +860,9 @@
        "coordinates":  [ -1.28650999,53.3955307 ]
     },
     "properties": {
+    "ctyua16cd":"E08000018",
     "county":"Rotherham",
-    "case":154
+    "case":383
     }
   },
   {
@@ -800,8 +872,9 @@
        "coordinates":  [ -0.99071002,51.45301819 ]
     },
     "properties": {
+    "ctyua16cd":"E06000038",
     "county":"Reading",
-    "case":67
+    "case":224
     }
   },
   {
@@ -811,8 +884,9 @@
        "coordinates":  [ -0.57617003,51.50350189 ]
     },
     "properties": {
+    "ctyua16cd":"E06000039",
     "county":"Slough",
-    "case":117
+    "case":256
     }
   },
   {
@@ -822,8 +896,9 @@
        "coordinates":  [ -1.54253995,53.40357971 ]
     },
     "properties": {
+    "ctyua16cd":"E08000019",
     "county":"Sheffield",
-    "case":715
+    "case":1365
     }
   },
   {
@@ -833,8 +908,9 @@
        "coordinates":  [ -1.65296996,55.02101135 ]
     },
     "properties": {
+    "ctyua16cd":"E08000021",
     "county":"Newcastle upon Tyne",
-    "case":284
+    "case":611
     }
   },
   {
@@ -844,8 +920,9 @@
        "coordinates":  [ -1.50923002,55.02896118 ]
     },
     "properties": {
+    "ctyua16cd":"E08000022",
     "county":"North Tyneside",
-    "case":133
+    "case":321
     }
   },
   {
@@ -855,8 +932,9 @@
        "coordinates":  [ -1.44695997,54.96987915 ]
     },
     "properties": {
+    "ctyua16cd":"E08000023",
     "county":"South Tyneside",
-    "case":56
+    "case":233
     }
   },
   {
@@ -866,8 +944,9 @@
        "coordinates":  [ -1.43343997,54.85720062 ]
     },
     "properties": {
+    "ctyua16cd":"E08000024",
     "county":"Sunderland",
-    "case":152
+    "case":690
     }
   },
   {
@@ -877,8 +956,9 @@
        "coordinates":  [ -1.88141,52.48403931 ]
     },
     "properties": {
+    "ctyua16cd":"E08000025",
     "county":"Birmingham",
-    "case":984
+    "case":1931
     }
   },
   {
@@ -888,8 +968,9 @@
        "coordinates":  [ -1.51908004,52.41423035 ]
     },
     "properties": {
+    "ctyua16cd":"E08000026",
     "county":"Coventry",
-    "case":188
+    "case":408
     }
   },
   {
@@ -899,8 +980,9 @@
        "coordinates":  [ -2.10171008,52.49512863 ]
     },
     "properties": {
+    "ctyua16cd":"E08000027",
     "county":"Dudley",
-    "case":226
+    "case":475
     }
   },
   {
@@ -910,8 +992,9 @@
        "coordinates":  [ -2.00770998,52.51477051 ]
     },
     "properties": {
+    "ctyua16cd":"E08000028",
     "county":"Sandwell",
-    "case":252
+    "case":593
     }
   },
   {
@@ -921,8 +1004,9 @@
        "coordinates":  [ -1.71557999,52.43099976 ]
     },
     "properties": {
+    "ctyua16cd":"E08000029",
     "county":"Solihull",
-    "case":164
+    "case":364
     }
   },
   {
@@ -932,8 +1016,9 @@
        "coordinates":  [ -1.97044003,52.60503006 ]
     },
     "properties": {
+    "ctyua16cd":"E08000030",
     "county":"Walsall",
-    "case":270
+    "case":582
     }
   },
   {
@@ -943,8 +1028,9 @@
        "coordinates":  [ -2.12746,52.59788132 ]
     },
     "properties": {
+    "ctyua16cd":"E08000031",
     "county":"Wolverhampton",
-    "case":251
+    "case":473
     }
   },
   {
@@ -954,8 +1040,9 @@
        "coordinates":  [ -1.87389004,53.84381866 ]
     },
     "properties": {
+    "ctyua16cd":"E08000032",
     "county":"Bradford",
-    "case":135
+    "case":493
     }
   },
   {
@@ -965,8 +1052,9 @@
        "coordinates":  [ -1.96182001,53.72048187 ]
     },
     "properties": {
+    "ctyua16cd":"E08000033",
     "county":"Calderdale",
-    "case":69
+    "case":160
     }
   },
   {
@@ -976,8 +1064,9 @@
        "coordinates":  [ -1.78085005,53.64233017 ]
     },
     "properties": {
+    "ctyua16cd":"E08000034",
     "county":"Kirklees",
-    "case":142
+    "case":369
     }
   },
   {
@@ -987,8 +1076,9 @@
        "coordinates":  [ -1.50735998,53.82273102 ]
     },
     "properties": {
+    "ctyua16cd":"E08000035",
     "county":"Leeds",
-    "case":219
+    "case":779
     }
   },
   {
@@ -998,8 +1088,9 @@
        "coordinates":  [ -1.42092001,53.65922165 ]
     },
     "properties": {
+    "ctyua16cd":"E08000036",
     "county":"Wakefield",
-    "case":105
+    "case":353
     }
   },
   {
@@ -1009,8 +1100,9 @@
        "coordinates":  [ -1.6868,54.93119812 ]
     },
     "properties": {
+    "ctyua16cd":"E08000037",
     "county":"Gateshead",
-    "case":108
+    "case":466
     }
   },
   {
@@ -1020,8 +1112,9 @@
        "coordinates":  [ -0.09351,51.51564026 ]
     },
     "properties": {
+    "ctyua16cd":"E09000001",
     "county":"City of London",
-    "case":null
+    "case":13
     }
   },
   {
@@ -1031,8 +1124,9 @@
        "coordinates":  [ 0.12950601,51.54552078 ]
     },
     "properties": {
+    "ctyua16cd":"E09000002",
     "county":"Barking and Dagenham",
-    "case":178
+    "case":347
     }
   },
   {
@@ -1042,8 +1136,9 @@
        "coordinates":  [ -0.21821,51.61108017 ]
     },
     "properties": {
+    "ctyua16cd":"E09000003",
     "county":"Barnet",
-    "case":547
+    "case":977
     }
   },
   {
@@ -1053,8 +1148,9 @@
        "coordinates":  [ 0.146212,51.45820999 ]
     },
     "properties": {
+    "ctyua16cd":"E09000004",
     "county":"Bexley",
-    "case":217
+    "case":446
     }
   },
   {
@@ -1064,8 +1160,9 @@
        "coordinates":  [ 0.050108,51.46395874 ]
     },
     "properties": {
+    "ctyua16cd":"E09000011",
     "county":"Greenwich",
-    "case":277
+    "case":503
     }
   },
   {
@@ -1075,8 +1172,9 @@
        "coordinates":  [ -0.27568001,51.56441116 ]
     },
     "properties": {
+    "ctyua16cd":"E09000005",
     "county":"Brent",
-    "case":601
+    "case":1063
     }
   },
   {
@@ -1086,8 +1184,9 @@
        "coordinates":  [ 0.039246,51.37266922 ]
     },
     "properties": {
+    "ctyua16cd":"E09000006",
     "county":"Bromley",
-    "case":405
+    "case":785
     }
   },
   {
@@ -1097,8 +1196,9 @@
        "coordinates":  [ -0.16289,51.5430603 ]
     },
     "properties": {
+    "ctyua16cd":"E09000007",
     "county":"Camden",
-    "case":244
+    "case":443
     }
   },
   {
@@ -1108,8 +1208,9 @@
        "coordinates":  [ -0.07761,51.36597824 ]
     },
     "properties": {
+    "ctyua16cd":"E09000008",
     "county":"Croydon",
-    "case":497
+    "case":1006
     }
   },
   {
@@ -1119,8 +1220,9 @@
        "coordinates":  [ -0.31406999,51.52442932 ]
     },
     "properties": {
+    "ctyua16cd":"E09000009",
     "county":"Ealing",
-    "case":414
+    "case":772
     }
   },
   {
@@ -1130,6 +1232,7 @@
        "coordinates":  [ -4.2111001,51.89495087 ]
     },
     "properties": {
+    "ctyua16cd":"W06000010",
     "county":"Carmarthenshire",
     "case":null
     }
@@ -1141,6 +1244,7 @@
        "coordinates":  [ -3.96723008,51.65805817 ]
     },
     "properties": {
+    "ctyua16cd":"W06000011",
     "county":"Swansea",
     "case":null
     }
@@ -1152,6 +1256,7 @@
        "coordinates":  [ -3.74638009,51.64450073 ]
     },
     "properties": {
+    "ctyua16cd":"W06000012",
     "county":"Neath Port Talbot",
     "case":null
     }
@@ -1163,6 +1268,7 @@
        "coordinates":  [ -3.61359,51.56058121 ]
     },
     "properties": {
+    "ctyua16cd":"W06000013",
     "county":"Bridgend",
     "case":null
     }
@@ -1174,6 +1280,7 @@
        "coordinates":  [ -3.39803004,51.44837952 ]
     },
     "properties": {
+    "ctyua16cd":"W06000014",
     "county":"Vale of Glamorgan",
     "case":null
     }
@@ -1185,6 +1292,7 @@
        "coordinates":  [ -3.22212005,51.50254059 ]
     },
     "properties": {
+    "ctyua16cd":"W06000015",
     "county":"Cardiff",
     "case":null
     }
@@ -1196,6 +1304,7 @@
        "coordinates":  [ -3.41358995,51.62184906 ]
     },
     "properties": {
+    "ctyua16cd":"W06000016",
     "county":"Rhondda Cynon Taf",
     "case":null
     }
@@ -1207,6 +1316,7 @@
        "coordinates":  [ -3.19753003,51.65000916 ]
     },
     "properties": {
+    "ctyua16cd":"W06000018",
     "county":"Caerphilly",
     "case":null
     }
@@ -1218,6 +1328,7 @@
        "coordinates":  [ -3.18592,51.75363922 ]
     },
     "properties": {
+    "ctyua16cd":"W06000019",
     "county":"Blaenau Gwent",
     "case":null
     }
@@ -1229,6 +1340,7 @@
        "coordinates":  [ -3.05100989,51.69836044 ]
     },
     "properties": {
+    "ctyua16cd":"W06000020",
     "county":"Torfaen",
     "case":null
     }
@@ -1240,6 +1352,7 @@
        "coordinates":  [ -2.90280008,51.77827072 ]
     },
     "properties": {
+    "ctyua16cd":"W06000021",
     "county":"Monmouthshire",
     "case":null
     }
@@ -1251,6 +1364,7 @@
        "coordinates":  [ -2.89769006,51.58232117 ]
     },
     "properties": {
+    "ctyua16cd":"W06000022",
     "county":"Newport",
     "case":null
     }
@@ -1262,6 +1376,7 @@
        "coordinates":  [ -3.43532991,52.348629 ]
     },
     "properties": {
+    "ctyua16cd":"W06000023",
     "county":"Powys",
     "case":null
     }
@@ -1273,6 +1388,7 @@
        "coordinates":  [ -3.36424994,51.74858093 ]
     },
     "properties": {
+    "ctyua16cd":"W06000024",
     "county":"Merthyr Tydfil",
     "case":null
     }
@@ -1284,8 +1400,9 @@
        "coordinates":  [ -0.08147,51.64888 ]
     },
     "properties": {
+    "ctyua16cd":"E09000010",
     "county":"Enfield",
-    "case":282
+    "case":562
     }
   },
   {
@@ -1295,8 +1412,9 @@
        "coordinates":  [ -0.06045,51.5549202 ]
     },
     "properties": {
+    "ctyua16cd":"E09000012",
     "county":"Hackney",
-    "case":298
+    "case":516
     }
   },
   {
@@ -1306,8 +1424,9 @@
        "coordinates":  [ -0.21736,51.48736954 ]
     },
     "properties": {
+    "ctyua16cd":"E09000013",
     "county":"Hammersmith and Fulham",
-    "case":207
+    "case":395
     }
   },
   {
@@ -1317,8 +1436,9 @@
        "coordinates":  [ -0.10667,51.58771133 ]
     },
     "properties": {
+    "ctyua16cd":"E09000014",
     "county":"Haringey",
-    "case":233
+    "case":419
     }
   },
   {
@@ -1328,8 +1448,9 @@
        "coordinates":  [ -0.33603001,51.59466934 ]
     },
     "properties": {
+    "ctyua16cd":"E09000015",
     "county":"Harrow",
-    "case":401
+    "case":684
     }
   },
   {
@@ -1339,8 +1460,9 @@
        "coordinates":  [ 0.235368,51.56518936 ]
     },
     "properties": {
+    "ctyua16cd":"E09000016",
     "county":"Havering",
-    "case":183
+    "case":491
     }
   },
   {
@@ -1350,8 +1472,9 @@
        "coordinates":  [ -0.44182,51.53662872 ]
     },
     "properties": {
+    "ctyua16cd":"E09000017",
     "county":"Hillingdon",
-    "case":274
+    "case":530
     }
   },
   {
@@ -1361,8 +1484,9 @@
        "coordinates":  [ -0.37843999,51.46242905 ]
     },
     "properties": {
+    "ctyua16cd":"E09000018",
     "county":"Hounslow",
-    "case":253
+    "case":495
     }
   },
   {
@@ -1372,8 +1496,9 @@
        "coordinates":  [ -0.10992,51.54547882 ]
     },
     "properties": {
+    "ctyua16cd":"E09000019",
     "county":"Islington",
-    "case":210
+    "case":331
     }
   },
   {
@@ -1383,8 +1508,9 @@
        "coordinates":  [ -0.18976,51.49644089 ]
     },
     "properties": {
+    "ctyua16cd":"E09000020",
     "county":"Kensington and Chelsea",
-    "case":222
+    "case":367
     }
   },
   {
@@ -1394,8 +1520,9 @@
        "coordinates":  [ -0.28367001,51.39295959 ]
     },
     "properties": {
+    "ctyua16cd":"E09000021",
     "county":"Kingston upon Thames",
-    "case":140
+    "case":301
     }
   },
   {
@@ -1405,8 +1532,9 @@
        "coordinates":  [ -0.11385,51.46442032 ]
     },
     "properties": {
+    "ctyua16cd":"E09000022",
     "county":"Lambeth",
-    "case":563
+    "case":926
     }
   },
   {
@@ -1416,8 +1544,9 @@
        "coordinates":  [ -0.01733,51.44231033 ]
     },
     "properties": {
+    "ctyua16cd":"E09000023",
     "county":"Lewisham",
-    "case":401
+    "case":721
     }
   },
   {
@@ -1427,8 +1556,9 @@
        "coordinates":  [ -0.18866999,51.41056824 ]
     },
     "properties": {
+    "ctyua16cd":"E09000024",
     "county":"Merton",
-    "case":262
+    "case":504
     }
   },
   {
@@ -1438,8 +1568,9 @@
        "coordinates":  [ 0.027369,51.53131866 ]
     },
     "properties": {
+    "ctyua16cd":"E09000025",
     "county":"Newham",
-    "case":409
+    "case":796
     }
   },
   {
@@ -1449,8 +1580,9 @@
        "coordinates":  [ 0.070085,51.58589172 ]
     },
     "properties": {
+    "ctyua16cd":"E09000026",
     "county":"Redbridge",
-    "case":247
+    "case":534
     }
   },
   {
@@ -1460,8 +1592,9 @@
        "coordinates":  [ -0.28913999,51.44033051 ]
     },
     "properties": {
+    "ctyua16cd":"E09000027",
     "county":"Richmond upon Thames",
-    "case":167
+    "case":286
     }
   },
   {
@@ -1471,8 +1604,9 @@
        "coordinates":  [ -0.07309,51.46588898 ]
     },
     "properties": {
+    "ctyua16cd":"E09000028",
     "county":"Southwark",
-    "case":566
+    "case":972
     }
   },
   {
@@ -1482,8 +1616,9 @@
        "coordinates":  [ -0.17227,51.3575592 ]
     },
     "properties": {
+    "ctyua16cd":"E09000029",
     "county":"Sutton",
-    "case":197
+    "case":436
     }
   },
   {
@@ -1493,8 +1628,9 @@
        "coordinates":  [ -0.0364,51.51552963 ]
     },
     "properties": {
+    "ctyua16cd":"E09000030",
     "county":"Tower Hamlets",
-    "case":287
+    "case":509
     }
   },
   {
@@ -1504,8 +1640,9 @@
        "coordinates":  [ -0.01881,51.59460831 ]
     },
     "properties": {
+    "ctyua16cd":"E09000031",
     "county":"Waltham Forest",
-    "case":309
+    "case":574
     }
   },
   {
@@ -1515,8 +1652,9 @@
        "coordinates":  [ -0.20021001,51.45238876 ]
     },
     "properties": {
+    "ctyua16cd":"E09000032",
     "county":"Wandsworth",
-    "case":434
+    "case":748
     }
   },
   {
@@ -1526,8 +1664,9 @@
        "coordinates":  [ -0.15295,51.51221085 ]
     },
     "properties": {
+    "ctyua16cd":"E09000033",
     "county":"Westminster",
-    "case":322
+    "case":499
     }
   },
   {
@@ -1537,8 +1676,9 @@
        "coordinates":  [ -0.80568999,51.76966095 ]
     },
     "properties": {
+    "ctyua16cd":"E10000002",
     "county":"Buckinghamshire",
-    "case":222
+    "case":521
     }
   },
   {
@@ -1548,8 +1688,9 @@
        "coordinates":  [ -0.23506001,52.34965897 ]
     },
     "properties": {
+    "ctyua16cd":"E10000003",
     "county":"Cambridgeshire",
-    "case":172
+    "case":408
     }
   },
   {
@@ -1559,8 +1700,9 @@
        "coordinates":  [ -2.90217996,54.63825989 ]
     },
     "properties": {
+    "ctyua16cd":"E10000006",
     "county":"Cumbria",
-    "case":564
+    "case":1278
     }
   },
   {
@@ -1570,8 +1712,9 @@
        "coordinates":  [ -1.60210001,53.07857895 ]
     },
     "properties": {
+    "ctyua16cd":"E10000007",
     "county":"Derbyshire",
-    "case":383
+    "case":777
     }
   },
   {
@@ -1581,8 +1724,9 @@
        "coordinates":  [ -3.65701008,50.72555923 ]
     },
     "properties": {
+    "ctyua16cd":"E10000008",
     "county":"Devon",
-    "case":163
+    "case":426
     }
   },
   {
@@ -1592,6 +1736,7 @@
        "coordinates":  [ -2.41466999,50.79697037 ]
     },
     "properties": {
+    "ctyua16cd":"E10000009",
     "county":"Dorset",
     "case":null
     }
@@ -1603,8 +1748,9 @@
        "coordinates":  [ 0.33453,50.93832016 ]
     },
     "properties": {
+    "ctyua16cd":"E10000011",
     "county":"East Sussex",
-    "case":129
+    "case":373
     }
   },
   {
@@ -1614,8 +1760,9 @@
        "coordinates":  [ 0.54104602,51.80981827 ]
     },
     "properties": {
+    "ctyua16cd":"E10000012",
     "county":"Essex",
-    "case":547
+    "case":1589
     }
   },
   {
@@ -1625,8 +1772,9 @@
        "coordinates":  [ -2.15234995,51.81970978 ]
     },
     "properties": {
+    "ctyua16cd":"E10000013",
     "county":"Gloucestershire",
-    "case":224
+    "case":737
     }
   },
   {
@@ -1636,8 +1784,9 @@
        "coordinates":  [ -1.24735999,51.04473114 ]
     },
     "properties": {
+    "ctyua16cd":"E10000014",
     "county":"Hampshire",
-    "case":749
+    "case":1802
     }
   },
   {
@@ -1647,8 +1796,9 @@
        "coordinates":  [ -0.27699,51.8087883 ]
     },
     "properties": {
+    "ctyua16cd":"E10000015",
     "county":"Hertfordshire",
-    "case":637
+    "case":1552
     }
   },
   {
@@ -1658,8 +1808,9 @@
        "coordinates":  [ 0.72155303,51.19290161 ]
     },
     "properties": {
+    "ctyua16cd":"E10000016",
     "county":"Kent",
-    "case":621
+    "case":1802
     }
   },
   {
@@ -1669,8 +1820,9 @@
        "coordinates":  [ -2.46091008,53.86215973 ]
     },
     "properties": {
+    "ctyua16cd":"E10000017",
     "county":"Lancashire",
-    "case":536
+    "case":1692
     }
   },
   {
@@ -1680,8 +1832,9 @@
        "coordinates":  [ -1.3779,52.68778992 ]
     },
     "properties": {
+    "ctyua16cd":"E10000018",
     "county":"Leicestershire",
-    "case":267
+    "case":564
     }
   },
   {
@@ -1691,8 +1844,9 @@
        "coordinates":  [ -0.23882,53.11104965 ]
     },
     "properties": {
+    "ctyua16cd":"E10000019",
     "county":"Lincolnshire",
-    "case":182
+    "case":503
     }
   },
   {
@@ -1702,8 +1856,9 @@
        "coordinates":  [ 0.96466202,52.67110825 ]
     },
     "properties": {
+    "ctyua16cd":"E10000020",
     "county":"Norfolk",
-    "case":225
+    "case":754
     }
   },
   {
@@ -1713,8 +1868,9 @@
        "coordinates":  [ -0.86668003,52.31105042 ]
     },
     "properties": {
+    "ctyua16cd":"E10000021",
     "county":"Northamptonshire",
-    "case":264
+    "case":767
     }
   },
   {
@@ -1724,8 +1880,9 @@
        "coordinates":  [ -1.55032003,54.09371185 ]
     },
     "properties": {
+    "ctyua16cd":"E10000023",
     "county":"North Yorkshire",
-    "case":193
+    "case":532
     }
   },
   {
@@ -1735,8 +1892,9 @@
        "coordinates":  [ -1.00655997,53.12850189 ]
     },
     "properties": {
+    "ctyua16cd":"E10000024",
     "county":"Nottinghamshire",
-    "case":336
+    "case":693
     }
   },
   {
@@ -1746,8 +1904,9 @@
        "coordinates":  [ -1.29146004,51.77154922 ]
     },
     "properties": {
+    "ctyua16cd":"E10000025",
     "county":"Oxfordshire",
-    "case":315
+    "case":948
     }
   },
   {
@@ -1757,8 +1916,9 @@
        "coordinates":  [ -3.29605007,51.07186127 ]
     },
     "properties": {
+    "ctyua16cd":"E10000027",
     "county":"Somerset",
-    "case":72
+    "case":233
     }
   },
   {
@@ -1768,8 +1928,9 @@
        "coordinates":  [ -2.02756,52.90930176 ]
     },
     "properties": {
+    "ctyua16cd":"E10000028",
     "county":"Staffordshire",
-    "case":439
+    "case":1008
     }
   },
   {
@@ -1779,8 +1940,9 @@
        "coordinates":  [ 1.04914796,52.2538681 ]
     },
     "properties": {
+    "ctyua16cd":"E10000029",
     "county":"Suffolk",
-    "case":161
+    "case":499
     }
   },
   {
@@ -1790,8 +1952,9 @@
        "coordinates":  [ -0.33910999,51.26802826 ]
     },
     "properties": {
+    "ctyua16cd":"E10000030",
     "county":"Surrey",
-    "case":649
+    "case":1649
     }
   },
   {
@@ -1801,8 +1964,9 @@
        "coordinates":  [ -1.56874001,52.17977142 ]
     },
     "properties": {
+    "ctyua16cd":"E10000031",
     "county":"Warwickshire",
-    "case":279
+    "case":673
     }
   },
   {
@@ -1812,8 +1976,9 @@
        "coordinates":  [ -0.45932999,50.95133972 ]
     },
     "properties": {
+    "ctyua16cd":"E10000032",
     "county":"West Sussex",
-    "case":199
+    "case":487
     }
   },
   {
@@ -1823,8 +1988,9 @@
        "coordinates":  [ -2.20935011,52.21287155 ]
     },
     "properties": {
+    "ctyua16cd":"E10000034",
     "county":"Worcestershire",
-    "case":277
+    "case":693
     }
   },
   {
@@ -1834,6 +2000,7 @@
        "coordinates":  [ -4.32290983,53.27944946 ]
     },
     "properties": {
+    "ctyua16cd":"W06000001",
     "county":"Isle of Anglesey",
     "case":null
     }
@@ -1845,6 +2012,7 @@
        "coordinates":  [ -3.8155899,52.89825821 ]
     },
     "properties": {
+    "ctyua16cd":"W06000002",
     "county":"Gwynedd",
     "case":null
     }
@@ -1856,6 +2024,7 @@
        "coordinates":  [ -3.74645996,53.14738846 ]
     },
     "properties": {
+    "ctyua16cd":"W06000003",
     "county":"Conwy",
     "case":null
     }
@@ -1867,6 +2036,7 @@
        "coordinates":  [ -3.34761,53.08832932 ]
     },
     "properties": {
+    "ctyua16cd":"W06000004",
     "county":"Denbighshire",
     "case":null
     }
@@ -1878,6 +2048,7 @@
        "coordinates":  [ -3.17604995,53.21498108 ]
     },
     "properties": {
+    "ctyua16cd":"W06000005",
     "county":"Flintshire",
     "case":null
     }
@@ -1889,6 +2060,7 @@
        "coordinates":  [ -2.99202991,53.00167084 ]
     },
     "properties": {
+    "ctyua16cd":"W06000006",
     "county":"Wrexham",
     "case":null
     }
@@ -1900,6 +2072,7 @@
        "coordinates":  [ -3.94993997,52.29795074 ]
     },
     "properties": {
+    "ctyua16cd":"W06000008",
     "county":"Ceredigion",
     "case":null
     }
@@ -1911,6 +2084,7 @@
        "coordinates":  [ -4.90818024,51.85512161 ]
     },
     "properties": {
+    "ctyua16cd":"W06000009",
     "county":"Pembrokeshire",
     "case":null
     }
