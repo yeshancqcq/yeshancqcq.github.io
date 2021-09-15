@@ -78,7 +78,7 @@ $(document).ready(function() {
       , {
           id: "6",
           name: "Test Department Event",
-          description: "geoclub",
+          description: "test test test test",
           date: "September/13/2021",
           type: "department"
       }
