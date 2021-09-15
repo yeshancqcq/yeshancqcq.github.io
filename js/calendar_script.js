@@ -3,44 +3,14 @@ var defaultTheme = 1;
 
 var today = new Date();
 
-var events = [ {
-  id: "imwyx6S",
-  name: "GGSA Event 1",
-  description: "Add some description.",
-  date: today.getMonth() + 1 + "/18/" + today.getFullYear(),
-  type: "ggsa"
-}, {
-  id: "9jU6g6f",
-  name: "Department event 1",
-  description: "test test test.",
-  date: today.getMonth() + 1 + "/10/" + today.getFullYear(),
-  type: "department"
-}, {
-  id: "0g5G6ja",
-  name: "Geopath event 1",
-  description: "test test ",
-  date: [ today.getMonth() + 1 + "/2/" + today.getFullYear(), today.getMonth() + 1 + "/5/" + today.getFullYear() ],
-  type: "geopath",
-  everyYear: !0
-}, {
-  id: "y2u7UaF",
-  name: "geoclub event 1",
-  description: "test test test",
-  date: today.getMonth() + 1 + "/23/" + today.getFullYear(),
-  type: "geoclub"
-}, {
-  id: "dsu7HUc",
-  name: "aapg event 1",
-  description: "test test test ",
-  date: today.getMonth() + 1 + "/27/" + today.getFullYear(),
-  type: "aapg"
-}, {
-  id: "dsu7HUc",
-  name: "AWG event 1",
-  description: "test test",
-  date: today.getMonth() + 1 + "/27/" + today.getFullYear(),
-  type: "awg"
-} ];
+var events = [
+  // {
+  // id: "imwyx6S",
+  // name: "GGSA Event 1",
+  // description: "Add some description.",
+  // date: today.getMonth() + 1 + "/18/" + today.getFullYear(),
+  // type: "ggsa"}
+ ];
 
 var active_events = [];
 
@@ -96,19 +66,19 @@ $(document).ready(function() {
           date: today,
           type: "aapg"
       }, {
-          id: "in8bha4",
+          id: "in8bha5",
           name: "Test AWG Event 1:00 pm",
           date: today,
           type: "awg"
       }, {
-          id: "in8bha4",
+          id: "in8bha6",
           name: "Test GeoClub Event",
           description: "geoclub 2:30 pm",
           date: "September/2/2021",
           type: "geoclub"
       }
       , {
-          id: "in8bha4",
+          id: "in8bha7",
           name: "Test Department Event",
           description: "geoclub",
           date: "September/13/2021",
