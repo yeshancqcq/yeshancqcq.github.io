@@ -45,40 +45,38 @@ $(document).ready(function() {
       format: "MM dd, yyyy",
       titleFormat: "MM",
       calendarEvents: [{
-          id: "d8jai7s",
+          id: "1",
           name: "Test GGSA Event",
           description: "Test Test",
           date: "September/15/2021",
           type: "ggsa",
-          everyYear: !0
       }, {
-          id: "sKn89hi",
+          id: "2",
           name: "Test GeoPath Event",
           description: "Test Test.",
           badge: "2-day event",
           date:"September/15/2021",
           type: "geopath",
-          everyYear: !0
       }, {
-          id: "in8bha4",
+          id: "3",
           name: "Test AAPG Event",
           description: "aapg 10:20 am",
-          date: today,
+          date: "September/20/2021",
           type: "aapg"
       }, {
-          id: "in8bha5",
+          id: "4",
           name: "Test AWG Event 1:00 pm",
-          date: today,
+          date: "September/15/2021",
           type: "awg"
       }, {
-          id: "in8bha6",
+          id: "5",
           name: "Test GeoClub Event",
           description: "geoclub 2:30 pm",
           date: "September/2/2021",
           type: "geoclub"
       }
       , {
-          id: "in8bha7",
+          id: "6",
           name: "Test Department Event",
           description: "geoclub",
           date: "September/13/2021",
