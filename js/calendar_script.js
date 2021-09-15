@@ -92,18 +92,18 @@ $(document).ready(function() {
       }, {
           id: "in8bha4",
           name: "Test AAPG Event",
-          description: "aapg",
+          description: "aapg 10:20 am",
           date: today,
           type: "aapg"
       }, {
           id: "in8bha4",
-          name: "Test AWG Event",
+          name: "Test AWG Event 1:00 pm",
           date: today,
           type: "awg"
       }, {
           id: "in8bha4",
           name: "Test GeoClub Event",
-          description: "geoclub",
+          description: "geoclub 2:30 pm",
           date: "September/2/2021",
           type: "geoclub"
       }

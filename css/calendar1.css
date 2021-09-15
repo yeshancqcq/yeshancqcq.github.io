@@ -299,7 +299,7 @@ tr.calendar-body .calendar-day .day[disabled] {
 .event-list > .event-empty {
     padding: 15px 10px;
     background-color: #f7f7f7;
-    border: 1px solid #9b0000;
+    border: 1px solid #f7f7f7;
 }
 .event-list > .event-empty > p {
     margin: 0;
@@ -434,7 +434,7 @@ tr.calendar-body .calendar-day .day[disabled] {
 }
 .event-container > .event-icon > div.event-bullet-aapg,
 .event-indicator > .type-bullet > div.type-aapg {
-    background-color: #e3b54b;
+    background-color: #c98d00;
 }
 .event-container > .event-icon > div.event-bullet-geoclub,
 .event-indicator > .type-bullet > div.type-geoclub {
